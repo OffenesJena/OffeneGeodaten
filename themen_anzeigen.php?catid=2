@@ -1,0 +1,12 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("bahnhof", '<img id="bahnhof_2" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'bahnhof.gif"> Bahnh&ouml;fe (alle)');
+                            top.addMarker(4471493.375, 5638768.587, top.bahnhof, 'bahnhof', 'Bahnhof', "Göschwitz (Saale)", true, true, '', '<div id=\"popupInfo_12\" class=\"popupInfo\"> <a href="http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?ld=212.92&rt=1&input=G%F6schwitz(Saale)" target="_blank" title="Fahrplan anzeigen">Fahrplan anzeigen</a></div>', false, false);
+top.addMarker(4471131.609, 5643386.624, top.bahnhof, 'bahnhof', 'Bahnhof', "Jena Paradies", true, true, '', '<div id=\"popupInfo_13\" class=\"popupInfo\"> <a href="http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?ld=212.92&rt=1&input=Jena%20Paradies" target="_blank" title="Fahrplan anzeigen">Fahrplan anzeigen</a></div>', false, false);
+top.addMarker(4471472, 5644709, top.bahnhof, 'bahnhof', 'Bahnhof', "Jena Saalbahnhof", true, true, '', '<div id=\"popupInfo_14\" class=\"popupInfo\"> <a href="http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?ld=212.92&rt=1&input=Jena%20Saalbahnhof" target="_blank" title="Fahrplan anzeigen">Fahrplan anzeigen</a></div>', false, false);
+top.addMarker(4470448.681, 5643179.264, top.bahnhof, 'bahnhof', 'Bahnhof', "Jena West", true, true, '', '<div id=\"popupInfo_15\" class=\"popupInfo\"> <a href="http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?ld=212.92&rt=1&input=Jena%20West" target="_blank" title="Fahrplan anzeigen">Fahrplan anzeigen</a></div>', false, false);
+top.addMarker(4473479.08331055, 5646778.62008788, top.bahnhof, 'bahnhof', 'Bahnhof', "Jena-Zwätzen", true, true, '', '<div id=\"popupInfo_246\" class=\"popupInfo\"> <a href="http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?ld=212.92&rt=1&input=Jena-Zw%E4tzen" target="_blank" title="Fahrplan anzeigen">Fahrplan anzeigen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

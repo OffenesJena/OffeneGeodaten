@@ -1,0 +1,13 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("park", '<img id="park_7" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'park.gif"> Parks und G&auml;rten (alle)');
+                            top.addMarker(4470913.522, 5643966.229, top.park, 'park', 'Park/Garten', "Botanischer Garten", true, true, '', '<div id=\"popupInfo_707\" class=\"popupInfo\"> <a href="http://www2.uni-jena.de/biologie/spezbot/botgar/karte.html" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4471036.185, 5644192.114, top.park, 'park', 'Park/Garten', "Griesbachgarten (Prinzessinnengarten)", true, true, '', '</div>', false, false);
+top.addMarker(4470777, 5643432, top.park, 'park', 'Park/Garten', "Schillergarten", true, true, '', '<div id=\"popupInfo_709\" class=\"popupInfo\"> <a href="http://www.uni-jena.de/Gartenhaus.html" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4474030, 5639170, top.park, 'park', 'Park/Garten', "Drackendorfer Goethe-Park und Pavillon", true, true, '', '<div id=\"popupInfo_710\" class=\"popupInfo\"> <a href="http://www.drackendorf.de/Aktuelles.htm" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=55265&_nav_id1=2591&_lang=de&_font_size=90,10" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4471040, 5643010, top.park, 'park', 'Park/Garten', "Oberaue / Paradies", true, true, '', '</div>', false, false);
+top.addMarker(4470740, 5644110, top.park, 'park', 'Park/Garten', "Johannisfriedhof", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

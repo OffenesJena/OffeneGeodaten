@@ -1,0 +1,42 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("kunst", '<img id="marker_default_19" style="position: relative; width: 10px; height: 17px;" src="http://map.jena.de/stadtplan/img/marker/' + 'marker_default.gif"> Kunst im &ouml;ffentlichen Raum (alle)');
+                            top.addMarker(4472946.6555, 5639076.4296944, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Affe/Mantelpavian und Koala", true, true, '', '</div>', false, false);
+top.addMarker(4472354.42, 5638838.039, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Giebelwandgestaltung", true, true, '', '</div>', false, false);
+top.addMarker(4471096.29348608, 5643712.27616122, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Denkmalplastik zum 17.07.1953 - Tag des Volksaufstandes in der ehem. DDR", true, true, '', '</div>', false, false);
+top.addMarker(4470409.01745174, 5640485.95645022, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Flößerbrunnen", true, true, '', '<div id=\"popupInfo_10072\" class=\"popupInfo\"> <a href="http://www.winzerla.jena.de/index.html" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470012.92931051, 5640316.9610562, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Brunnenplastik Sibylle mit Katze", true, true, '', '<div id=\"popupInfo_10073\" class=\"popupInfo\"> <a href="http://www.winzerla.jena.de/" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4471081.51519996, 5643831.56598398, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Tanzende Mädchen", true, true, '', '</div>', false, false);
+top.addMarker(4471012.39639461, 5643839.86088569, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Tiere Tore", true, true, '', '</div>', false, false);
+top.addMarker(4470929.84201137, 5643749.65224845, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "2 Gitterköpfe Mann und Frau", true, true, '', '</div>', false, false);
+top.addMarker(4470983.51475603, 5643845.22196238, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Gitter", true, true, '', '</div>', false, false);
+top.addMarker(4470831.91714236, 5643854.2707161, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Ergo bibamus", true, true, '', '</div>', false, false);
+top.addMarker(4472172.16776817, 5638432.54179307, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "4 Großspielfiguren/Tiere, 1 kleinerer Stier solitär", true, true, '', '</div>', false, false);
+top.addMarker(4472104.26764317, 5638461.38747555, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Eselreiter", true, true, '', '</div>', false, false);
+top.addMarker(4472206.88903925, 5638774.87211211, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Paar Schwimmer", true, true, '', '</div>', false, false);
+top.addMarker(4472600.23438418, 5638973.32889396, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Sportlerin", true, true, '', '</div>', false, false);
+top.addMarker(4472600.75353415, 5638976.11403782, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Windspiel", true, true, '', '</div>', false, false);
+top.addMarker(4472602.03339815, 5638980.4190349, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Schreitender (Stehender männlicher Akt)", true, true, '', '</div>', false, false);
+top.addMarker(4472597.14664471, 5638963.78080295, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Große Sitzende", true, true, '', '</div>', false, false);
+top.addMarker(4472599.24096761, 5638968.66755639, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Stehender Mädchenakt", true, true, '', '</div>', false, false);
+top.addMarker(4471049.23127011, 5643415.93059975, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Kleine Sitzende - Büro E. Halm", true, true, '', '</div>', false, false);
+top.addMarker(4472156.56309659, 5638566.84796248, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Stelengruppe In memoriam Salvador Allende 1913 - 1973", true, true, '', '</div>', false, false);
+top.addMarker(4472361.68257616, 5638649.84190584, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Marktsäule", true, true, '', '</div>', false, false);
+top.addMarker(4472679.46607673, 5638975.85281095, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Wasserplastik", true, true, '', '</div>', false, false);
+top.addMarker(4472211.78876538, 5638543.02210991, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Expostuhl", true, true, '', '</div>', false, false);
+top.addMarker(4473363.77226512, 5638676.7173615, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "2 Boxer sich balgend", true, true, '', '</div>', false, false);
+top.addMarker(4473710.1950737, 5638470.02661384, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Keramikgestaltung Märchenbaum und Speisekarte", true, true, '', '</div>', false, false);
+top.addMarker(4473066.40477672, 5638861.94951547, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Wildsau", true, true, '', '</div>', false, false);
+top.addMarker(4473101.64556561, 5638880.35972202, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Nashorn", true, true, '', '</div>', false, false);
+top.addMarker(4473577.61033714, 5638596.20169265, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "3 Kraniche", true, true, '', '</div>', false, false);
+top.addMarker(4473766.84944453, 5638486.28071948, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Sich wälzendes Pferd", true, true, '', '</div>', false, false);
+top.addMarker(4473851.86518766, 5638739.57131021, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Leda mit dem Schwan", true, true, '', '</div>', false, false);
+top.addMarker(4473849.0034714, 5638709.52328949, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Plastik Behütetes Leben", true, true, '', '</div>', false, false);
+top.addMarker(4473011.24666996, 5638990.11458986, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Baumstele", true, true, '', '</div>', false, false);
+top.addMarker(4472609.81358516, 5639186.52071537, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Sonnenuhr", true, true, '', '</div>', false, false);
+top.addMarker(4473263.33839951, 5639104.13698119, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Trinkende", true, true, '', '</div>', false, false);
+top.addMarker(4473148.47646244, 5638542.5017165, top.marker_default, 'kunst', 'Kunst im öffentlichen Raum', "Plastik Neruda-Aufenthalt auf Erden", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

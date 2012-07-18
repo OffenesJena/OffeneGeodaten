@@ -1,0 +1,40 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("fahrradabstellanlage", '<img id="p_fahrrad_35" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'p_fahrrad.gif"> Fahrradabstellanlagen (alle)');
+                            top.addMarker(4471050, 5643360, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Paradiesbahnhof", true, true, '', '</div>', false, false);
+top.addMarker(4471090, 5643360, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Paradiesbahnhof", true, true, '', '</div>', false, false);
+top.addMarker(4471030, 5643580, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Kronengasse", true, true, '', '</div>', false, false);
+top.addMarker(4471020, 5643470, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Volkshochschule", true, true, '', '</div>', false, false);
+top.addMarker(4471290, 5643650, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Bürgerhaus", true, true, '', '</div>', false, false);
+top.addMarker(4471050, 5643400, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Volksbad", true, true, '', '</div>', false, false);
+top.addMarker(4471020, 5643680, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Fußgängerzone", true, true, '', '</div>', false, false);
+top.addMarker(4471040, 5643660, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Fußgängerzone", true, true, '', '</div>', false, false);
+top.addMarker(4471102.39351577, 5643693.87329668, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Markt", true, true, '', '</div>', false, false);
+top.addMarker(4471250, 5643860, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Universität", true, true, '', '</div>', false, false);
+top.addMarker(4470920, 5643630, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Teichgraben", true, true, '', '</div>', false, false);
+top.addMarker(4471150, 5643580, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Teutonengasse", true, true, '', '</div>', false, false);
+top.addMarker(4470460, 5643150, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Bahnhof Jena-West", true, true, '', '</div>', false, false);
+top.addMarker(4470430, 5643150, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Bahnhof Jena-West", true, true, '', '</div>', false, false);
+top.addMarker(4470640, 5643710, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Goethe Galerie", true, true, '', '</div>', false, false);
+top.addMarker(4470730, 5643760, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Ernst-Abbe-Platz", true, true, '', '</div>', false, false);
+top.addMarker(4470810, 5643690, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Goethe Galerie", true, true, '', '</div>', false, false);
+top.addMarker(4470790, 5643830, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Krautgasse", true, true, '', '</div>', false, false);
+top.addMarker(4470840, 5643810, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Neue Mitte", true, true, '', '</div>', false, false);
+top.addMarker(4470850, 5643760, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Neue Mitte", true, true, '', '</div>', false, false);
+top.addMarker(4470940, 5643760, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Neue Mitte", true, true, '', '</div>', false, false);
+top.addMarker(4470940, 5643770, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Neue Mitte", true, true, '', '</div>', false, false);
+top.addMarker(4470950, 5643810, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Neue Mitte", true, true, '', '</div>', false, false);
+top.addMarker(4470990, 5643840, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Johannisstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471040, 5643850, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Johannisstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471100, 5644030, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Bibliotheksplatz", true, true, '', '</div>', false, false);
+top.addMarker(4471160, 5643970, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Bibliothek", true, true, '', '</div>', false, false);
+top.addMarker(4471230, 5643950, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Zwätzengasse", true, true, '', '</div>', false, false);
+top.addMarker(4471250, 5643930, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Universität", true, true, '', '</div>', false, false);
+top.addMarker(4471080, 5643520, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Grietgasse", true, true, '', '</div>', false, false);
+top.addMarker(4471080, 5643570, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "An der Alten Post", true, true, '', '</div>', false, false);
+top.addMarker(4470990, 5643600, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Holzmarkt", true, true, '', '</div>', false, false);
+top.addMarker(4470970, 5643900, top.p_fahrrad, 'fahrradabstellanlage', 'Fahrradabstellanlage', "Café Immergrün", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

@@ -1,0 +1,8 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("toilette", '<img id="toilette_17" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'toilette.gif"> &Ouml;ffentliche Toiletten (alle)');
+                            top.addMarker(4471140, 5643700, top.toilette, 'toilette', 'Öffentliche Toilette', "Markttoilette", true, true, 'http://www.jena.de/fm/1396/Toilette.jpg', '<div id=\"popupInfo_684\" class=\"popupInfo\"> <a href="http://www.ksj.jena.de/sixcms/detail.php?id=84444&_nav_id1=84352&_nav_id2=96337&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

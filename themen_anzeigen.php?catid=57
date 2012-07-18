@@ -1,0 +1,24 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("tagungsstaette", '<img id="tagung_57" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'tagung.gif"> Tagungsst&auml;tten (alle)');
+                            top.addMarker(4470894.672, 5639678.107, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Hotel und Restaurant zur Weintraube", true, true, '', '</div>', false, false);
+top.addMarker(4471990.904, 5638384.158, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Maxx Hotel Jena", true, true, '', '</div>', false, false);
+top.addMarker(4470631.628, 5643671.05, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Steigenberger Esplanade Jena", true, true, '', '</div>', false, false);
+top.addMarker(4471197.646, 5642211.924, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Thüringer Sozialakademie", true, true, '', '</div>', false, false);
+top.addMarker(4470594.907, 5643612.455, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Volkshaus Jena", true, true, 'http://www.jena.de/sixcms/media.php/1382/thumbnails/Volkshaus.jpg.81648.jpg', '<br><iframe class="popup_sixcms" src="http://www.jena.de/sixcms/detail.php?id=114358&template=tagungsort_stplan"></iframe> <br></div>', false, false);
+top.addMarker(4471020.449, 5643394.78, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Volksbad Jena", true, true, '', '</div>', false, false);
+top.addMarker(4472884, 5638595, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Stadtteilzentrum LISA", true, true, '', '</div>', false, false);
+top.addMarker(4470557.597, 5642763.139, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Villa Rosenthal", true, true, '', '</div>', false, false);
+top.addMarker(4471082.65, 5644136.981, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Zeiss-Planetarium Jena", true, true, '', '</div>', false, false);
+top.addMarker(4470858.013, 5639426.332, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Best Western Hotel Jena****", true, true, '', '</div>', false, false);
+top.addMarker(4470888.282, 5643810.054, top.tagung, 'tagungsstaette', 'Tagungsstätte', "SCALA - Das Turm Restaurant -", true, true, '', '</div>', false, false);
+top.addMarker(4470563.943, 5644673.799, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Landgrafen Jena", true, true, '', '</div>', false, false);
+top.addMarker(4475460, 5648540, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Altes Schloss Dornburg", true, true, '', '</div>', false, false);
+top.addMarker(4475533.689, 5639140.815, top.tagung, 'tagungsstaette', 'Tagungsstätte', "FAIR RESORT & SPA", true, true, '', '</div>', false, false);
+top.addMarker(4471306.438, 5643958.96, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Hotel Schwarzer Bär", true, true, '', '</div>', false, false);
+top.addMarker(4471174.013, 5638974.911, top.tagung, 'tagungsstaette', 'Tagungsstätte', "Hotel JEMBO PARK", true, true, '', '</div>', false, false);
+top.addMarker(4470912.057, 5643619.387, top.tagung, 'tagungsstaette', 'Tagungsstätte', "IBIS Hotel City am Holzmarkt", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

@@ -1,0 +1,8 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("touristinformation", '<img id="touristinformation_8" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'touristinformation.gif"> Tourist-Information (alle)');
+                            top.addMarker(4471170.584, 5643713.361, top.touristinformation, 'touristinformation', 'Tourist-Information', "Jena Tourist-Information", true, true, 'http://www.jena.de/fm/43/thumbnails/ti_fassade.jpg.52769.jpg', '<div id=\"popupInfo_756\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=104474&_nav_id1=107883&_nav_id2=107885&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

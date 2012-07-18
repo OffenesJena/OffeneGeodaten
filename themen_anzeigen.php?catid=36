@@ -1,0 +1,53 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("rollstuhlfahrerparkplatz", '<img id="p_rollstuhl_36" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'p_rollstuhl.gif"> Rollstuhlfahrerparkpl&auml;tze (alle)');
+                            top.addMarker(4472240, 5638700, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Karl-Marx-Allee (1)", true, true, '', '</div>', false, false);
+top.addMarker(4472510, 5639000, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Theobald-Renner-Straße (2)", true, true, '', '</div>', false, false);
+top.addMarker(4472500, 5639210, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Theobald-Renner-Straße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4473300, 5638780, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Erlanger-Allee (2)", true, true, '', '</div>', false, false);
+top.addMarker(4473330, 5638600, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Salvador-Allende-Platz (2)", true, true, '', '</div>', false, false);
+top.addMarker(4473350, 5638970, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Universitätklinik (4)", true, true, '', '</div>', false, false);
+top.addMarker(4470760, 5640390, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "GalaxSea Freizeitbad (4)", true, true, '', '</div>', false, false);
+top.addMarker(4470109, 5640410, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "WIN Center (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470000, 5640668, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Friedrich-Zucker-Straße (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470015, 5640870, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Columbus Center (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471390, 5643900, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Lutherplatz (5)", true, true, '', '</div>', false, false);
+top.addMarker(4471100, 5644010, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Bibliotheksplatz (3)", true, true, '', '</div>', false, false);
+top.addMarker(4470620, 5643640, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Carl-Zeiss-Platz (1)", true, true, '', '</div>', false, false);
+top.addMarker(4470810, 5643570, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ernst-Abbe-Straße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4470830, 5643560, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Engelplatz (4)", true, true, '', '</div>', false, false);
+top.addMarker(4470990, 5643370, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Knebelstraße (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471040, 5643440, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Am Volksbad (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471180, 5643390, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Paradiesbahnhof (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471140, 5643470, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Busbahnhof-Knebelstraße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4470840, 5643280, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Phyletisches Museum (1)", true, true, '', '</div>', false, false);
+top.addMarker(4470750, 5643460, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ernst-Haeckel-Platz (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470720, 5643450, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ärztehaus Westbahnhofstraße (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470480, 5643520, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Kinderklinik Forstweg (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470960, 5643750, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Eichplatz (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471070, 5643720, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Rathausgasse (4)", true, true, '', '</div>', false, false);
+top.addMarker(4470600, 5644020, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ärztehaus Wagnergasse (1)", true, true, '', '</div>', false, false);
+top.addMarker(4470790, 5643880, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Johannisplatz (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471060, 5643810, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Weigelstraße (4)", true, true, '', '</div>', false, false);
+top.addMarker(4471080, 5643810, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Kirchplatz (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471180, 5643870, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Schlossgasse (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471220, 5643870, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Schlossgasse (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471230, 5643510, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Paradiesstraße (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470480, 5643170, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ärztehaus West-Bahnhof (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471370, 5644030, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Am Anger 15 (1)", true, true, '', '</div>', false, false);
+top.addMarker(4471440, 5644890, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Am Anger 26 (1)", true, true, '', '</div>', false, false);
+top.addMarker(4471370, 5644340, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Am Anger 34 (1)", true, true, '', '</div>', false, false);
+top.addMarker(4471170, 5644180, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Käthe-Kollwitz-Straße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4471460, 5644730, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Saalbahnhof (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471630, 5645370, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Hölleinplatz (2)", true, true, '', '</div>', false, false);
+top.addMarker(4471380, 5644590, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ärztehaus Nollendorfer Straße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4471160, 5644610, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Ärztehaus Nollendorfer Straße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4469780, 5642740, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Fachhochschule Lichtenhainer Oberweg (1)", true, true, '', '</div>', false, false);
+top.addMarker(4469920, 5642740, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Fachhochschule Max v. Rohr-Straße (2)", true, true, '', '</div>', false, false);
+top.addMarker(4469860, 5642960, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Tatzendprommenade (2)", true, true, '', '</div>', false, false);
+top.addMarker(4470040, 5643000, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Carl-Pulfrich-Straße (1)", true, true, '', '</div>', false, false);
+top.addMarker(4472200, 5638730, top.p_rollstuhl, 'rollstuhlfahrerparkplatz', 'Rollstuhlfahrerparkplatz (Anzahl Stellplätze)', "Schwimmhalle (4)", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

@@ -1,0 +1,57 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("naturdenkmal", '<img id="naturdenkmal_43" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'naturdenkmal.gif"> Naturdenkmale (alle)');
+                            top.addMarker(4469185.769, 5645880.817, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Feldulme", true, true, '', '</div>', false, false);
+top.addMarker(4470003.019, 5647265.727, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Eibe", true, true, '', '</div>', false, false);
+top.addMarker(4471590.6, 5648761.65, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Traubeneiche", true, true, '', '</div>', false, false);
+top.addMarker(4476281.08364594, 5645562.74297044, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Stieleiche", true, true, '', '</div>', false, false);
+top.addMarker(4474015.21, 5640553.195, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Sommerlinde", true, true, '', '</div>', false, false);
+top.addMarker(4470848.2, 5643352.4, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Rotbuche", true, true, '', '</div>', false, false);
+top.addMarker(4471289.3, 5643916.4, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Platane", true, true, '', '</div>', false, false);
+top.addMarker(4471301.2, 5643747.1, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Platane", true, true, '', '</div>', false, false);
+top.addMarker(4470892.8, 5643124.8, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Silberweide", true, true, '', '</div>', false, false);
+top.addMarker(4469873.8, 5644340, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Traubeneiche", true, true, '', '</div>', false, false);
+top.addMarker(4470862.6, 5644436.4, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Baumhasel", true, true, '', '</div>', false, false);
+top.addMarker(4471361.23311318, 5644175.7, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Stieleiche", true, true, '', '</div>', false, false);
+top.addMarker(4471251.49, 5644028.215, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Roßkastanie", true, true, '', '</div>', false, false);
+top.addMarker(4471184.9, 5643952.7, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Bergahorn", true, true, '', '</div>', false, false);
+top.addMarker(4473143.3, 5646379.3, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Sommerlinde", true, true, '', '</div>', false, false);
+top.addMarker(4470723.454, 5643451.642, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Pyramideneiche", true, true, '', '</div>', false, false);
+top.addMarker(4473970.1, 5643072.5, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "9 Speierlinge", true, true, '', '</div>', false, false);
+top.addMarker(4472931.5, 5647102.8, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Sommerlinde", true, true, '', '</div>', false, false);
+top.addMarker(4470070.5, 5643942.3, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Platane", true, true, '', '</div>', false, false);
+top.addMarker(4468955.618, 5644005.616, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Winterlinde", true, true, '', '</div>', false, false);
+top.addMarker(4468575.64852654, 5642946.34106324, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "7 Hainbuchen", true, true, '', '</div>', false, false);
+top.addMarker(4471033.85, 5641834.134, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "5 Schwarzpappeln", true, true, '', '</div>', false, false);
+top.addMarker(4471164.9, 5641309.2, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "5 Schwarzpappeln", true, true, '', '</div>', false, false);
+top.addMarker(4471292.428, 5641129.333, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "5 Schwarzpappeln", true, true, '', '</div>', false, false);
+top.addMarker(4470810.1, 5644612.6, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Rotbuche", true, true, '', '</div>', false, false);
+top.addMarker(4471118.858, 5644070.161, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Kaukasische Flügelnuss", true, true, '', '</div>', false, false);
+top.addMarker(4470661.14777768, 5643191.56884466, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Japanischer Schnurbaum", true, true, '', '</div>', false, false);
+top.addMarker(4470753.522, 5643196.166, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Bismarck-Eiche", true, true, '', '</div>', false, false);
+top.addMarker(4470738.702, 5643122.164, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "8 Blutbuchen", true, true, '', '</div>', false, false);
+top.addMarker(4470921.26585277, 5644530.21552657, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Eibe", true, true, '', '</div>', false, false);
+top.addMarker(4470866.916, 5644309.993, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Baumhasel", true, true, '', '</div>', false, false);
+top.addMarker(4468458.38560932, 5643006.12422364, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Elsbeere", true, true, '', '</div>', false, false);
+top.addMarker(4467990.94531265, 5643125.95734347, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Brätzel-Linde", true, true, '', '</div>', false, false);
+top.addMarker(4468923.101, 5644050.182, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Kandelaber Lärche", true, true, '', '</div>', false, false);
+top.addMarker(4475767.962, 5644302.274, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "gND Aufschluss Wogau", true, true, '', '</div>', false, false);
+top.addMarker(4473098.576, 5643337.205, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "gND Ulmer Ruh", true, true, '', '</div>', false, false);
+top.addMarker(4472141.204, 5643630.862, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "gND Gipsschlotten", true, true, '', '</div>', false, false);
+top.addMarker(4470976.435, 5638020.182, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "gND Mergelgrube", true, true, '', '</div>', false, false);
+top.addMarker(4471420.75114144, 5645197.60850428, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Hupheh-Stinkesche", true, true, '', '</div>', false, false);
+top.addMarker(4471203.824, 5643921.701, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Japanischer Schnurbaum", true, true, '', '</div>', false, false);
+top.addMarker(4470190.854, 5643115.782, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Roßkastanie", true, true, '', '</div>', false, false);
+top.addMarker(4468620.17697686, 5643340.61457572, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "zweistämmige Rotbuche", true, true, '', '</div>', false, false);
+top.addMarker(4470720.415, 5647282.205, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Stieleiche", true, true, '', '</div>', false, false);
+top.addMarker(4468535.817, 5646085.032, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Stieleiche", true, true, '', '</div>', false, false);
+top.addMarker(4476126.254, 5638505.742, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Elsbeere", true, true, '', '</div>', false, false);
+top.addMarker(4467488.992, 5648799.39, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Sommerlinde", true, true, '', '</div>', false, false);
+top.addMarker(4468885, 5643782, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Sommerlinde", true, true, '', '</div>', false, false);
+top.addMarker(4469043, 5644783, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Sommerlinde", true, true, '', '</div>', false, false);
+top.addMarker(4471096.7, 5644276.9, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Ginkgo", true, true, '', '</div>', false, false);
+top.addMarker(4471367, 5644326.8, top.naturdenkmal, 'naturdenkmal', 'Naturdenkmal', "Gemeine Esche", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

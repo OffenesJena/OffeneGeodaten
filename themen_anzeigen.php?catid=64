@@ -1,0 +1,9 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        alert('Im Umkreis von -1 m um ' + top.nameCenterPoint + ' gibt es keine Tagung AKN!');
+                            var expression = new RegExp;
+                            expression = /cat64$/;
+                            top.manageTreeChks(expression, false);
+        //-->
+        </SCRIPT>

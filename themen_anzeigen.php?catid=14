@@ -1,0 +1,8 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("campingplatz", '<img id="camping_14" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'camping.gif"> Campingpl&auml;tze (alle)');
+                            top.addMarker(4472572.042, 5644647.969, top.camping, 'campingplatz', 'Campingplatz', "Campingplatz Unter dem Jenzig", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

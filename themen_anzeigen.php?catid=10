@@ -1,0 +1,10 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("busparkplatz", '<img id="p_bus_10" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'p_bus.gif"> Busparkpl&auml;tze (alle)');
+                            top.addMarker(4471390, 5643900, top.p_bus, 'busparkplatz', 'Busparkplatz', "Lutherplatz", true, true, '', '</div>', false, false);
+top.addMarker(4471180.84019356, 5642198.03770699, top.p_bus, 'busparkplatz', 'Busparkplatz', "Am Stadion", true, true, '', '</div>', false, false);
+top.addMarker(4471191.12053646, 5644074.25343957, top.p_bus, 'busparkplatz', 'Busparkplatz', "Bibliotheksweg", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

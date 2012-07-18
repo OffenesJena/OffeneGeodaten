@@ -1,0 +1,21 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("jugendzentrum", '<img id="jugendzentrum_27" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'jugendzentrum.gif"> Jugendzentren (alle)');
+                            top.addMarker(4474322.919, 5638258.663, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Jugendzentrum Treffpunkt", true, true, '', '<div id=\"popupInfo_666\" class=\"popupInfo\"> <a href="http://www.treffpunkt-jena.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4472015.029, 5638572.718, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Kinder- und Jugendzentrum Klex", true, true, '', '<div id=\"popupInfo_667\" class=\"popupInfo\"> <a href="http://www.klex.jena.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4473796.314, 5638782.441, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Mädchenprojekt e.V.", true, true, '', '<div id=\"popupInfo_668\" class=\"popupInfo\"> <a href="http://www.maedchenprojekt-jena.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4469995.99485694, 5640394.38427986, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Freizeitladen Winzerla", true, true, '', '<div id=\"popupInfo_669\" class=\"popupInfo\"> <a href="http://www.freizeitladen.com" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470668.974, 5640080.916, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Jugendzentrum Hugo", true, true, '', '<div id=\"popupInfo_670\" class=\"popupInfo\"> <a href="http://www.jugendclub-hugo.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470216.525, 5640420.788, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Kinderbüro Winzerla", true, true, '', '<div id=\"popupInfo_671\" class=\"popupInfo\"> <a href="http://www.kinderbuero-jena.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470197.154, 5640413.632, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Midnight Fun e.V.", true, true, '', '<div id=\"popupInfo_672\" class=\"popupInfo\"> <a href="http://www.midnight-fun.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4472385.198, 5644451.288, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Jugendzentrum Eastside", true, true, '', '<div id=\"popupInfo_673\" class=\"popupInfo\"> <a href="http://www.eastside-jena.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470921.39, 5643863.041, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Junge Gemeinde Stadtmitte", true, true, '', '<div id=\"popupInfo_674\" class=\"popupInfo\"> <a href="http://www.jg-stadtmitte.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4472288.664, 5646143.734, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Kinderoase", true, true, '', '<div id=\"popupInfo_675\" class=\"popupInfo\"> <a href="http://www.eda.jetzweb.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4471919.64, 5645830.194, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "NordKap (Stadtteilladen Nord)", true, true, '', '<div id=\"popupInfo_676\" class=\"popupInfo\"> <a href="http://www.streetworkjena-nord.jetzweb.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4474322.919, 5638258.663, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Streetwork Lobeda", true, true, '', '<div id=\"popupInfo_677\" class=\"popupInfo\"> <a href="http://www.streetworklobeda.jetzweb.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470668.974, 5640080.916, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Streetwork Winzerla", true, true, '', '<div id=\"popupInfo_678\" class=\"popupInfo\"> <a href="http://www.jugendclub-hugo.de/streetwork" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4471995, 5645585, top.jugendzentrum, 'jugendzentrum', 'Jugendzentrum', "Jugendbildungs- und Begegnungszentrum", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

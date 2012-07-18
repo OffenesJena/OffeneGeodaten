@@ -1,0 +1,11 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("sicherheit", '<img id="katastrophe_21" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'katastrophe.gif"> Sicherheit und Katastrophenschutz (alle)');
+                            top.addMarker(4471328.222, 5644132.068, top.katastrophe, 'sicherheit', 'Sicherheit/Katastrophenschutz', "Feuerwehr", true, true, '', '<div id=\"popupInfo_910\" class=\"popupInfo\"> <a href="http://www.feuerwehr-jena.de/" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=11173&_nav_id1=11217&_nav_id2=11327&_nav_id3=11173&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4471387.917, 5644242.109, top.katastrophe, 'sicherheit', 'Sicherheit/Katastrophenschutz', "Polizeidirektion Jena", true, true, '', '<div id=\"popupInfo_911\" class=\"popupInfo\"> <a href="http://www.thueringen.de/de/polizei/jena/" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4471357.352, 5644348.82, top.katastrophe, 'sicherheit', 'Sicherheit/Katastrophenschutz', "Ordnungsamt mit Fundbüro", true, true, 'http://www.jena.de/fm/44/thumbnails/Oamt%20klein.JPG.4524.JPG', '<div id=\"popupInfo_912\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=12132&_nav_id1=11217&_nav_id2=11327&_nav_id3=12132&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4471379.73622291, 5638527.96644112, top.katastrophe, 'sicherheit', 'Sicherheit/Katastrophenschutz', "Feuerwache Süd", true, true, '', '<div id=\"popupInfo_10019\" class=\"popupInfo\"> <a href="http://www.feuerwehr-jena.de/" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=11173&_nav_id1=11217&_nav_id2=11327&_nav_id3=11173&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

@@ -1,0 +1,9 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("buehne", '<img id="buehne_40" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'buehne.gif"> B&uuml;hnen (alle)');
+                            top.addMarker(4470809.829, 5643414.719, top.buehne, 'buehne', 'Bühne', "Theaterhaus Jena", true, true, '', '<div id=\"popupInfo_1070\" class=\"popupInfo\"> <a href="http://www.theaterhaus-jena.de/" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=5890&_nav_id1=5626&_nav_id2=5893&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4471203.848, 5643564.437, top.buehne, 'buehne', 'Bühne', "Kurz & Klein Kunstbühne", true, true, '', '<div id=\"popupInfo_1071\" class=\"popupInfo\"> <a href="http://www.kurz-und-kleinkunst.de/" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=5890&_nav_id1=5626&_nav_id2=5893&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

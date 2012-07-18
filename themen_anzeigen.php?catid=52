@@ -1,0 +1,21 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("denkmal", '<img id="denkmal_52" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'denkmal.gif"> Denkm&auml;ler (alle)');
+                            top.addMarker(4467330.583, 5645602.732, top.denkmal, 'denkmal', 'Denkmal', "Gedenkstein Karl August", true, true, '', '</div>', false, false);
+top.addMarker(4471160, 5645040, top.denkmal, 'denkmal', 'Denkmal', "Grabstätte Gotthard Friedrich Julius Prüssing", true, true, '', '</div>', false, false);
+top.addMarker(4474030, 5639170, top.denkmal, 'denkmal', 'Denkmal', "Drackendorfer Goethe-Park und Pavillon", true, true, '', '<div id=\"popupInfo_710\" class=\"popupInfo\"> <a href="http://www.drackendorf.de/Aktuelles.htm" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=55265&_nav_id1=2591&_lang=de&_font_size=90,10" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4470450, 5644730, top.denkmal, 'denkmal', 'Denkmal', "Blinkerdenkmal - Ehrenmal für die im I. Weltkrieg gefallenen dt. Blinker & Lommerdenkmal", true, true, 'http://www.jena.de/sixcms/media.php/781/thumbnails/Landgrafen_ansicht_klein.jpg.37617.jpg', '</div>', false, false);
+top.addMarker(4469980, 5645630, top.denkmal, 'denkmal', 'Denkmal', "Napoleonstein", true, true, '', '</div>', false, false);
+top.addMarker(4470030, 5643630, top.denkmal, 'denkmal', 'Denkmal', "Ehrenmal Friedensberg - Unsere Gefallenen 1914 - 1918", true, true, '', '</div>', false, false);
+top.addMarker(4473070, 5645200, top.denkmal, 'denkmal', 'Denkmal', "Erlkönig", true, true, '', '<div id=\"popupInfo_936\" class=\"popupInfo\"> <a href="http://www.sv-erlkoenig-jena.homepage.t-online.de/" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=20396" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4471070, 5643720, top.denkmal, 'denkmal', 'Denkmal', "Gedenkstein Bombardierung Jena", true, true, '', '</div>', false, false);
+top.addMarker(4471142.06364075, 5643739.35403589, top.denkmal, 'denkmal', 'Denkmal', "Hanfried (Johann Friedrich der Großmütige)", true, true, 'http://www.jena.de/fm/43/Hanfried.jpg', '<div id=\"popupInfo_10060\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=116264&_nav_id1=107883&_nav_id2=107886&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4470583.69371781, 5643712.78657473, top.denkmal, 'denkmal', 'Denkmal', "Ernst-Abbe-Denkmal", true, true, '', '<div id=\"popupInfo_10067\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=10104&_nav_id1=35162&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4471304.39420484, 5643925.80779357, top.denkmal, 'denkmal', 'Denkmal', "Burschenschaftsdenkmal - Der Deutschen Burschenschaft 1883", true, true, '', '</div>', false, false);
+top.addMarker(4471775.85075872, 5644014.61569919, top.denkmal, 'denkmal', 'Denkmal', "Schiller-Gedenkstein mit Bronzerelief", true, true, 'http://www.jena.de/fm/44/Wenigenjena%2C%20Schiller%20%281964%29.jpg', '</div>', false, false);
+top.addMarker(4471069.41187024, 5643786.5737688, top.denkmal, 'denkmal', 'Denkmal', "Gedenkstein Bombardierung Jena", true, true, '', '</div>', false, false);
+top.addMarker(4472700.35038647, 5647039.71865541, top.denkmal, 'denkmal', 'Denkmal', "Gedenkstein Sachsengrab (Denkmal für die Gefallenen der Schlacht bei Jena 1806)", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

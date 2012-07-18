@@ -1,0 +1,11 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("bad", '<img id="bad_28" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'bad.gif"> B&auml;der (alle)');
+                            top.addMarker(4472400, 5644780, top.bad, 'bad', 'Bad', "Ostbad", true, true, 'http://www.jena.de/fm/44/thumbnails/Ostbad1.jpg.32440.jpg', '<div id=\"popupInfo_499\" class=\"popupInfo\"> <a href="http://www.jenaer-baeder.de/index.php?id=84" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=71687&_nav_id1=35197&_nav_id2=35225&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4472192.286, 5638717.038, top.bad, 'bad', 'Bad', "Schwimmhalle Lobeda-West", true, true, '', '<div id=\"popupInfo_500\" class=\"popupInfo\"> <a href="http://www.jenaer-baeder.de/index.php?id=82" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=28445&_nav_id1=9888&_nav_id2=28415&_nav_id3=28493&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4470470, 5641990, top.bad, 'bad', 'Bad', "Südbad", true, true, '', '<div id=\"popupInfo_511\" class=\"popupInfo\"> <a href="http://www.jenaer-baeder.de/index.php?id=83" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=71684&_nav_id1=35197&_nav_id2=35225&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4470661, 5640404, top.bad, 'bad', 'Bad', "Freizeitbad GalaxSea", true, true, '', '<div id=\"popupInfo_524\" class=\"popupInfo\"> <a href="http://www.galaxsea-jena.de/index.php?id=5" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=71680&_nav_id1=35197&_nav_id2=35225&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

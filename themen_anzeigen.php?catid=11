@@ -1,0 +1,60 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("parkplatz", '<img id="p_platz_11" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'p_platz.gif"> Parkpl&auml;tze (alle)');
+                            top.addMarker(4471160, 5645040, top.p_platz, 'parkplatz', 'Parkplatz', "Nordfriedhof", true, true, '', '</div>', false, false);
+top.addMarker(4472510, 5639000, top.p_platz, 'parkplatz', 'Parkplatz', "Theobald-Renner-Straße", true, true, '', '</div>', false, false);
+top.addMarker(4471380, 5644590, top.p_platz, 'parkplatz', 'Parkplatz', "Nollendorfer Straße", true, true, '', '</div>', false, false);
+top.addMarker(4471372.95727192, 5644113.28756836, top.p_platz, 'parkplatz', 'Parkplatz', "Am Anger", true, true, '', '</div>', false, false);
+top.addMarker(4470643.83962265, 5644338.7503826, top.p_platz, 'parkplatz', 'Parkplatz', "Lessingstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471100.82607947, 5644132.07613621, top.p_platz, 'parkplatz', 'Parkplatz', "Planetarium", true, true, '', '</div>', false, false);
+top.addMarker(4470389.89091521, 5644146.62212423, top.p_platz, 'parkplatz', 'Parkplatz', "Stoystraße", true, true, '', '</div>', false, false);
+top.addMarker(4470426.86196809, 5644103.59024302, top.p_platz, 'parkplatz', 'Parkplatz', "August-Bebel-Straße", true, true, '', '</div>', false, false);
+top.addMarker(4470348.6772825, 5644015.10214926, top.p_platz, 'parkplatz', 'Parkplatz', "Lassallestraße", true, true, '', '</div>', false, false);
+top.addMarker(4470431.10454792, 5643956.9181972, top.p_platz, 'parkplatz', 'Parkplatz', "Semmelweisstraße", true, true, '', '</div>', false, false);
+top.addMarker(4470348.774, 5643903.189, top.p_platz, 'parkplatz', 'Parkplatz', "Ziegelmühlenweg", true, true, '', '</div>', false, false);
+top.addMarker(4470913.7275215, 5644561.9706188, top.p_platz, 'parkplatz', 'Parkplatz', "Philosophenweg", true, true, '', '</div>', false, false);
+top.addMarker(4471180.30692376, 5644230.88748471, top.p_platz, 'parkplatz', 'Parkplatz', "Sophienstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471355.38006109, 5644469.20624069, top.p_platz, 'parkplatz', 'Parkplatz', "Spitzweidenweg", true, true, '', '</div>', false, false);
+top.addMarker(4471349.7274613, 5643884.89714117, top.p_platz, 'parkplatz', 'Parkplatz', "Lutherplatz", true, true, '', '</div>', false, false);
+top.addMarker(4471546.048, 5643851.17, top.p_platz, 'parkplatz', 'Parkplatz', "Inselplatz", true, true, '', '</div>', false, false);
+top.addMarker(4471180.081, 5643865.145, top.p_platz, 'parkplatz', 'Parkplatz', "Schlossgasse", true, true, '', '</div>', false, false);
+top.addMarker(4470997.361, 5643744.14, top.p_platz, 'parkplatz', 'Parkplatz', "Eichplatz", true, true, '', '</div>', false, false);
+top.addMarker(4471067.52236896, 5643776.37812031, top.p_platz, 'parkplatz', 'Parkplatz', "Rathausparkplatz", true, true, '', '</div>', false, false);
+top.addMarker(4470847.34775916, 5643492.13062299, top.p_platz, 'parkplatz', 'Parkplatz', "Engelplatz", true, true, '', '</div>', false, false);
+top.addMarker(4470655.634, 5643898.977, top.p_platz, 'parkplatz', 'Parkplatz', "Bachstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471118.01, 5643344.005, top.p_platz, 'parkplatz', 'Parkplatz', "ICE-Bahnhof Jena-Paradies", true, true, '', '</div>', false, false);
+top.addMarker(4470852.48094683, 5643285.51452203, top.p_platz, 'parkplatz', 'Parkplatz', "Phyletisches Museum", true, true, '', '</div>', false, false);
+top.addMarker(4470743.75259767, 5643311.97313171, top.p_platz, 'parkplatz', 'Parkplatz', "Erbertstraße", true, true, '', '</div>', false, false);
+top.addMarker(4470741.68551879, 5643379.35990324, top.p_platz, 'parkplatz', 'Parkplatz', "Haeckelstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471103.42432303, 5643508.75904122, top.p_platz, 'parkplatz', 'Parkplatz', "Grietgasse", true, true, '', '</div>', false, false);
+top.addMarker(4471274.859, 5642930.124, top.p_platz, 'parkplatz', 'Parkplatz', "Seidelparkplatz", true, true, '', '</div>', false, false);
+top.addMarker(4470441.85, 5643115.44, top.p_platz, 'parkplatz', 'Parkplatz', "Westbahnhof", true, true, '', '</div>', false, false);
+top.addMarker(4473870.30715161, 5638153.25786892, top.p_platz, 'parkplatz', 'Parkplatz', "Lobe-Center", true, true, '', '</div>', false, false);
+top.addMarker(4471215.54047263, 5638200.84380035, top.p_platz, 'parkplatz', 'Parkplatz', "Alte Hauptstraße", true, true, '', '</div>', false, false);
+top.addMarker(4472358.9526075, 5638301.78109992, top.p_platz, 'parkplatz', 'Parkplatz', "Hans-Berger-Straße", true, true, '', '</div>', false, false);
+top.addMarker(4472552.7848583, 5638416.47198073, top.p_platz, 'parkplatz', 'Parkplatz', "Binswangerstraße", true, true, '', '</div>', false, false);
+top.addMarker(4473180.46608156, 5639685.07400577, top.p_platz, 'parkplatz', 'Parkplatz', "Lobdeburgweg", true, true, '', '</div>', false, false);
+top.addMarker(4473538.65764434, 5638903.85774755, top.p_platz, 'parkplatz', 'Parkplatz', "Am Klinikum", true, true, '', '</div>', false, false);
+top.addMarker(4474025.1360441, 5638980.18611651, top.p_platz, 'parkplatz', 'Parkplatz', "Drackendorf Center", true, true, '', '</div>', false, false);
+top.addMarker(4474136.71030349, 5639015.14418678, top.p_platz, 'parkplatz', 'Parkplatz', "Drackendorf Center", true, true, '', '</div>', false, false);
+top.addMarker(4472928.84643787, 5639191.96515097, top.p_platz, 'parkplatz', 'Parkplatz', "Platanenstraße", true, true, '', '</div>', false, false);
+top.addMarker(4473022.58287764, 5638670.4496861, top.p_platz, 'parkplatz', 'Parkplatz', "Emil-Wölk-Straße", true, true, '', '</div>', false, false);
+top.addMarker(4470896.99791089, 5639800.0756275, top.p_platz, 'parkplatz', 'Parkplatz', "Oßmaritzer Straße", true, true, '', '</div>', false, false);
+top.addMarker(4471732.8680137, 5640376.96853907, top.p_platz, 'parkplatz', 'Parkplatz', "Göschwitzer Straße", true, true, '', '</div>', false, false);
+top.addMarker(4471788.36104045, 5640426.02314835, top.p_platz, 'parkplatz', 'Parkplatz', "Göschwitzer Straße", true, true, '', '</div>', false, false);
+top.addMarker(4471581.41190753, 5640699.50259512, top.p_platz, 'parkplatz', 'Parkplatz', "Keßlerstraße (Burgaupark)", true, true, '', '</div>', false, false);
+top.addMarker(4474812.60870228, 5642251.13969803, top.p_platz, 'parkplatz', 'Parkplatz', "Am Steinkreuz", true, true, '', '</div>', false, false);
+top.addMarker(4471180.84019356, 5642198.03770699, top.p_platz, 'parkplatz', 'Parkplatz', "Am Stadion", true, true, '', '</div>', false, false);
+top.addMarker(4471126.66645155, 5642414.73267503, top.p_platz, 'parkplatz', 'Parkplatz', "Oberaue", true, true, '', '</div>', false, false);
+top.addMarker(4469963.20709844, 5642985.91443163, top.p_platz, 'parkplatz', 'Parkplatz', "Max-Grossmann-Straße", true, true, '', '</div>', false, false);
+top.addMarker(4471086.0960914, 5643475.72729781, top.p_platz, 'parkplatz', 'Parkplatz', "Am Volksbad", true, true, '', '</div>', false, false);
+top.addMarker(4468434.66099083, 5642710.86244928, top.p_platz, 'parkplatz', 'Parkplatz', "Otto-Schott-Platz", true, true, '', '</div>', false, false);
+top.addMarker(4471773.4925294, 5644479.81724542, top.p_platz, 'parkplatz', 'Parkplatz', "Am Gries", true, true, '', '</div>', false, false);
+top.addMarker(4472251.08392051, 5644563.61624876, top.p_platz, 'parkplatz', 'Parkplatz', "Jenzigweg", true, true, '', '</div>', false, false);
+top.addMarker(4471205.53041446, 5645283.5554626, top.p_platz, 'parkplatz', 'Parkplatz', "Am Nordfriedhof", true, true, '', '</div>', false, false);
+top.addMarker(4474712.69228233, 5646760.14995104, top.p_platz, 'parkplatz', 'Parkplatz', "Laasaner Straße", true, true, '', '</div>', false, false);
+top.addMarker(4465737.67711909, 5647091.69652458, top.p_platz, 'parkplatz', 'Parkplatz', "Globus Isserstadt", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

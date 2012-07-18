@@ -1,0 +1,17 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("parkhaus", '<img id="p_haus_12" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'p_haus.gif"> Parkh&auml;user (alle)');
+                            top.addMarker(4470137.77711108, 5640417.11717273, top.p_haus, 'parkhaus', 'Parkhaus', "Hermann-Pistor-Straße (Win-Center)", true, true, '', '</div>', false, false);
+top.addMarker(4470078.245, 5640833.059, top.p_haus, 'parkhaus', 'Parkhaus', "Friedrich-Zucker-Straße (Columbus-Center)", true, true, '', '</div>', false, false);
+top.addMarker(4472434, 5638811, top.p_haus, 'parkhaus', 'Parkhaus', "Karl-Marx-Allee (Kaufland)", true, true, '', '</div>', false, false);
+top.addMarker(4471539.598, 5644130.261, top.p_haus, 'parkhaus', 'Parkhaus', "Schillerpassage", true, true, '', '</div>', false, false);
+top.addMarker(4470960.314, 5643542.016, top.p_haus, 'parkhaus', 'Parkhaus', "Holzmarktpassage", true, true, '', '</div>', false, false);
+top.addMarker(4471250.93655123, 5643561.32646852, top.p_haus, 'parkhaus', 'Parkhaus', "Commerzbank", true, true, '', '</div>', false, false);
+top.addMarker(4470969.64739312, 5643681.05137334, top.p_haus, 'parkhaus', 'Parkhaus', "City-Carré (C&A)", true, true, '', '</div>', false, false);
+top.addMarker(4470692.59783443, 5643600.13999681, top.p_haus, 'parkhaus', 'Parkhaus', "Goethe Galerie", true, true, '', '</div>', false, false);
+top.addMarker(4470727.67851891, 5643800.51620596, top.p_haus, 'parkhaus', 'Parkhaus', "Krautgasse", true, true, '', '</div>', false, false);
+top.addMarker(4470874.87037494, 5643763.82631577, top.p_haus, 'parkhaus', 'Parkhaus', "Neue Mitte", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

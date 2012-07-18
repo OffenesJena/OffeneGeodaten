@@ -1,0 +1,10 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("sportanlage", '<img id="sportanlage_54" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'sportanlage.gif"> sonstige Sportanlage (alle)');
+                            top.addMarker(4470400.656, 5643802.761, top.sportanlage, 'sportanlage', 'sonstige Sportanlage', "Kegelhalle Jahnstraße", true, true, 'http://www.jena.de/fm/43/thumbnails/kegeljahn.jpg.6345.jpg', '<div id=\"popupInfo_587\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=18583&_nav_id1=9888&_nav_id2=20170&_nav_id3=20172&_lang=de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470550, 5642400, top.sportanlage, 'sportanlage', 'sonstige Sportanlage', "Kegelanlage Burgauer Weg", true, true, 'http://www.jena.de/fm/43/thumbnails/kegelburgau.jpg.6347.jpg', '<div id=\"popupInfo_588\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=18583&_nav_id1=9888&_nav_id2=20170&_nav_id3=20172&_lang=de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4473282.48, 5646088.645, top.sportanlage, 'sportanlage', 'sonstige Sportanlage', "Schießanlage Löbstedt", true, true, '', '<div id=\"popupInfo_589\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=16987&_nav_id1=9888&_nav_id2=20170&_nav_id3=20171&_lang=de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

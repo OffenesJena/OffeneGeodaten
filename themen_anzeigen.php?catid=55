@@ -1,0 +1,44 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("adresspunkte", '<img id="iconAdr_55" style="position: relative; width: 10px; height: 17px;" src="http://map.jena.de/stadtplan/img/marker/' + 'iconAdr.png">  (alle)');
+                            top.addMarker(4469209, 5642171, top.iconAdr, 'adresspunkte', 'Punkt', "OT Lichtenhain", true, true, '', '</div>', false, false);
+top.addMarker(4471837.825, 5645752.207, top.iconAdr, 'adresspunkte', 'Punkt', "OT Jena-Nord", true, true, '', '</div>', false, false);
+top.addMarker(4469640.134, 5637206.786, top.iconAdr, 'adresspunkte', 'Punkt', "OT Leutra", true, true, '', '</div>', false, false);
+top.addMarker(4475754.44581122, 5639171.33474829, top.iconAdr, 'adresspunkte', 'Punkt', "OT Ilmnitz", true, true, '', '</div>', false, false);
+top.addMarker(4473694.02810895, 5648004.50318699, top.iconAdr, 'adresspunkte', 'Punkt', "Wohngebiet Himmelreich", true, true, '', '</div>', false, false);
+top.addMarker(4466444.33480917, 5647367.5668414, top.iconAdr, 'adresspunkte', 'Punkt', "OT Isserstedt", true, true, '', '</div>', false, false);
+top.addMarker(4467512.92964882, 5648779.11622517, top.iconAdr, 'adresspunkte', 'Punkt', "OT Vierzehnheiligen", true, true, '', '</div>', false, false);
+top.addMarker(4469143.73211036, 5646215.32849961, top.iconAdr, 'adresspunkte', 'Punkt', "Cospeda", true, true, 'http://www.jena.de/statistik/ortsteil/otbilder/cospeda.jpg', '</div>', false, false);
+top.addMarker(4468562.72999438, 5648989.02204328, top.iconAdr, 'adresspunkte', 'Punkt', "OT Krippendorf", true, true, '', '</div>', false, false);
+top.addMarker(4468777.88650446, 5647218.64746161, top.iconAdr, 'adresspunkte', 'Punkt', "OT Lützeroda", true, true, '', '</div>', false, false);
+top.addMarker(4471597.46901964, 5640221.46178564, top.iconAdr, 'adresspunkte', 'Punkt', "OT Burgau", true, true, '', '</div>', false, false);
+top.addMarker(4470720.415, 5647282.205, top.iconAdr, 'adresspunkte', 'Punkt', "OT Closewitz", true, true, '', '</div>', false, false);
+top.addMarker(4472435, 5645420, top.iconAdr, 'adresspunkte', 'Punkt', "OT Zwätzen", true, true, '', '</div>', false, false);
+top.addMarker(4475680, 5643940, top.iconAdr, 'adresspunkte', 'Punkt', "OT Jenaprießnitz/Wogau", true, true, '', '</div>', false, false);
+top.addMarker(4471270.064, 5638197.676, top.iconAdr, 'adresspunkte', 'Punkt', "OT Göschwitz", true, true, '', '</div>', false, false);
+top.addMarker(4473740, 5642800, top.iconAdr, 'adresspunkte', 'Punkt', "OT Ziegenhain", true, true, '', '</div>', false, false);
+top.addMarker(4468960, 5641140, top.iconAdr, 'adresspunkte', 'Punkt', "OT Ammerbach", true, true, '', '</div>', false, false);
+top.addMarker(4471990, 5637010, top.iconAdr, 'adresspunkte', 'Punkt', "OT Maua", true, true, '', '</div>', false, false);
+top.addMarker(4470427.86, 5642924.492, top.iconAdr, 'adresspunkte', 'Punkt', "OT Jena-Süd", true, true, '', '</div>', false, false);
+top.addMarker(4470007.779, 5644640.519, top.iconAdr, 'adresspunkte', 'Punkt', "OT Jena-West", true, true, '', '</div>', false, false);
+top.addMarker(4472005.892, 5641249.164, top.iconAdr, 'adresspunkte', 'Punkt', "OT Wöllnitz", true, true, '', '</div>', false, false);
+top.addMarker(4472561.762, 5639757.494, top.iconAdr, 'adresspunkte', 'Punkt', "OT Lobeda-Altstadt", true, true, '', '</div>', false, false);
+top.addMarker(4474150.734, 5639258.602, top.iconAdr, 'adresspunkte', 'Punkt', "OT Drackendorf", true, true, '', '</div>', false, false);
+top.addMarker(4472841.944, 5638675.946, top.iconAdr, 'adresspunkte', 'Punkt', "OT Neulobeda", true, true, '', '</div>', false, false);
+top.addMarker(4472869.65398832, 5646351.98942857, top.iconAdr, 'adresspunkte', 'Punkt', "OT Löbstedt", true, true, '', '</div>', false, false);
+top.addMarker(4472122.96658756, 5642890.81844215, top.iconAdr, 'adresspunkte', 'Punkt', "OT Kernberge", true, true, '', '</div>', false, false);
+top.addMarker(4470444.34596602, 5639966.26914107, top.iconAdr, 'adresspunkte', 'Punkt', "OT Winzerla", true, true, '', '</div>', false, false);
+top.addMarker(4470987.76945874, 5643952.6893121, top.iconAdr, 'adresspunkte', 'Punkt', "OT Jena-Zentrum", true, true, '', '</div>', false, false);
+top.addMarker(4466434.76908526, 5644359.10279282, top.iconAdr, 'adresspunkte', 'Punkt', "OT Münchenroda/Remderoda", true, true, '', '</div>', false, false);
+top.addMarker(4475397.82157357, 5646060.74257197, top.iconAdr, 'adresspunkte', 'Punkt', "OT Kunitz/Laasan", true, true, '', '</div>', false, false);
+top.addMarker(4469158.79461799, 5644551.01181702, top.iconAdr, 'adresspunkte', 'Punkt', "Paraschkenmühle", true, true, '', '</div>', false, false);
+top.addMarker(4472171.32144931, 5646288.00524809, top.iconAdr, 'adresspunkte', 'Punkt', "PKW-Stellplätze Zitzmannstraße", true, true, '', '</div>', false, false);
+top.addMarker(4471028.24932707, 5644270.14427874, top.iconAdr, 'adresspunkte', 'Punkt', "Parkhaus Kritzegraben", true, true, '', '</div>', false, false);
+top.addMarker(4471293.21913688, 5641396.77508275, top.iconAdr, 'adresspunkte', 'Punkt', "Baugrundstück Wöllnitzer Straße", true, true, '', '</div>', false, false);
+top.addMarker(4474588.832994, 5646503.361336, top.iconAdr, 'adresspunkte', 'Punkt', "Baugrundstück Am Spielberg", true, true, '', '</div>', false, false);
+top.addMarker(4474777.43356679, 5646569.24626352, top.iconAdr, 'adresspunkte', 'Punkt', "Baugrundstück Blumenröschenweg", true, true, '', '</div>', false, false);
+top.addMarker(4469820.43224316, 5640957.45376551, top.iconAdr, 'adresspunkte', 'Punkt', "Baugrundst. f. wissensch. Forschungsinst.", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

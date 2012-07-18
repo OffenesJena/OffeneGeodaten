@@ -1,0 +1,15 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("taxistandplatz", '<img id="taxi_34" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'taxi.gif"> Taxistandpl&auml;tze (alle)');
+                            top.addMarker(4470439.23753549, 5643159.06815739, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Westbahnhof", true, true, '', '</div>', false, false);
+top.addMarker(4471091.43930154, 5643319.99597149, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Paradiesbahnhof", true, true, '', '</div>', false, false);
+top.addMarker(4471483.811, 5644636.99201144, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Saalbahnhof", true, true, '', '</div>', false, false);
+top.addMarker(4471066.86179036, 5643838.35184859, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Weigelstraße", true, true, '', '</div>', false, false);
+top.addMarker(4470825.73216664, 5643872.19219919, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Johannisplatz", true, true, '', '</div>', false, false);
+top.addMarker(4470936.93644789, 5643638.43596065, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Nonnenplan", true, true, '', '</div>', false, false);
+top.addMarker(4472523.80226737, 5638891.78871613, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Kaufland Lobeda-West", true, true, '', '</div>', false, false);
+top.addMarker(4473067.15959263, 5639156.87487041, top.taxi, 'taxistandplatz', 'Taxistandplatz', "Erlanger Allee Lobeda-Ost", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

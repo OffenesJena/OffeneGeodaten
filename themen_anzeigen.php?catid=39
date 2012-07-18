@@ -1,0 +1,10 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("kino", '<img id="kino_39" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'kino.gif"> Kinos (alle)');
+                            top.addMarker(4471911.35, 5644063.914, top.kino, 'kino', 'Kino', "Film e. V. Jena - Kino im Schillerhof", true, true, '', '<div id=\"popupInfo_757\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=40795&_nav_id1=43837&_nav_id2=43885&_nav_id3=43908&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4470979.162, 5643583.462, top.kino, 'kino', 'Kino', "Cinestar Jena", true, true, 'http://www.jena.de/fm/44/thumbnails/kino.jpg.14251.jpg', '<div id=\"popupInfo_758\" class=\"popupInfo\"> <a href="http://www.jena.de/sixcms/detail.php?id=40795&_nav_id1=43837&_nav_id2=43885&_nav_id3=43908&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+top.addMarker(4469822.18, 5642708.327, top.kino, 'kino', 'Kino', "Hörsaalkino für Studenten", true, true, '', '<div id=\"popupInfo_759\" class=\"popupInfo\"> <a href="http://www.hoersaalkino.de/" target="_blank" title="Homepage">Homepage</a> <br /><a href="http://www.jena.de/sixcms/detail.php?id=40795&_nav_id1=43837&_nav_id2=43885&_nav_id3=43908&_lang=de" target="_blank" title="mehr Informationen">mehr Informationen</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

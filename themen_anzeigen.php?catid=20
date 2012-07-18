@@ -1,0 +1,13 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("behoerde", '<img id="amt_20" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'amt.gif"> Beh&ouml;rden/Institutionen (alle)');
+                            top.addMarker(4471340.57267333, 5643294.79815739, top.amt, 'behoerde', 'Behörde/Institution', "Agentur für Arbeit Jena", true, true, '', '<div id=\"popupInfo_1021\" class=\"popupInfo\"> <a href="http://www.arbeitsagentur.de/nn_19096/Navigation/Dienststellen/RD-SAT/Jena/Agentur/Agentur-Nav.html" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470796.711, 5643693.631, top.amt, 'behoerde', 'Behörde/Institution', "Finanzamt Jena", true, true, '', '<div id=\"popupInfo_1022\" class=\"popupInfo\"> <a href="http://www.thueringen.de/de/finanzaemter/finanzaemter/jena/adresse/" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470490.765, 5644073.213, top.amt, 'behoerde', 'Behörde/Institution', "Arbeitsgericht Jena", true, true, '', '<div id=\"popupInfo_1023\" class=\"popupInfo\"> <a href="http://www.landesarbeitsgericht.thueringen.de/gerichte/jena.htm" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470789.817, 5643658.946, top.amt, 'behoerde', 'Behörde/Institution', "Deutsches Paten- und Markenamt (DPMA). Dienststelle Jena", true, true, '', '<div id=\"popupInfo_1024\" class=\"popupInfo\"> <a href="http://www.dpma.de/amt/kontakt/jena/index.html" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4470569, 5643101, top.amt, 'behoerde', 'Behörde/Institution', "Justizzentrum Jena", true, true, '', '<div id=\"popupInfo_1025\" class=\"popupInfo\"> <a href="http://www.thueringen.de/de/justiz/behoerden/u0/u_start.html" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+top.addMarker(4472627.09, 5639006.869, top.amt, 'behoerde', 'Behörde/Institution', "Stadtteilbüro Lobeda", true, true, '', '<div id=\"popupInfo_10528\" class=\"popupInfo\"> <a href="www.jenalobeda.de" target="_blank" title="Homepage">Homepage</a></div>', false, false);
+
+        //-->
+        </SCRIPT>

@@ -1,0 +1,36 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("apotheke", '<img id="apotheke_48" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'apotheke.gif"> Apotheken (alle)');
+                            top.addMarker(4471085.002, 5643845.096, top.apotheke, 'apotheke', 'Apotheke', "Goethe-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470561.399, 5644066.312, top.apotheke, 'apotheke', 'Apotheke', "AESULAP Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471895.247, 5644420.31, top.apotheke, 'apotheke', 'Apotheke', "Am Jenzig", true, true, '', '</div>', false, false);
+top.addMarker(4472470.146, 5644153.53, top.apotheke, 'apotheke', 'Apotheke', "Am Steinborn", true, true, '', '</div>', false, false);
+top.addMarker(4470809.32, 5643532.945, top.apotheke, 'apotheke', 'Apotheke', "Post-Carré", true, true, '', '</div>', false, false);
+top.addMarker(4473360.615, 5638865.2, top.apotheke, 'apotheke', 'Apotheke', "Bären-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470705.577, 5643714.598, top.apotheke, 'apotheke', 'Apotheke', "Campusapotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470725.52, 5643671.78, top.apotheke, 'apotheke', 'Apotheke', "Centrum Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470078.245, 5640833.059, top.apotheke, 'apotheke', 'Apotheke', "Columbus-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471027.87136823, 5643668.62160084, top.apotheke, 'apotheke', 'Apotheke', "Flora-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470380.037, 5643304.936, top.apotheke, 'apotheke', 'Apotheke', "Forst-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470120.52, 5640403.702, top.apotheke, 'apotheke', 'Apotheke', "Ginkgo-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4473274.223, 5638680.969, top.apotheke, 'apotheke', 'Apotheke', "Hufeland-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471880.653, 5643167.036, top.apotheke, 'apotheke', 'Apotheke', "Kernberg-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4474123.274, 5638984.276, top.apotheke, 'apotheke', 'Apotheke', "Lobdeburg-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471919.64, 5645830.194, top.apotheke, 'apotheke', 'Apotheke', "Nord-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471113.635, 5643739.134, top.apotheke, 'apotheke', 'Apotheke', "Rats-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471373.195, 5644552.617, top.apotheke, 'apotheke', 'Apotheke', "Saale-Apotheke Jena", true, true, '', '</div>', false, false);
+top.addMarker(4471767.481, 5643745.665, top.apotheke, 'apotheke', 'Apotheke', "Schiller-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470828.42, 5643662.198, top.apotheke, 'apotheke', 'Apotheke', "Semmelweis-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4472207.638, 5638509.436, top.apotheke, 'apotheke', 'Apotheke', "Stauffenberg-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4469877.779, 5642965.48, top.apotheke, 'apotheke', 'Apotheke', "Tatzend-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470267.795, 5640445.974, top.apotheke, 'apotheke', 'Apotheke', "Wackenroder-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470224.543, 5644002.037, top.apotheke, 'apotheke', 'Apotheke', "West-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4471167, 5644690.62, top.apotheke, 'apotheke', 'Apotheke', "Am Nollendorfer Hof", true, true, '', '</div>', false, false);
+top.addMarker(4465607.09, 5647150.203, top.apotheke, 'apotheke', 'Apotheke', "Im Globus", true, true, '', '</div>', false, false);
+top.addMarker(4472434, 5638811, top.apotheke, 'apotheke', 'Apotheke', "Im Kaufland", true, true, '', '</div>', false, false);
+top.addMarker(4470561.399, 5644066.312, top.apotheke, 'apotheke', 'Apotheke', "Bahnhof-Apotheke", true, true, '', '</div>', false, false);
+top.addMarker(4470704.98, 5643433.516, top.apotheke, 'apotheke', 'Apotheke', "Zeiss-Apotheke", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>

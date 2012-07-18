@@ -1,0 +1,71 @@
+
+        <SCRIPT type='text/javascript'>
+        <!--
+        top.initMarkerLayer("hotel", '<img id="hotel_1" style="position: relative; width: 25px; height: 25px;" src="http://map.jena.de/stadtplan/img/marker/' + 'hotel.gif"> Hotels und Unterk&uuml;nfte (alle)');
+                            top.addMarker(4470606.246, 5643938.052, top.hotel, 'hotel', 'Hotel/Unterkunft', "Gasthof Zur Schweiz", true, true, '', '</div>', false, false);
+top.addMarker(4471730.03, 5644283.285, top.hotel, 'hotel', 'Hotel/Unterkunft', "Gaststätte & Pension Adria Grill", true, true, '', '</div>', false, false);
+top.addMarker(4469547.691, 5644508.224, top.hotel, 'hotel', 'Hotel/Unterkunft', "Gästehaus Wettin / Ausbildungsprojekt der ÜAG", true, true, '', '</div>', false, false);
+top.addMarker(4470894.672, 5639678.107, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel Zur Weintraube", true, true, '', '</div>', false, false);
+top.addMarker(4469209, 5642171, top.hotel, 'hotel', 'Hotel/Unterkunft', "Intern. Jugendgästehaus", true, true, '', '</div>', false, false);
+top.addMarker(4471990.904, 5638384.158, top.hotel, 'hotel', 'Hotel/Unterkunft', "MAXX Hotel Jena", true, true, '', '</div>', false, false);
+top.addMarker(4470324.396, 5644251.735, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Belle Epoque", true, true, '', '</div>', false, false);
+top.addMarker(4471224.366, 5643748.26, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel Weinbauernhaus Im Sack", true, true, '', '</div>', false, false);
+top.addMarker(4470631.628, 5643671.05, top.hotel, 'hotel', 'Hotel/Unterkunft', "Steigenberger Esplanade", true, true, '', '</div>', false, false);
+top.addMarker(4471197.646, 5642211.924, top.hotel, 'hotel', 'Hotel/Unterkunft', "Thüringer Sozialakademie", true, true, '', '</div>', false, false);
+top.addMarker(4471084.26, 5644885.115, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Felsmann", true, true, '', '</div>', false, false);
+top.addMarker(4470858.013, 5639426.332, top.hotel, 'hotel', 'Hotel/Unterkunft', "Best Western Hotel Jena****", true, true, '', '</div>', false, false);
+top.addMarker(4474196.89, 5639238.892, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Burgblick", true, true, '', '</div>', false, false);
+top.addMarker(4470965.87, 5638089.955, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Haus vor dem Orchideental", true, true, '', '</div>', false, false);
+top.addMarker(4470348.007, 5644039.278, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hostel Alpha One Jena", true, true, '', '</div>', false, false);
+top.addMarker(4471483.507, 5643251.335, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Katzschmann", true, true, '', '</div>', false, false);
+top.addMarker(4470912.057, 5643619.387, top.hotel, 'hotel', 'Hotel/Unterkunft', "IBIS Hotel City am Holzmarkt", true, true, '', '</div>', false, false);
+top.addMarker(4471174.013, 5638974.911, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel JEMBO PARK", true, true, '', '</div>', false, false);
+top.addMarker(4471306.438, 5643958.96, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel Schwarzer Bär", true, true, '', '</div>', false, false);
+top.addMarker(4469033.164, 5644761.38, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel und Braugasthof Papiermühle", true, true, '', '</div>', false, false);
+top.addMarker(4473373.339, 5642843.053, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel Ziegenhainer Tal", true, true, '', '</div>', false, false);
+top.addMarker(4474225.77, 5639133.495, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Berghof", true, true, '', '</div>', false, false);
+top.addMarker(4471222.766, 5643725.041, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel & Kneipengalerie Zur Noll", true, true, '', '</div>', false, false);
+top.addMarker(4472445.134, 5639822.703, top.hotel, 'hotel', 'Hotel/Unterkunft', "Café am Kirchberg", true, true, '', '</div>', false, false);
+top.addMarker(4470911.627, 5643549.422, top.hotel, 'hotel', 'Hotel/Unterkunft', "Altdeutsches Gasthaus Roter Hirsch", true, true, '', '</div>', false, false);
+top.addMarker(4470928.991, 5643515.726, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension H+R Stadtmitte", true, true, '', '</div>', false, false);
+top.addMarker(4475533.689, 5639140.815, top.hotel, 'hotel', 'Hotel/Unterkunft', "FAIR RESORT Hotel", true, true, '', '</div>', false, false);
+top.addMarker(4471206.984, 5644365.914, top.hotel, 'hotel', 'Hotel/Unterkunft', "Sophienstübl", true, true, '', '</div>', false, false);
+top.addMarker(4472005.892, 5641249.164, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Dreßler", true, true, '', '</div>', false, false);
+top.addMarker(4470462.515, 5643297.221, top.hotel, 'hotel', 'Hotel/Unterkunft', "Eisenschmidts Klinkerstuben", true, true, '', '</div>', false, false);
+top.addMarker(4472561.762, 5639757.494, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Steffenhagen", true, true, '', '</div>', false, false);
+top.addMarker(4471517.75, 5643214.294, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Bindseil", true, true, '', '</div>', false, false);
+top.addMarker(4471469.913, 5643128.302, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Renate Mütze", true, true, '', '</div>', false, false);
+top.addMarker(4469890.552, 5643938.301, top.hotel, 'hotel', 'Hotel/Unterkunft', "Appartement Familie Schrön", true, true, '', '</div>', false, false);
+top.addMarker(4469682.319, 5644234.087, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Barbara Richter", true, true, '', '</div>', false, false);
+top.addMarker(4472437.8, 5643989.836, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Gerhard König", true, true, '', '</div>', false, false);
+top.addMarker(4471557.438, 5642354.7, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Kolano", true, true, '', '</div>', false, false);
+top.addMarker(4468997.771, 5644850.812, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Preuß", true, true, '', '</div>', false, false);
+top.addMarker(4470708.356, 5643909.421, top.hotel, 'hotel', 'Hotel/Unterkunft', "Gästewohnungen Weigand", true, true, '', '</div>', false, false);
+top.addMarker(4470507.853, 5643347.993, top.hotel, 'hotel', 'Hotel/Unterkunft', "Hotel Thüringer Hof", true, true, '', '</div>', false, false);
+top.addMarker(4471569.733, 5642366.46, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Karin Littke", true, true, '', '</div>', false, false);
+top.addMarker(4471791.25, 5646027.928, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Peter Fischer", true, true, '', '</div>', false, false);
+top.addMarker(4470940.894, 5644337.321, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Unterm Landgrafen", true, true, '', '</div>', false, false);
+top.addMarker(4476292.98, 5644140.999, top.hotel, 'hotel', 'Hotel/Unterkunft', "Gasthof Deutsche Eiche", true, true, '', '</div>', false, false);
+top.addMarker(4470423.843, 5643685.389, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnungen Zentrum", true, true, '', '</div>', false, false);
+top.addMarker(4470459.976, 5643660.257, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Stadtmitte", true, true, '', '</div>', false, false);
+top.addMarker(4471683.85, 5640181.161, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnungen in Jena", true, true, '', '</div>', false, false);
+top.addMarker(4472343.909, 5644233.064, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Susanne Hennig", true, true, '', '</div>', false, false);
+top.addMarker(4470473.589, 5643974.613, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Thiel", true, true, '', '</div>', false, false);
+top.addMarker(4472583.345, 5647076.515, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Renate Prässler", true, true, '', '</div>', false, false);
+top.addMarker(4470137.654, 5643237.766, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Silvia Arlt", true, true, '', '</div>', false, false);
+top.addMarker(4470081.958, 5643221.94, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Steffenhagen", true, true, '', '</div>', false, false);
+top.addMarker(4471471.605, 5643103.741, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Brigitta Queißer", true, true, '', '</div>', false, false);
+top.addMarker(4472841.944, 5638675.946, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Susanne Ullrich", true, true, '', '</div>', false, false);
+top.addMarker(4470851.211, 5639809.698, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Kühle", true, true, '', '</div>', false, false);
+top.addMarker(4473678.742, 5644175.15, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Karin Geiler", true, true, '', '</div>', false, false);
+top.addMarker(4473634.521, 5644229.939, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Gertraud Röder", true, true, '', '</div>', false, false);
+top.addMarker(4469067.3, 5646302.619, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension im Rosenweg", true, true, '', '</div>', false, false);
+top.addMarker(4472958.569, 5647201.017, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Karin Giesa", true, true, '', '</div>', false, false);
+top.addMarker(4471438.713, 5645513.273, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Schröter", true, true, '', '</div>', false, false);
+top.addMarker(4474439, 5646647.5, top.hotel, 'hotel', 'Hotel/Unterkunft', "Pension Zur Kunitzer Hausbrücke", true, true, '', '</div>', false, false);
+top.addMarker(4470860.402, 5645190.885, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Cordelia Jeschag", true, true, '', '</div>', false, false);
+top.addMarker(4473042.351, 5644130.331, top.hotel, 'hotel', 'Hotel/Unterkunft', "Privatvermieter Horst Rogge", true, true, '', '</div>', false, false);
+top.addMarker(4469650.533, 5645389.294, top.hotel, 'hotel', 'Hotel/Unterkunft', "Ferienwohnung Scharf & Meyer", true, true, '', '</div>', false, false);
+
+        //-->
+        </SCRIPT>
