@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+   <Document xmlns:atom="http://purl.org/atom/ns#">
+      <name>laufwege</name>
+      <Placemark id="laufwege.2">
+         <name><![CDATA[laufwege.2]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.5846173627613</longitude>
+            <latitude>50.91185913319199</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.5846173627613,50.91185913319199</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58416624,50.91273128 11.58429673,50.91265686 11.58443621,50.91260027 11.58460944,50.9125064 11.58467974,50.91240911 11.58469266,50.91227404 11.58472929,50.91205895 11.58468814,50.91199075 11.58464712,50.91192256 11.58461629,50.91186752 11.58462751,50.91177973 11.58465618,50.91168103 11.58470905,50.91159123 11.58477599,50.91148827 11.58484291,50.91138746 11.58490309,50.91125372 11.58495269,50.91114854 11.58499536,50.91103227 11.58502068,50.910927 11.58506694,50.91080194 11.58509503,50.91076913</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.4">
+         <name><![CDATA[laufwege.4]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58479887798099</longitude>
+            <latitude>50.91436213671636</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58479887798099,50.91436213671636</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58416624,50.91273128 11.58420032,50.91282939 11.58423013,50.91289242 11.58426675,50.91306129 11.58429429,50.91319543 11.58434574,50.9134493 11.58439736,50.91368502 11.58442837,50.91382555 11.58444478,50.9139049 11.58445286,50.91397289 11.58444351,50.91404819 11.58444312,50.91409224 11.58447748,50.91414567 11.58453792,50.91420648 11.58463044,50.91426192 11.58479226,50.91435796 11.58499449,50.91448544 11.58512459,50.91456123 11.5852143,50.91460191 11.58535344,50.91463738 11.58563774,50.91468981 11.58591048,50.91473671 11.58605261,50.91476472 11.58610994,50.91484754 11.58622473,50.91500958 11.58637335,50.91516662</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.5">
+         <name><![CDATA[laufwege.5]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.586636949294785</longitude>
+            <latitude>50.924394874780205</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.586636949294785,50.924394874780205</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58927459,50.92511606 11.5890718,50.92509845 11.58896896,50.92508064 11.58877608,50.92502998 11.58863838,50.92498671 11.58852708,50.92494424 11.58843089,50.92488997 11.58831467,50.92483319 11.58803904,50.92473486 11.58787824,50.92467838 11.58763373,50.92460227 11.58748352,50.92455572 11.58738824,50.92454513 11.58715353,50.92454188 11.58701691,50.9245111 11.58690494,50.92447798 11.58611527,50.9242331 11.58592512,50.92415367 11.5855368,50.92398473 11.58528071,50.9238665 11.58511446,50.92377709 11.58500402,50.92367781 11.58493085,50.9235552 11.58480301,50.92332857 11.58466726,50.92308006 11.58456232,50.92291634 11.5844943,50.92287555</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.6">
+         <name><![CDATA[laufwege.6]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.586960430992955</longitude>
+            <latitude>50.91623389976358</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.586960430992955,50.91623389976358</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58712744,50.91679321 11.58705737,50.91649315 11.58696043,50.9162339 11.58682322,50.91598017 11.58667923,50.91572327</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.7">
+         <name><![CDATA[laufwege.7]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.584397403829723</longitude>
+            <latitude>50.92270035957192</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.584397403829723,50.92270035957192</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.5844943,50.92287555 11.58446163,50.92281601 11.58442034,50.92273631 11.58439754,50.92270144 11.5843948,50.92268039 11.58440517,50.92266218 11.58442863,50.92262208 11.58444343,50.92258096 11.58444669,50.92254348 11.58445389,50.92251276</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.8">
+         <name><![CDATA[laufwege.8]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.582868119028573</longitude>
+            <latitude>50.92151509780335</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.582868119028573,50.92151509780335</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58445389,50.92251276 11.58422562,50.92232757 11.58410925,50.92224894 11.58370676,50.92202816 11.58327127,50.92178497 11.58297033,50.92158135 11.58260051,50.92134162 11.58246652,50.9211876 11.58223578,50.92089946 11.58195262,50.9205456 11.58171898,50.92026878 11.58162075,50.92013035</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.9">
+         <name><![CDATA[laufwege.9]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58742237385583</longitude>
+            <latitude>50.921235481563606</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58742237385583,50.921235481563606</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58985616,50.92426668 11.58985466,50.92410414 11.58990172,50.92390068 11.58974991,50.92383587 11.58946459,50.92378615 11.58928048,50.92372473 11.58906333,50.92363326 11.58892066,50.92357019 11.58885844,50.92349491 11.58883526,50.92339648 11.58883862,50.92332142 11.58881297,50.92322307 11.58874511,50.9231368 11.58866704,50.92305077 11.58849387,50.92293329 11.58840453,50.9228215 11.58827078,50.92261184 11.58805767,50.9222746 11.58784271,50.92193619 11.58775938,50.92180797 11.58764327,50.92160646 11.58749603,50.92137005 11.58734146,50.92108767 11.58722716,50.9209072 11.58710877,50.92073921 11.58701981,50.92058491 11.58696198,50.92046559 11.58692959,50.92034753 11.58691306,50.9202146 11.58691825,50.91985206 11.58693175,50.91965226 11.5869619,50.9193593 11.58698488,50.9192017 11.58702146,50.91905781 11.5871327,50.91869322 11.5871715,50.91853693 11.5871965,50.91837557 11.58721845,50.91810874 11.58723993,50.91789404 11.58724178,50.91768423 11.58724143,50.91751162 11.58722073,50.91741221 11.58715531,50.91718256</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.10">
+         <name><![CDATA[laufwege.10]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.5895684096688</longitude>
+            <latitude>50.924693442704964</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.5895684096688,50.924693442704964</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58927459,50.92511606 11.58943249,50.92488872 11.58958017,50.92467654 11.58978555,50.92437233 11.58985616,50.92426668</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.11">
+         <name><![CDATA[laufwege.11]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58650090506518</longitude>
+            <latitude>50.915454310655726</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58650090506518,50.915454310655726</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58667923,50.91572327 11.58638756,50.91528336 11.58637335,50.91516662</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.12">
+         <name><![CDATA[laufwege.12]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.587132089704633</longitude>
+            <latitude>50.916988451158716</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.587132089704633,50.916988451158716</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58715531,50.91718256 11.5871279,50.91695341 11.58712744,50.91679321</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.13">
+         <name><![CDATA[laufwege.13]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.582358568396122</longitude>
+            <latitude>50.91990215382518</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.582358568396122,50.91990215382518</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58162075,50.92013035 11.58175345,50.9200998 11.58216867,50.9199704 11.58252263,50.9198432 11.5826458,50.91979033 11.58278454,50.91971333 11.582991,50.9194877</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.14">
+         <name><![CDATA[laufwege.14]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.582482782564048</longitude>
+            <latitude>50.91833897884922</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.582482782564048,50.91833897884922</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58343159,50.91900405 11.58350718,50.91891917 11.58355802,50.91886754 11.58356262,50.91881245 11.58353395,50.91876506 11.58350179,50.91871505 11.58340445,50.91862103 11.58332563,50.91856843 11.58321236,50.91851247 11.58308523,50.91847066 11.5829476,50.91844949 11.58271002,50.918417 11.58259642,50.918397 11.58249869,50.91834766 11.58238208,50.91828404 11.582269,50.91820633 11.58217484,50.91813839 11.58208921,50.91807272 11.58197818,50.91796346 11.58190323,50.91787168 11.58183178,50.91776903 11.5817629,50.91765407 11.58171339,50.91753748 11.58169337,50.91745479 11.5816796,50.9173421 11.58169276,50.91720883</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.15">
+         <name><![CDATA[laufwege.15]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.582498251769428</longitude>
+            <latitude>50.91384173476643</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.582498251769428,50.91384173476643</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58083951,50.91496776 11.58093047,50.91489509 11.58124316,50.91468423 11.58165851,50.91440415 11.58210595,50.91410118 11.58254861,50.91380843 11.58278216,50.91363261 11.58322055,50.91334444 11.58361802,50.91308029 11.58392497,50.91286635 11.58416624,50.91273128</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.16">
+         <name><![CDATA[laufwege.16]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.583211295632587</longitude>
+            <latitude>50.919245873986014</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.583211295632587,50.919245873986014</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.582991,50.9194877 11.58343159,50.91900405</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.17">
+         <name><![CDATA[laufwege.17]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58167127468675</longitude>
+            <latitude>50.91592635412049</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff251cee</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58167127468675,50.91592635412049</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58169276,50.91720883 11.58170369,50.91697037 11.58168115,50.91682762 11.58170282,50.91673941 11.58176051,50.91659695 11.58178496,50.91651254 11.5817886,50.91644683 11.58175683,50.91633974 11.58172544,50.9161913 11.5816855,50.91601468 11.58166583,50.91589253 11.58166054,50.91581556 11.58160245,50.91567457 11.58155278,50.91557676 11.58149705,50.91549952 11.58140868,50.9154147 11.58122895,50.91526204 11.58099882,50.91508097 11.58083951,50.91496776</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.18">
+         <name><![CDATA[laufwege.18]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.577653297193326</longitude>
+            <latitude>50.90941848367099</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.577653297193326,50.90941848367099</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.57781957,50.91445805 11.57771153,50.91437046 11.57730975,50.91409356 11.57725933,50.91405356 11.57710269,50.91397037 11.57698001,50.91389343 11.57685723,50.91381342 11.5767276,50.9137013 11.57658844,50.91356613 11.57643501,50.91340034 11.57623129,50.91318079 11.57609705,50.91303341 11.57596044,50.91288908 11.5758303,50.91278082 11.57578225,50.91269956 11.57574987,50.9126233 11.57571179,50.91250323 11.57570073,50.91239091 11.57569599,50.9122538 11.57568199,50.91212996 11.57568256,50.91206721 11.57567105,50.91200388 11.57568634,50.91195998 11.57573889,50.91192097 11.57578871,50.9118976 11.5758339,50.91184131 11.57587436,50.91175048 11.57593697,50.91163635 11.57603069,50.91151776 11.57613743,50.91138644 11.57626253,50.9112347 11.57640878,50.91109202 11.5764501,50.91102241 11.57660329,50.9105919 11.57675408,50.91019321 11.57677825,50.91014026 11.57685761,50.91011744 11.57691,50.91010846 11.57697123,50.91009394 11.57701643,50.91008862 11.57706934,50.91008548 11.57713602,50.91009112 11.57720997,50.91009606 11.57725128,50.91009288 11.57730334,50.91008166 11.57734268,50.91006238 11.57737468,50.91003777 11.5774003,50.9100064 11.57742842,50.90994357 11.57747616,50.90981321 11.57756127,50.90959543 11.57759838,50.90949937 11.57763115,50.90944178 11.57766761,50.90940343 11.57771368,50.90936629 11.57777292,50.9093256 11.57784935,50.90928983 11.57820601,50.90918171 11.57828427,50.9091507 11.57832066,50.90912072 11.57837635,50.90905727 11.57846482,50.90896131 11.57865885,50.90874562 11.5787567,50.90864853 11.57882947,50.90858991 11.57891177,50.90852763 11.57900937,50.90847153 11.57908772,50.90843091 11.57915835,50.90840104 11.57926697,50.90837141 11.57937369,50.90834536 11.57951287,50.90830739 11.57959689,50.90827524 11.57970203,50.90821547 11.57980329,50.90815686 11.57986646,50.90812221 11.57996561,50.90808894 11.58018475,50.90804038 11.58063646,50.90793619 11.58106912,50.90783795 11.58133771,50.90778003 11.5814198,50.9077538 11.5815841,50.90767384 11.581798,50.90756763 11.58209598,50.90742315 11.58248948,50.907231 11.58267861,50.90714151 11.58275872,50.90711285 11.58288633,50.90709649 11.58299702,50.90708448 11.58306672,50.90706594 11.58315383,50.90702858 11.58320368,50.90700053 11.58323386,50.90695677 11.58323002,50.90690057 11.58319084,50.90683615 11.5831702,50.9067843 11.58319063,50.90672872 11.5832982,50.90661853 11.5834434,50.9064708 11.58351631,50.90639528</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.19">
+         <name><![CDATA[laufwege.19]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58144676765151</longitude>
+            <latitude>50.91991569650286</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58144676765151,50.91991569650286</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58162075,50.92013035 11.58140948,50.91986969 11.58136753,50.91981237 11.58127332,50.91976241 11.58123925,50.9197426</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.20">
+         <name><![CDATA[laufwege.20]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.5786319764523</longitude>
+            <latitude>50.91518048242552</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.5786319764523,50.91518048242552</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.5792767,50.91604848 11.57918462,50.91591905 11.57912327,50.91577643 11.57902425,50.91562379 11.57892359,50.91551016 11.57869833,50.91525691 11.57864565,50.91519397 11.57849929,50.91504961 11.57840799,50.91497736 11.57823025,50.91481454 11.57811267,50.9147039 11.5780479,50.91464245 11.57781957,50.91445805</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.21">
+         <name><![CDATA[laufwege.21]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.580166170063709</longitude>
+            <latitude>50.918580948042724</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.580166170063709,50.918580948042724</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58123925,50.9197426 11.58116389,50.91969684 11.58107388,50.91960959 11.58101474,50.91952065 11.58096998,50.91945018 11.58088334,50.91932743 11.58082493,50.91922285 11.58079241,50.91910857 11.58070103,50.91892547 11.58069127,50.9188635 11.58027408,50.91876896 11.58020542,50.91865616 11.58000501,50.91827212 11.57975604,50.91782416 11.57958094,50.91749567 11.57937316,50.91707231</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.22">
+         <name><![CDATA[laufwege.22]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.579778145517608</longitude>
+            <latitude>50.91653047090406</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.579778145517608,50.91653047090406</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.57937316,50.91707231 11.57948653,50.91702615 11.5795684,50.91697323 11.57965608,50.91688769 11.57970826,50.91682441 11.57972793,50.91676263 11.57975311,50.91667516 11.57977861,50.91655335 11.57977674,50.91646066 11.57975557,50.91640215 11.57960453,50.91628141 11.57944804,50.91616758 11.5792767,50.91604848</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.23">
+         <name><![CDATA[laufwege.23]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58361469570817</longitude>
+            <latitude>50.90627897918321</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58361469570817,50.90627897918321</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58351631,50.90639528 11.5835682,50.90633532 11.58363743,50.90625142 11.58371618,50.9061654</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.24">
+         <name><![CDATA[laufwege.24]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.585694843792831</longitude>
+            <latitude>50.91038655563613</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.585694843792831,50.91038655563613</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58530912,50.91057697 11.58539868,50.91056731 11.58549911,50.91054969 11.58555222,50.91053792 11.58560536,50.91052255 11.58566434,50.91048447 11.58569315,50.91043548 11.58569567,50.91036259 11.5856813,50.91027758 11.5856834,50.91025242 11.58569168,50.91017828 11.58572259,50.91010422 11.58582425,50.90994672</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.1">
+         <name><![CDATA[laufwege.1]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.585118021852367</longitude>
+            <latitude>50.91059900397471</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.585118021852367,50.91059900397471</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58509503,50.91076913 11.5850921,50.91074197 11.58513551,50.91050255 11.58515234,50.91042988</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.25">
+         <name><![CDATA[laufwege.25]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.590565421028723</longitude>
+            <latitude>50.898665004363835</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.590565421028723,50.898665004363835</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58869568,50.89866419 11.58885405,50.89866772 11.5892936,50.89866692 11.58973114,50.89866846 11.59032031,50.89866576 11.59086645,50.89866408 11.59118802,50.89866763 11.59147793,50.89867098 11.59176397,50.89867557 11.59225018,50.89867484 11.59233818,50.89867522 11.59243354,50.8986927</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.26">
+         <name><![CDATA[laufwege.26]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58865207035999</longitude>
+            <latitude>50.8989049163902</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58865207035999,50.8989049163902</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58843889,50.89904032 11.58847552,50.89902113 11.58862158,50.89893129 11.58864862,50.898909 11.58867327,50.89887978 11.58869188,50.89884281 11.58869087,50.89882429 11.58869076,50.89870391 11.58869568,50.89866419</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.27">
+         <name><![CDATA[laufwege.27]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.585506150054416</longitude>
+            <latitude>50.90231458189266</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.585506150054416,50.90231458189266</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58371618,50.9061654 11.58375662,50.90611475 11.58380459,50.90606081 11.58388327,50.90598171 11.58395993,50.90589316 11.58399865,50.90583738 11.58402734,50.90577527 11.5840708,50.90563564 11.58410566,50.90555314 11.58415064,50.90547959 11.58421986,50.90536926 11.5842708,50.90529824 11.58430747,50.90523607 11.58440056,50.90517158 11.58447135,50.90512239 11.58450389,50.90508951 11.5845117,50.90505511 11.58450856,50.90499918 11.58450554,50.90489111 11.58450407,50.90460766 11.58450349,50.90444881 11.58450203,50.90438785 11.58448662,50.90430131 11.58446745,50.90420209 11.58446589,50.90415381 11.58447238,50.90409666 11.58449311,50.90403317 11.58454023,50.90392915 11.58460367,50.90379722 11.58478196,50.90342037 11.58480049,50.90336704 11.58483358,50.9032591 11.58486444,50.90317668 11.58495611,50.90304728 11.58504971,50.90291169 11.58516973,50.9027583 11.58539954,50.90245535 11.58577777,50.90195595 11.58612163,50.90148314 11.58637975,50.90115871 11.58656279,50.90091915 11.58669469,50.90074647 11.58693411,50.90041478 11.58713509,50.90016063 11.58724726,50.9000188 11.58735352,50.89989539 11.58741529,50.89984392 11.58751812,50.89977775 11.58764733,50.89969694 11.58769448,50.89965459 11.58779475,50.89954598 11.5879068,50.89943005 11.58803045,50.89931595 11.58813631,50.89923686 11.58825973,50.89914865 11.58843889,50.89904032</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.28">
+         <name><![CDATA[laufwege.28]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.59875173947361</longitude>
+            <latitude>50.89857763324955</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.59875173947361,50.89857763324955</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.5978161,50.8987451 11.59810211,50.89870955 11.59825527,50.8986683 11.59835141,50.89864759 11.59855257,50.89861459 11.59868019,50.89859134 11.59895498,50.89853871 11.59922746,50.89848655 11.59940746,50.89844305 11.5995376,50.89840618 11.59968371,50.89839208</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.29">
+         <name><![CDATA[laufwege.29]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.59970885872213</longitude>
+            <latitude>50.89917019346157</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.59970885872213,50.89917019346157</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.59922548,50.89968702 11.59931762,50.89966117 11.59945658,50.89961778 11.59949941,50.89960031 11.59953289,50.89957849 11.59958396,50.89952976 11.5996219,50.89946669 11.59966552,50.89934296 11.59970407,50.89920905 11.5997183,50.89909358 11.59972277,50.89888629 11.59971611,50.89873371 11.59970798,50.89858697 11.59970228,50.89847233 11.59968371,50.89839208</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.30">
+         <name><![CDATA[laufwege.30]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.595308851057714</longitude>
+            <latitude>50.89881393146911</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.595308851057714,50.89881393146911</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.5978161,50.8987451 11.59736007,50.89879307 11.59682223,50.89882962 11.59614466,50.89884734 11.59595506,50.89887669 11.5958105,50.89888586 11.59564582,50.89887123 11.5953479,50.89881768 11.59505644,50.89878973 11.59472332,50.89876118 11.59425156,50.89871235 11.59415081,50.89871057 11.59392653,50.898723 11.59378964,50.89870653 11.59352231,50.89870319 11.59323749,50.89869814 11.59291708,50.89870502 11.59282394,50.89878263</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.31">
+         <name><![CDATA[laufwege.31]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.597214030891982</longitude>
+            <latitude>50.90263057953741</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.597214030891982,50.90263057953741</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.59510501,50.90354394 11.59517989,50.90350896 11.59523586,50.90350412 11.59529871,50.90350371 11.59536965,50.90350395 11.59551954,50.90344613 11.59570277,50.90336918 11.59588612,50.90329232 11.59620319,50.90315434 11.59639991,50.90306314 11.59655386,50.90298277 11.5967654,50.9028722 11.59702525,50.90273483 11.59713508,50.90267031 11.5972797,50.90259754 11.59737201,50.90255228 11.59748183,50.90250384 11.5975515,50.90246021 11.5976185,50.90241324 11.59769091,50.90236549 11.59781292,50.90227565 11.597927,50.90219513 11.59801031,50.90211954 11.598119,50.90202471 11.59825075,50.90190632 11.59839043,50.90177951 11.59850193,50.9016712 11.59864724,50.90151573 11.59872389,50.9014376 11.59876579,50.90137877 11.59879594,50.90128106 11.59883415,50.90117332 11.59886955,50.90109253</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.32">
+         <name><![CDATA[laufwege.32]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.586428085624565</longitude>
+            <latitude>50.90872666335562</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.586428085624565,50.90872666335562</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58582425,50.90994672 11.58586086,50.90987862 11.58592649,50.9097245 11.58597494,50.90960268 11.58606576,50.90938526 11.58613698,50.90924914 11.58621506,50.90909236 11.58627201,50.90897723 11.58643879,50.90870947 11.58648459,50.90863655 11.58657796,50.90850095 11.58667123,50.90836311 11.58674984,50.90825263 11.58687775,50.90809657 11.58697996,50.90796909 11.58717688,50.90772715 11.58721325,50.90768548 11.58725524,50.90764472</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.33">
+         <name><![CDATA[laufwege.33]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.59210977438228</longitude>
+            <latitude>50.904675244392564</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.59210977438228,50.904675244392564</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58920847,50.90601856 11.58941053,50.90587574 11.58970564,50.90574597 11.58997755,50.90560111 11.59026068,50.9054464 11.59046553,50.90535308 11.59068821,50.90525992 11.59104449,50.90510681 11.59134737,50.90497329 11.59148317,50.90491758 11.59167028,50.9048411 11.5919376,50.90473775 11.5921998,50.90464256 11.59237305,50.90458123 11.5926005,50.90450489 11.59278285,50.90444943 11.59310545,50.90433835 11.59339927,50.9042342 11.59368629,50.90412857 11.59386659,50.90406609 11.5940335,50.90400635 11.59420258,50.9039396 11.59439629,50.90385748 11.59458572,50.90376976 11.59500642,50.90359592 11.59510501,50.90354394</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.34">
+         <name><![CDATA[laufwege.34]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.588180533855876</longitude>
+            <latitude>50.90677374266403</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.588180533855876,50.90677374266403</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58725524,50.90764472 11.58746138,50.9074466 11.58757484,50.90733291 11.5877359,50.90718012 11.58778669,50.90712609 11.58782869,50.90705701 11.58789739,50.90697868 11.58803129,50.90688755 11.58820708,50.9067535 11.58829948,50.90667346 11.5884753,50.90652251 11.58856467,50.90645369 11.58874924,50.90632147 11.58889499,50.90622849 11.58907014,50.90611268 11.58915273,50.90605544 11.58920847,50.90601856</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.35">
+         <name><![CDATA[laufwege.35]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.599051441108914</longitude>
+            <latitude>50.900390237080096</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.599051441108914,50.900390237080096</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.59886955,50.90109253 11.59887958,50.90100239 11.59891272,50.90087099 11.59894977,50.90074723 11.59898407,50.90063102 11.59905144,50.90039024 11.59911591,50.90017299 11.59914764,50.90005507 11.5991881,50.89984952 11.59921447,50.89972744 11.59922548,50.89968702</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.36">
+         <name><![CDATA[laufwege.36]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.592606693964392</longitude>
+            <latitude>50.89878777148165</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.592606693964392,50.89878777148165</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.59282394,50.89878263 11.59252377,50.89878974 11.59249252,50.89873991 11.59243354,50.8986927</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.37">
+         <name><![CDATA[laufwege.37]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58368954834582</longitude>
+            <latitude>50.906306622827124</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58368954834582,50.906306622827124</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58365516,50.90644612 11.58368553,50.90632792 11.58371618,50.9061654</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.38">
+         <name><![CDATA[laufwege.38]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.583515174036421</longitude>
+            <latitude>50.90821454655821</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.583515174036421,50.90821454655821</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.5835466,50.90835292 11.58348375,50.90807617</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.39">
+         <name><![CDATA[laufwege.39]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.58447127321472</longitude>
+            <latitude>50.90957870246261</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.58447127321472,50.90957870246261</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58515234,50.91042988 11.5851548,50.91036409 11.585148,50.91031066 11.58511095,50.91024356 11.58495283,50.91004989 11.58488872,50.90997928 11.58476949,50.90985623 11.58468225,50.90977645 11.58451477,50.90961916 11.58400185,50.90914205 11.5839132,50.90904941 11.58385179,50.9089788 11.58383559,50.90895447 11.58377597,50.90888045 11.58371299,50.90877631 11.58370733,50.90876622</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.40">
+         <name><![CDATA[laufwege.40]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.583476377130248</longitude>
+            <latitude>50.907254667789566</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.583476377130248,50.907254667789566</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58348375,50.90807617 11.58345937,50.90794339 11.58344073,50.90778412 11.58343464,50.90765132 11.58343768,50.90752098 11.5834517,50.90736865 11.5834725,50.90727163 11.58351509,50.90708515 11.58355168,50.90691331 11.58359723,50.90672316 11.58363366,50.90656983 11.58365516,50.90644612</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.41">
+         <name><![CDATA[laufwege.41]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">1</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">0</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.583610264488238</longitude>
+            <latitude>50.908566193320254</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ffbb7100</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.583610264488238,50.908566193320254</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58370733,50.90876622 11.58366591,50.90868975 11.583625,50.90860869 11.58358773,50.90850122 11.58355936,50.90840763 11.5835466,50.90835292</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+      <Placemark id="laufwege.3">
+         <name><![CDATA[laufwege.3]]></name>
+         <description><![CDATA[<h4>laufwege</h4>
+
+<ul class="textattributes">
+  <li><strong><span class="atr-name">lw1</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw2</span>:</strong> <span class="atr-value">0</span></li>
+  <li><strong><span class="atr-name">lw3</span>:</strong> <span class="atr-value">1</span></li>
+  
+</ul>
+]]></description>
+         <LookAt>
+            <longitude>11.585195440348418</longitude>
+            <latitude>50.910665473969274</latitude>
+            <heading>10.0</heading>
+            <tilt>10.0</tilt>
+            <range>700</range>
+         </LookAt>
+         <Style>
+            <IconStyle>
+               <color>00ffffff</color>
+               <scale>0.4</scale>
+               <Icon>
+                  <href>http://icons.opengeo.org/markers/icon-line.1.png</href>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>00ffffff</color>
+            </LabelStyle>
+            <LineStyle>
+               <color>ff1d94f7</color>
+               <width>2</width>
+            </LineStyle>
+         </Style>
+         <MultiGeometry>
+            <Point>
+               <coordinates>11.585195440348418,50.910665473969274</coordinates>
+            </Point>
+            <LineString>
+               <coordinates>11.58509503,50.91076913 11.58520238,50.91065831 11.58525496,50.91061427 11.58530912,50.91057697</coordinates>
+            </LineString>
+         </MultiGeometry>
+      </Placemark>
+   </Document>
+</kml>
