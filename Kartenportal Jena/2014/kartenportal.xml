@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WMS_Capabilities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.3.0" xmlns="http://www.opengis.net/wms" xsi:schemaLocation="http://www.opengis.net/wms http://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd">
+ <Service>
+  <Name>WMS</Name>
+  <Title>Kartenportal Jena</Title>
+  <Abstract>Kartenportal der Stadt Jena</Abstract>
+  <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/>
+  <ContactInformation>
+   <ContactPersonPrimary>
+    <ContactPerson></ContactPerson>
+    <ContactOrganization>Kommunale Immobilien Jena</ContactOrganization>
+   </ContactPersonPrimary>
+   <ContactVoiceTelephone></ContactVoiceTelephone>
+   <ContactElectronicMailAddress>kij@jena.de</ContactElectronicMailAddress>
+  </ContactInformation>
+  <Fees></Fees>
+  <AccessConstraints></AccessConstraints>
+ </Service>
+ <Capability>
+  <Request>
+   <GetCapabilities>
+    <Format>text/xml</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://map3.jena.de/wms/kartenportal?"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetCapabilities>
+   <GetMap>
+    <Format>image/jpeg</Format>
+    <Format>image/png</Format>
+    <Format>image/png; mode=16bit</Format>
+    <Format>image/png; mode=8bit</Format>
+    <Format>image/png; mode=1bit</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://map3.jena.de/wms/kartenportal?"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetMap>
+   <GetFeatureInfo>
+    <Format>text/plain</Format>
+    <Format>text/html</Format>
+    <Format>text/xml</Format>
+    <Format>application/vnd.ogc.gml</Format>
+    <Format>application/vnd.ogc.gml/3.1.1</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://map3.jena.de/wms/kartenportal?"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetFeatureInfo>
+   <GetLegendGraphic>
+    <Format>image/jpeg</Format>
+    <Format>image/png</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://map3.jena.de/wms/kartenportal?"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetLegendGraphic>
+   <GetStyles>
+    <Format>text/xml</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://map3.jena.de/wms/kartenportal?"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetStyles>
+   <GetPrint>
+    <Format>svg</Format>
+    <Format>png</Format>
+    <Format>pdf</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://map3.jena.de/wms/kartenportal?"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetPrint>
+  </Request>
+  <Exception>
+   <Format>text/xml</Format>
+  </Exception>
+  <ComposerTemplates>
+   <ComposerTemplate width="210" height="297" name="A4_Hochformat">
+    <ComposerMap width="175" height="271.989" name="map0"/>
+    <ComposerLabel name="kartentitel"/>
+   </ComposerTemplate>
+   <ComposerTemplate width="297" height="210" name="A4_Querformat">
+    <ComposerMap width="259.324" height="187.691" name="map0"/>
+   </ComposerTemplate>
+  </ComposerTemplates>
+  <Layer queryable="1">
+   <Name>Kartenportal Jena</Name>
+   <Title>Kartenportal Jena</Title>
+   <CRS>EPSG:25832</CRS>
+   <CRS>EPSG:4258</CRS>
+   <EX_GeographicBoundingBox>
+    <westBoundLongitude>11.4719</westBoundLongitude>
+    <eastBoundLongitude>11.6788</eastBoundLongitude>
+    <southBoundLatitude>50.8451</southBoundLatitude>
+    <northBoundLatitude>50.9932</northBoundLatitude>
+   </EX_GeographicBoundingBox>
+   <BoundingBox CRS="EPSG:25832" maxx="688000" minx="674000" maxy="5.652e+06" miny="5.636e+06"/>
+   <Layer queryable="1">
+    <Name>A</Name>
+    <Title>A</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5011</westBoundLongitude>
+     <eastBoundLongitude>11.6649</eastBoundLongitude>
+     <southBoundLatitude>50.8598</southBoundLatitude>
+     <northBoundLatitude>50.9815</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="687070" minx="676006" maxy="5.65076e+06" miny="5.6376e+06"/>
+    <Layer queryable="1">
+     <Name>Adressen</Name>
+     <Title>Adressen</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5011</westBoundLongitude>
+      <eastBoundLongitude>11.6649</eastBoundLongitude>
+      <southBoundLatitude>50.8598</southBoundLatitude>
+      <northBoundLatitude>50.9815</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="687070" minx="676006" maxy="5.65076e+06" miny="5.6376e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+     <MinScaleDenominator>1</MinScaleDenominator>
+     <MaxScaleDenominator>3500</MaxScaleDenominator>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Alttextilcontainer</Name>
+     <Title>Alttextilcontainer</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5102</westBoundLongitude>
+      <eastBoundLongitude>11.6635</eastBoundLongitude>
+      <southBoundLatitude>50.8675</southBoundLatitude>
+      <northBoundLatitude>50.9757</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686990" minx="676616" maxy="5.65014e+06" miny="5.63846e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Aussichtspunkte</Name>
+     <Title>Aussichtspunkte</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5532</westBoundLongitude>
+      <eastBoundLongitude>11.6474</eastBoundLongitude>
+      <southBoundLatitude>50.8902</southBoundLatitude>
+      <northBoundLatitude>50.963</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="685906" minx="679556" maxy="5.64882e+06" miny="5.64095e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>B</Name>
+    <Title>B</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.4937</westBoundLongitude>
+     <eastBoundLongitude>11.6752</eastBoundLongitude>
+     <southBoundLatitude>50.8537</southBoundLatitude>
+     <northBoundLatitude>50.9902</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="687758" minx="675504" maxy="5.65171e+06" miny="5.63695e+06"/>
+    <Layer queryable="1">
+     <Name>Bäder</Name>
+     <Title>Bäder</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.577</westBoundLongitude>
+      <eastBoundLongitude>11.6064</eastBoundLongitude>
+      <southBoundLatitude>50.8831</southBoundLatitude>
+      <northBoundLatitude>50.9382</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="683122" minx="681269" maxy="5.64612e+06" miny="5.64006e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Bahnhöfe</Name>
+     <Title>Bahnhöfe</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5761</westBoundLongitude>
+      <eastBoundLongitude>11.6211</eastBoundLongitude>
+      <southBoundLatitude>50.883</southBoundLatitude>
+      <northBoundLatitude>50.9566</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="684081" minx="681199" maxy="5.64816e+06" miny="5.64008e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Baufelder</Name>
+     <Title>Baufelder</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5004</westBoundLongitude>
+      <eastBoundLongitude>11.6425</eastBoundLongitude>
+      <southBoundLatitude>50.8587</southBoundLatitude>
+      <northBoundLatitude>50.9636</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="685567" minx="675959" maxy="5.64877e+06" miny="5.63743e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Baulandkataster</Name>
+     <Title>Baulandkataster</Title>
+     <Abstract>"Die Aufnahme eines Grundstücks in das Baulandkataster ersetzt nicht die Baugenehmigung und sagt sie auch nicht zu. […] Denn die Aufnahme eines Grundstücks in das Baulandkataster begründet kein Baurecht und behauptet ein solches Recht auch nicht, da auch Grundstücke aufgenommen werden, die erst in absehbarer Zeit bebaubar, also aktuell gerade nicht bebaubar sind.“ (Ernst/ Zinkahn/ Bielenberg/ Krautzberger: Baugesetzbuch, Kommentar §200 Abs. 3)</Abstract>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.509</westBoundLongitude>
+      <eastBoundLongitude>11.6631</eastBoundLongitude>
+      <southBoundLatitude>50.8656</southBoundLatitude>
+      <northBoundLatitude>50.9753</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686965" minx="676539" maxy="5.65009e+06" miny="5.63824e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Bauordnung (Zuständigkeit)</Name>
+     <Title>Bauordnung (Zuständigkeit)</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.4937</westBoundLongitude>
+      <eastBoundLongitude>11.6752</eastBoundLongitude>
+      <southBoundLatitude>50.8538</southBoundLatitude>
+      <northBoundLatitude>50.9902</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="687758" minx="675504" maxy="5.65171e+06" miny="5.63695e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Bibliotheken</Name>
+     <Title>Bibliotheken</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.562</westBoundLongitude>
+      <eastBoundLongitude>11.6218</eastBoundLongitude>
+      <southBoundLatitude>50.8853</southBoundLatitude>
+      <northBoundLatitude>50.9348</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="684218" minx="680200" maxy="5.6457e+06" miny="5.64034e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Buslinien</Name>
+     <Title>Buslinien</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.495</westBoundLongitude>
+      <eastBoundLongitude>11.662</eastBoundLongitude>
+      <southBoundLatitude>50.8589</southBoundLatitude>
+      <northBoundLatitude>50.9779</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686884" minx="675579" maxy="5.65034e+06" miny="5.6375e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>F</Name>
+    <Title>F</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5124</westBoundLongitude>
+     <eastBoundLongitude>11.6619</eastBoundLongitude>
+     <southBoundLatitude>50.8664</southBoundLatitude>
+     <northBoundLatitude>50.976</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="686883" minx="676778" maxy="5.65018e+06" miny="5.63833e+06"/>
+    <Layer queryable="1">
+     <Name>Fahrradabstellanlagen</Name>
+     <Title>Fahrradabstellanlagen</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5772</westBoundLongitude>
+      <eastBoundLongitude>11.5925</eastBoundLongitude>
+      <southBoundLatitude>50.9226</southBoundLatitude>
+      <northBoundLatitude>50.9313</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="682172" minx="681131" maxy="5.64535e+06" miny="5.64442e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Friedhöfe</Name>
+     <Title>Friedhöfe</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5124</westBoundLongitude>
+      <eastBoundLongitude>11.662</eastBoundLongitude>
+      <southBoundLatitude>50.8664</southBoundLatitude>
+      <northBoundLatitude>50.9761</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686883" minx="676778" maxy="5.65018e+06" miny="5.63833e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>G</Name>
+    <Title>G</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5004</westBoundLongitude>
+     <eastBoundLongitude>11.6635</eastBoundLongitude>
+     <southBoundLatitude>50.8583</southBoundLatitude>
+     <northBoundLatitude>50.9759</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="686990" minx="675959" maxy="5.65014e+06" miny="5.63743e+06"/>
+    <Layer queryable="1">
+     <Name>Gewerbegebiete</Name>
+     <Title>Gewerbegebiete</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5004</westBoundLongitude>
+      <eastBoundLongitude>11.6425</eastBoundLongitude>
+      <southBoundLatitude>50.8587</southBoundLatitude>
+      <northBoundLatitude>50.9636</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="685567" minx="675959" maxy="5.64877e+06" miny="5.63743e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Glascontainer</Name>
+     <Title>Glascontainer</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5101</westBoundLongitude>
+      <eastBoundLongitude>11.6635</eastBoundLongitude>
+      <southBoundLatitude>50.8663</southBoundLatitude>
+      <northBoundLatitude>50.9757</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686990" minx="676616" maxy="5.65014e+06" miny="5.63832e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>H</Name>
+    <Title>H</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5036</westBoundLongitude>
+     <eastBoundLongitude>11.6588</eastBoundLongitude>
+     <southBoundLatitude>50.8659</southBoundLatitude>
+     <northBoundLatitude>50.9762</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="686663" minx="676159" maxy="5.65018e+06" miny="5.63827e+06"/>
+    <Layer queryable="1">
+     <Name>Haltestellen</Name>
+     <Title>Haltestellen</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5036</westBoundLongitude>
+      <eastBoundLongitude>11.6588</eastBoundLongitude>
+      <southBoundLatitude>50.8659</southBoundLatitude>
+      <northBoundLatitude>50.9762</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686663" minx="676159" maxy="5.65018e+06" miny="5.63827e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Hochschulen</Name>
+     <Title>Hochschulen</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5694</westBoundLongitude>
+      <eastBoundLongitude>11.5901</eastBoundLongitude>
+      <southBoundLatitude>50.9184</southBoundLatitude>
+      <northBoundLatitude>50.9343</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="681990" minx="680592" maxy="5.64567e+06" miny="5.64395e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>K</Name>
+    <Title>K</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5102</westBoundLongitude>
+     <eastBoundLongitude>11.6635</eastBoundLongitude>
+     <southBoundLatitude>50.8675</southBoundLatitude>
+     <northBoundLatitude>50.9757</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="686990" minx="676616" maxy="5.65014e+06" miny="5.63846e+06"/>
+    <Layer queryable="1">
+     <Name>Kleinschrott und Elektroaltgeräte</Name>
+     <Title>Kleinschrott und Elektroaltgeräte</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5102</westBoundLongitude>
+      <eastBoundLongitude>11.6635</eastBoundLongitude>
+      <southBoundLatitude>50.8675</southBoundLatitude>
+      <northBoundLatitude>50.9757</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686990" minx="676616" maxy="5.65014e+06" miny="5.63846e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Krankenhäuser</Name>
+     <Title>Krankenhäuser</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.562</westBoundLongitude>
+      <eastBoundLongitude>11.6218</eastBoundLongitude>
+      <southBoundLatitude>50.8853</southBoundLatitude>
+      <northBoundLatitude>50.9348</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="684218" minx="680199" maxy="5.6457e+06" miny="5.64034e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>L</Name>
+    <Title>L</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5748</westBoundLongitude>
+     <eastBoundLongitude>11.6013</eastBoundLongitude>
+     <southBoundLatitude>50.8983</southBoundLatitude>
+     <northBoundLatitude>50.9255</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="682814" minx="681054" maxy="5.6447e+06" miny="5.64173e+06"/>
+    <Layer queryable="1">
+     <Name>Laufwege</Name>
+     <Title>Laufwege</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5748</westBoundLongitude>
+      <eastBoundLongitude>11.6013</eastBoundLongitude>
+      <southBoundLatitude>50.8983</southBoundLatitude>
+      <northBoundLatitude>50.9255</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="682814" minx="681054" maxy="5.64470e+06" miny="5.64173e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>O</Name>
+    <Title>O</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.4928</westBoundLongitude>
+     <eastBoundLongitude>11.6761</eastBoundLongitude>
+     <southBoundLatitude>50.8531</southBoundLatitude>
+     <northBoundLatitude>50.9909</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="687818" minx="675443" maxy="5.65179e+06" miny="5.63688e+06"/>
+    <Layer queryable="1">
+     <Name>Ortsteile</Name>
+     <Title>Ortsteile</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.4928</westBoundLongitude>
+      <eastBoundLongitude>11.6761</eastBoundLongitude>
+      <southBoundLatitude>50.8531</southBoundLatitude>
+      <northBoundLatitude>50.9909</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="687818" minx="675443" maxy="5.65179e+06" miny="5.63688e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>P</Name>
+    <Title>P</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.4937</westBoundLongitude>
+     <eastBoundLongitude>11.6752</eastBoundLongitude>
+     <southBoundLatitude>50.8537</southBoundLatitude>
+     <northBoundLatitude>50.9902</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="687756" minx="675504" maxy="5.65171e+06" miny="5.63695e+06"/>
+    <Layer queryable="1">
+     <Name>Parken</Name>
+     <Title>Parken</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5467</westBoundLongitude>
+      <eastBoundLongitude>11.6413</eastBoundLongitude>
+      <southBoundLatitude>50.8817</southBoundLatitude>
+      <northBoundLatitude>50.9439</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="685560" minx="679134" maxy="5.64668e+06" miny="5.63999e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Postleitzahlgebiete</Name>
+     <Title>Postleitzahlgebiete</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.4937</westBoundLongitude>
+      <eastBoundLongitude>11.6752</eastBoundLongitude>
+      <southBoundLatitude>50.8538</southBoundLatitude>
+      <northBoundLatitude>50.9902</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="687756" minx="675504" maxy="5.65171e+06" miny="5.63695e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>S</Name>
+    <Title>S</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.4942</westBoundLongitude>
+     <eastBoundLongitude>11.722</eastBoundLongitude>
+     <southBoundLatitude>50.8521</southBoundLatitude>
+     <northBoundLatitude>51.0129</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="690955" minx="675545" maxy="5.65424e+06" miny="5.63688e+06"/>
+    <Layer queryable="1">
+     <Name>Spielplätze</Name>
+     <Title>Spielplätze</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5129</westBoundLongitude>
+      <eastBoundLongitude>11.6627</eastBoundLongitude>
+      <southBoundLatitude>50.8676</southBoundLatitude>
+      <northBoundLatitude>50.9776</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686930" minx="676807" maxy="5.65035e+06" miny="5.63846e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Strassenbahnlinien</Name>
+     <Title>Strassenbahnlinien</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5737</westBoundLongitude>
+      <eastBoundLongitude>11.6399</eastBoundLongitude>
+      <southBoundLatitude>50.8795</southBoundLatitude>
+      <northBoundLatitude>50.9607</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="685387" minx="681042" maxy="5.64862e+06" miny="5.63973e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Strassenbaumassnahmen (geplant)</Name>
+     <Title>Strassenbaumassnahmen (geplant)</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.526</westBoundLongitude>
+      <eastBoundLongitude>11.6278</eastBoundLongitude>
+      <southBoundLatitude>50.862</southBoundLatitude>
+      <northBoundLatitude>50.9535</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="684572" minx="677753" maxy="5.6477e+06" miny="5.63776e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Strassenreinigung (Häufigkeit)</Name>
+     <Title>Strassenreinigung (Häufigkeit)</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.4942</westBoundLongitude>
+      <eastBoundLongitude>11.722</eastBoundLongitude>
+      <southBoundLatitude>50.8521</southBoundLatitude>
+      <northBoundLatitude>51.0129</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="690955" minx="675545" maxy="5.65424e+06" miny="5.63688e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Strassenverkehrslärm-nachts (Lnight)</Name>
+     <Title>Strassenverkehrslärm-nachts (Lnight)</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.4957</westBoundLongitude>
+      <eastBoundLongitude>11.6716</eastBoundLongitude>
+      <southBoundLatitude>50.8576</southBoundLatitude>
+      <northBoundLatitude>50.9757</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="687567" minx="675630" maxy="5.6501e+06" miny="5.63737e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Strassenverkehrslärm-tags (Lden)</Name>
+     <Title>Strassenverkehrslärm-tags (Lden)</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.4958</westBoundLongitude>
+      <eastBoundLongitude>11.6716</eastBoundLongitude>
+      <southBoundLatitude>50.8577</southBoundLatitude>
+      <northBoundLatitude>50.9756</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="687567" minx="675640" maxy="5.65009e+06" miny="5.63738e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>T</Name>
+    <Title>T</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>4.51126</westBoundLongitude>
+     <eastBoundLongitude>4.51126</eastBoundLongitude>
+     <southBoundLatitude>0</southBoundLatitude>
+     <northBoundLatitude>0</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="0" minx="0" maxy="0" miny="0"/>
+    <Layer queryable="1">
+     <Name>Touristinformation</Name>
+     <Title>Touristinformation</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5884</westBoundLongitude>
+      <eastBoundLongitude>11.5884</eastBoundLongitude>
+      <southBoundLatitude>50.928</southBoundLatitude>
+      <northBoundLatitude>50.928</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="681899" minx="681899" maxy="5.64501e+06" miny="5.64501e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>V</Name>
+    <Title>V</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.568</westBoundLongitude>
+     <eastBoundLongitude>11.6618</eastBoundLongitude>
+     <southBoundLatitude>50.88</southBoundLatitude>
+     <northBoundLatitude>50.9607</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="686929" minx="680637" maxy="5.6486e+06" miny="5.63984e+06"/>
+    <Layer queryable="1">
+     <Name>Verkehrseinschränkungen</Name>
+     <Title>Verkehrseinschränkungen</Title>
+     <Abstract>Verkehrseinschränkungen des Hauptnetzes</Abstract>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.569</westBoundLongitude>
+      <eastBoundLongitude>11.6618</eastBoundLongitude>
+      <southBoundLatitude>50.8912</southBoundLatitude>
+      <northBoundLatitude>50.9606</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686929" minx="680668" maxy="5.6486e+06" miny="5.6411e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Verwaltung</Name>
+     <Title>Verwaltung</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.568</westBoundLongitude>
+      <eastBoundLongitude>11.6127</eastBoundLongitude>
+      <southBoundLatitude>50.881</southBoundLatitude>
+      <northBoundLatitude>50.9442</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="683545" minx="680637" maxy="5.64676e+06" miny="5.63984e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>W</Name>
+    <Title>W</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.5095</westBoundLongitude>
+     <eastBoundLongitude>11.6569</eastBoundLongitude>
+     <southBoundLatitude>50.8662</southBoundLatitude>
+     <northBoundLatitude>50.9758</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="686530" minx="676576" maxy="5.65015e+06" miny="5.63829e+06"/>
+    <Layer queryable="1">
+     <Name>Wahllokale</Name>
+     <Title>Wahllokale</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5095</westBoundLongitude>
+      <eastBoundLongitude>11.6569</eastBoundLongitude>
+      <southBoundLatitude>50.8662</southBoundLatitude>
+      <northBoundLatitude>50.9759</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="686530" minx="676576" maxy="5.65015e+06" miny="5.63829e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Wertstoffhöfe</Name>
+     <Title>Wertstoffhöfe</Title>
+     <CRS>EPSG:25832</CRS>
+     <CRS>EPSG:4258</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>11.5987</westBoundLongitude>
+      <eastBoundLongitude>11.6165</eastBoundLongitude>
+      <southBoundLatitude>50.8812</southBoundLatitude>
+      <northBoundLatitude>50.9429</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox CRS="EPSG:25832" maxx="683809" minx="682800" maxy="5.6467e+06" miny="5.63986e+06"/>
+     <Style>
+      <Name>default</Name>
+      <Title>default</Title>
+     </Style>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>Stadtplan</Name>
+    <Title>Stadtplan</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.4577</westBoundLongitude>
+     <eastBoundLongitude>11.693</eastBoundLongitude>
+     <southBoundLatitude>50.8448</southBoundLatitude>
+     <northBoundLatitude>50.9935</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="689000" minx="673000" maxy="5.652e+06" miny="5.636e+06"/>
+    <Style>
+     <Name>default</Name>
+     <Title>default</Title>
+    </Style>
+   </Layer>
+   <Layer queryable="1">
+    <Name>Luftbild</Name>
+    <Title>Luftbild</Title>
+    <CRS>EPSG:25832</CRS>
+    <CRS>EPSG:4258</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>11.3995</westBoundLongitude>
+     <eastBoundLongitude>11.7088</eastBoundLongitude>
+     <southBoundLatitude>50.8175</southBoundLatitude>
+     <northBoundLatitude>51.0217</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox CRS="EPSG:25832" maxx="690000" minx="669000" maxy="5.655e+06" miny="5.633e+06"/>
+    <Style>
+     <Name>default</Name>
+     <Title>default</Title>
+    </Style>
+   </Layer>
+  </Layer>
+ </Capability>
+</WMS_Capabilities>
