@@ -1,2 +1,7 @@
 
 http://map3.jena.de/wms/kartenportal?service=wms&version=1.3.0&request=GetCapabilities
+
+
+http://epsg.io/25832
+http://epsg.io/4258
+
