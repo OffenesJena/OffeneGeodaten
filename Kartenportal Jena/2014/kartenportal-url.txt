@@ -1,26 +1,2 @@
 
 http://map3.jena.de/wms/kartenportal?service=wms&version=1.3.0&request=GetCapabilities
-
-
-ETRS89 / UTM zone 32N
-http://epsg.io/25832
-http://spatialreference.org/ref/epsg/etrs89-utm-zone-32n/
-
-WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS
-http://epsg.io/4326
-http://spatialreference.org/ref/epsg/4326/
-
-
-Smooth Proj4js integration with Leaflet
-https://github.com/kartena/Proj4Leaflet
-https://github.com/proj4js/proj4js
-
-
-DotSpatial
-http://dotspatial.codeplex.com/wikipage?title=Projecting%20to%20USA%20Contiguous%20Lambert%20Conformal%20Conic&referringTitle=UseKnownCoordinateSystems
-
-
-http://docs.geoserver.org/stable/en/user/services/wms/outputformats.html
-http://docs.geoserver.org/stable/en/user/services/wms/reference.html#wms-getcap
-
-
