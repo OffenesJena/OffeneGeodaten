@@ -1,9 +1,12 @@
 
+// Capabilities
 http://map3.jena.de/wms/kartenportal?service=wms&version=1.3.0&request=GetCapabilities
+https://geoportal.bayern.de/getcapabilities/CapabilitiesViewer?ows_url=http://map3.jena.de/wms/kartenportal&service=WMS&version=1.1.1&format=html&id=9KmPkK%2Ft4LFKtmDK4JneZw%3D%3D
 
 
 http://epsg.io/25832
 http://epsg.io/4258
+http://epsg.io/4326 == WGS84
 
 
 // Get parts of tram lines via querying a map position
