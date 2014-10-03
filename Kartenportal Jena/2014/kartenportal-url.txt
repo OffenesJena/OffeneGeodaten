@@ -17,6 +17,8 @@ http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Strassenbahnlinien&CRS=E
 // ...as image
 http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=image/png&HEIGHT=776&TRANSPARENT=TRUE&REQUEST=GetMap&BBOX=50.89280415681953,11.5737,50.94736997980107,11.6399&WIDTH=941&STYLES=default&VERSION=1.3.0
 
+// ...as PDF (currently empty!)
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=pdf&TEMPLATE=A4_Querformat&DPI=300&HEIGHT=776&TRANSPARENT=TRUE&REQUEST=GetPrint&BBOX=50.89280415681953,11.5737,50.94736997980107,11.6399&WIDTH=941&STYLES=default&VERSION=1.3.0
 
 
 // Ortsteile
