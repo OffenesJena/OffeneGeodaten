@@ -5,3 +5,7 @@ http://map3.jena.de/wms/kartenportal?service=wms&version=1.3.0&request=GetCapabi
 http://epsg.io/25832
 http://epsg.io/4258
 
+
+// Get parts of tram lines via querying a map position
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&INFO_FORMAT=text/html&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=image/png&HEIGHT=776&J=199&REQUEST=GetFeatureInfo&I=609&WIDTH=946&BBOX=50.89280415681953,11.57350150192815,50.94736997980107,11.640021177882458&STYLES=default&QUERY_LAYERS=Strassenbahnlinien&VERSION=1.3.0
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&INFO_FORMAT=text/html&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=image/png&HEIGHT=776&J=289&REQUEST=GetFeatureInfo&I=236&WIDTH=946&BBOX=50.89280415681953,11.57350150192815,50.94736997980107,11.640021177882458&STYLES=default&QUERY_LAYERS=Strassenbahnlinien&VERSION=1.3.0
