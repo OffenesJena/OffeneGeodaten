@@ -1,26 +1,31 @@
 
+// Capabilities
 http://map3.jena.de/wms/kartenportal?service=wms&version=1.3.0&request=GetCapabilities
+https://geoportal.bayern.de/getcapabilities/CapabilitiesViewer?ows_url=http://map3.jena.de/wms/kartenportal&service=WMS&version=1.1.1&format=html&id=9KmPkK%2Ft4LFKtmDK4JneZw%3D%3D
+
+// Projections
+http://epsg.io/25832  (ETRS89 / UTM zone 32N)
+http://epsg.io/4258   (ETRS89)
+http://epsg.io/4326   (WGS84 - World Geodetic System 1984, used in GPS)
+http://epsg.io/900913 (Google Maps Global Mercator / OSGEO)
+
+// Get parts of tram lines via querying a map position
+http://docs.geoserver.org/stable/en/user/services/wms/reference.html#getfeatureinfo
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=image/png&INFO_FORMAT=text/html&HEIGHT=776&J=199&REQUEST=GetFeatureInfo&I=609&WIDTH=946&BBOX=50.89280415681953,11.57350150192815,50.94736997980107,11.640021177882458&STYLES=default&QUERY_LAYERS=Strassenbahnlinien&VERSION=1.3.0
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=image/png&INFO_FORMAT=text/html&HEIGHT=776&J=289&REQUEST=GetFeatureInfo&I=236&WIDTH=946&BBOX=50.89280415681953,11.57350150192815,50.94736997980107,11.640021177882458&STYLES=default&QUERY_LAYERS=Strassenbahnlinien&VERSION=1.3.0
+
+// ...as image
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Strassenbahnlinien&CRS=EPSG:4326&FORMAT=image/png&HEIGHT=776&TRANSPARENT=TRUE&REQUEST=GetMap&BBOX=50.89280415681953,11.5737,50.94736997980107,11.6399&WIDTH=941&STYLES=default&VERSION=1.3.0
+
+// ...as PDF
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Stadtplan%2CStrassenbahnlinien&VERSION=1.3&REQUEST=GetPrint&FORMAT=pdf&EXCEPTIONS=application/vnd.ogc.se_inimage&TRANSPARENT=true&SRS=EPSG:25832&DPI=300&TEMPLATE=A4_Hochformat&map0:extent=678161.2,5637892.8,686911.4,5651443.1&map0:rotation=0&map0:scale=50000&map0:grid_interval_x=2000&map0:grid_interval_y=2000&OPACITIES=255%2C255
 
 
-ETRS89 / UTM zone 32N
-http://epsg.io/25832
-http://spatialreference.org/ref/epsg/etrs89-utm-zone-32n/
+// Ortsteile
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Ortsteile&CRS=EPSG:4326&FORMAT=image/png&HEIGHT=776&TRANSPARENT=TRUE&REQUEST=GetMap&BBOX=50.89280415681953,11.57350150192815,50.94736997980107,11.640021177882458&WIDTH=946&STYLES=default&VERSION=1.3.0
 
-WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS
-http://epsg.io/4326
-http://spatialreference.org/ref/epsg/4326/
-
-
-Smooth Proj4js integration with Leaflet
-https://github.com/kartena/Proj4Leaflet
-https://github.com/proj4js/proj4js
-
-
-DotSpatial
-http://dotspatial.codeplex.com/wikipage?title=Projecting%20to%20USA%20Contiguous%20Lambert%20Conformal%20Conic&referringTitle=UseKnownCoordinateSystems
-
-
-http://docs.geoserver.org/stable/en/user/services/wms/outputformats.html
-http://docs.geoserver.org/stable/en/user/services/wms/reference.html#wms-getcap
-
-
+// Custom Layer Styles
+http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/index.html
+http://docs.geoserver.org/stable/en/user/_downloads/point_simplepoint.sld
+// ...but does currently not work!
+http://map3.jena.de/wms/kartenportal?SERVICE=WMS&LAYERS=Aussichtspunkte&CRS=EPSG:4326&FORMAT=image/png&HEIGHT=776&TRANSPARENT=TRUE&REQUEST=GetMap&BBOX=50.89280415681953,11.5737,50.94736997980107,11.6399&WIDTH=941&STYLES=default&VERSION=1.3.0&SLD=http%3A%2F%2Fdocs.geoserver.org%2Fstable%2Fen%2Fuser%2F_downloads%2Fpoint_simplepoint.sld
