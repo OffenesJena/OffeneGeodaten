@@ -16,3 +16,10 @@ graph of the portal. The data is mainly coming from the [Open Street Map](http:/
 [official map portal](http://www.jena.de/kartenportal) run by the city of Jena.
 
 New data sets, extentions and correction of defects are wellcome. Just fork this repository and send us a pull-request.
+
+---
+
+Links...
+- https://twitter.com/jenaopendata
+- https://etherpad.wikimedia.org/p/JenaOpenData
+- http://www.offenes-jena.de oder http://www.jenaopendata.org
