@@ -1,0 +1,9128 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 486599,
+      "lat": 50.8795142,
+      "lon": 11.6078017,
+      "tags": {
+        "highway": "speed_camera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32127701,
+      "lat": 50.9335416,
+      "lon": 11.5706276,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32463799,
+      "lat": 50.9210582,
+      "lon": 11.5812693,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32463826,
+      "lat": 50.9017967,
+      "lon": 11.5780765,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304325,
+      "lat": 50.9024053,
+      "lon": 11.5736926,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304331,
+      "lat": 50.8984962,
+      "lon": 11.5888044,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304416,
+      "lat": 50.9200827,
+      "lon": 11.6119324,
+      "tags": {
+        "direction": "SE",
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304749,
+      "lat": 50.8926376,
+      "lon": 11.6023278,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Lobeda",
+        "operator": "JES",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304855,
+      "lat": 50.8851262,
+      "lon": 11.6085619,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304863,
+      "lat": 50.8882599,
+      "lon": 11.6133075,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304885,
+      "lat": 50.881317,
+      "lon": 11.629853,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304900,
+      "lat": 50.8884982,
+      "lon": 11.6133392,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49261898,
+      "lat": 50.8768683,
+      "lon": 11.5937593,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49262008,
+      "lat": 50.9322436,
+      "lon": 11.590805,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49262187,
+      "lat": 50.9459421,
+      "lon": 11.5936636,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Pfälzer Straße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49314773,
+      "lat": 50.9506553,
+      "lon": 11.6066177,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Stifterstraße",
+        "network": "VMT",
+        "operator": "JES",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 52055153,
+      "lat": 50.9305732,
+      "lon": 11.5712218,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524102,
+      "lat": 50.93353,
+      "lon": 11.591,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Spittelplatz",
+        "network": "VMT",
+        "operator": "JeNah",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524336,
+      "lat": 50.9324141,
+      "lon": 11.5914005,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524380,
+      "lat": 50.9407698,
+      "lon": 11.5938076,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524426,
+      "lat": 50.9338557,
+      "lon": 11.5904473,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "horse": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524497,
+      "lat": 50.9516433,
+      "lon": 11.6125476,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524592,
+      "lat": 50.933542,
+      "lon": 11.5908388,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Spittelplatz",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84524988,
+      "lat": 50.9324171,
+      "lon": 11.5912386,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84525000,
+      "lat": 50.9336148,
+      "lon": 11.5907311,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "horse": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88083118,
+      "lat": 50.9286988,
+      "lon": 11.5938326,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88136289,
+      "lat": 50.9061623,
+      "lon": 11.5892557,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88136350,
+      "lat": 50.8985019,
+      "lon": 11.5898542,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88136556,
+      "lat": 50.9025283,
+      "lon": 11.597595,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88136605,
+      "lat": 50.90757,
+      "lon": 11.587471,
+      "tags": {
+        "bus": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Neuwöllnitz",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88136609,
+      "lat": 50.907593,
+      "lon": 11.5877092,
+      "tags": {
+        "bus": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Neuwöllnitz",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 88158432,
+      "lat": 50.8988204,
+      "lon": 11.5800679,
+      "tags": {
+        "bicycle": "yes",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 91399667,
+      "lat": 50.975457,
+      "lon": 11.5512613,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Krippendorf",
+        "network": "VMT",
+        "operator": "JES",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 91399684,
+      "lat": 50.9733591,
+      "lon": 11.5369482,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Vierzehnheiligen",
+        "network": "VMT",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 121985258,
+      "lat": 50.9593056,
+      "lon": 11.553984,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Lützeroda",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252102486,
+      "lat": 50.8803348,
+      "lon": 11.6135784,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Jena-Zentrum",
+        "ref": "54"
+      }
+    },
+    {
+      "type": "node",
+      "id": 256069984,
+      "lat": 50.9279675,
+      "lon": 11.5834252,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 257763107,
+      "lat": 50.8961988,
+      "lon": 11.5745066,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258095179,
+      "lat": 50.8951118,
+      "lon": 11.5770243,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258099399,
+      "lat": 50.8977661,
+      "lon": 11.5745371,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258875644,
+      "lat": 50.8973476,
+      "lon": 11.5720443,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258935866,
+      "lat": 50.9028321,
+      "lon": 11.567127,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258938407,
+      "lat": 50.8999391,
+      "lon": 11.5684381,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258939582,
+      "lat": 50.901754,
+      "lon": 11.5694402,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 259782384,
+      "lat": 50.9272705,
+      "lon": 11.5852328,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals",
+        "railway": "level_crossing",
+        "supervised": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 259782425,
+      "lat": 50.9270111,
+      "lon": 11.5858558,
+      "tags": {
+        "bus": "yes",
+        "direction": "backward",
+        "highway": "bus_stop",
+        "name": "Holzmarkt",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 259832924,
+      "lat": 50.9196107,
+      "lon": 11.5791213,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260285569,
+      "lat": 50.9300113,
+      "lon": 11.5892582,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260383967,
+      "lat": 50.9286845,
+      "lon": 11.5905116,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260383976,
+      "lat": 50.9293582,
+      "lon": 11.5837335,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260383987,
+      "lat": 50.9286719,
+      "lon": 11.5907135,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260459541,
+      "lat": 50.8963373,
+      "lon": 11.5747171,
+      "tags": {
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260465254,
+      "lat": 50.8984724,
+      "lon": 11.5776216,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260465689,
+      "lat": 50.8991633,
+      "lon": 11.5788444,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 261708878,
+      "lat": 50.8819109,
+      "lon": 11.5915482,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Göschwitz Schleife"
+      }
+    },
+    {
+      "type": "node",
+      "id": 262243496,
+      "lat": 50.9347987,
+      "lon": 11.5655141,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 262354439,
+      "lat": 50.883378,
+      "lon": 11.5936731,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263037946,
+      "lat": 50.9275697,
+      "lon": 11.5833798,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263042647,
+      "lat": 50.9208761,
+      "lon": 11.5799919,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263042649,
+      "lat": 50.9205304,
+      "lon": 11.5800457,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263261155,
+      "lat": 50.894735,
+      "lon": 11.5834673,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263261156,
+      "lat": 50.8948639,
+      "lon": 11.5835627,
+      "tags": {
+        "bus": "yes",
+        "direction": "backward",
+        "highway": "bus_stop",
+        "name": "Winzerla",
+        "operator": "JeNah",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263262461,
+      "lat": 50.8983116,
+      "lon": 11.5926799,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263894111,
+      "lat": 50.9099262,
+      "lon": 11.5721651,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 265783719,
+      "lat": 50.9328347,
+      "lon": 11.5748238,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267829098,
+      "lat": 50.8981364,
+      "lon": 11.5761517,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267832743,
+      "lat": 50.8988887,
+      "lon": 11.5931577,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267868855,
+      "lat": 50.8926373,
+      "lon": 11.5784622,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267870079,
+      "lat": 50.8922705,
+      "lon": 11.5806474,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267870114,
+      "lat": 50.8916667,
+      "lon": 11.5807932,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268298003,
+      "lat": 50.9360206,
+      "lon": 11.5888431,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268321376,
+      "lat": 50.8923363,
+      "lon": 11.5952502,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268592971,
+      "lat": 50.9488579,
+      "lon": 11.6104844,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268919614,
+      "lat": 50.8871486,
+      "lon": 11.6161953,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269213777,
+      "lat": 50.8986032,
+      "lon": 11.5922611,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270395848,
+      "lat": 50.9379777,
+      "lon": 11.5887255,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270601764,
+      "lat": 50.9559249,
+      "lon": 11.6050877,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Rautal",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270601781,
+      "lat": 50.9508321,
+      "lon": 11.5972734,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Rödigenweg",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270603644,
+      "lat": 50.9493578,
+      "lon": 11.6045227,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Merseburger Straße",
+        "network": "VMT",
+        "operator": "JES"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270607393,
+      "lat": 50.9304796,
+      "lon": 11.6168524,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Schlegelsberg",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270608907,
+      "lat": 50.9282271,
+      "lon": 11.6243972,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270608958,
+      "lat": 50.9276184,
+      "lon": 11.6267711,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271333555,
+      "lat": 50.9675772,
+      "lon": 11.6260414,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271333618,
+      "lat": 50.9625717,
+      "lon": 11.6202993,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271416508,
+      "lat": 50.9522274,
+      "lon": 11.6073307,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271425684,
+      "lat": 50.960567,
+      "lon": 11.6203497,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271425869,
+      "lat": 50.9615455,
+      "lon": 11.6214193,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271427554,
+      "lat": 50.9619023,
+      "lon": 11.6203207,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271427632,
+      "lat": 50.9642106,
+      "lon": 11.6233935,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271427715,
+      "lat": 50.9643674,
+      "lon": 11.6209988,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271428218,
+      "lat": 50.9654755,
+      "lon": 11.6208357,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271428292,
+      "lat": 50.9661674,
+      "lon": 11.6211704,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271428531,
+      "lat": 50.9668301,
+      "lon": 11.6219534,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271428667,
+      "lat": 50.9652377,
+      "lon": 11.6229815,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271429425,
+      "lat": 50.969747,
+      "lon": 11.6277712,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271429869,
+      "lat": 50.9649931,
+      "lon": 11.6240986,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271434425,
+      "lat": 50.9609822,
+      "lon": 11.6226008,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271439578,
+      "lat": 50.9527097,
+      "lon": 11.6181417,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271990099,
+      "lat": 50.9519343,
+      "lon": 11.6208641,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271990970,
+      "lat": 50.9405505,
+      "lon": 11.6026663,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272260443,
+      "lat": 50.9506471,
+      "lon": 11.5994513,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279335615,
+      "lat": 50.9232578,
+      "lon": 11.5827389,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279922167,
+      "lat": 50.9272954,
+      "lon": 11.5992609,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 281683148,
+      "lat": 50.9485546,
+      "lon": 11.5958322,
+      "tags": {
+        "direction": "backward",
+        "highway": "bus_stop",
+        "name": "Schützenhofstraße",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 281710525,
+      "lat": 50.8913225,
+      "lon": 11.6104037,
+      "tags": {
+        "highway": "turning_loop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 285210431,
+      "lat": 50.9242311,
+      "lon": 11.5906048,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 285889251,
+      "lat": 50.9070484,
+      "lon": 11.5699024,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287856901,
+      "lat": 50.8792919,
+      "lon": 11.5929456,
+      "tags": {
+        "created_by": "Merkaartor 0.11",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288408401,
+      "lat": 50.8884258,
+      "lon": 11.6133273,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288503005,
+      "lat": 50.8897478,
+      "lon": 11.6288627,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288503083,
+      "lat": 50.8885447,
+      "lon": 11.6250205,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288506621,
+      "lat": 50.8861475,
+      "lon": 11.6342211,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292086582,
+      "lat": 50.9202769,
+      "lon": 11.5896957,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292086585,
+      "lat": 50.9202653,
+      "lon": 11.589862,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292104902,
+      "lat": 50.925528,
+      "lon": 11.5894016,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292255621,
+      "lat": 50.9348367,
+      "lon": 11.5646179,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Hautklinik",
+        "operator": "Universitätsklinikum Jena",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292447164,
+      "lat": 50.9261687,
+      "lon": 11.5866368,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292447216,
+      "lat": 50.9269117,
+      "lon": 11.5865215,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292447217,
+      "lat": 50.9268929,
+      "lon": 11.5867882,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292447748,
+      "lat": 50.9256187,
+      "lon": 11.5894049,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293686250,
+      "lat": 50.9039569,
+      "lon": 11.5728504,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293692191,
+      "lat": 50.901643,
+      "lon": 11.5709531,
+      "tags": {
+        "created_by": "Merkaartor 0.11",
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295395572,
+      "lat": 50.8982668,
+      "lon": 11.5708888,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295927820,
+      "lat": 50.8922055,
+      "lon": 11.5851416,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296193877,
+      "lat": 50.9047219,
+      "lon": 11.5549986,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Ammerbach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298078092,
+      "lat": 50.8928815,
+      "lon": 11.5848961,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298095958,
+      "lat": 50.8792336,
+      "lon": 11.6201897,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298095959,
+      "lat": 50.8782407,
+      "lon": 11.6213182,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298144069,
+      "lat": 50.8814256,
+      "lon": 11.6174743,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298147405,
+      "lat": 50.8823258,
+      "lon": 11.6125138,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301384492,
+      "lat": 50.8864073,
+      "lon": 11.6560858,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301384530,
+      "lat": 50.8868947,
+      "lon": 11.6558026,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301384553,
+      "lat": 50.8870218,
+      "lon": 11.6565002,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301384595,
+      "lat": 50.8865666,
+      "lon": 11.6568302,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301384605,
+      "lat": 50.8861229,
+      "lon": 11.6571416,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301416404,
+      "lat": 50.8854641,
+      "lon": 11.656654,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301983984,
+      "lat": 50.930614,
+      "lon": 11.5924993,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301984123,
+      "lat": 50.9300433,
+      "lon": 11.591088,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302765476,
+      "lat": 50.9360463,
+      "lon": 11.5990827,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Dammstraße",
+        "operator": "JES"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302765477,
+      "lat": 50.935897,
+      "lon": 11.6001979,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Dammstraße",
+        "operator": "JES"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302932879,
+      "lat": 50.934813,
+      "lon": 11.601481,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303136364,
+      "lat": 50.8987647,
+      "lon": 11.5927504,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303136404,
+      "lat": 50.8986034,
+      "lon": 11.5929842,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304604764,
+      "lat": 50.9239757,
+      "lon": 11.5908128,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 313454032,
+      "lat": 50.9269177,
+      "lon": 11.5864543,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320143039,
+      "lat": 50.9599797,
+      "lon": 11.5724296,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Closewitz",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 321570061,
+      "lat": 50.9598131,
+      "lon": 11.572573,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Closewitz",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331056344,
+      "lat": 50.9491644,
+      "lon": 11.602155,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331060507,
+      "lat": 50.9435181,
+      "lon": 11.6066439,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339105588,
+      "lat": 50.9316336,
+      "lon": 11.5720411,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 345573391,
+      "lat": 50.9257125,
+      "lon": 11.5822979,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 362644193,
+      "lat": 50.9268241,
+      "lon": 11.5321289,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Einhügelquelle",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 366144952,
+      "lat": 50.9375463,
+      "lon": 11.5575199,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Mühltal",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 366145163,
+      "lat": 50.9316896,
+      "lon": 11.5803434,
+      "tags": {
+        "bench": "no",
+        "bus": "yes",
+        "direction": "backward",
+        "highway": "bus_stop",
+        "name": "Am Steiger",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387456077,
+      "lat": 50.948576,
+      "lon": 11.6045473,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387459804,
+      "lat": 50.9505144,
+      "lon": 11.6055037,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387483269,
+      "lat": 50.9251696,
+      "lon": 11.5876173,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387483270,
+      "lat": 50.9252416,
+      "lon": 11.5875777,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387484049,
+      "lat": 50.9240164,
+      "lon": 11.591904,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388134241,
+      "lat": 50.8983736,
+      "lon": 11.5803769,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411281595,
+      "lat": 50.9269043,
+      "lon": 11.5878307,
+      "tags": {
+        "bus": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Löbdergraben",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411281596,
+      "lat": 50.9274799,
+      "lon": 11.5842885,
+      "tags": {
+        "bus": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Teichgraben",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411285504,
+      "lat": 50.9217084,
+      "lon": 11.6047127,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Talschule",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411285505,
+      "lat": 50.9202035,
+      "lon": 11.6117248,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Ziegenhainer Tal",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411285506,
+      "lat": 50.9191273,
+      "lon": 11.6230719,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Ziegenhain",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411291991,
+      "lat": 50.9593878,
+      "lon": 11.5086877,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Isserstedt Globus",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411296056,
+      "lat": 50.9267237,
+      "lon": 11.5804949,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Volkshaus",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411296063,
+      "lat": 50.9287935,
+      "lon": 11.5753983,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Riedstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "stop_position",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411296067,
+      "lat": 50.9323135,
+      "lon": 11.6123873,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "name": "Steinborn",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411298862,
+      "lat": 50.9390856,
+      "lon": 11.5488494,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Abzweig nach Remderoda",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411298863,
+      "lat": 50.9271883,
+      "lon": 11.5162007,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Lucas-Cranach-Allee",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411298864,
+      "lat": 50.9284347,
+      "lon": 11.5121432,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Münchenroda",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411302069,
+      "lat": 50.9369615,
+      "lon": 11.5922119,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saalbahnhof",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411302070,
+      "lat": 50.9411806,
+      "lon": 11.591972,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Scharnhorststraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411309930,
+      "lat": 50.9359253,
+      "lon": 11.5936552,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Wiesenstraße",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411309933,
+      "lat": 50.9377717,
+      "lon": 11.5957219,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Schlachthofstraße",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411309934,
+      "lat": 50.940174,
+      "lon": 11.5986899,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Löbstedter Straße",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411310585,
+      "lat": 50.9440849,
+      "lon": 11.6062366,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Loquitzweg",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411310586,
+      "lat": 50.9456439,
+      "lon": 11.609044,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Saalepark",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411312509,
+      "lat": 50.9596375,
+      "lon": 11.6262199,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Flutgraben",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411315858,
+      "lat": 50.9150438,
+      "lon": 11.5874266,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411315862,
+      "lat": 50.9152382,
+      "lon": 11.587381,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Sportforum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411321656,
+      "lat": 50.9050396,
+      "lon": 11.5645471,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ammerbacher Straße",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411322728,
+      "lat": 50.9028027,
+      "lon": 11.5727785,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Buchenweg",
+        "operator": "JeNah",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411324975,
+      "lat": 50.8847651,
+      "lon": 11.5883149,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Jena21",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411327098,
+      "lat": 50.8838487,
+      "lon": 11.5965417,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Konrad-Zuse-Straße",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411329948,
+      "lat": 50.8921145,
+      "lon": 11.5952849,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Prüssingstraße",
+        "operator": "JeNah",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411913535,
+      "lat": 50.9253803,
+      "lon": 11.5871415,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411928368,
+      "lat": 50.9528596,
+      "lon": 11.6106075,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Erich-Kuithan-Straße",
+        "network": "VMT",
+        "operator": "JES"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411931717,
+      "lat": 50.9589811,
+      "lon": 11.6180578,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Zwätzen",
+        "operator": "JES",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411935211,
+      "lat": 50.8670591,
+      "lon": 11.5976327,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maua, B88",
+        "operator": "JES",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412011887,
+      "lat": 50.8671456,
+      "lon": 11.6001394,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412042258,
+      "lat": 50.9047043,
+      "lon": 11.5744093,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Jena, Ernst-Abbe-Gymnasium",
+        "operator": "JES"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412123777,
+      "lat": 50.9342668,
+      "lon": 11.6075309,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jenzigweg",
+        "operator": "JES",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412123779,
+      "lat": 50.9348534,
+      "lon": 11.6264164,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Sonnenblick",
+        "operator": "JES"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412294891,
+      "lat": 50.8811135,
+      "lon": 11.6302875,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Schlegelstraße",
+        "operator": "JES",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 413736231,
+      "lat": 50.9528145,
+      "lon": 11.6142388,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Löbstedt",
+        "network": "VMT",
+        "operator": "JES",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418342085,
+      "lat": 50.9249828,
+      "lon": 11.586612,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418342140,
+      "lat": 50.9247887,
+      "lon": 11.5860936,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Volkshaus",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418342151,
+      "lat": 50.9248284,
+      "lon": 11.5859766,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Volkshaus",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 424277423,
+      "lat": 50.886155,
+      "lon": 11.6120557,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 424277424,
+      "lat": 50.8860864,
+      "lon": 11.6119221,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 424277437,
+      "lat": 50.886924,
+      "lon": 11.6157238,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 424277438,
+      "lat": 50.883551,
+      "lon": 11.6198111,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 428667816,
+      "lat": 50.9257911,
+      "lon": 11.5822666,
+      "tags": {
+        "highway": "traffic_signals",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 428776974,
+      "lat": 50.9249805,
+      "lon": 11.5872833,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435430378,
+      "lat": 50.9302193,
+      "lon": 11.5833463,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 438499125,
+      "lat": 50.9234137,
+      "lon": 11.5693682,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gustav-Fischer-Straße",
+        "network": "VMT",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 438499128,
+      "lat": 50.9232863,
+      "lon": 11.5694265,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gustav-Fischer-Straße",
+        "network": "VMT",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 438609449,
+      "lat": 50.8783147,
+      "lon": 11.6212224,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444859495,
+      "lat": 50.9318495,
+      "lon": 11.5798982,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447035502,
+      "lat": 50.8878312,
+      "lon": 11.5959364,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Göschwitzer Straße",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 455397665,
+      "lat": 50.9498211,
+      "lon": 11.6130679,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 464477483,
+      "lat": 50.9498815,
+      "lon": 11.6177032,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 480331439,
+      "lat": 50.9341501,
+      "lon": 11.6071227,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 503606669,
+      "lat": 50.9261203,
+      "lon": 11.5910043,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 503606673,
+      "lat": 50.9260621,
+      "lon": 11.5910667,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 521573905,
+      "lat": 50.9378025,
+      "lon": 11.5236813,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Remderoda",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533730815,
+      "lat": 50.9221299,
+      "lon": 11.569134,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533734745,
+      "lat": 50.915049,
+      "lon": 11.5702131,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534073842,
+      "lat": 50.9359752,
+      "lon": 11.5893505,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540050063,
+      "lat": 50.9470542,
+      "lon": 11.6056071,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 569092398,
+      "lat": 50.8962262,
+      "lon": 11.5739345,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hugo-Schrade-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571230961,
+      "lat": 50.9008673,
+      "lon": 11.5700527,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Friedrich-Zucker-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571230962,
+      "lat": 50.8942789,
+      "lon": 11.5784719,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bertolt-Brecht-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571230963,
+      "lat": 50.8926029,
+      "lon": 11.5811749,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Oßmaritzer Straße",
+        "operator": "Jenaer Nahverkehr GmbH",
+        "public_transport": "platform",
+        "wheelchair": "yes",
+        "wheelchair:description": "Mit Kasseler Board"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571230964,
+      "lat": 50.891511,
+      "lon": 11.5850386,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Winzergasse",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606375728,
+      "lat": 50.9001937,
+      "lon": 11.5771279,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606952450,
+      "lat": 50.9048254,
+      "lon": 11.5771729,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606952452,
+      "lat": 50.9066841,
+      "lon": 11.5768035,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 613634969,
+      "lat": 50.9291841,
+      "lon": 11.5999735,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 622325112,
+      "lat": 50.9322843,
+      "lon": 11.5915217,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 622567762,
+      "lat": 50.9553546,
+      "lon": 11.6389545,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Kunitz Wendeschleife",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624192437,
+      "lat": 50.9394604,
+      "lon": 11.5870808,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 634380616,
+      "lat": 50.9336706,
+      "lon": 11.5908226,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "horse": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 651808061,
+      "lat": 50.8838415,
+      "lon": 11.6204338,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 654394821,
+      "lat": 50.9073852,
+      "lon": 11.5680649,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grüne Aue",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 654394850,
+      "lat": 50.909761,
+      "lon": 11.5721755,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Beutenberg Campus",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173406,
+      "lat": 50.9256986,
+      "lon": 11.5874156,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173407,
+      "lat": 50.9257182,
+      "lon": 11.5882145,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173408,
+      "lat": 50.9254961,
+      "lon": 11.5876093,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "1",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173410,
+      "lat": 50.9254796,
+      "lon": 11.5874865,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "2",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173416,
+      "lat": 50.9255613,
+      "lon": 11.5875357,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "3",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173417,
+      "lat": 50.9257763,
+      "lon": 11.588415,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "Endstation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173418,
+      "lat": 50.9258543,
+      "lon": 11.5881984,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173419,
+      "lat": 50.9258018,
+      "lon": 11.5879172,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655173420,
+      "lat": 50.9257545,
+      "lon": 11.5877317,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663127716,
+      "lat": 50.9244592,
+      "lon": 11.5768795,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Westbahnhofstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663127717,
+      "lat": 50.9245853,
+      "lon": 11.5784156,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Westbahnhofstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663127718,
+      "lat": 50.9235566,
+      "lon": 11.5784882,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "dfi": "yes",
+        "highway": "bus_stop",
+        "name": "Westbahnhof",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663127719,
+      "lat": 50.9242262,
+      "lon": 11.5781655,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Westbahnhofstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666739257,
+      "lat": 50.9317731,
+      "lon": 11.5800766,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 672788445,
+      "lat": 50.878364,
+      "lon": 11.6210844,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733259,
+      "lat": 50.9295898,
+      "lon": 11.579429,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Bachstraße",
+        "operator": "Universitätsklinikum Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676313257,
+      "lat": 50.8985357,
+      "lon": 11.5856525,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 705803371,
+      "lat": 50.9508934,
+      "lon": 11.6049288,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 717469829,
+      "lat": 50.95227,
+      "lon": 11.5963433,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 717469832,
+      "lat": 50.9520519,
+      "lon": 11.5967214,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 739437447,
+      "lat": 50.9285491,
+      "lon": 11.597996,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 751790387,
+      "lat": 50.9510504,
+      "lon": 11.5571735,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 790001664,
+      "lat": 50.9538782,
+      "lon": 11.6037881,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Closewitzer Straße",
+        "network": "VMT",
+        "operator": "JenNah",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851561540,
+      "lat": 50.8813648,
+      "lon": 11.617597,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851561546,
+      "lat": 50.8791892,
+      "lon": 11.6238082,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Jena-Zentrum",
+        "ref": "54"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851561645,
+      "lat": 50.8812535,
+      "lon": 11.6176954,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851561881,
+      "lat": 50.8773977,
+      "lon": 11.6227367,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851561906,
+      "lat": 50.8812706,
+      "lon": 11.6180634,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851561959,
+      "lat": 50.8782875,
+      "lon": 11.6217083,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851562002,
+      "lat": 50.8787596,
+      "lon": 11.6066883,
+      "tags": {
+        "highway": "speed_camera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 863069681,
+      "lat": 50.9004789,
+      "lon": 11.5741223,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 884715118,
+      "lat": 50.9750851,
+      "lon": 11.5502103,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Krippendorf",
+        "operator": "JeNah",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1131119659,
+      "lat": 50.9508711,
+      "lon": 11.5587128,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Cospeda",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1153360261,
+      "lat": 50.8945504,
+      "lon": 11.5834324,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Winzerla",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1239936782,
+      "lat": 50.9301389,
+      "lon": 11.6324774,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1239936836,
+      "lat": 50.9307072,
+      "lon": 11.6327168,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1271121049,
+      "lat": 50.9060452,
+      "lon": 11.5696657,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1271121050,
+      "lat": 50.9061298,
+      "lon": 11.5693036,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280041616,
+      "lat": 50.9257521,
+      "lon": 11.5902394,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280041618,
+      "lat": 50.9258172,
+      "lon": 11.5901885,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1285087859,
+      "lat": 50.8986149,
+      "lon": 11.5727216,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1306051492,
+      "lat": 50.9008754,
+      "lon": 11.570262,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Friedrich-Zucker-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1353506529,
+      "lat": 50.9626597,
+      "lon": 11.6210027,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1400190962,
+      "lat": 50.8984838,
+      "lon": 11.5922729,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1400190963,
+      "lat": 50.8984858,
+      "lon": 11.5929759,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1507125069,
+      "lat": 50.9239074,
+      "lon": 11.5903275,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1507125070,
+      "lat": 50.9238932,
+      "lon": 11.590523,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1507126216,
+      "lat": 50.9240854,
+      "lon": 11.5908481,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1548431707,
+      "lat": 50.9591517,
+      "lon": 11.6195035,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1549401786,
+      "lat": 50.9620075,
+      "lon": 11.5183234,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1584091348,
+      "lat": 50.8768957,
+      "lon": 11.5932329,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1607573978,
+      "lat": 50.944604,
+      "lon": 11.5335744,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Carl-August",
+        "operator": "JES",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1607638895,
+      "lat": 50.9450842,
+      "lon": 11.5338384,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Carl-August",
+        "operator": "JES",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1626459086,
+      "lat": 50.9490898,
+      "lon": 11.6001781,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1626462952,
+      "lat": 50.9302112,
+      "lon": 11.5872258,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1631409213,
+      "lat": 50.96008,
+      "lon": 11.5176214,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1631409280,
+      "lat": 50.9275786,
+      "lon": 11.5310786,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Wochenendesiedlung",
+        "network": "VMT",
+        "operator": "JeNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1670964170,
+      "lat": 50.9026679,
+      "lon": 11.5726526,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Buchenweg",
+        "operator": "JeNah",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1677485264,
+      "lat": 50.9377099,
+      "lon": 11.5909046,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683503336,
+      "lat": 50.8855887,
+      "lon": 11.6574202,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1683503344,
+      "lat": 50.885943,
+      "lon": 11.6564288,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1684176144,
+      "lat": 50.9261949,
+      "lon": 11.5865658,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1684176158,
+      "lat": 50.9268967,
+      "lon": 11.5867181,
+      "tags": {
+        "highway": "traffic_signals",
+        "railway": "level_crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1687566994,
+      "lat": 50.899739,
+      "lon": 11.5734336,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1697360409,
+      "lat": 50.8670557,
+      "lon": 11.5978189,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1697360439,
+      "lat": 50.8770159,
+      "lon": 11.5933818,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712417612,
+      "lat": 50.8796405,
+      "lon": 11.6336928,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712853803,
+      "lat": 50.8839091,
+      "lon": 11.6059239,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712853805,
+      "lat": 50.8839942,
+      "lon": 11.6062323,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712853809,
+      "lat": 50.8842201,
+      "lon": 11.6192258,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712853824,
+      "lat": 50.8843385,
+      "lon": 11.6194728,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712853972,
+      "lat": 50.8863324,
+      "lon": 11.612478,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712854445,
+      "lat": 50.8812764,
+      "lon": 11.6303476,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Schlegelstraße",
+        "operator": "JES",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720326420,
+      "lat": 50.9343785,
+      "lon": 11.5937414,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1721472636,
+      "lat": 50.9326095,
+      "lon": 11.6548118,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788468202,
+      "lat": 50.8712957,
+      "lon": 11.5924433,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Jena-Göschwitz",
+        "ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1789167674,
+      "lat": 50.8706964,
+      "lon": 11.5978587,
+      "tags": {
+        "highway": "emergency_bay"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1789167686,
+      "lat": 50.870746,
+      "lon": 11.5982114,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1789167800,
+      "lat": 50.8728379,
+      "lon": 11.5953547,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Jena-Göschwitz",
+        "ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1798117415,
+      "lat": 50.867339,
+      "lon": 11.5982061,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1813499262,
+      "lat": 50.9337413,
+      "lon": 11.6250636,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1813499263,
+      "lat": 50.9338366,
+      "lon": 11.6236678,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823267122,
+      "lat": 50.9005001,
+      "lon": 11.5788637,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823271052,
+      "lat": 50.9008777,
+      "lon": 11.5783383,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823288314,
+      "lat": 50.9220603,
+      "lon": 11.5899815,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823288315,
+      "lat": 50.9220621,
+      "lon": 11.5899389,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1827293967,
+      "lat": 50.9269374,
+      "lon": 11.5875931,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830596793,
+      "lat": 50.9053892,
+      "lon": 11.5658718,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830615122,
+      "lat": 50.9342578,
+      "lon": 11.6071262,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830645421,
+      "lat": 50.9238631,
+      "lon": 11.5916717,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830645422,
+      "lat": 50.9238693,
+      "lon": 11.5837239,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1831120776,
+      "lat": 50.9303493,
+      "lon": 11.5924366,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1833464229,
+      "lat": 50.9275606,
+      "lon": 11.5803603,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1833464368,
+      "lat": 50.9300392,
+      "lon": 11.5838774,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1836681902,
+      "lat": 50.881084,
+      "lon": 11.6297819,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1836681904,
+      "lat": 50.8812273,
+      "lon": 11.6295684,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1843879902,
+      "lat": 50.8813894,
+      "lon": 11.6298795,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1844001962,
+      "lat": 50.8807435,
+      "lon": 11.6320531,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1844002106,
+      "lat": 50.8819001,
+      "lon": 11.6403976,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854397528,
+      "lat": 50.8995401,
+      "lon": 11.593032,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854491042,
+      "lat": 50.9067854,
+      "lon": 11.5807409,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1895322650,
+      "lat": 50.8873687,
+      "lon": 11.6536144,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1918304695,
+      "lat": 50.9311224,
+      "lon": 11.5944428,
+      "tags": {
+        "crossing": "unmarked",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1954777037,
+      "lat": 50.8842419,
+      "lon": 11.6000262,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1964184454,
+      "lat": 50.9242391,
+      "lon": 11.590414,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1998466662,
+      "lat": 50.92692,
+      "lon": 11.5872239,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026300665,
+      "lat": 50.9263857,
+      "lon": 11.5835544,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026300675,
+      "lat": 50.9266561,
+      "lon": 11.5835168,
+      "tags": {
+        "highway": "traffic_signals",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026415142,
+      "lat": 50.8768804,
+      "lon": 11.5938853,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026415158,
+      "lat": 50.8769704,
+      "lon": 11.5937307,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026686977,
+      "lat": 50.8837691,
+      "lon": 11.5948922,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bahnhof Göschwitz",
+        "public_transport": "platform",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026714390,
+      "lat": 50.8958713,
+      "lon": 11.5967921,
+      "tags": {
+        "direction": "S",
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026739577,
+      "lat": 50.9272358,
+      "lon": 11.5903193,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026739692,
+      "lat": 50.9413366,
+      "lon": 11.5915525,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026764409,
+      "lat": 50.9322125,
+      "lon": 11.5902063,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2029034848,
+      "lat": 50.9414621,
+      "lon": 11.5996397,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933392,
+      "lat": 50.9320022,
+      "lon": 11.606889,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Gabelsbergerstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933393,
+      "lat": 50.932028,
+      "lon": 11.6073778,
+      "tags": {
+        "direction": "backward",
+        "highway": "bus_stop",
+        "name": "Gabelsbergerstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933394,
+      "lat": 50.9292631,
+      "lon": 11.6002781,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Geschwister-Scholl-Straße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933397,
+      "lat": 50.9293474,
+      "lon": 11.6002021,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Geschwister-Scholl-Straße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933400,
+      "lat": 50.9341767,
+      "lon": 11.6075687,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jenzigweg",
+        "operator": "JES",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933401,
+      "lat": 50.934361,
+      "lon": 11.6077836,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "name": "Jenzigweg",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933448,
+      "lat": 50.9286057,
+      "lon": 11.5938394,
+      "tags": {
+        "highway": "traffic_signals",
+        "layer": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933450,
+      "lat": 50.9286098,
+      "lon": 11.5936863,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933515,
+      "lat": 50.9319556,
+      "lon": 11.6066971,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933573,
+      "lat": 50.9337676,
+      "lon": 11.6210344,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933622,
+      "lat": 50.9314097,
+      "lon": 11.6046202,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Schlippenstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933623,
+      "lat": 50.9314904,
+      "lon": 11.6045332,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Schlippenstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933624,
+      "lat": 50.9286096,
+      "lon": 11.5914756,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Steinweg",
+        "public_transport": "platform",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2045933625,
+      "lat": 50.9286782,
+      "lon": 11.5914981,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Steinweg",
+        "public_transport": "platform",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2053308533,
+      "lat": 50.8841474,
+      "lon": 11.5964963,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2053333336,
+      "lat": 50.9589892,
+      "lon": 11.6181089,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2062466211,
+      "lat": 50.8911847,
+      "lon": 11.5806596,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2077545387,
+      "lat": 50.8778413,
+      "lon": 11.6218807,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Abzweig nach Rutha",
+        "shelter": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2086388116,
+      "lat": 50.8812716,
+      "lon": 11.6032852,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2099818870,
+      "lat": 50.867108,
+      "lon": 11.5976271,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2102789679,
+      "lat": 50.925774,
+      "lon": 11.5906527,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2102789681,
+      "lat": 50.9259138,
+      "lon": 11.5908595,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2102789682,
+      "lat": 50.9261125,
+      "lon": 11.5904775,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2154506512,
+      "lat": 50.9445189,
+      "lon": 11.6038091,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2157306221,
+      "lat": 50.9024255,
+      "lon": 11.5979793,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2157306232,
+      "lat": 50.9023542,
+      "lon": 11.5978517,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2157306240,
+      "lat": 50.9025759,
+      "lon": 11.5979533,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2157392866,
+      "lat": 50.906,
+      "lon": 11.589518,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2157392894,
+      "lat": 50.9060773,
+      "lon": 11.5896388,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2157406789,
+      "lat": 50.9062094,
+      "lon": 11.5896106,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158803332,
+      "lat": 50.9331413,
+      "lon": 11.5727209,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2163420282,
+      "lat": 50.903848,
+      "lon": 11.5953102,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Wöllnitz",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2195066609,
+      "lat": 50.8966493,
+      "lon": 11.591918,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2197987009,
+      "lat": 50.8837724,
+      "lon": 11.6022819,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2269500783,
+      "lat": 50.9247769,
+      "lon": 11.5874605,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2269500788,
+      "lat": 50.924981,
+      "lon": 11.5873405,
+      "tags": {
+        "highway": "elevator"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301667026,
+      "lat": 50.887276,
+      "lon": 11.6153213,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Platanenstraße",
+        "operator": "JES",
+        "public_transport": "platform",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Sonderbord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301671673,
+      "lat": 50.8834243,
+      "lon": 11.6207853,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Universitätsklinikum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301675661,
+      "lat": 50.8924855,
+      "lon": 11.6027463,
+      "tags": {
+        "fee_zone": "30",
+        "highway": "bus_stop",
+        "name": "Lobeda",
+        "network": "VMT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301677213,
+      "lat": 50.8862639,
+      "lon": 11.6115777,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Neulobeda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301677218,
+      "lat": 50.8865062,
+      "lon": 11.6117885,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Neulobeda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305800651,
+      "lat": 50.886942,
+      "lon": 11.6163082,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305800675,
+      "lat": 50.8868132,
+      "lon": 11.6160426,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305807651,
+      "lat": 50.8846171,
+      "lon": 11.607574,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305807685,
+      "lat": 50.8846768,
+      "lon": 11.6075144,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305819521,
+      "lat": 50.8834605,
+      "lon": 11.6080868,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2370728982,
+      "lat": 50.934494,
+      "lon": 11.5935984,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2370728983,
+      "lat": 50.9345704,
+      "lon": 11.5938457,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2375260117,
+      "lat": 50.9358475,
+      "lon": 11.5894169,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392876775,
+      "lat": 50.9203853,
+      "lon": 11.5900404,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392876780,
+      "lat": 50.9205491,
+      "lon": 11.5897256,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392876797,
+      "lat": 50.9237054,
+      "lon": 11.5917604,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392876810,
+      "lat": 50.9238055,
+      "lon": 11.5920756,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2420233660,
+      "lat": 50.8838991,
+      "lon": 11.6015476,
+      "tags": {
+        "bicycle": "yes",
+        "highway": "street_lamp",
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2420233744,
+      "lat": 50.8871182,
+      "lon": 11.6156521,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425763838,
+      "lat": 50.8806716,
+      "lon": 11.6164886,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425763846,
+      "lat": 50.929761,
+      "lon": 11.5908693,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425763847,
+      "lat": 50.9299943,
+      "lon": 11.590503,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425763848,
+      "lat": 50.9301584,
+      "lon": 11.5908106,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2464861011,
+      "lat": 50.8814619,
+      "lon": 11.6175913,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2464861117,
+      "lat": 50.8864756,
+      "lon": 11.6092713,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2464862940,
+      "lat": 50.8859784,
+      "lon": 11.6096476,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2468018664,
+      "lat": 50.8906374,
+      "lon": 11.6118756,
+      "tags": {
+        "fee_zone": "30",
+        "highway": "bus_stop",
+        "name": "Drackendorfer Weg",
+        "network": "VMT",
+        "operator": "JES Verkehrsgesellschaft",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2469384400,
+      "lat": 50.8984916,
+      "lon": 11.5935546,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Burgaupark",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2469384401,
+      "lat": 50.8986721,
+      "lon": 11.5915357,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Burgaupark West"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2485637422,
+      "lat": 50.9432557,
+      "lon": 11.5935707,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2485694283,
+      "lat": 50.8848647,
+      "lon": 11.6136659,
+      "tags": {
+        "highway": "passing_place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2491623973,
+      "lat": 50.949831,
+      "lon": 11.6078514,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2503012319,
+      "lat": 50.9372424,
+      "lon": 11.5980211,
+      "tags": {
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2510935146,
+      "lat": 50.9277253,
+      "lon": 11.5835888,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2510935156,
+      "lat": 50.9518682,
+      "lon": 11.6131955,
+      "tags": {
+        "highway": "traffic_signals",
+        "note:de": "Ampel für stadtauswärtsverkehr"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2511413047,
+      "lat": 50.9362474,
+      "lon": 11.5721392,
+      "tags": {
+        "highway": "mini_roundabout"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317665,
+      "lat": 50.8785069,
+      "lon": 11.6211774,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317673,
+      "lat": 50.9147073,
+      "lon": 11.5871793,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317674,
+      "lat": 50.9148119,
+      "lon": 11.5875071,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317675,
+      "lat": 50.9149987,
+      "lon": 11.5868831,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317676,
+      "lat": 50.91511,
+      "lon": 11.5872907,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317678,
+      "lat": 50.9201779,
+      "lon": 11.5896061,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "70",
+        "traffic_sign": "DE:274:70"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317679,
+      "lat": 50.9205991,
+      "lon": 11.5899759,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "50",
+        "traffic_sign": "DE:274:50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527317682,
+      "lat": 50.9238559,
+      "lon": 11.590249,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "50",
+        "traffic_sign": "DE:274:50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528239658,
+      "lat": 50.9301937,
+      "lon": 11.5929152,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528239659,
+      "lat": 50.9302484,
+      "lon": 11.5924818,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528239660,
+      "lat": 50.9305624,
+      "lon": 11.5929325,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2529741505,
+      "lat": 50.8932248,
+      "lon": 11.5824504,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2533849334,
+      "lat": 50.8797544,
+      "lon": 11.6339215,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2533854702,
+      "lat": 50.8823924,
+      "lon": 11.6234694,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2539596249,
+      "lat": 50.9291884,
+      "lon": 11.5838383,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Johannisplatz",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2539596250,
+      "lat": 50.9291923,
+      "lon": 11.5836515,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Johannisplatz",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2539596260,
+      "lat": 50.9290616,
+      "lon": 11.5836158,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540120129,
+      "lat": 50.9286782,
+      "lon": 11.5906124,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540120153,
+      "lat": 50.9297801,
+      "lon": 11.5906336,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540120435,
+      "lat": 50.9293827,
+      "lon": 11.5906452,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Universität",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540120436,
+      "lat": 50.9294854,
+      "lon": 11.5907869,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Universität",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540395761,
+      "lat": 50.8882082,
+      "lon": 11.6120239,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540395764,
+      "lat": 50.8883249,
+      "lon": 11.6117931,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2544972486,
+      "lat": 50.929931,
+      "lon": 11.5910942,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2544972496,
+      "lat": 50.9300493,
+      "lon": 11.5911525,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2544972540,
+      "lat": 50.9312136,
+      "lon": 11.594317,
+      "tags": {
+        "crossing": "unmarked",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550927881,
+      "lat": 50.914758,
+      "lon": 11.5870192,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2557869136,
+      "lat": 50.9317995,
+      "lon": 11.6267568,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fuchslöcherstraße",
+        "operator": "JES",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2558766673,
+      "lat": 50.8920411,
+      "lon": 11.602849,
+      "tags": {
+        "highway": "street_lamp",
+        "man_made": "surveillance",
+        "surveillance": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103180,
+      "lat": 50.9256567,
+      "lon": 11.5821283,
+      "tags": {
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103182,
+      "lat": 50.9257427,
+      "lon": 11.582129,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103183,
+      "lat": 50.9258363,
+      "lon": 11.5824339,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103185,
+      "lat": 50.9259293,
+      "lon": 11.5821532,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103187,
+      "lat": 50.9262562,
+      "lon": 11.5835219,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103188,
+      "lat": 50.9263192,
+      "lon": 11.581798,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103190,
+      "lat": 50.9263822,
+      "lon": 11.5837204,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561249968,
+      "lat": 50.9228528,
+      "lon": 11.6003973,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561249971,
+      "lat": 50.9231962,
+      "lon": 11.600176,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561249972,
+      "lat": 50.9232023,
+      "lon": 11.5942501,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561249973,
+      "lat": 50.9232144,
+      "lon": 11.597951,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561249978,
+      "lat": 50.9233357,
+      "lon": 11.5949056,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561249979,
+      "lat": 50.9234582,
+      "lon": 11.5936061,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578587384,
+      "lat": 50.928476,
+      "lon": 11.5938434,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578650457,
+      "lat": 50.919974,
+      "lon": 11.5895551,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jenertal",
+        "public_transport": "platform",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578650458,
+      "lat": 50.9199769,
+      "lon": 11.5899381,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jenertal",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2581069086,
+      "lat": 50.9547774,
+      "lon": 11.6238867,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Brückenstraße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2592148045,
+      "lat": 50.8781217,
+      "lon": 11.5928704,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Göschwitz, Kirche",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2592148046,
+      "lat": 50.8795764,
+      "lon": 11.5934523,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Göschwitz, Kirche",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596170124,
+      "lat": 50.9217313,
+      "lon": 11.6039737,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596170129,
+      "lat": 50.9242259,
+      "lon": 11.5900266,
+      "tags": {
+        "bicycle": "yes",
+        "highway": "street_lamp",
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596170130,
+      "lat": 50.9302886,
+      "lon": 11.583247,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596170140,
+      "lat": 50.9359528,
+      "lon": 11.5897114,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596170141,
+      "lat": 50.9360864,
+      "lon": 11.5895644,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867618,
+      "lat": 50.9263196,
+      "lon": 11.5848411,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867627,
+      "lat": 50.9264288,
+      "lon": 11.5847875,
+      "tags": {
+        "bicycle": "yes",
+        "highway": "street_lamp",
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867665,
+      "lat": 50.9273139,
+      "lon": 11.5853855,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867666,
+      "lat": 50.9273919,
+      "lon": 11.5854288,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867668,
+      "lat": 50.9284309,
+      "lon": 11.5964624,
+      "tags": {
+        "bicycle": "yes",
+        "highway": "street_lamp",
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867669,
+      "lat": 50.928497,
+      "lon": 11.5965057,
+      "tags": {
+        "bicycle": "yes",
+        "highway": "street_lamp",
+        "information": "guidepost",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526029,
+      "lat": 50.9496498,
+      "lon": 11.6171433,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Am Steinbach",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526032,
+      "lat": 50.9500081,
+      "lon": 11.6182102,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Am Steinbach",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526061,
+      "lat": 50.9413877,
+      "lon": 11.5999072,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526062,
+      "lat": 50.941735,
+      "lon": 11.5991758,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526349,
+      "lat": 50.9498396,
+      "lon": 11.6174072,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526408,
+      "lat": 50.9519958,
+      "lon": 11.6210916,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2601526516,
+      "lat": 50.9551147,
+      "lon": 11.6239545,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "unmarked",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602287716,
+      "lat": 50.9098188,
+      "lon": 11.5719726,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Beutenberg Campus",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602287717,
+      "lat": 50.9186751,
+      "lon": 11.5694734,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fachhochschule",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602287719,
+      "lat": 50.9192094,
+      "lon": 11.5698549,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fachhochschule",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602287724,
+      "lat": 50.9148647,
+      "lon": 11.5702059,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602287725,
+      "lat": 50.9147738,
+      "lon": 11.5703174,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Zeiss-Werk",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602287726,
+      "lat": 50.9157116,
+      "lon": 11.5698589,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Zeiss-Werk",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602342930,
+      "lat": 50.9268207,
+      "lon": 11.5903269,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602342936,
+      "lat": 50.9268406,
+      "lon": 11.5904892,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602342946,
+      "lat": 50.9269755,
+      "lon": 11.5901309,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2604600941,
+      "lat": 50.9270689,
+      "lon": 11.5858837,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Holzmarkt",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2606267808,
+      "lat": 50.9265659,
+      "lon": 11.581107,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2606267814,
+      "lat": 50.9267149,
+      "lon": 11.5807128,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2606267816,
+      "lat": 50.9267447,
+      "lon": 11.5810836,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2606267819,
+      "lat": 50.9268623,
+      "lon": 11.5807853,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2606267954,
+      "lat": 50.9370339,
+      "lon": 11.5580836,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2607213967,
+      "lat": 50.931924,
+      "lon": 11.5944993,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saaleufer",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2607213970,
+      "lat": 50.9319347,
+      "lon": 11.5946359,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saaleufer",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144530,
+      "lat": 50.9606057,
+      "lon": 11.5204452,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144548,
+      "lat": 50.9595967,
+      "lon": 11.5159315,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144556,
+      "lat": 50.9577451,
+      "lon": 11.5098994,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144622,
+      "lat": 50.9586118,
+      "lon": 11.509895,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994652,
+      "lat": 50.8849826,
+      "lon": 11.6083062,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994656,
+      "lat": 50.8839368,
+      "lon": 11.6062865,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994659,
+      "lat": 50.8838809,
+      "lon": 11.6059566,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994661,
+      "lat": 50.8852566,
+      "lon": 11.6082579,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994666,
+      "lat": 50.8850384,
+      "lon": 11.6087085,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994669,
+      "lat": 50.8850333,
+      "lon": 11.6082499,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994670,
+      "lat": 50.8829367,
+      "lon": 11.6038484,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612754761,
+      "lat": 50.885985,
+      "lon": 11.6115607,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612754765,
+      "lat": 50.8863321,
+      "lon": 11.6124784,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991736,
+      "lat": 50.9285921,
+      "lon": 11.5940982,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991808,
+      "lat": 50.9297288,
+      "lon": 11.5870146,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991834,
+      "lat": 50.9299451,
+      "lon": 11.589141,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991835,
+      "lat": 50.9299636,
+      "lon": 11.5891432,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991837,
+      "lat": 50.9299838,
+      "lon": 11.5871895,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991839,
+      "lat": 50.9300039,
+      "lon": 11.5871927,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613659428,
+      "lat": 50.8952953,
+      "lon": 11.592932,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613660637,
+      "lat": 50.8983113,
+      "lon": 11.5925087,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613660646,
+      "lat": 50.8987738,
+      "lon": 11.5925887,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121061,
+      "lat": 50.9320064,
+      "lon": 11.57924,
+      "tags": {
+        "bench": "no",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Am Steiger",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121070,
+      "lat": 50.9046307,
+      "lon": 11.5584334,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ammerbach, Ort",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121074,
+      "lat": 50.89462,
+      "lon": 11.5784736,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bertolt-Brecht-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121083,
+      "lat": 50.8999681,
+      "lon": 11.578782,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Damaschkeweg",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121084,
+      "lat": 50.9001702,
+      "lon": 11.5789924,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Damaschkeweg",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121085,
+      "lat": 50.8984769,
+      "lon": 11.5858197,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Freizeitbad",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "tram": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121087,
+      "lat": 50.8986306,
+      "lon": 11.5850209,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Freizeitbad",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121088,
+      "lat": 50.90593,
+      "lon": 11.5657939,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grüne Aue",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121089,
+      "lat": 50.9347233,
+      "lon": 11.5656163,
+      "tags": {
+        "bus": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Hautklinik",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121090,
+      "lat": 50.9349482,
+      "lon": 11.5652847,
+      "tags": {
+        "bus": "yes",
+        "direction": "backward",
+        "highway": "bus_stop",
+        "name": "Hautklinik",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121091,
+      "lat": 50.9132036,
+      "lon": 11.5721708,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hermann-Löns-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121094,
+      "lat": 50.896308,
+      "lon": 11.5740264,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hugo-Schrade-Straße",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121101,
+      "lat": 50.9232149,
+      "lon": 11.597803,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kernbergstraße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no",
+        "wheelchair:descirption": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121105,
+      "lat": 50.9232853,
+      "lon": 11.5983335,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kernbergstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no",
+        "wheelchair:descirption": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121107,
+      "lat": 50.86939,
+      "lon": 11.5673034,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Leutra, Wendeschleife",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121108,
+      "lat": 50.8673523,
+      "lon": 11.5967405,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maua, Ort",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121109,
+      "lat": 50.8673549,
+      "lon": 11.5893651,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maua, Siedlung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121110,
+      "lat": 50.8926783,
+      "lon": 11.5810702,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Oßmaritzer Straße",
+        "operator": "Jenaer Nahverkehr GmbH",
+        "public_transport": "platform",
+        "wheelchair": "yes",
+        "wheelchair:description": "Mit Kasseler Board"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2625121184,
+      "lat": 50.8916712,
+      "lon": 11.5852208,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Winzergasse",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2627910117,
+      "lat": 50.892628,
+      "lon": 11.6021816,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lobeda",
+        "public_transport": "platform",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2633942092,
+      "lat": 50.964777,
+      "lon": 11.6218481,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Mozartweg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2633942099,
+      "lat": 50.9668189,
+      "lon": 11.6243881,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Anton-Bruckner-Weg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2635413513,
+      "lat": 50.8793155,
+      "lon": 11.6202671,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2651936540,
+      "lat": 50.892372,
+      "lon": 11.6090407,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2673005992,
+      "lat": 50.953605,
+      "lon": 11.5367138,
+      "tags": {
+        "highway": "emergency_access_point",
+        "ref": "J-3044"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2673005993,
+      "lat": 50.9585464,
+      "lon": 11.5230514,
+      "tags": {
+        "highway": "emergency_access_point",
+        "ref": "J-3041"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2673005994,
+      "lat": 50.9634932,
+      "lon": 11.5356424,
+      "tags": {
+        "highway": "emergency_access_point",
+        "ref": "J-3043"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2673005995,
+      "lat": 50.9708649,
+      "lon": 11.5917442,
+      "tags": {
+        "highway": "emergency_access_point",
+        "ref": "J-3054"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2680841918,
+      "lat": 50.903733,
+      "lon": 11.5948334,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Wöllnitz",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712681570,
+      "lat": 50.8834739,
+      "lon": 11.620181,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712681572,
+      "lat": 50.8835859,
+      "lon": 11.6204154,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712681575,
+      "lat": 50.88376,
+      "lon": 11.6198145,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712681584,
+      "lat": 50.8838769,
+      "lon": 11.6200427,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712681759,
+      "lat": 50.8882576,
+      "lon": 11.6127782,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712681789,
+      "lat": 50.8839205,
+      "lon": 11.6194621,
+      "tags": {
+        "direction": "forward",
+        "highway": "bus_stop",
+        "name": "Universitätsklinikum",
+        "operator": "JES",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2726018541,
+      "lat": 50.9244132,
+      "lon": 11.5920319,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2727209728,
+      "lat": 50.8987595,
+      "lon": 11.5801664,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2727209781,
+      "lat": 50.8990535,
+      "lon": 11.5798533,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2732513891,
+      "lat": 50.8848736,
+      "lon": 11.5882629,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2742252997,
+      "lat": 50.9300701,
+      "lon": 11.5874133,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2742253000,
+      "lat": 50.9300775,
+      "lon": 11.5872211,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2742253004,
+      "lat": 50.9300806,
+      "lon": 11.5869418,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2743278684,
+      "lat": 50.8829055,
+      "lon": 11.6236713,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing",
+        "traffic_calming": "island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2743278692,
+      "lat": 50.8834729,
+      "lon": 11.6242882,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing",
+        "traffic_calming": "island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2758962146,
+      "lat": 50.8631807,
+      "lon": 11.5995779,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2758962170,
+      "lat": 50.866476,
+      "lon": 11.6001029,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2759465326,
+      "lat": 50.9068264,
+      "lon": 11.5692047,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2784944507,
+      "lat": 50.8789461,
+      "lon": 11.6378136,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2785007495,
+      "lat": 50.8760718,
+      "lon": 11.6366972,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "sloped_curb": "yes",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2801422870,
+      "lat": 50.9053634,
+      "lon": 11.5245971,
+      "tags": {
+        "highway": "emergency_access_point",
+        "phone": "112",
+        "ref": "J-6639"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2801422871,
+      "lat": 50.937478,
+      "lon": 11.5484863,
+      "tags": {
+        "highway": "emergency_access_point",
+        "phone": "112",
+        "ref": "J-6708"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2820541155,
+      "lat": 50.9206922,
+      "lon": 11.5469944,
+      "tags": {
+        "highway": "emergency_access_point",
+        "phone": "112",
+        "ref": "J-6718"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906955101,
+      "lat": 50.9301779,
+      "lon": 11.5842185,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906955102,
+      "lat": 50.9320765,
+      "lon": 11.5913857,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906955103,
+      "lat": 50.9322585,
+      "lon": 11.5910907,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906955132,
+      "lat": 50.9338103,
+      "lon": 11.5908047,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "horse": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906955137,
+      "lat": 50.9338982,
+      "lon": 11.590502,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "horse": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906955138,
+      "lat": 50.9339039,
+      "lon": 11.5907103,
+      "tags": {
+        "bicycle": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "horse": "no",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657060,
+      "lat": 50.8811435,
+      "lon": 11.6300997,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657065,
+      "lat": 50.8812945,
+      "lon": 11.630159,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657066,
+      "lat": 50.8813386,
+      "lon": 11.6296138,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657068,
+      "lat": 50.88203,
+      "lon": 11.62331,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657069,
+      "lat": 50.8820905,
+      "lon": 11.6235791,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657071,
+      "lat": 50.8821604,
+      "lon": 11.6231611,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657074,
+      "lat": 50.8822386,
+      "lon": 11.6236407,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916657079,
+      "lat": 50.8823162,
+      "lon": 11.6232438,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2917287670,
+      "lat": 50.9187683,
+      "lon": 11.5483426,
+      "tags": {
+        "highway": "emergency_access_point",
+        "phone": "112",
+        "ref": "J-6635"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703745,
+      "lat": 50.9320731,
+      "lon": 11.56625,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Huttenstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703746,
+      "lat": 50.9321855,
+      "lon": 11.5661815,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Huttenstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703747,
+      "lat": 50.9308156,
+      "lon": 11.5704897,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Katharinenstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703748,
+      "lat": 50.9308285,
+      "lon": 11.5706526,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Katharinenstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703749,
+      "lat": 50.935509,
+      "lon": 11.5582022,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Langetal",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703750,
+      "lat": 50.9340056,
+      "lon": 11.5606137,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Talstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936703751,
+      "lat": 50.9342474,
+      "lon": 11.5604386,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Talstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "stop_position",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936711444,
+      "lat": 50.9333071,
+      "lon": 11.5717217,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ebertstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936711445,
+      "lat": 50.9333206,
+      "lon": 11.5721297,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ebertstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936711446,
+      "lat": 50.9327298,
+      "lon": 11.5751628,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Humboldtstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936711447,
+      "lat": 50.9328255,
+      "lon": 11.5750714,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Humboldtstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939819981,
+      "lat": 50.9317885,
+      "lon": 11.6063978,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Gabelsbergerstraße",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939819984,
+      "lat": 50.8863449,
+      "lon": 11.6499133,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939819985,
+      "lat": 50.8863688,
+      "lon": 11.6495668,
+      "tags": {
+        "bin": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827908,
+      "lat": 50.9320046,
+      "lon": 11.6582789,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827909,
+      "lat": 50.9322884,
+      "lon": 11.6107643,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827911,
+      "lat": 50.9333701,
+      "lon": 11.6066217,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827913,
+      "lat": 50.933741,
+      "lon": 11.6256276,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827914,
+      "lat": 50.9337997,
+      "lon": 11.6111781,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827915,
+      "lat": 50.9338562,
+      "lon": 11.6218485,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair:description": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827916,
+      "lat": 50.9338623,
+      "lon": 11.623206,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827918,
+      "lat": 50.9321785,
+      "lon": 11.6132223,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Steinborn",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827919,
+      "lat": 50.931955,
+      "lon": 11.6583577,
+      "tags": {
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Wogau",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827920,
+      "lat": 50.9326844,
+      "lon": 11.6544931,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Wogau",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939827921,
+      "lat": 50.9329528,
+      "lon": 11.6543603,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Wogau",
+        "network": "VMT",
+        "operator": "JeNah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair:description": "Kein Kasseler Bord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2965904441,
+      "lat": 50.8775719,
+      "lon": 11.6227175,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Abzweig nach Rutha",
+        "shelter": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2965904452,
+      "lat": 50.8773532,
+      "lon": 11.6225986,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2994353166,
+      "lat": 50.8866805,
+      "lon": 11.6166989,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Platanenstraße",
+        "operator": "JES",
+        "public_transport": "platform",
+        "wheelchair": "yes",
+        "wheelchair:description": "Kasseler Sonderbord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2994486161,
+      "lat": 50.9505705,
+      "lon": 11.5545073,
+      "tags": {
+        "highway": "turning_circle",
+        "name": "Jasminweg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494625,
+      "lat": 50.8773891,
+      "lon": 11.622676,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494626,
+      "lat": 50.8775451,
+      "lon": 11.6225329,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494627,
+      "lat": 50.8777947,
+      "lon": 11.6222136,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494628,
+      "lat": 50.878033,
+      "lon": 11.6218622,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494629,
+      "lat": 50.8782628,
+      "lon": 11.6215751,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494630,
+      "lat": 50.8785262,
+      "lon": 11.6213346,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494631,
+      "lat": 50.878741,
+      "lon": 11.6210822,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995494632,
+      "lat": 50.8789489,
+      "lon": 11.6208256,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496033,
+      "lat": 50.8791701,
+      "lon": 11.6205554,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496034,
+      "lat": 50.8794229,
+      "lon": 11.6202463,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496035,
+      "lat": 50.87962,
+      "lon": 11.6200134,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496036,
+      "lat": 50.8798146,
+      "lon": 11.6197678,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496037,
+      "lat": 50.880016,
+      "lon": 11.6195264,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496038,
+      "lat": 50.8802223,
+      "lon": 11.6192639,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496039,
+      "lat": 50.8804328,
+      "lon": 11.6190047,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496040,
+      "lat": 50.8806396,
+      "lon": 11.6187541,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496041,
+      "lat": 50.88084,
+      "lon": 11.6185076,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496042,
+      "lat": 50.8810489,
+      "lon": 11.618251,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496043,
+      "lat": 50.8812519,
+      "lon": 11.6179995,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496044,
+      "lat": 50.8815004,
+      "lon": 11.6176827,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496045,
+      "lat": 50.8817964,
+      "lon": 11.617294,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496046,
+      "lat": 50.8820844,
+      "lon": 11.6169417,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496047,
+      "lat": 50.8822623,
+      "lon": 11.6167164,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496048,
+      "lat": 50.8825386,
+      "lon": 11.6163836,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496049,
+      "lat": 50.8827753,
+      "lon": 11.616088,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496050,
+      "lat": 50.8830173,
+      "lon": 11.6157933,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496051,
+      "lat": 50.8832668,
+      "lon": 11.6154859,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496052,
+      "lat": 50.8835254,
+      "lon": 11.61517,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496053,
+      "lat": 50.8837771,
+      "lon": 11.6148617,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496054,
+      "lat": 50.8840181,
+      "lon": 11.6145738,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496055,
+      "lat": 50.8842612,
+      "lon": 11.6142732,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496056,
+      "lat": 50.8845144,
+      "lon": 11.6139632,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496057,
+      "lat": 50.8847655,
+      "lon": 11.6136566,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496058,
+      "lat": 50.8850183,
+      "lon": 11.6133517,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496059,
+      "lat": 50.8852801,
+      "lon": 11.6130333,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496060,
+      "lat": 50.8855285,
+      "lon": 11.6127276,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496061,
+      "lat": 50.8857796,
+      "lon": 11.6124201,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496062,
+      "lat": 50.8860286,
+      "lon": 11.6121212,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496063,
+      "lat": 50.8862792,
+      "lon": 11.6118214,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496064,
+      "lat": 50.8865351,
+      "lon": 11.6115063,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496065,
+      "lat": 50.8867728,
+      "lon": 11.6112116,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496066,
+      "lat": 50.8870271,
+      "lon": 11.6108881,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496072,
+      "lat": 50.8877292,
+      "lon": 11.6098761,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496074,
+      "lat": 50.8879498,
+      "lon": 11.6095018,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496077,
+      "lat": 50.8881421,
+      "lon": 11.6091681,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496078,
+      "lat": 50.8883222,
+      "lon": 11.6088581,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496081,
+      "lat": 50.8884947,
+      "lon": 11.6085456,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496083,
+      "lat": 50.888655,
+      "lon": 11.6082754,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496085,
+      "lat": 50.8888297,
+      "lon": 11.6079731,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496088,
+      "lat": 50.8890151,
+      "lon": 11.6076487,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496090,
+      "lat": 50.8891738,
+      "lon": 11.6073701,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496093,
+      "lat": 50.8893463,
+      "lon": 11.6070703,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496095,
+      "lat": 50.8895376,
+      "lon": 11.6067324,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496098,
+      "lat": 50.8897155,
+      "lon": 11.6064148,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496100,
+      "lat": 50.8899083,
+      "lon": 11.6060803,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496102,
+      "lat": 50.8900707,
+      "lon": 11.6057873,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496105,
+      "lat": 50.8902604,
+      "lon": 11.6054629,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496107,
+      "lat": 50.890441,
+      "lon": 11.6051538,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496109,
+      "lat": 50.8906194,
+      "lon": 11.6048371,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496112,
+      "lat": 50.8908208,
+      "lon": 11.6044797,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496114,
+      "lat": 50.8909821,
+      "lon": 11.604201,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496117,
+      "lat": 50.8911739,
+      "lon": 11.6038809,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496120,
+      "lat": 50.8913652,
+      "lon": 11.6036048,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496124,
+      "lat": 50.8915628,
+      "lon": 11.6033406,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496128,
+      "lat": 50.8917744,
+      "lon": 11.6030857,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496134,
+      "lat": 50.8922835,
+      "lon": 11.6026419,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496138,
+      "lat": 50.8925313,
+      "lon": 11.6024691,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496143,
+      "lat": 50.8928113,
+      "lon": 11.6023438,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496151,
+      "lat": 50.8931019,
+      "lon": 11.6022405,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496158,
+      "lat": 50.8933636,
+      "lon": 11.6021795,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496164,
+      "lat": 50.8936024,
+      "lon": 11.6021431,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496168,
+      "lat": 50.8938604,
+      "lon": 11.6021211,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496175,
+      "lat": 50.8940944,
+      "lon": 11.6020957,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496181,
+      "lat": 50.8943529,
+      "lon": 11.6020711,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496184,
+      "lat": 50.8946286,
+      "lon": 11.6020457,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496193,
+      "lat": 50.8949037,
+      "lon": 11.6020135,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496200,
+      "lat": 50.8951595,
+      "lon": 11.6019864,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496205,
+      "lat": 50.8954037,
+      "lon": 11.6019534,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496211,
+      "lat": 50.8956585,
+      "lon": 11.6019178,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496215,
+      "lat": 50.8959512,
+      "lon": 11.6018501,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496220,
+      "lat": 50.8962311,
+      "lon": 11.6017747,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496222,
+      "lat": 50.8965227,
+      "lon": 11.6016748,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496225,
+      "lat": 50.8968032,
+      "lon": 11.6015697,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496228,
+      "lat": 50.8970692,
+      "lon": 11.6014563,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496232,
+      "lat": 50.8973229,
+      "lon": 11.6013402,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496237,
+      "lat": 50.8975745,
+      "lon": 11.6012259,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496240,
+      "lat": 50.8980621,
+      "lon": 11.6009752,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496243,
+      "lat": 50.8983126,
+      "lon": 11.600849,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496246,
+      "lat": 50.8985685,
+      "lon": 11.6007051,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496249,
+      "lat": 50.8988356,
+      "lon": 11.6005687,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496251,
+      "lat": 50.899085,
+      "lon": 11.6004366,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496253,
+      "lat": 50.8993462,
+      "lon": 11.6002943,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496257,
+      "lat": 50.8996004,
+      "lon": 11.6001639,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496259,
+      "lat": 50.8998509,
+      "lon": 11.6000318,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496262,
+      "lat": 50.9001062,
+      "lon": 11.5998895,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496265,
+      "lat": 50.9003583,
+      "lon": 11.5997489,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496268,
+      "lat": 50.9006142,
+      "lon": 11.5996007,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496271,
+      "lat": 50.9008593,
+      "lon": 11.5994423,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496278,
+      "lat": 50.9015782,
+      "lon": 11.5988571,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496282,
+      "lat": 50.901809,
+      "lon": 11.5986166,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496284,
+      "lat": 50.9020295,
+      "lon": 11.5983693,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496287,
+      "lat": 50.9022202,
+      "lon": 11.598128,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496291,
+      "lat": 50.9025578,
+      "lon": 11.5977028,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496292,
+      "lat": 50.902765,
+      "lon": 11.5973505,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496293,
+      "lat": 50.9029818,
+      "lon": 11.5969101,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496294,
+      "lat": 50.9032072,
+      "lon": 11.5964545,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496295,
+      "lat": 50.9034144,
+      "lon": 11.5959887,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496296,
+      "lat": 50.9036152,
+      "lon": 11.5955178,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496297,
+      "lat": 50.9038064,
+      "lon": 11.5950266,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496298,
+      "lat": 50.903988,
+      "lon": 11.5945321,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496299,
+      "lat": 50.9041568,
+      "lon": 11.5940459,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496300,
+      "lat": 50.9043437,
+      "lon": 11.593553,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496301,
+      "lat": 50.904521,
+      "lon": 11.5930635,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496302,
+      "lat": 50.9046951,
+      "lon": 11.5925622,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496303,
+      "lat": 50.9048788,
+      "lon": 11.5920778,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496304,
+      "lat": 50.9050732,
+      "lon": 11.5915611,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496305,
+      "lat": 50.9052527,
+      "lon": 11.5911258,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496306,
+      "lat": 50.9054578,
+      "lon": 11.5906601,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496307,
+      "lat": 50.9056554,
+      "lon": 11.5902637,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496308,
+      "lat": 50.9058433,
+      "lon": 11.5898928,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496309,
+      "lat": 50.9060644,
+      "lon": 11.5895438,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496310,
+      "lat": 50.9061883,
+      "lon": 11.5893643,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496311,
+      "lat": 50.9063806,
+      "lon": 11.5890611,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496312,
+      "lat": 50.9065835,
+      "lon": 11.5887664,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496313,
+      "lat": 50.9067811,
+      "lon": 11.5884869,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496314,
+      "lat": 50.907031,
+      "lon": 11.5881854,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496315,
+      "lat": 50.907297,
+      "lon": 11.5879009,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496316,
+      "lat": 50.9075704,
+      "lon": 11.5876282,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496317,
+      "lat": 50.9078577,
+      "lon": 11.5873538,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496318,
+      "lat": 50.9081386,
+      "lon": 11.5871133,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496319,
+      "lat": 50.9084281,
+      "lon": 11.5868948,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496320,
+      "lat": 50.9087378,
+      "lon": 11.5866915,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496321,
+      "lat": 50.9090561,
+      "lon": 11.5865035,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496322,
+      "lat": 50.9093551,
+      "lon": 11.5863527,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496323,
+      "lat": 50.9096702,
+      "lon": 11.5862189,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496324,
+      "lat": 50.9099863,
+      "lon": 11.5861072,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496325,
+      "lat": 50.9103131,
+      "lon": 11.5860038,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496326,
+      "lat": 50.9106282,
+      "lon": 11.5859378,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496327,
+      "lat": 50.9109496,
+      "lon": 11.585887,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496328,
+      "lat": 50.9112807,
+      "lon": 11.58587,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496329,
+      "lat": 50.9116011,
+      "lon": 11.5858565,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496330,
+      "lat": 50.9119225,
+      "lon": 11.585887,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496331,
+      "lat": 50.9122664,
+      "lon": 11.5859462,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496332,
+      "lat": 50.9125932,
+      "lon": 11.5860157,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496433,
+      "lat": 50.9129168,
+      "lon": 11.5861088,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496434,
+      "lat": 50.9132553,
+      "lon": 11.5862257,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496435,
+      "lat": 50.9135554,
+      "lon": 11.5863714,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496436,
+      "lat": 50.9138683,
+      "lon": 11.5865323,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496437,
+      "lat": 50.9141834,
+      "lon": 11.5867186,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496438,
+      "lat": 50.9144984,
+      "lon": 11.5869032,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496439,
+      "lat": 50.9147803,
+      "lon": 11.5870929,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496440,
+      "lat": 50.915342,
+      "lon": 11.5875757,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496441,
+      "lat": 50.9156293,
+      "lon": 11.5877755,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496442,
+      "lat": 50.9159347,
+      "lon": 11.5880144,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496443,
+      "lat": 50.9162348,
+      "lon": 11.5882379,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496444,
+      "lat": 50.9165188,
+      "lon": 11.5884683,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496445,
+      "lat": 50.9168125,
+      "lon": 11.5886986,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496446,
+      "lat": 50.9171083,
+      "lon": 11.5889002,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496447,
+      "lat": 50.9174201,
+      "lon": 11.5890967,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496448,
+      "lat": 50.9177148,
+      "lon": 11.5892576,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496449,
+      "lat": 50.9180159,
+      "lon": 11.589388,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496450,
+      "lat": 50.9183416,
+      "lon": 11.5895015,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496451,
+      "lat": 50.9186694,
+      "lon": 11.5895828,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496452,
+      "lat": 50.9189919,
+      "lon": 11.5896319,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496453,
+      "lat": 50.919325,
+      "lon": 11.5896743,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496454,
+      "lat": 50.9196582,
+      "lon": 11.5897048,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496455,
+      "lat": 50.9199465,
+      "lon": 11.5897437,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496456,
+      "lat": 50.9203106,
+      "lon": 11.5897827,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496457,
+      "lat": 50.9205188,
+      "lon": 11.5898301,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496458,
+      "lat": 50.9208477,
+      "lon": 11.5898538,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496459,
+      "lat": 50.9211541,
+      "lon": 11.5898741,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496460,
+      "lat": 50.9214712,
+      "lon": 11.5899046,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496461,
+      "lat": 50.9217873,
+      "lon": 11.5899334,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496462,
+      "lat": 50.9220959,
+      "lon": 11.5899622,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496463,
+      "lat": 50.9224173,
+      "lon": 11.5900113,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496464,
+      "lat": 50.9227258,
+      "lon": 11.5900571,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496465,
+      "lat": 50.9230376,
+      "lon": 11.5901502,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496466,
+      "lat": 50.9233408,
+      "lon": 11.5902349,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496467,
+      "lat": 50.9236451,
+      "lon": 11.5903501,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496468,
+      "lat": 50.923974,
+      "lon": 11.5904653,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496469,
+      "lat": 50.9240562,
+      "lon": 11.5906855,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496470,
+      "lat": 50.924196,
+      "lon": 11.5905262,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496471,
+      "lat": 50.9244138,
+      "lon": 11.5905652,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496472,
+      "lat": 50.9246829,
+      "lon": 11.5906008,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496473,
+      "lat": 50.9249413,
+      "lon": 11.5906092,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496474,
+      "lat": 50.9251986,
+      "lon": 11.5905906,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496475,
+      "lat": 50.9254719,
+      "lon": 11.5905957,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496476,
+      "lat": 50.9257431,
+      "lon": 11.5905737,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496477,
+      "lat": 50.9260836,
+      "lon": 11.5905584,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995496478,
+      "lat": 50.9268801,
+      "lon": 11.590389,
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995526256,
+      "lat": 50.9593356,
+      "lon": 11.5165324,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Isserstedt B 7",
+        "network": "VMT",
+        "operator": "JES",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995526257,
+      "lat": 50.95946,
+      "lon": 11.516683,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Isserstedt B 7",
+        "network": "VMT",
+        "operator": "JES",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995526258,
+      "lat": 50.9605477,
+      "lon": 11.5205705,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Isserstedt, Ort",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995526259,
+      "lat": 50.9606682,
+      "lon": 11.5203657,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Isserstedt, Ort",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2998610239,
+      "lat": 50.8895923,
+      "lon": 11.6105538,
+      "tags": {
+        "highway": "turning_circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3001115891,
+      "lat": 50.9304988,
+      "lon": 11.5711736,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3001115896,
+      "lat": 50.9306195,
+      "lon": 11.571106,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3048180630,
+      "lat": 50.9269228,
+      "lon": 11.5893146,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3048181933,
+      "lat": 50.923604,
+      "lon": 11.5926316,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "fee_zone": "30",
+        "highway": "bus_stop",
+        "name": "Wöllnitzer Straße",
+        "network": "VMT",
+        "operator": "Jenaer Nahverkehrsgesellschaft",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no",
+        "wheelchair:descirption": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3048181935,
+      "lat": 50.9237844,
+      "lon": 11.5922992,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "fee_zone": "30",
+        "highway": "bus_stop",
+        "name": "Wöllnitzer Straße",
+        "network": "VMT",
+        "operator": "Jenaer Nahverkehrsgesellschaft",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no",
+        "wheelchair:descirption": "Kasseler Bord vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3050393237,
+      "lat": 50.9405358,
+      "lon": 11.5935366,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3050393239,
+      "lat": 50.940606,
+      "lon": 11.5937817,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3050393240,
+      "lat": 50.9406762,
+      "lon": 11.5935315,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100083442,
+      "lat": 50.8931057,
+      "lon": 11.5916905,
+      "tags": {
+        "highway": "street_lamp",
+        "operator": "DB Netz AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100083443,
+      "lat": 50.8934154,
+      "lon": 11.5916236,
+      "tags": {
+        "highway": "street_lamp",
+        "operator": "DB Netz AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100083445,
+      "lat": 50.8936481,
+      "lon": 11.5915611,
+      "tags": {
+        "highway": "street_lamp",
+        "operator": "DB Netz AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100083446,
+      "lat": 50.8939214,
+      "lon": 11.5914595,
+      "tags": {
+        "highway": "street_lamp",
+        "operator": "DB Netz AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100083447,
+      "lat": 50.8941892,
+      "lon": 11.5913545,
+      "tags": {
+        "highway": "street_lamp",
+        "operator": "DB Netz AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100083448,
+      "lat": 50.8944679,
+      "lon": 11.591234,
+      "tags": {
+        "highway": "street_lamp",
+        "operator": "DB Netz AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3126013879,
+      "lat": 50.9502385,
+      "lon": 11.5361942,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "island",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3182799560,
+      "lat": 50.9098191,
+      "lon": 11.5726599,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3195513226,
+      "lat": 50.8930147,
+      "lon": 11.6023579,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3195513227,
+      "lat": 50.8930225,
+      "lon": 11.6021996,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3195777274,
+      "lat": 50.9342562,
+      "lon": 11.6068457,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3195777275,
+      "lat": 50.9342633,
+      "lon": 11.6073751,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3195777276,
+      "lat": 50.9343769,
+      "lon": 11.6071409,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3195842167,
+      "lat": 50.890731,
+      "lon": 11.5956509,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208164186,
+      "lat": 50.8707076,
+      "lon": 11.597712,
+      "tags": {
+        "highway": "emergency_bay"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208164206,
+      "lat": 50.8862676,
+      "lon": 11.609164,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208172762,
+      "lat": 50.876723,
+      "lon": 11.5937016,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208172763,
+      "lat": 50.8767641,
+      "lon": 11.5933911,
+      "tags": {
+        "crossing": "no",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208172765,
+      "lat": 50.8768083,
+      "lon": 11.5938565,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208835015,
+      "lat": 50.8929006,
+      "lon": 11.5851664,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208835016,
+      "lat": 50.8965432,
+      "lon": 11.5919838,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208835017,
+      "lat": 50.8966018,
+      "lon": 11.592164,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208835018,
+      "lat": 50.8967073,
+      "lon": 11.5919406,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208835019,
+      "lat": 50.8968215,
+      "lon": 11.5922274,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208835020,
+      "lat": 50.8974644,
+      "lon": 11.5923075,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218154070,
+      "lat": 50.941017,
+      "lon": 11.5926219,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218154071,
+      "lat": 50.942393,
+      "lon": 11.5944204,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218154075,
+      "lat": 50.9427558,
+      "lon": 11.5945647,
+      "tags": {
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218166020,
+      "lat": 50.9590705,
+      "lon": 11.5177768,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218166040,
+      "lat": 50.9597988,
+      "lon": 11.5156005,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218223931,
+      "lat": 50.9578078,
+      "lon": 11.5556894,
+      "tags": {
+        "highway": "sign",
+        "maxspeed": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218223952,
+      "lat": 50.9592462,
+      "lon": 11.5540591,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218223954,
+      "lat": 50.9595001,
+      "lon": 11.5533479,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218227190,
+      "lat": 50.9610075,
+      "lon": 11.5737987,
+      "tags": {
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218227191,
+      "lat": 50.9610961,
+      "lon": 11.5742872,
+      "tags": {
+        "highway": "give_way"
+      }
+    }
+  ]
+}

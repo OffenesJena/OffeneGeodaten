@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:45:01.901Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/56435847",
+      "properties": {
+        "@id": "way/56435847",
+        "abandoned": "yes",
+        "landuse": "forest",
+        "military": "range",
+        "name": "ehem. Schießstand"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.624345,
+              50.9709168
+            ],
+            [
+              11.6256968,
+              50.970525
+            ],
+            [
+              11.6231605,
+              50.9669287
+            ],
+            [
+              11.6216906,
+              50.9673341
+            ],
+            [
+              11.6217331,
+              50.9673924
+            ],
+            [
+              11.624345,
+              50.9709168
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

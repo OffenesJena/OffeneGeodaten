@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:32.896Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1357462832",
+      "properties": {
+        "@id": "node/1357462832",
+        "waterway": "fish_pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5809709,
+          50.9186544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1357462833",
+      "properties": {
+        "@id": "node/1357462833",
+        "waterway": "fish_pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887533,
+          50.9247826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121205770",
+      "properties": {
+        "@id": "way/121205770",
+        "waterway": "fish_pass"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5987167,
+            50.8947801
+          ],
+          [
+            11.598864,
+            50.8949828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121205773",
+      "properties": {
+        "@id": "way/121205773",
+        "boat": "no",
+        "name": "Saale",
+        "waterway": "fish_pass",
+        "wikipedia:de": "Saale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5987408,
+            50.8953864
+          ],
+          [
+            11.5987529,
+            50.8955891
+          ]
+        ]
+      }
+    }
+  ]
+}

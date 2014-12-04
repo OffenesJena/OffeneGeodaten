@@ -1,0 +1,108 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 48358882,
+      "nodes": [
+        614228770,
+        1509800117,
+        1509800119,
+        1509800122,
+        297476012,
+        297476016
+      ],
+      "tags": {
+        "landuse": "brownfield"
+      }
+    },
+    {
+      "type": "way",
+      "id": 295587478,
+      "nodes": [
+        2993255823,
+        2993255824,
+        2993255825,
+        2993255826,
+        2993255827,
+        2993255823
+      ],
+      "tags": {
+        "landuse": "brownfield",
+        "name": "unbebaute Abbruchfläche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2993255823,
+      "lat": 50.8859178,
+      "lon": 11.6165205
+    },
+    {
+      "type": "node",
+      "id": 2993255824,
+      "lat": 50.8865642,
+      "lon": 11.6157614
+    },
+    {
+      "type": "node",
+      "id": 2993255825,
+      "lat": 50.8866945,
+      "lon": 11.6158553
+    },
+    {
+      "type": "node",
+      "id": 2993255826,
+      "lat": 50.8865405,
+      "lon": 11.615174
+    },
+    {
+      "type": "node",
+      "id": 2993255827,
+      "lat": 50.8857503,
+      "lon": 11.6161396
+    },
+    {
+      "type": "node",
+      "id": 614228770,
+      "lat": 50.9271726,
+      "lon": 11.5662875
+    },
+    {
+      "type": "node",
+      "id": 1509800117,
+      "lat": 50.9266789,
+      "lon": 11.5665784
+    },
+    {
+      "type": "node",
+      "id": 1509800119,
+      "lat": 50.9267096,
+      "lon": 11.5667863
+    },
+    {
+      "type": "node",
+      "id": 297476012,
+      "lat": 50.9273641,
+      "lon": 11.5694098
+    },
+    {
+      "type": "node",
+      "id": 297476016,
+      "lat": 50.9280891,
+      "lon": 11.5691437
+    },
+    {
+      "type": "node",
+      "id": 1509800122,
+      "lat": 50.9270052,
+      "lon": 11.5679162
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:44.289Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/225141893",
+      "properties": {
+        "@id": "way/225141893",
+        "landuse": "greenfield"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.596656,
+              50.8977892
+            ],
+            [
+              11.596734,
+              50.8978319
+            ],
+            [
+              11.5984748,
+              50.8972116
+            ],
+            [
+              11.5984441,
+              50.8970762
+            ],
+            [
+              11.5983653,
+              50.8969387
+            ],
+            [
+              11.5978292,
+              50.8967414
+            ],
+            [
+              11.5973426,
+              50.8965624
+            ],
+            [
+              11.5968743,
+              50.8964668
+            ],
+            [
+              11.5967587,
+              50.8970561
+            ],
+            [
+              11.5966478,
+              50.8976817
+            ],
+            [
+              11.596656,
+              50.8977892
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

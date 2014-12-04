@@ -1,0 +1,1081 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:22.678Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/35069467",
+      "properties": {
+        "@id": "way/35069467",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6114309,
+            50.9461014
+          ],
+          [
+            11.6106923,
+            50.9456655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35150121",
+      "properties": {
+        "@id": "way/35150121",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6071612,
+            50.8893758
+          ],
+          [
+            11.6043458,
+            50.8909724
+          ],
+          [
+            11.6039306,
+            50.8912284
+          ],
+          [
+            11.6036169,
+            50.8914352
+          ],
+          [
+            11.6033956,
+            50.8916071
+          ],
+          [
+            11.6030689,
+            50.8918999
+          ],
+          [
+            11.6028499,
+            50.8921439
+          ],
+          [
+            11.6026079,
+            50.8924602
+          ],
+          [
+            11.6024744,
+            50.8926879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37921446",
+      "properties": {
+        "@id": "way/37921446",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6097427,
+            50.8878876
+          ],
+          [
+            11.6084714,
+            50.8886156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38541068",
+      "properties": {
+        "@id": "way/38541068",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6171961,
+            50.9495903
+          ],
+          [
+            11.6168427,
+            50.9493368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38541069",
+      "properties": {
+        "@id": "way/38541069",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6173419,
+            50.9496826
+          ],
+          [
+            11.6171961,
+            50.9495903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51094776",
+      "properties": {
+        "@id": "way/51094776",
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Karl-Marx-Allee",
+        "oneway": "yes",
+        "overtaking": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6101985,
+            50.8875521
+          ],
+          [
+            11.6101054,
+            50.8874592
+          ],
+          [
+            11.6099337,
+            50.887286
+          ],
+          [
+            11.6097928,
+            50.8870997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159190101",
+      "properties": {
+        "@id": "way/159190101",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "overtaking": "no",
+        "turn:lanes": "slight_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6141866,
+            50.8882449
+          ],
+          [
+            11.6140532,
+            50.8882754
+          ],
+          [
+            11.6139764,
+            50.8882973
+          ],
+          [
+            11.6137091,
+            50.8883618
+          ],
+          [
+            11.6133273,
+            50.8884258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159190105",
+      "properties": {
+        "@id": "way/159190105",
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "overtaking": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6107617,
+            50.8878976
+          ],
+          [
+            11.6103356,
+            50.8876504
+          ],
+          [
+            11.6101985,
+            50.8875521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159190110",
+      "properties": {
+        "@id": "way/159190110",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Karl-Marx-Allee",
+        "oneway": "yes",
+        "overtaking": "no",
+        "turn:lanes": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6097928,
+            50.8870997
+          ],
+          [
+            11.6095253,
+            50.8867336
+          ],
+          [
+            11.6093026,
+            50.8864187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159190134",
+      "properties": {
+        "@id": "way/159190134",
+        "bicycle": "no",
+        "destination": "Jena-Zentrum",
+        "destination:ref": "B 88",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "turn:lanes": "through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6141866,
+            50.8882449
+          ],
+          [
+            11.6138224,
+            50.8883818
+          ],
+          [
+            11.6135809,
+            50.8884542
+          ],
+          [
+            11.6133392,
+            50.8884982
+          ],
+          [
+            11.6130356,
+            50.8885503
+          ],
+          [
+            11.6126904,
+            50.8885945
+          ],
+          [
+            11.6123441,
+            50.8886176
+          ],
+          [
+            11.6120004,
+            50.8886217
+          ],
+          [
+            11.6115902,
+            50.8886076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234312237",
+      "properties": {
+        "@id": "way/234312237",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "overtaking": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6133273,
+            50.8884258
+          ],
+          [
+            11.6128335,
+            50.888479
+          ],
+          [
+            11.612549,
+            50.8884763
+          ],
+          [
+            11.6122829,
+            50.8884365
+          ],
+          [
+            11.6121543,
+            50.888413
+          ],
+          [
+            11.6120271,
+            50.888393
+          ],
+          [
+            11.6117575,
+            50.8883405
+          ],
+          [
+            11.6114794,
+            50.8882483
+          ],
+          [
+            11.611092,
+            50.8880588
+          ],
+          [
+            11.6107617,
+            50.8878976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234312238",
+      "properties": {
+        "@id": "way/234312238",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "turn:lanes": "slight_left;through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6149805,
+            50.8878937
+          ],
+          [
+            11.6147972,
+            50.8879887
+          ],
+          [
+            11.614576,
+            50.8880923
+          ],
+          [
+            11.6143786,
+            50.8881767
+          ],
+          [
+            11.6141866,
+            50.8882449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234312241",
+      "properties": {
+        "@id": "way/234312241",
+        "bicycle": "no",
+        "destination": "Jena-Zentrum",
+        "destination:ref": "B 88",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "60",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6104204,
+            50.888578
+          ],
+          [
+            11.6099787,
+            50.8885844
+          ],
+          [
+            11.609677,
+            50.8886152
+          ],
+          [
+            11.6092449,
+            50.8886747
+          ],
+          [
+            11.6090425,
+            50.8887075
+          ],
+          [
+            11.6088574,
+            50.8887493
+          ],
+          [
+            11.6086305,
+            50.8887987
+          ],
+          [
+            11.6083129,
+            50.8888882
+          ],
+          [
+            11.607912,
+            50.8890208
+          ],
+          [
+            11.6074725,
+            50.8892427
+          ],
+          [
+            11.6071612,
+            50.8893758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234312242",
+      "properties": {
+        "@id": "way/234312242",
+        "bicycle": "no",
+        "destination": "Jena-Zentrum",
+        "destination:ref": "B 88",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "turn:lanes": "none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6115902,
+            50.8886076
+          ],
+          [
+            11.6107889,
+            50.88859
+          ],
+          [
+            11.6104204,
+            50.888578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240877212",
+      "properties": {
+        "@id": "way/240877212",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6231456,
+            50.9539602
+          ],
+          [
+            11.6226488,
+            50.9533916
+          ],
+          [
+            11.6219004,
+            50.9526822
+          ],
+          [
+            11.6215594,
+            50.9523589
+          ],
+          [
+            11.6210916,
+            50.9519958
+          ],
+          [
+            11.6209581,
+            50.9519025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240881686",
+      "properties": {
+        "@id": "way/240881686",
+        "destination": "Jena",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6206871,
+            50.8793895
+          ],
+          [
+            11.6216348,
+            50.8792443
+          ],
+          [
+            11.6218229,
+            50.8792128
+          ],
+          [
+            11.6219334,
+            50.8791668
+          ],
+          [
+            11.6220138,
+            50.8791225
+          ],
+          [
+            11.6220996,
+            50.8790472
+          ],
+          [
+            11.6221295,
+            50.8789714
+          ],
+          [
+            11.6221364,
+            50.8789079
+          ],
+          [
+            11.6221311,
+            50.878854
+          ],
+          [
+            11.6221069,
+            50.878791
+          ],
+          [
+            11.6220696,
+            50.8787258
+          ],
+          [
+            11.6220148,
+            50.8786792
+          ],
+          [
+            11.6218895,
+            50.8786176
+          ],
+          [
+            11.6217894,
+            50.8785984
+          ],
+          [
+            11.6216597,
+            50.8785864
+          ],
+          [
+            11.6215442,
+            50.8785976
+          ],
+          [
+            11.6214276,
+            50.878624
+          ],
+          [
+            11.6213383,
+            50.8786737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551203",
+      "properties": {
+        "@id": "way/245551203",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6084714,
+            50.8886156
+          ],
+          [
+            11.6071612,
+            50.8893758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551204",
+      "properties": {
+        "@id": "way/245551204",
+        "bicycle": "no",
+        "destination": "Naumburg;Gera;Weimar",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6022469,
+            50.8934932
+          ],
+          [
+            11.6022021,
+            50.8940199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551205",
+      "properties": {
+        "@id": "way/245551205",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6024744,
+            50.8926879
+          ],
+          [
+            11.6023579,
+            50.8930147
+          ],
+          [
+            11.602325,
+            50.8931069
+          ],
+          [
+            11.6022469,
+            50.8934932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249515769",
+      "properties": {
+        "@id": "way/249515769",
+        "hazmat:water": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6160976,
+            50.8871024
+          ],
+          [
+            11.6154531,
+            50.8875995
+          ],
+          [
+            11.6149805,
+            50.8878937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579269",
+      "properties": {
+        "@id": "way/313579269",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6174874,
+            50.9497792
+          ],
+          [
+            11.6173419,
+            50.9496826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579270",
+      "properties": {
+        "@id": "way/313579270",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6209581,
+            50.9519025
+          ],
+          [
+            11.6206614,
+            50.9516656
+          ],
+          [
+            11.6203082,
+            50.9513943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579271",
+      "properties": {
+        "@id": "way/313579271",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.606743,
+            50.9434807
+          ],
+          [
+            11.6065499,
+            50.943373
+          ],
+          [
+            11.606025,
+            50.9430038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579272",
+      "properties": {
+        "@id": "way/313579272",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.606025,
+            50.9430038
+          ],
+          [
+            11.6046199,
+            50.9419147
+          ],
+          [
+            11.6034245,
+            50.9409672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579274",
+      "properties": {
+        "@id": "way/313579274",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6106923,
+            50.9456655
+          ],
+          [
+            11.6075215,
+            50.9438883
+          ],
+          [
+            11.6069043,
+            50.9435622
+          ],
+          [
+            11.606743,
+            50.9434807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579275",
+      "properties": {
+        "@id": "way/313579275",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6168427,
+            50.9493368
+          ],
+          [
+            11.6160555,
+            50.9487563
+          ],
+          [
+            11.614958,
+            50.9480359
+          ],
+          [
+            11.6137849,
+            50.947381
+          ],
+          [
+            11.6114309,
+            50.9461014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579277",
+      "properties": {
+        "@id": "way/313579277",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6203082,
+            50.9513943
+          ],
+          [
+            11.6197154,
+            50.950981
+          ],
+          [
+            11.6192881,
+            50.9507135
+          ],
+          [
+            11.6184254,
+            50.9502327
+          ],
+          [
+            11.6181186,
+            50.9500716
+          ],
+          [
+            11.6177032,
+            50.9498815
+          ],
+          [
+            11.6174874,
+            50.9497792
+          ]
+        ]
+      }
+    }
+  ]
+}

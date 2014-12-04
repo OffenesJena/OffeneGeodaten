@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:31.343Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/33317774",
+      "properties": {
+        "@id": "node/33317774",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588964,
+          50.9245113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/330211038",
+      "properties": {
+        "@id": "node/330211038",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5717668,
+          50.9049645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677813108",
+      "properties": {
+        "@id": "node/677813108",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581091,
+          50.9183988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247165487",
+      "properties": {
+        "@id": "node/2247165487",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983465,
+          50.8806264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51206182",
+      "properties": {
+        "@id": "way/51206182",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5887348,
+            50.924801
+          ],
+          [
+            11.5887533,
+            50.9247826
+          ],
+          [
+            11.5887983,
+            50.9247132
+          ],
+          [
+            11.588964,
+            50.9245113
+          ],
+          [
+            11.5892799,
+            50.9241384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51772224",
+      "properties": {
+        "@id": "way/51772224",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6378835,
+            50.9680241
+          ],
+          [
+            11.6374822,
+            50.9678621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160600252",
+      "properties": {
+        "@id": "way/160600252",
+        "name": "Burgauer Wehr",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5809408,
+            50.9187095
+          ],
+          [
+            11.5809709,
+            50.9186544
+          ],
+          [
+            11.5809794,
+            50.9186303
+          ],
+          [
+            11.5810191,
+            50.918541
+          ],
+          [
+            11.581091,
+            50.9183988
+          ],
+          [
+            11.581216,
+            50.918138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222143483",
+      "properties": {
+        "@id": "way/222143483",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5989201,
+              50.8949417
+            ],
+            [
+              11.5981526,
+              50.8955461
+            ],
+            [
+              11.5981702,
+              50.8955668
+            ],
+            [
+              11.5980948,
+              50.8955681
+            ],
+            [
+              11.5981243,
+              50.8955157
+            ],
+            [
+              11.5981504,
+              50.8954988
+            ],
+            [
+              11.5980491,
+              50.8954617
+            ],
+            [
+              11.5988175,
+              50.8948024
+            ],
+            [
+              11.5989201,
+              50.8949417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222143484",
+      "properties": {
+        "@id": "way/222143484",
+        "waterway": "weir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5983791,
+              50.8956595
+            ],
+            [
+              11.5992313,
+              50.8956334
+            ],
+            [
+              11.5992817,
+              50.8955346
+            ],
+            [
+              11.5981848,
+              50.895584
+            ],
+            [
+              11.5982728,
+              50.8956964
+            ],
+            [
+              11.5983791,
+              50.8956595
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

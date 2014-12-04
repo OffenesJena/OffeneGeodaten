@@ -1,0 +1,29 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 718592112,
+      "lat": 50.9242681,
+      "lon": 11.5895838,
+      "tags": {
+        "waterway": "mooring"
+      }
+    },
+    {
+      "type": "node",
+      "id": 718595029,
+      "lat": 50.924087,
+      "lon": 11.5890693,
+      "tags": {
+        "waterway": "mooring"
+      }
+    }
+  ]
+}

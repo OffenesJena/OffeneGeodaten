@@ -1,0 +1,78 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1357462832,
+      "lat": 50.9186544,
+      "lon": 11.5809709,
+      "tags": {
+        "waterway": "fish_pass"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1357462833,
+      "lat": 50.9247826,
+      "lon": 11.5887533,
+      "tags": {
+        "waterway": "fish_pass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121205770,
+      "nodes": [
+        1357462822,
+        1357462823
+      ],
+      "tags": {
+        "waterway": "fish_pass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121205773,
+      "nodes": [
+        1357462824,
+        1726527163
+      ],
+      "tags": {
+        "boat": "no",
+        "name": "Saale",
+        "waterway": "fish_pass",
+        "wikipedia:de": "Saale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1357462822,
+      "lat": 50.8947801,
+      "lon": 11.5987167
+    },
+    {
+      "type": "node",
+      "id": 1357462823,
+      "lat": 50.8949828,
+      "lon": 11.598864
+    },
+    {
+      "type": "node",
+      "id": 1357462824,
+      "lat": 50.8953864,
+      "lon": 11.5987408
+    },
+    {
+      "type": "node",
+      "id": 1726527163,
+      "lat": 50.8955891,
+      "lon": 11.5987529
+    }
+  ]
+}

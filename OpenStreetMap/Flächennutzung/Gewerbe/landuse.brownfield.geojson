@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:44.076Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/48358882",
+      "properties": {
+        "@id": "way/48358882",
+        "landuse": "brownfield"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5662875,
+            50.9271726
+          ],
+          [
+            11.5665784,
+            50.9266789
+          ],
+          [
+            11.5667863,
+            50.9267096
+          ],
+          [
+            11.5679162,
+            50.9270052
+          ],
+          [
+            11.5694098,
+            50.9273641
+          ],
+          [
+            11.5691437,
+            50.9280891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295587478",
+      "properties": {
+        "@id": "way/295587478",
+        "landuse": "brownfield",
+        "name": "unbebaute Abbruchfläche"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6165205,
+              50.8859178
+            ],
+            [
+              11.6157614,
+              50.8865642
+            ],
+            [
+              11.6158553,
+              50.8866945
+            ],
+            [
+              11.615174,
+              50.8865405
+            ],
+            [
+              11.6161396,
+              50.8857503
+            ],
+            [
+              11.6165205,
+              50.8859178
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

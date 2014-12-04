@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:27.585Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/51772222",
+      "properties": {
+        "@id": "way/51772222",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6331466,
+            50.9649185
+          ],
+          [
+            11.6326364,
+            50.9649638
+          ],
+          [
+            11.6322591,
+            50.9649134
+          ],
+          [
+            11.6312874,
+            50.9644989
+          ],
+          [
+            11.6310058,
+            50.9645336
+          ],
+          [
+            11.6307208,
+            50.9646335
+          ],
+          [
+            11.6304397,
+            50.9647206
+          ],
+          [
+            11.6299931,
+            50.9648748
+          ],
+          [
+            11.629792,
+            50.9649533
+          ],
+          [
+            11.6296496,
+            50.9650073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121205769",
+      "properties": {
+        "@id": "way/121205769",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5982107,
+            50.8962983
+          ],
+          [
+            11.5988413,
+            50.8967088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121205771",
+      "properties": {
+        "@id": "way/121205771",
+        "layer": "-1",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5981437,
+            50.8962122
+          ],
+          [
+            11.5981705,
+            50.8962477
+          ],
+          [
+            11.5982107,
+            50.8962983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121205772",
+      "properties": {
+        "@id": "way/121205772",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5984026,
+            50.8948582
+          ],
+          [
+            11.5980325,
+            50.8951544
+          ],
+          [
+            11.5978171,
+            50.8954168
+          ],
+          [
+            11.5978144,
+            50.8958339
+          ],
+          [
+            11.5981437,
+            50.8962122
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 308929652,
+      "nodes": [
+        3142245181,
+        3142245192,
+        3142245191,
+        3142245189,
+        3142245184,
+        3142245183,
+        3142245180,
+        3142245181
+      ],
+      "tags": {
+        "building": "yes",
+        "waterway": "dam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3142245180,
+      "lat": 50.8955012,
+      "lon": 11.5505137
+    },
+    {
+      "type": "node",
+      "id": 3142245181,
+      "lat": 50.8955322,
+      "lon": 11.5505394
+    },
+    {
+      "type": "node",
+      "id": 3142245183,
+      "lat": 50.8955654,
+      "lon": 11.5498893
+    },
+    {
+      "type": "node",
+      "id": 3142245184,
+      "lat": 50.8955748,
+      "lon": 11.5498519
+    },
+    {
+      "type": "node",
+      "id": 3142245189,
+      "lat": 50.8961406,
+      "lon": 11.5489924
+    },
+    {
+      "type": "node",
+      "id": 3142245191,
+      "lat": 50.896165,
+      "lon": 11.5490089
+    },
+    {
+      "type": "node",
+      "id": 3142245192,
+      "lat": 50.896182,
+      "lon": 11.5490274
+    }
+  ]
+}

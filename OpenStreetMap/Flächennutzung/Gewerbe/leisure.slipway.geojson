@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:53.784Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/299802415",
+      "properties": {
+        "@id": "node/299802415",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5948936,
+          50.9341314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/327443380",
+      "properties": {
+        "@id": "node/327443380",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5809859,
+          50.9180982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/352995661",
+      "properties": {
+        "@id": "node/352995661",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5964696,
+          50.9290428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/718600835",
+      "properties": {
+        "@id": "node/718600835",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581641,
+          50.9182659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1664518271",
+      "properties": {
+        "@id": "node/1664518271",
+        "leisure": "slipway",
+        "seamark:small_craft_facility:category": "slipway",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772532,
+          50.9133186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57904788",
+      "properties": {
+        "@id": "way/57904788",
+        "highway": "steps",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5895838,
+            50.9242681
+          ],
+          [
+            11.5896576,
+            50.9241917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57904834",
+      "properties": {
+        "@id": "way/57904834",
+        "highway": "steps",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5890693,
+            50.924087
+          ],
+          [
+            11.5891062,
+            50.92402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57905871",
+      "properties": {
+        "@id": "way/57905871",
+        "leisure": "slipway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.581641,
+            50.9182659
+          ],
+          [
+            11.5817246,
+            50.9181701
+          ]
+        ]
+      }
+    }
+  ]
+}

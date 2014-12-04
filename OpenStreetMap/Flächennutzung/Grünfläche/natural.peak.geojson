@@ -1,0 +1,432 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:06.052Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/279340706",
+      "properties": {
+        "@id": "node/279340706",
+        "ele": "212",
+        "name": "Friedensberg",
+        "natural": "peak",
+        "old_name": "Galgenberg",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5722178,
+          50.9271133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293029438",
+      "properties": {
+        "@id": "node/293029438",
+        "ele": "385",
+        "name": "Jenzig",
+        "natural": "peak",
+        "wikipedia:de": "Jenzig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627118,
+          50.9397424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299477205",
+      "properties": {
+        "@id": "node/299477205",
+        "amenity": "bench",
+        "name": "Heiligenberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6104452,
+          50.9555394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302221980",
+      "properties": {
+        "@id": "node/302221980",
+        "ele": "363",
+        "name": "Windknollen",
+        "natural": "peak",
+        "wikidata": "Q2583618",
+        "wikipedia": "de:Windknollen",
+        "wikipedia:de": "Windknollen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5673324,
+          50.9485313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313129074",
+      "properties": {
+        "@id": "node/313129074",
+        "created_by": "Potlatch 0.10f",
+        "name": "Mönchsberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5786539,
+          50.8836482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/370185655",
+      "properties": {
+        "@id": "node/370185655",
+        "ele": "228",
+        "name": "Feldherrenhügel",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6440047,
+          50.9590435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564725793",
+      "properties": {
+        "@id": "node/564725793",
+        "name": "Spitzenberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5703093,
+          50.8617352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/631873873",
+      "properties": {
+        "@id": "node/631873873",
+        "ele": "386",
+        "name": "Einsiedlerberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6449048,
+          50.8901793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/707023645",
+      "properties": {
+        "@id": "node/707023645",
+        "ele": "381",
+        "name": "Dornberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5625284,
+          50.9639562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/715081741",
+      "properties": {
+        "@id": "node/715081741",
+        "name": "Gleisberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6574771,
+          50.9556843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727671581",
+      "properties": {
+        "@id": "node/727671581",
+        "ele": "399",
+        "name": "Cospoth",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5648901,
+          50.8798731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727673052",
+      "properties": {
+        "@id": "node/727673052",
+        "ele": "288",
+        "name": "Jagdberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5849101,
+          50.8741865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727675181",
+      "properties": {
+        "@id": "node/727675181",
+        "ele": "346",
+        "name": "Holzberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5553415,
+          50.8929767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727676008",
+      "properties": {
+        "@id": "node/727676008",
+        "name": "Lämmerberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5565002,
+          50.8974159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727676269",
+      "properties": {
+        "@id": "node/727676269",
+        "name": "Lindenberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5636204,
+          50.8902693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749216123",
+      "properties": {
+        "@id": "node/749216123",
+        "ele": "391.7",
+        "name": "Hausberg",
+        "natural": "peak",
+        "wikipedia:de": "Hausberg (Jena)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6105149,
+          50.9247926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749227406",
+      "properties": {
+        "@id": "node/749227406",
+        "name": "Kirchberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6222523,
+          50.9235888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749233842",
+      "properties": {
+        "@id": "node/749233842",
+        "name": "Windberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6282868,
+          50.9237653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749244325",
+      "properties": {
+        "@id": "node/749244325",
+        "name": "Hummelsberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6039616,
+          50.9130036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749257751",
+      "properties": {
+        "@id": "node/749257751",
+        "ele": "373",
+        "name": "Johannisberg",
+        "natural": "peak",
+        "wikipedia:de": "Johannisberg (Jena-Lobeda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6193392,
+          50.9018713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749268135",
+      "properties": {
+        "@id": "node/749268135",
+        "ele": "386",
+        "name": "Hirschberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6588214,
+          50.9184319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749841938",
+      "properties": {
+        "@id": "node/749841938",
+        "name": "Schneckenberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5296084,
+          50.9483971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/749927627",
+      "properties": {
+        "@id": "node/749927627",
+        "ele": "351",
+        "name": "Paulsberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5430163,
+          50.9273311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489863276",
+      "properties": {
+        "@id": "node/2489863276",
+        "name": "Vogelberg",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570098,
+          50.8857822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489959946",
+      "properties": {
+        "@id": "node/2489959946",
+        "name": "Tatzend",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5498652,
+          50.9270041
+        ]
+      }
+    }
+  ]
+}

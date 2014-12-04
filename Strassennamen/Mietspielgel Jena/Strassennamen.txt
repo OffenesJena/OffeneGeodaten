@@ -1,0 +1,889 @@
+Adlerstieg
+Adolf-Reichwein-Str.
+Adrian-Beier-Stieg
+Ahornstr.
+Ahornweg
+Akazienweg
+Albert-Einstein-Str.
+Alexander-Puschkin-Platz
+Alfred-Diener-Str.
+Alte Dorfstr.
+Alte Hauptstr.
+Alte Str.
+Alte Wiesenstr.
+Altenburger Str.
+Alter Handelsweg
+Am alten Gaswerk
+Am Alten Schloss
+Am alten Weinberg
+Am Anger
+Am Bahnhof
+Am Berg
+Am Birnstiel
+Am Bornberg
+Am Borngarten
+Am Brückenweidigt
+Am Burggarten
+Am Burggraben
+Am Denkmal
+Am Dorfplatz
+Am Egelsee
+Am Erlkönig
+Am Flutgraben
+Am Freiberg
+Am Friedensberg
+Am Friedhof
+Am Gänseberg
+Am Geißberg
+Am Goethepark
+Am Goldberg
+Am Gönnabach
+Am Hain
+Am Hang
+Am Heiligenberg
+Am Heinrichsberg
+Am Herrenberge
+Am Hirschberge
+Am Jagdberg
+Am Jenzig
+Am Johannisberg
+Am Johannisfriedhof
+Am Kaiserberg
+Am Katzenstein
+Am Kieshügel
+Am Klosterhof
+Am Knollen
+Am Kochersgraben
+Am König
+Am Kraftwerk
+Am Krautgarten
+Am Küchenhof
+Am Leutrabach
+Am Lindenberg
+Am Loh
+Am Marstall
+Am Mönchenberge
+Am Mühlhügel
+Am Naßtal
+Am Nordfriedhof
+Am Pfaffenstieg
+Am Plan
+Am Planetarium
+Am Rähmen
+Am Rasen
+Am Rödigen
+Am Rosenhang
+Am Rosenweg
+Am Röthang
+Am Saaleufer
+Am Schloßweidigt
+Am Schwabisgraben
+Am Spielberg
+Am Stadion
+Am Steiger
+Am Steinbach
+Am Steinborn
+Am Storchsacker
+Am Tännicht
+Am Tanzsaal
+Am Tatzend
+Am Teich
+Am Volksbad
+Am Wald
+Am Wiesenbach
+Am Windknollen
+Am Winkel
+Am Zementwerk
+Ammerbacher Mittelweg
+Ammerbacher Oberweg
+Ammerbacher Platte
+Ammerbacher Str.
+Amselweg
+Amsterdamer Str.
+Amtsgasse
+An den Linden
+An der alten Post
+An der Brauerei
+An der Diebeskrippe
+An der Eule
+An der Kelter
+An der Kiesgrube
+An der Kirche
+An der Lehmgrube
+An der Leite
+An der Leutra
+An der Mauer
+An der Mühle
+An der Osterwiese
+An der Papiermühle
+An der Peterskirche
+An der Riese
+An der Ringwiese
+An der Schöppe
+An der Schule
+An der Siedlung
+An der Trebe
+An der Weidigsmühle
+An der Ziegelei
+Anemonenweg
+Angergasse
+Anna-Siemsen-Str.
+Anton-Bruckner-Weg
+Artur-Becker-Str.
+Arvid-Harnack-Str.
+Aspenweg
+Asternweg
+Auf dem Forst
+Auf dem Schafberge
+Auf der Burg
+Auf der Gebind
+Auf der Höhe
+August-Bebel-Str.
+August-Gärtner-Str.
+Bachgasse
+Bachstr.
+Bäckergasse
+Ballhausgasse
+Bärengasse
+Bauersfeldstr.
+Beethovenstr.
+Berggasse
+Berghoffsweg
+Bernhard-Schultze-Str.
+Berthold-Delbrück-Str.
+Bertolt-Brecht-Str.
+Beutenbergstr.
+Beutnitzer Str.
+Biberweg
+Bibliotheksplatz
+Bibliotheksweg
+Binswangerstr.
+Birkenweg
+Blochmannstr.
+Blumenröschenweg
+Blumenstr.
+Boegeholdstr.
+Bonhoefferstr.
+Borngraben
+Böttchergasse
+Botzstr.
+Brahmsweg
+Brändströmstr.
+Brauhofstr.
+Brehmstr.
+Breite Str.
+Brückenstr.
+Brunnengasse
+Brüsseler Str.
+Buchaer Str.
+Buchenweg
+Burgauer Weg
+Bürgelsche Str.
+Burggartenweg
+Burgweg
+Camburger Str.
+Camsdorfer Str.
+Camsdorfer Ufer
+Carl-Blomeyer-Str.
+Carl-Born-Str.
+Carl-Orff-Str.
+Carl-Pulfrich-Str.
+Carl-Spitzweg-Str.
+Carl-Stamitz-Weg
+Carl-Zeiß-Platz
+Carl-Zeiß-Str.
+Carl-Zeiss-Promenade
+Carolinenstr.
+Charlottenstr.
+Clara-Zetkin-Str.
+Claudiusstr.
+Closewitz
+Closewitzer Str.
+Closewitzer Weg
+Coppanzer Weg
+Cospedaer Grund
+Cospoth
+Curt-Unckel-Str.
+Dahlienweg
+Damaschkeweg
+Dammstr.
+Diakonatsgasse
+Diesterwegstr.
+Dietrichweg
+Distelweg
+Dobeneckerstr.
+Döbereinerstr.
+Dorfstr.
+Dornbluthweg
+Dornburger Str.
+Dorothea-Veit-Str.
+Drackendorf-Center
+Drackendorfer Str.
+Drackendorfer Weg
+Dreßlerstr.
+Drevesstr.
+Drosselstr.
+E.-T.-A.-Hoffmann-Weg
+Ebereschenstr.
+Ebertstr.
+Eckweg
+Edelhofgasse
+Eduard-Mörike-Weg
+Eduard-Rosenthal-Str.
+Eibenweg
+Eichendorffweg
+Eichenweg
+Eichhörnchenweg
+Eisenberger Str.
+Emil-Höllein-Platz
+Emil-Wölk-Str.
+Emma-Heintz-Str.
+Engelplatz
+Enzianweg
+Erbertstr.
+Erfurter Str.
+Erich-Halbauer-Weg
+Erich-Kops-Weg
+Erich-Kuithan-Str.
+Erich-Weinert-Str.
+Erlanger Allee
+Ernst-Abbe-Platz
+Ernst-Abbe-Str.
+Ernst-Bloch-Ring
+Ernst-Haeckel-Platz
+Ernst-Haeckel-Str.
+Ernst-Pfeiffer-Str.
+Ernst-Ruska-Ring
+Ernst-Schneller-Str.
+Ernst-Thälmann-Str.
+Ernst-Zielinski-Str.
+Eschenplatz
+Eugen-Diederichs-Str.
+Falkenstieg
+Falkenweg
+Fasanenweg
+Feldhamsterweg
+Feldstr.
+Felix-Auerbach-Str.
+Felsbachstr.
+Felsenkellerstr.
+Fichteplatz
+Finkenweg
+Fischergasse
+Fliederweg
+Florian-Geyer-Weg
+Flurweg
+Forstweg
+Franz-Gresitza-Str.
+Franz-Kugler-Str.
+Franz-Liszt-Str.
+Franz-Loewen-Str.
+Frauengasse
+Fraunhoferstr.
+Fregestr.
+Freiheitsstr.
+Freiherr-vom-Stein-Str.
+Freiligrathstr.
+Friedenstr.
+Friedensweg
+Friedhofsweg
+Friedrich-A.-Tischbein-Str.
+Friedrich-Engels-Str.
+Friedrich-Gerstäcker-Weg
+Friedrich-Hund-Str.
+Friedrich-Körner-Str.
+Friedrich-Schelling-Str.
+Friedrich-Wolf-Str.
+Friedrich-Zucker-Str.
+Friesweg
+Fritz-Kalisch-Str.
+Fritz-Krieger-Str.
+Fritz-Reuter-Str.
+Fritz-Ritter-Str.
+Fritz-Winkler-Str.
+Fröbelstieg
+Frommannstr.
+Frongasse
+Fuchslöcherstr.
+Fuchsturmweg
+Fürstengraben
+Gabelsbergerstr.
+Gartenstr.
+Gartenweg
+Geleitstr.
+Gembdental
+Georg-Büchner-Str.
+Georg-Schumann-Weg
+Georg-Weerth-Str.
+Geraer Str.
+Geschwister-Scholl-Str.
+Gillestr.
+Ginsterweg
+Gladiolenweg
+Glockengasse
+Gneisenaustr.
+Goethestr.
+Golmsdorfer Str.
+Göschwitzer Str.
+Gottfried-Keller-Weg
+Gotthard-Neumann-Str.
+Greifbergstr.
+Greifgasse
+Grenzstr.
+Grete-Unrein-Str.
+Griesheimweg
+Grietgasse
+Grillenweg
+Grillparzerweg
+Groschstr.
+Großschwabhäuser Str.
+Grundweg
+Grüne Aue
+Günselweg
+Gustav-Eichhorn-Str.
+Gustav-Fischer-Str.
+Gustav-Freytag-Str.
+Gutenbergstr.
+Hahnengrundweg
+Hainstr.
+Händelweg
+Hanns-Eisler-Str.
+Hans-Berger-Str.
+Hans-Knöll-Str.
+Hardenbergweg
+Haselstrauchweg
+Hauptstr.
+Hausbergstr.
+Haydnstr.
+Heckenweg
+Hegelstr.
+Heimstättenstr.
+Heinrich-Heine-Str.
+Heinrich-Schütz-Weg
+Heinrich-von-Eggeling-Str.
+Helene-Weigel-Str.
+Helldorffweg
+Helmboldstr.
+Helmholtzweg
+Herderstr.
+Hermann-Löns-Str.
+Hermann-Pistor-Str.
+Hermann-Stapff-Str.
+Hermelinweg
+Herweghstr.
+Heydenreichstr.
+Hildebrandstr.
+Hilgenfeldweg
+Hinter dem Dorfe
+Hinter dem Spielberge
+Hinter der Kirche
+Hinter der Linde
+Hinterm Gut
+Hinterweg
+Hirtengasse
+Hohe Str.
+Höhenweg
+Hohlweg
+Hölderlinweg
+Holunderweg
+Holzmarkt
+Holzweg
+Hopfenweg
+Hornstr.
+Hufelandweg
+Hügelstr.
+Hugo-Schrade-Str.
+Humboldtstr.
+Huttenstr.
+Igelweg
+Ilmnitzer Dorfstr.
+Ilmstr.
+Iltisweg
+Im Bürgergarten
+Im Hahngrunde
+Im Hundsbeile
+Im Klieber
+Im Krähmer
+Im Langetal
+Im Lerchenfeld
+Im Linsenland
+Im Metztal
+Im Mißrigen
+Im Nennsdorfer Felde
+Im Planer
+Im Ritzetal
+Im Semmicht
+Im Steinfeld
+Im tiefen Weg
+Im Unterdorf
+Im Wasserlauf
+Im Wehrigt
+Im Ziehgarten
+In den Bornwiesen
+In den Fichtlerswiesen
+In den Halben Äckern
+In den Kieswiesen
+In den Rainländern
+In den Schulländern
+In den Steingelängen
+In den Teichen
+In den Zinsäckern
+In der Doberau
+In der Hohle
+In der Schweiz
+Inselplatz
+Isserstedter Str.
+Jacob-Michelsen-Str.
+Jägerbergstr.
+Jahnstr.
+Jansonstr.
+Jasminweg
+Jenaer Str.
+Jenaische Str.
+Jenaplan
+Jenaprießnitzer Str.
+Jenergasse
+Jenertal
+Jenzigweg
+Johann-Friedrich-Str.
+Johann-Griesbach-Str.
+Johann-Nikolaus-Bach-Weg
+Johannes-R.-Becher-Str.
+Johannisplatz
+Johannisstr.
+Judith-Auer-Str.
+Julius-Lien-Weg
+Julius-Schaxel-Str.
+Jungferngraben
+Juri-Gagarin-Str.
+Kahlaische Str.
+Kaninchenweg
+Karl-Günther-Str.
+Karl-Liebknecht-Str.
+Karl-Marx-Allee
+Karl-Rothe-Str.
+Karl-Schmid-Ring
+Karl-von-Brüger-Str.
+Kastanienstr.
+Katharinenstr.
+Käthe-Kollwitz-Str.
+Kefersteinstr.
+Kerbelweg
+Kernbergstr.
+Keßlerstr.
+Kieserstr.
+Kirchbergstr.
+Kirchgasse
+Kirchplatz
+Kirchstr.
+Kirschgarten
+Klara-Griefahn-Str.
+Kleine Camsdorfer Str.
+Kleine Dammstr.
+Klopfleischstr.
+Klosterweg
+Knebelstr.
+Kochstr.
+Kollegiengasse
+Konrad-Zuse-Str.
+Kornblumenweg
+Kösener Str.
+Kötschauweg
+Krautgasse
+Kreußlerstr.
+Kreuzgasse
+Kritzegraben
+Kronfeldstr.
+Kunitzburgweg
+Kunitzer Hirtengasse
+Kunitzer Str.
+Kuno-Fischer-Ring
+Kurt-Weill-Weg
+Laasan
+Laasaner Oberweg
+Landgrafenstieg
+Lange Str.
+Lassallestr.
+Lauensteinweg
+Leibnizstr.
+Leipziger Str.
+Leo-Sachse-Str.
+Leonhardtweg
+Lerchenstieg
+Lerchenweg
+Lessingstr.
+Leutra
+Leutraer Weg
+Leutragraben
+Lichtenhainer Oberweg
+Lichtenhainer Str.
+Lilienweg
+Lindengasse
+Lindenhöhe
+Lindenstr.
+Lindenweg
+Liselotte-Herrmann-Str.
+Lobdeburgweg
+Löbdergraben
+Löbderstr.
+Lobedaer Str.
+Löbichauer Str.
+Löbstedter Str.
+Loderstr.
+Lommerweg
+Lortzingweg
+Lucas-Cranach-Allee
+Luchsweg
+Ludwig-Uhland-Weg
+Ludwig-Weimar-Gasse
+Luise-Seidler-Str.
+Lutherplatz
+Lutherstr.
+Lützener Str.
+Lützerodaer Str.
+Lützerodaer Weg
+Lützowstr.
+Lyonel-Feininger-Str.
+Mädertal
+Magdelstieg
+Magnus-Poser-Str.
+Malvenweg
+Mälzerstr.
+Marderweg
+Margeritenweg
+Marie-Juchacz-Str.
+Markt
+Marktstr.
+Martin-Niemöller-Str.
+Mathilde-Vaerting-Str.
+Matthias-Domaschk-Str.
+Maurerstr.
+Max-Gräfe-Gasse
+Max-Grossmann-Str.
+Max-Reger-Weg
+Max-Steenbeck-Str.
+Max-Wien-Platz
+Meisenweg
+Melanchthonstr.
+Mendelssohnweg
+Merseburger Str.
+Merzenbergweg
+Michael-Häußler-Weg
+Mittelstr.
+Mönchsgasse
+Moritz-Seebeck-Str.
+Moritz-von-Rohr-Str.
+Mozartweg
+Mühlenstr.
+Mühlenweg
+Mühlgäßchen
+Mühlgasse
+Mühlstatt
+Mühltal
+Münchenroda
+Münchenrodaer Grund
+Münchenrodaer Str.
+Munketal
+Murmeltierweg
+Musäusring
+Naumannstr.
+Naumburger Str.
+Nelkenweg
+Nennsdorfer Weg
+Nesselweg
+Netzstr.
+Neue Schenke
+Neugasse
+Neunkirchner Str.
+Nietzschestr.
+Nikolaus-Theiner-Str.
+Nollendorfer Str.
+Nonnenplan
+Novalisstr.
+Oberaue
+Obere Kernbergstr.
+Oberes Munketal
+Oberlauengasse
+Okenstr.
+Olga-Benario-Weg
+Orchideenweg
+Orlaweg
+Oskar-Zachau-Str.
+Oßmaritzer Str.
+Otto-Devrient-Str.
+Otto-Engau-Str.
+Otto-Eppenstein-Str.
+Otto-Militzer-Str.
+Otto-Schott-Platz
+Otto-Schott-Str.
+Ottogerd-Mühlmann-Str.
+Pappelweg
+Paradiesstr.
+Paraschkenmühle
+Parkstr.
+Parkweg
+Paul-Klee-Str.
+Paul-Schneider-Str.
+Paul-Weber-Str.
+Pennickental
+Pestalozzistr.
+Pfälzer Str.
+Pfarrgartenstr.
+Pfarrgasse
+Pforte
+Philipp-Müller-Str.
+Philosophenweg
+Platanenstr.
+Prüssingstr.
+Quendelweg
+Quergasse
+Rabenstieg
+Rathausgasse
+Rathausplatz
+Rathenaustr.
+Rautal
+Reichardtstieg
+Reifsteinweg
+Reinhold-Härzer-Str.
+Reinholdweg
+Rembrandtstr.
+Remderodaer Str.
+Rheinlandstr.
+Ricarda-Huch-Weg
+Richard-Sorge-Str.
+Richard-Strauss-Weg
+Richard-Zimmermann-Str.
+Riedstr.
+Riemannstr.
+Robert-Blum-Str.
+Robinienweg
+Rödigenweg
+Rolfinckstr.
+Rosa-Luxemburg-Str.
+Rosenstr.
+Rosenweg
+Rotdornweg
+Rubensstr.
+Rudolf-Breitscheid-Str.
+Rudolf-Eucken-Str.
+Rudolf-Straubel-Str.
+Rudolstädter Str.
+Saalbahnhofstr.
+Saalstr.
+Saalweg
+Saarbrücker Str.
+Sachseneckweg
+Sackgasse
+Salvador-Allende-Platz
+Salvador-Dali-Str.
+Sanddornstr.
+Sandweg
+Schaefferstr.
+Schafberg
+Scharnhorststr.
+Scheidlerstr.
+Schenkstr.
+Schillbachstr.
+Schillergäßchen
+Schillerstr.
+Schillstr.
+Schlachthofstr.
+Schlegelstr.
+Schlehendornweg
+Schleidenstr.
+Schlendorfer Oberweg
+Schlendorfer Str.
+Schlippenstr.
+Schloßberggasse
+Schloßgasse
+Schneckengasse
+Schomerusstr.
+Schreckenbachweg
+Schrödingerstr.
+Schroeterstr.
+Schubertweg
+Schulgasse
+Schulstr.
+Schulweg
+Schützenhofstr.
+Schweizerhöhenweg
+Seidelstr.
+Sellierstr.
+Semmelweisstr.
+Sickingenstr.
+Siebenschläferweg
+Siedlung Göschwitz
+Siedlung Sonnenblick
+Siegfried-Czapski-Str.
+Singerweg
+Sonnenbergstr.
+Sonnenblumenweg
+Sonnenhof
+Sophienhöhe
+Sophienstr.
+Sperlingsweg
+Spitzbergstr.
+Spitzweidenweg
+St.-Florian-Weg
+St.-Jakob-Str.
+St.-Wendel-Stieg
+Stadtgraben
+Stadthof
+Stadtrat-Lehmann-Str.
+Stadtrodaer Str.
+Starweg
+Stauffenbergstr.
+Steingraben
+Steinweg
+Steubenstr.
+Stieglitzweg
+Stifterstr.
+Stockholmer Str.
+Stoystr.
+Strigelstr.
+Struvestr.
+Stumpfenburgweg
+Susanne-Bohl-Str.
+Talsteinstr.
+Talstr.
+Tatzendpromenade
+Tautenburger Str.
+Teichgasse
+Teichgraben
+Telemannweg
+Teutonengasse
+Theo-Neubauer-Str.
+Theobald-Renner-Str.
+Theodor-Fontane-Weg
+Theodor-Storm-Weg
+Thomas-Mann-Str.
+Thomas-Müntzer-Weg
+Thymianweg
+Tieckstr.
+Treunertstr.
+Trießnitzweg
+Tulpenweg
+Tümplingstr.
+Turmgasse
+Über dem Grund
+Über den Teufelslöchern
+Über der Viehtreibe
+Überm Anger
+Ulmerstr.
+Ulrichweg
+Unstrutweg
+Unter dem Heuhm
+Unter der Kirche
+Unter der Lobdeburg
+Unterdorfstr.
+Unterer Sachseneckweg
+Unterlauengasse
+Unterm Markt
+Unterm Sande
+Unterm Schlegelsberg
+Unterm Schützenhof
+Van-Gogh-Str.
+Veilchenweg
+Victor-Goerttler-Str.
+Vierzehnheiligen
+Viktor-von-Scheffel-Weg
+Villengang
+Völklinger Stieg
+Von-Fallersleben-Weg
+Von-Hase-Weg
+Vor dem Grünlaube
+Vor dem Neutor
+Vor dem Obertore
+Vor den Fuchslöchern
+Wacholderweg
+Wackenroderstr.
+Wagnergasse
+Waldstr.
+Waldweg
+Walnussweg
+Walter-Dexel-Str.
+Wanderslebstr.
+Wartburgstr.
+Wehrgasse
+Weidenweg
+Weigelstr.
+Weimarische Str.
+Weinbergstr.
+Weißdornweg
+Weißenfelser Str.
+Wenigenjenaer Platz
+Wenigenjenaer Ufer
+Werner-Seelenbinder-Str.
+Westbahnhofstr.
+Westendstr.
+Wieselweg
+Wiesenstr.
+Wildenbruchstr.
+Wildstr.
+Wilhelm-Busch-Weg
+Wilhelm-Hauff-Weg
+Wilhelm-Külz-Str.
+Wilhelm-Pitt-Weg
+Wilhelm-Raabe-Weg
+Wilhelm-Rein-Str.
+Wilhelm-Stade-Str.
+Windbergstr.
+Windröschenweg
+Winkel
+Winzergasse
+Winzerlaer Str.
+Wittenbergstr.
+Wogauer Str.
+Wöllnitzer Oberweg
+Wöllnitzer Str.
+Zeitzer Str.
+Zenkerweg
+Ziegelmühlenweg
+Ziegenhainer Oberweg
+Ziegenhainer Str.
+Ziegesarstr.
+Zillestr.
+Zitzmannstr.
+Zu den acht Äckern
+Zum alten Brauhaus
+Zum Mühlgraben
+Zum Rundling
+Zum Tälchen
+Zum Waldschlößchen
+Zum Ziskauer Tal
+Zur Lämmerlaide
+Zur Windmühle
+Zwätzengasse
+Am Bahricht
+Am Dachsbau
+Am Klinikum
+Am Mühlberg
+Am Pulverturm
+Am Sudhaus
+An der Marktmühle
+Birnstielhohle
+Camsdorfer Brücke
+Carl-Hummel-Str.
+Griesbrücke
+Jahnplatz
+Krippendorfer Allee
+Kronengasse
+Kunitzer Hausbrücke
+Laasaner Str.
+Landfeste
+Lichtenhainer Brücke
+Marktgäßchen
+Nollendorfer Platz
+Paradiesbrücke
+Propstei
+Rittergasse
+Rodaweg
+Rothirschweg
+Ruthaer Str.
+Schwarzaweg
+Spittelplatz
+Straße des 17. Juni
+Timlerweg
+Vor der Gembdenmühle
+Wiesenbrücke
+

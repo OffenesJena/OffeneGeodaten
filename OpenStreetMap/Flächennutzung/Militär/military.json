@@ -1,0 +1,59 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 56435847,
+      "nodes": [
+        707318865,
+        707318869,
+        707318873,
+        707318878,
+        747163362,
+        707318865
+      ],
+      "tags": {
+        "abandoned": "yes",
+        "landuse": "forest",
+        "military": "range",
+        "name": "ehem. Schießstand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 707318869,
+      "lat": 50.970525,
+      "lon": 11.6256968
+    },
+    {
+      "type": "node",
+      "id": 707318873,
+      "lat": 50.9669287,
+      "lon": 11.6231605
+    },
+    {
+      "type": "node",
+      "id": 707318878,
+      "lat": 50.9673341,
+      "lon": 11.6216906
+    },
+    {
+      "type": "node",
+      "id": 747163362,
+      "lat": 50.9673924,
+      "lon": 11.6217331
+    },
+    {
+      "type": "node",
+      "id": 707318865,
+      "lat": 50.9709168,
+      "lon": 11.624345
+    }
+  ]
+}

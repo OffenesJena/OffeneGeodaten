@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:56.944Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/221720681",
+      "properties": {
+        "@id": "way/221720681",
+        "natural": "meadow"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5600495,
+              50.9264224
+            ],
+            [
+              11.5607456,
+              50.926565
+            ],
+            [
+              11.5608209,
+              50.9261278
+            ],
+            [
+              11.5600352,
+              50.9260275
+            ],
+            [
+              11.5600495,
+              50.9264224
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

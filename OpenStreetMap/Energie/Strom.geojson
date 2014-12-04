@@ -1,0 +1,1155 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:29.467Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/718597599",
+      "properties": {
+        "@id": "node/718597599",
+        "generator:method": "run-of-the-river",
+        "generator:output:electricity": "fixme",
+        "generator:source": "hydro",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887983,
+          50.9247132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1357462828",
+      "properties": {
+        "@id": "node/1357462828",
+        "generator:method": "run-of-the-river",
+        "generator:output:electricity": "yes",
+        "generator:source": "hydro",
+        "generator:type": "kaplan_turbine",
+        "name": "Saalekraftwerk Jena - Burgau",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5981705,
+          50.8962477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1357462831",
+      "properties": {
+        "@id": "node/1357462831",
+        "generator:method": "run-of-the-river",
+        "generator:output:electricity": "fixme",
+        "generator:source": "hydro",
+        "power": "generator",
+        "power_source": "hydro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5809794,
+          50.9186303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449561957",
+      "properties": {
+        "@id": "node/1449561957",
+        "operator": "Stadtwerke Jena",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598428,
+          50.9400034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449573946",
+      "properties": {
+        "@id": "node/1449573946",
+        "operator": "Stadtwerke Jena",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599527,
+          50.9405235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26998822",
+      "properties": {
+        "@id": "way/26998822",
+        "landuse": "industrial",
+        "name": "Heizkraftwerk Jena-Süd",
+        "operator": "E.ON Thüringer Energie AG",
+        "plant:output:electricity": "197 MW",
+        "plant:output:hot_water": "225 MW",
+        "power": "plant",
+        "start_date": "1972",
+        "wikipedia:de": "Heizkraftwerk Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5827273,
+              50.8969176
+            ],
+            [
+              11.5827869,
+              50.8967131
+            ],
+            [
+              11.5841918,
+              50.897046
+            ],
+            [
+              11.5852646,
+              50.8953547
+            ],
+            [
+              11.5857705,
+              50.8947487
+            ],
+            [
+              11.5851166,
+              50.8946061
+            ],
+            [
+              11.5847374,
+              50.8945306
+            ],
+            [
+              11.585625,
+              50.8933811
+            ],
+            [
+              11.5868031,
+              50.8934299
+            ],
+            [
+              11.5874433,
+              50.8936542
+            ],
+            [
+              11.5873573,
+              50.8938081
+            ],
+            [
+              11.5881756,
+              50.8940233
+            ],
+            [
+              11.5882513,
+              50.8940267
+            ],
+            [
+              11.5885198,
+              50.8936371
+            ],
+            [
+              11.589304,
+              50.8939014
+            ],
+            [
+              11.589601,
+              50.8940936
+            ],
+            [
+              11.5882043,
+              50.89749
+            ],
+            [
+              11.5865124,
+              50.8982633
+            ],
+            [
+              11.5838953,
+              50.8978432
+            ],
+            [
+              11.5838218,
+              50.8977435
+            ],
+            [
+              11.5835727,
+              50.8977992
+            ],
+            [
+              11.5829774,
+              50.8976403
+            ],
+            [
+              11.5829637,
+              50.8974955
+            ],
+            [
+              11.5828388,
+              50.8974705
+            ],
+            [
+              11.5827273,
+              50.8969176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35779923",
+      "properties": {
+        "@id": "way/35779923",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5916029,
+              50.924699
+            ],
+            [
+              11.5918746,
+              50.9247719
+            ],
+            [
+              11.5917517,
+              50.9249547
+            ],
+            [
+              11.5914801,
+              50.9248818
+            ],
+            [
+              11.5916029,
+              50.924699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47072048",
+      "properties": {
+        "@id": "way/47072048",
+        "building": "yes",
+        "operator": "Stadtwerke Jena",
+        "power": "sub_station",
+        "ref": "TST18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5717107,
+              50.8976158
+            ],
+            [
+              11.5716678,
+              50.8976694
+            ],
+            [
+              11.5716194,
+              50.897654
+            ],
+            [
+              11.5716623,
+              50.8976003
+            ],
+            [
+              11.5717107,
+              50.8976158
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47072786",
+      "properties": {
+        "@id": "way/47072786",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5736509,
+              50.8959868
+            ],
+            [
+              11.5736053,
+              50.8960394
+            ],
+            [
+              11.5734746,
+              50.8959943
+            ],
+            [
+              11.5735202,
+              50.8959417
+            ],
+            [
+              11.5736509,
+              50.8959868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49591721",
+      "properties": {
+        "@id": "way/49591721",
+        "building": "yes",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5696128,
+              50.9164372
+            ],
+            [
+              11.5695297,
+              50.9161193
+            ],
+            [
+              11.570168,
+              50.9160398
+            ],
+            [
+              11.5702566,
+              50.9163493
+            ],
+            [
+              11.5696128,
+              50.9164372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50062449",
+      "properties": {
+        "@id": "way/50062449",
+        "building": "yes",
+        "generator:source": "fossil",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.580551,
+              50.9334004
+            ],
+            [
+              11.5804347,
+              50.9333514
+            ],
+            [
+              11.5805273,
+              50.9332641
+            ],
+            [
+              11.5806436,
+              50.9333132
+            ],
+            [
+              11.580551,
+              50.9334004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56689820",
+      "properties": {
+        "@id": "way/56689820",
+        "power": "transformer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5941873,
+              50.9438074
+            ],
+            [
+              11.5942395,
+              50.9437584
+            ],
+            [
+              11.594174,
+              50.9437324
+            ],
+            [
+              11.5941382,
+              50.9437773
+            ],
+            [
+              11.5941873,
+              50.9438074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139270107",
+      "properties": {
+        "@id": "way/139270107",
+        "name": "Umspannwerk Jena-Göschwitz",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6005104,
+              50.8871118
+            ],
+            [
+              11.5993495,
+              50.887037
+            ],
+            [
+              11.5994416,
+              50.8864841
+            ],
+            [
+              11.6006072,
+              50.8865744
+            ],
+            [
+              11.6005104,
+              50.8871118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154131401",
+      "properties": {
+        "@id": "way/154131401",
+        "building": "yes",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5994733,
+              50.921014
+            ],
+            [
+              11.5994445,
+              50.9209538
+            ],
+            [
+              11.5993388,
+              50.920974
+            ],
+            [
+              11.5993676,
+              50.9210342
+            ],
+            [
+              11.5994733,
+              50.921014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175347346",
+      "properties": {
+        "@id": "way/175347346",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5791239,
+              50.8949231
+            ],
+            [
+              11.5794239,
+              50.8944829
+            ],
+            [
+              11.5796768,
+              50.894563
+            ],
+            [
+              11.5793933,
+              50.8949857
+            ],
+            [
+              11.5791239,
+              50.8949231
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175347347",
+      "properties": {
+        "@id": "way/175347347",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.58496,
+              50.89404
+            ],
+            [
+              11.58527,
+              50.89411
+            ],
+            [
+              11.5852,
+              50.89421
+            ],
+            [
+              11.5849,
+              50.89414
+            ],
+            [
+              11.58496,
+              50.89404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176257262",
+      "properties": {
+        "@id": "way/176257262",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6051454,
+              50.9420838
+            ],
+            [
+              11.605122,
+              50.9420068
+            ],
+            [
+              11.6053607,
+              50.9419959
+            ],
+            [
+              11.6053734,
+              50.94207
+            ],
+            [
+              11.6051454,
+              50.9420838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201037593",
+      "properties": {
+        "@id": "way/201037593",
+        "building": "yes",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5790576,
+              50.9282239
+            ],
+            [
+              11.5790746,
+              50.9282475
+            ],
+            [
+              11.5791748,
+              50.9282189
+            ],
+            [
+              11.5791578,
+              50.9281952
+            ],
+            [
+              11.5790576,
+              50.9282239
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201037594",
+      "properties": {
+        "@id": "way/201037594",
+        "building": "yes",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5792,
+              50.9282141
+            ],
+            [
+              11.5793091,
+              50.9281829
+            ],
+            [
+              11.5792782,
+              50.9281399
+            ],
+            [
+              11.579169,
+              50.9281711
+            ],
+            [
+              11.5792,
+              50.9282141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215651788",
+      "properties": {
+        "@id": "way/215651788",
+        "building": "transportation",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6076017,
+              50.950361
+            ],
+            [
+              11.6076109,
+              50.9504316
+            ],
+            [
+              11.6077553,
+              50.9504241
+            ],
+            [
+              11.6077461,
+              50.9503535
+            ],
+            [
+              11.6076017,
+              50.950361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216616733",
+      "properties": {
+        "@id": "way/216616733",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6058889,
+              50.9485321
+            ],
+            [
+              11.6059345,
+              50.9485608
+            ],
+            [
+              11.6059023,
+              50.9485845
+            ],
+            [
+              11.6058567,
+              50.9485541
+            ],
+            [
+              11.6058889,
+              50.9485321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/218697457",
+      "properties": {
+        "@id": "way/218697457",
+        "building": "yes",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6080612,
+              50.948628
+            ],
+            [
+              11.6081244,
+              50.9486668
+            ],
+            [
+              11.6081607,
+              50.9486433
+            ],
+            [
+              11.6080976,
+              50.9486045
+            ],
+            [
+              11.6080612,
+              50.948628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/218697458",
+      "properties": {
+        "@id": "way/218697458",
+        "power": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.607718,
+              50.9485338
+            ],
+            [
+              11.6078257,
+              50.9485944
+            ],
+            [
+              11.6078656,
+              50.9485693
+            ],
+            [
+              11.607761,
+              50.9485034
+            ],
+            [
+              11.607718,
+              50.9485338
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220327427",
+      "properties": {
+        "@id": "way/220327427",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6143297,
+              50.9517258
+            ],
+            [
+              11.6144071,
+              50.9517128
+            ],
+            [
+              11.6143827,
+              50.9516563
+            ],
+            [
+              11.6143029,
+              50.9516701
+            ],
+            [
+              11.6143297,
+              50.9517258
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221257172",
+      "properties": {
+        "@id": "way/221257172",
+        "building": "yes",
+        "power": "station",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6138378,
+              50.8878312
+            ],
+            [
+              11.6141033,
+              50.8876163
+            ],
+            [
+              11.6141623,
+              50.8876468
+            ],
+            [
+              11.6141382,
+              50.887662
+            ],
+            [
+              11.6141582,
+              50.8876726
+            ],
+            [
+              11.6142201,
+              50.8876267
+            ],
+            [
+              11.6141891,
+              50.8876096
+            ],
+            [
+              11.6142026,
+              50.8875994
+            ],
+            [
+              11.6141677,
+              50.8875791
+            ],
+            [
+              11.6141382,
+              50.8876011
+            ],
+            [
+              11.6140819,
+              50.8875723
+            ],
+            [
+              11.6140631,
+              50.8875859
+            ],
+            [
+              11.6139397,
+              50.8875165
+            ],
+            [
+              11.6136554,
+              50.8877432
+            ],
+            [
+              11.6138378,
+              50.8878312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246024979",
+      "properties": {
+        "@id": "way/246024979",
+        "name": "Trafostation Winzerla",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5805801,
+              50.8904328
+            ],
+            [
+              11.5805235,
+              50.8903968
+            ],
+            [
+              11.58059,
+              50.8903549
+            ],
+            [
+              11.5806469,
+              50.8903901
+            ],
+            [
+              11.5805801,
+              50.8904328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254767198",
+      "properties": {
+        "@id": "way/254767198",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5740751,
+              50.9352288
+            ],
+            [
+              11.5741228,
+              50.9351557
+            ],
+            [
+              11.5742148,
+              50.9351796
+            ],
+            [
+              11.5741671,
+              50.9352526
+            ],
+            [
+              11.5740751,
+              50.9352288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256743556",
+      "properties": {
+        "@id": "way/256743556",
+        "building": "yes",
+        "frequency": "50",
+        "operator": "Stadtwerke Jena",
+        "power": "sub_station",
+        "voltage": "low"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6008952,
+              50.953021
+            ],
+            [
+              11.6009111,
+              50.9529974
+            ],
+            [
+              11.6009793,
+              50.9530157
+            ],
+            [
+              11.6009634,
+              50.9530393
+            ],
+            [
+              11.6008952,
+              50.953021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295545288",
+      "properties": {
+        "@id": "way/295545288",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6095031,
+              50.8901235
+            ],
+            [
+              11.6095411,
+              50.8900281
+            ],
+            [
+              11.6094454,
+              50.8900129
+            ],
+            [
+              11.6094074,
+              50.8901083
+            ],
+            [
+              11.6095031,
+              50.8901235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295677322",
+      "properties": {
+        "@id": "way/295677322",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6179839,
+              50.8849188
+            ],
+            [
+              11.6180205,
+              50.8848885
+            ],
+            [
+              11.6178802,
+              50.8848209
+            ],
+            [
+              11.6178435,
+              50.8848511
+            ],
+            [
+              11.6179839,
+              50.8849188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307453821",
+      "properties": {
+        "@id": "way/307453821",
+        "building": "yes",
+        "power": "sub_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5635915,
+              50.8797072
+            ],
+            [
+              11.5636031,
+              50.8796742
+            ],
+            [
+              11.5635231,
+              50.879663
+            ],
+            [
+              11.5635115,
+              50.879696
+            ],
+            [
+              11.5635915,
+              50.8797072
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

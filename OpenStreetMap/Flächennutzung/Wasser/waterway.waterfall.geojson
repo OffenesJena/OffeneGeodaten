@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:34.448Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/331773205",
+      "properties": {
+        "@id": "node/331773205",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6314308,
+          50.9063986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/676645741",
+      "properties": {
+        "@id": "node/676645741",
+        "name": "Wasserfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.592216,
+          50.9608057
+        ]
+      }
+    }
+  ]
+}

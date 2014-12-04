@@ -1,0 +1,1243 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:59.768Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/156790095",
+      "properties": {
+        "@id": "way/156790095",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5727939,
+            50.8949608
+          ],
+          [
+            11.5732336,
+            50.8953007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790096",
+      "properties": {
+        "@id": "way/156790096",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5813414,
+            50.8947592
+          ],
+          [
+            11.5819633,
+            50.893728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790098",
+      "properties": {
+        "@id": "way/156790098",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5780322,
+            50.8938218
+          ],
+          [
+            11.5776776,
+            50.8936249
+          ],
+          [
+            11.5776067,
+            50.8933834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790100",
+      "properties": {
+        "@id": "way/156790100",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5761528,
+            50.8933655
+          ],
+          [
+            11.5755429,
+            50.8931687
+          ],
+          [
+            11.5772308,
+            50.8921129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790102",
+      "properties": {
+        "@id": "way/156790102",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5802094,
+            50.8930658
+          ],
+          [
+            11.5804813,
+            50.8929112
+          ],
+          [
+            11.5807129,
+            50.8927795
+          ],
+          [
+            11.5810534,
+            50.8927034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790103",
+      "properties": {
+        "@id": "way/156790103",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5804813,
+            50.8929112
+          ],
+          [
+            11.5804027,
+            50.8934581
+          ],
+          [
+            11.5806656,
+            50.8934354
+          ],
+          [
+            11.5810767,
+            50.8934852
+          ],
+          [
+            11.5815425,
+            50.8935345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790105",
+      "properties": {
+        "@id": "way/156790105",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5767698,
+            50.8934147
+          ],
+          [
+            11.5765996,
+            50.8933252
+          ],
+          [
+            11.5766563,
+            50.8931866
+          ],
+          [
+            11.5769613,
+            50.8929539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156790106",
+      "properties": {
+        "@id": "way/156790106",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5762366,
+            50.8944379
+          ],
+          [
+            11.5761834,
+            50.8947555
+          ],
+          [
+            11.5761054,
+            50.8948383
+          ],
+          [
+            11.5757933,
+            50.8950821
+          ],
+          [
+            11.5753926,
+            50.8953147
+          ],
+          [
+            11.5748643,
+            50.8955093
+          ],
+          [
+            11.574531,
+            50.8956099
+          ],
+          [
+            11.5743288,
+            50.8955294
+          ],
+          [
+            11.5740416,
+            50.8952006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041602",
+      "properties": {
+        "@id": "way/230041602",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6021336,
+            50.8957516
+          ],
+          [
+            11.6022395,
+            50.8950624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041603",
+      "properties": {
+        "@id": "way/230041603",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6022539,
+            50.8948331
+          ],
+          [
+            11.6023021,
+            50.8941909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041604",
+      "properties": {
+        "@id": "way/230041604",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6019193,
+            50.8939722
+          ],
+          [
+            11.6017171,
+            50.8954904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041605",
+      "properties": {
+        "@id": "way/230041605",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6015055,
+            50.897423
+          ],
+          [
+            11.6018356,
+            50.8967961
+          ],
+          [
+            11.6020229,
+            50.8963366
+          ],
+          [
+            11.6021828,
+            50.896006
+          ],
+          [
+            11.6024245,
+            50.8958064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041606",
+      "properties": {
+        "@id": "way/230041606",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5988674,
+            50.901863
+          ],
+          [
+            11.5993102,
+            50.9014046
+          ],
+          [
+            11.5996568,
+            50.9009189
+          ],
+          [
+            11.6000564,
+            50.9002783
+          ],
+          [
+            11.6003404,
+            50.8997592
+          ],
+          [
+            11.6006052,
+            50.8992309
+          ],
+          [
+            11.6008699,
+            50.89873
+          ],
+          [
+            11.6011202,
+            50.8982867
+          ],
+          [
+            11.6012598,
+            50.8979831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041907",
+      "properties": {
+        "@id": "way/230041907",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5891863,
+            50.9061148
+          ],
+          [
+            11.5885361,
+            50.9065527
+          ],
+          [
+            11.588063,
+            50.9069176
+          ],
+          [
+            11.5876001,
+            50.9073705
+          ],
+          [
+            11.5871303,
+            50.9078877
+          ],
+          [
+            11.5869806,
+            50.9080637
+          ],
+          [
+            11.5866677,
+            50.9084796
+          ],
+          [
+            11.5864171,
+            50.9088614
+          ],
+          [
+            11.5862014,
+            50.9092388
+          ],
+          [
+            11.5859473,
+            50.9098467
+          ],
+          [
+            11.5858046,
+            50.9102702
+          ],
+          [
+            11.5857797,
+            50.9104646
+          ],
+          [
+            11.5858049,
+            50.9105444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041908",
+      "properties": {
+        "@id": "way/230041908",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5954494,
+            50.9035111
+          ],
+          [
+            11.5961642,
+            50.903202
+          ],
+          [
+            11.5966578,
+            50.9029701
+          ],
+          [
+            11.5972909,
+            50.9026331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041909",
+      "properties": {
+        "@id": "way/230041909",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5900612,
+            50.9211221
+          ],
+          [
+            11.5901181,
+            50.9217592
+          ],
+          [
+            11.5901573,
+            50.9221741
+          ],
+          [
+            11.5902035,
+            50.9224792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041910",
+      "properties": {
+        "@id": "way/230041910",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5896093,
+            50.9203572
+          ],
+          [
+            11.5897659,
+            50.9216537
+          ],
+          [
+            11.5898584,
+            50.9225442
+          ],
+          [
+            11.5899501,
+            50.9229743
+          ],
+          [
+            11.5900993,
+            50.9234788
+          ],
+          [
+            11.5902157,
+            50.9238458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041911",
+      "properties": {
+        "@id": "way/230041911",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5945304,
+            50.9038502
+          ],
+          [
+            11.5941525,
+            50.9040026
+          ],
+          [
+            11.5932233,
+            50.9043461
+          ],
+          [
+            11.5923791,
+            50.9046401
+          ],
+          [
+            11.5914158,
+            50.9050008
+          ],
+          [
+            11.5904185,
+            50.9054301
+          ],
+          [
+            11.5894858,
+            50.905913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041912",
+      "properties": {
+        "@id": "way/230041912",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5874948,
+            50.9150212
+          ],
+          [
+            11.5883703,
+            50.9161507
+          ],
+          [
+            11.5891554,
+            50.9171532
+          ],
+          [
+            11.5895328,
+            50.9178606
+          ],
+          [
+            11.5897592,
+            50.9184856
+          ],
+          [
+            11.5898448,
+            50.9191106
+          ],
+          [
+            11.5898901,
+            50.9194785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230041913",
+      "properties": {
+        "@id": "way/230041913",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5876024,
+            50.9156531
+          ],
+          [
+            11.5884671,
+            50.9167411
+          ],
+          [
+            11.5888194,
+            50.9172392
+          ],
+          [
+            11.5890222,
+            50.9175757
+          ],
+          [
+            11.5892499,
+            50.9180467
+          ],
+          [
+            11.5894029,
+            50.9185717
+          ],
+          [
+            11.5894919,
+            50.919101
+          ],
+          [
+            11.5895203,
+            50.9194308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230042066",
+      "properties": {
+        "@id": "way/230042066",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5904017,
+            50.9225217
+          ],
+          [
+            11.5904652,
+            50.9219454
+          ],
+          [
+            11.5905525,
+            50.9213628
+          ],
+          [
+            11.5906544,
+            50.9205602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295638500",
+      "properties": {
+        "@id": "way/295638500",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6124194,
+            50.8894572
+          ],
+          [
+            11.612811,
+            50.8895688
+          ],
+          [
+            11.611643,
+            50.8905479
+          ],
+          [
+            11.6113733,
+            50.8903268
+          ],
+          [
+            11.6122477,
+            50.8894944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295639049",
+      "properties": {
+        "@id": "way/295639049",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6132648,
+            50.8893472
+          ],
+          [
+            11.6135035,
+            50.8891476
+          ],
+          [
+            11.6138683,
+            50.8888396
+          ],
+          [
+            11.6141845,
+            50.8885655
+          ],
+          [
+            11.6143602,
+            50.8884589
+          ],
+          [
+            11.614961,
+            50.8882161
+          ],
+          [
+            11.6152051,
+            50.8881197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296026030",
+      "properties": {
+        "@id": "way/296026030",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6097268,
+            50.8917645
+          ],
+          [
+            11.6098234,
+            50.8917628
+          ],
+          [
+            11.6098368,
+            50.8915496
+          ],
+          [
+            11.6100943,
+            50.8915378
+          ],
+          [
+            11.610156,
+            50.8916376
+          ],
+          [
+            11.6101962,
+            50.8918
+          ],
+          [
+            11.6097537,
+            50.8918339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307467834",
+      "properties": {
+        "@id": "way/307467834",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5657655,
+            50.8808242
+          ],
+          [
+            11.5660126,
+            50.8808361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307467835",
+      "properties": {
+        "@id": "way/307467835",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5657718,
+            50.8804251
+          ],
+          [
+            11.5657801,
+            50.8802453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307467836",
+      "properties": {
+        "@id": "way/307467836",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5656607,
+            50.8809022
+          ],
+          [
+            11.5651685,
+            50.8803841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307467837",
+      "properties": {
+        "@id": "way/307467837",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5656188,
+            50.8807079
+          ],
+          [
+            11.5655791,
+            50.8804119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307479438",
+      "properties": {
+        "@id": "way/307479438",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5662413,
+            50.8832366
+          ],
+          [
+            11.5667757,
+            50.8833808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307479439",
+      "properties": {
+        "@id": "way/307479439",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5687515,
+            50.8837458
+          ],
+          [
+            11.5690842,
+            50.8837833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307479440",
+      "properties": {
+        "@id": "way/307479440",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5649273,
+            50.8829462
+          ],
+          [
+            11.5656465,
+            50.8830818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307479441",
+      "properties": {
+        "@id": "way/307479441",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5642283,
+            50.882785
+          ],
+          [
+            11.5647828,
+            50.8829186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105260",
+      "properties": {
+        "@id": "way/309105260",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5520224,
+            50.9041734
+          ],
+          [
+            11.5511781,
+            50.9037926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105264",
+      "properties": {
+        "@id": "way/309105264",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5514543,
+            50.9018709
+          ],
+          [
+            11.5513452,
+            50.9017486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105265",
+      "properties": {
+        "@id": "way/309105265",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5491195,
+            50.9010545
+          ],
+          [
+            11.5490153,
+            50.9008489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105267",
+      "properties": {
+        "@id": "way/309105267",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5497233,
+            50.9021801
+          ],
+          [
+            11.5495871,
+            50.9019678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105270",
+      "properties": {
+        "@id": "way/309105270",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5509027,
+            50.90107
+          ],
+          [
+            11.5508299,
+            50.9008559
+          ],
+          [
+            11.5507905,
+            50.9006533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105271",
+      "properties": {
+        "@id": "way/309105271",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5508596,
+            50.9041311
+          ],
+          [
+            11.5508581,
+            50.9039237
+          ],
+          [
+            11.5508157,
+            50.9037479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105273",
+      "properties": {
+        "@id": "way/309105273",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5524886,
+            50.9041666
+          ],
+          [
+            11.5521226,
+            50.9041076
+          ],
+          [
+            11.5517379,
+            50.9039375
+          ],
+          [
+            11.5513478,
+            50.9037707
+          ],
+          [
+            11.5510646,
+            50.903619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105275",
+      "properties": {
+        "@id": "way/309105275",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5495149,
+            50.9016881
+          ],
+          [
+            11.549376,
+            50.9013544
+          ],
+          [
+            11.549221,
+            50.9010579
+          ],
+          [
+            11.5490687,
+            50.9007714
+          ],
+          [
+            11.5488176,
+            50.9003974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309105279",
+      "properties": {
+        "@id": "way/309105279",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.550963,
+            50.9035634
+          ],
+          [
+            11.5508508,
+            50.9034488
+          ],
+          [
+            11.5507386,
+            50.9033124
+          ],
+          [
+            11.5504875,
+            50.9029939
+          ],
+          [
+            11.5502363,
+            50.9026637
+          ],
+          [
+            11.5498436,
+            50.9022172
+          ],
+          [
+            11.5496646,
+            50.9019223
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 331773205,
+      "lat": 50.9063986,
+      "lon": 11.6314308,
+      "tags": {
+        "waterway": "waterfall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 676645741,
+      "lat": 50.9608057,
+      "lon": 11.592216,
+      "tags": {
+        "name": "Wasserfall",
+        "waterway": "waterfall"
+      }
+    }
+  ]
+}

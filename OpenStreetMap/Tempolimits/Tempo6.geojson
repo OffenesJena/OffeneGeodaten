@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:16.712Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/55932702",
+      "properties": {
+        "@id": "way/55932702",
+        "bicycle": "no",
+        "foot": "yes",
+        "highway": "path",
+        "horse": "no",
+        "maxspeed": "6",
+        "sac_scale": "hiking",
+        "surface": "ground",
+        "trail_visibility": "excellent",
+        "wheelchair": "no",
+        "width": "0.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5824406,
+            50.9403156
+          ],
+          [
+            11.5823966,
+            50.9403775
+          ],
+          [
+            11.5823787,
+            50.940444
+          ],
+          [
+            11.5823826,
+            50.9404934
+          ],
+          [
+            11.5824098,
+            50.940545
+          ],
+          [
+            11.5824872,
+            50.9406523
+          ],
+          [
+            11.582571,
+            50.940726
+          ],
+          [
+            11.582038,
+            50.9407578
+          ],
+          [
+            11.5814181,
+            50.9407369
+          ],
+          [
+            11.5808637,
+            50.9407264
+          ],
+          [
+            11.580147,
+            50.9407892
+          ],
+          [
+            11.5798097,
+            50.9408624
+          ],
+          [
+            11.5795693,
+            50.9409426
+          ],
+          [
+            11.5791446,
+            50.9412188
+          ],
+          [
+            11.578565,
+            50.9415285
+          ],
+          [
+            11.5779918,
+            50.9416628
+          ],
+          [
+            11.5778044,
+            50.9417307
+          ],
+          [
+            11.5777872,
+            50.9418428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116351994",
+      "properties": {
+        "@id": "way/116351994",
+        "bicycle": "no",
+        "foot": "yes",
+        "highway": "path",
+        "horse": "no",
+        "maxspeed": "6",
+        "surface": "ground",
+        "trail_visibility": "good",
+        "width": ".4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5343902,
+            50.9444959
+          ],
+          [
+            11.5342225,
+            50.9443978
+          ],
+          [
+            11.5340825,
+            50.9442952
+          ],
+          [
+            11.5340296,
+            50.9442136
+          ],
+          [
+            11.5339193,
+            50.94412
+          ],
+          [
+            11.5338869,
+            50.9440351
+          ],
+          [
+            11.5339318,
+            50.9437608
+          ],
+          [
+            11.5337202,
+            50.9439337
+          ],
+          [
+            11.5336058,
+            50.943766
+          ],
+          [
+            11.5335239,
+            50.9437593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116351996",
+      "properties": {
+        "@id": "way/116351996",
+        "bicycle": "no",
+        "foot": "yes",
+        "highway": "path",
+        "horse": "no",
+        "maxspeed": "6",
+        "sac_scale": "hiking",
+        "surface": "ground",
+        "wheelchair": "no",
+        "width": "0.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5339318,
+            50.9437608
+          ],
+          [
+            11.5342301,
+            50.9431871
+          ],
+          [
+            11.5346448,
+            50.9428531
+          ],
+          [
+            11.5354349,
+            50.9426065
+          ],
+          [
+            11.5361682,
+            50.9424625
+          ],
+          [
+            11.5361871,
+            50.9423927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122017908",
+      "properties": {
+        "@id": "way/122017908",
+        "bicycle": "no",
+        "foot": "yes",
+        "highway": "path",
+        "horse": "no",
+        "maxspeed": "6",
+        "sac_scale": "hiking",
+        "surface": "ground",
+        "wheelchair": "no",
+        "width": "0.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5776185,
+            50.9416297
+          ],
+          [
+            11.5767777,
+            50.9420205
+          ],
+          [
+            11.5762772,
+            50.9421701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122017912",
+      "properties": {
+        "@id": "way/122017912",
+        "bicycle": "no",
+        "foot": "yes",
+        "highway": "path",
+        "horse": "no",
+        "maxspeed": "6",
+        "sac_scale": "hiking",
+        "surface": "ground",
+        "wheelchair": "no",
+        "width": "0.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5791446,
+            50.9412188
+          ],
+          [
+            11.579086,
+            50.9411706
+          ],
+          [
+            11.5785838,
+            50.9412609
+          ],
+          [
+            11.5783093,
+            50.9413296
+          ],
+          [
+            11.5776733,
+            50.9415627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122017922",
+      "properties": {
+        "@id": "way/122017922",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "path",
+        "horse": "no",
+        "maxspeed": "6",
+        "sac_scale": "hiking",
+        "surface": "ground",
+        "trail_visibility": "excellent",
+        "wheelchair": "no",
+        "width": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5779241,
+            50.9417536
+          ],
+          [
+            11.5777872,
+            50.9418428
+          ],
+          [
+            11.5771712,
+            50.9422006
+          ],
+          [
+            11.5769119,
+            50.9422509
+          ],
+          [
+            11.5762772,
+            50.9421701
+          ]
+        ]
+      }
+    }
+  ]
+}

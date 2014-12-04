@@ -1,0 +1,2450 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:24.537Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23289591",
+      "properties": {
+        "@id": "way/23289591",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "-1",
+        "length": "600",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Lobdeburg-Tunnel",
+        "oneway": "yes",
+        "osmarender:nameDirection": "-1",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2009",
+        "tunnel": "yes",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q14913906",
+        "wikipedia": "de:Lobdeburgtunnel",
+        "wikipedia:de": "Lobdeburgtunnel",
+        "wikipedia:pl": "Lobdeburgtunnel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6117021,
+            50.8804146
+          ],
+          [
+            11.6103435,
+            50.8802226
+          ],
+          [
+            11.6097121,
+            50.8800916
+          ],
+          [
+            11.6091738,
+            50.8799593
+          ],
+          [
+            11.6078017,
+            50.8795142
+          ],
+          [
+            11.6064725,
+            50.8789405
+          ],
+          [
+            11.6059027,
+            50.8786571
+          ],
+          [
+            11.6043223,
+            50.8777766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23289599",
+      "properties": {
+        "@id": "way/23289599",
+        "destination": "Jena-Zentrum;Naumburg;Stadtroda-West",
+        "destination:lanes": "Jena-Zentrum;Jena-Lobeda;Naumburg|Stadtroda-West",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "A 4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6135784,
+            50.8803348
+          ],
+          [
+            11.6142758,
+            50.8802487
+          ],
+          [
+            11.6146199,
+            50.8802238
+          ],
+          [
+            11.6152854,
+            50.8801293
+          ],
+          [
+            11.6159149,
+            50.8800666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25729953",
+      "properties": {
+        "@id": "way/25729953",
+        "bdouble": "yes",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "height": "21",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2006",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5963395,
+            50.8731187
+          ],
+          [
+            11.5980464,
+            50.8740684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27172829",
+      "properties": {
+        "@id": "way/27172829",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6238082,
+            50.8791892
+          ],
+          [
+            11.623443,
+            50.8793094
+          ],
+          [
+            11.6230332,
+            50.8794064
+          ],
+          [
+            11.6227929,
+            50.8794617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27577293",
+      "properties": {
+        "@id": "way/27577293",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "overtaking:hgv": "no",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5960226,
+            50.8732013
+          ],
+          [
+            11.5953547,
+            50.8728379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27577295",
+      "properties": {
+        "@id": "way/27577295",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "layer": "-1",
+        "lenght": "3072 m",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Jagdbergtunnel",
+        "oneway": "yes",
+        "opening_date": "18/11/2014",
+        "operator": "Autobahnamt Thüringen",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "start_date": "2014",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "wikidata": "Q1678261",
+        "wikipedia": "de:Jagdbergtunnel",
+        "wikipedia:de": "Jagdbergtunnel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5365282,
+            50.8787901
+          ],
+          [
+            11.5374667,
+            50.8787606
+          ],
+          [
+            11.5386284,
+            50.8786386
+          ],
+          [
+            11.5399757,
+            50.8784376
+          ],
+          [
+            11.5409292,
+            50.8782822
+          ],
+          [
+            11.5584041,
+            50.8750391
+          ],
+          [
+            11.5784145,
+            50.8712711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27577296",
+      "properties": {
+        "@id": "way/27577296",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "layer": "-1",
+        "lenght": "3072 m",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Jagdbergtunnel",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "operator": "Autobahnamt Thüringen",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "start_date": "2014",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "wikidata": "Q1678261",
+        "wikipedia": "de:Jagdbergtunnel",
+        "wikipedia:de": "Jagdbergtunnel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5785613,
+            50.8715841
+          ],
+          [
+            11.5586196,
+            50.8752765
+          ],
+          [
+            11.5583076,
+            50.8753306
+          ],
+          [
+            11.5580437,
+            50.8753796
+          ],
+          [
+            11.5419544,
+            50.878332
+          ],
+          [
+            11.5410633,
+            50.8784954
+          ],
+          [
+            11.5400824,
+            50.8786552
+          ],
+          [
+            11.5386566,
+            50.8788679
+          ],
+          [
+            11.5374968,
+            50.8789897
+          ],
+          [
+            11.5365475,
+            50.8790241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29033583",
+      "properties": {
+        "@id": "way/29033583",
+        "destination": "Jena-Zentrum;Jena-Lobeda;Naumburg",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6209593,
+            50.879757
+          ],
+          [
+            11.620736,
+            50.8798163
+          ],
+          [
+            11.6203138,
+            50.8799352
+          ],
+          [
+            11.6200546,
+            50.8800669
+          ],
+          [
+            11.6189713,
+            50.880718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30965588",
+      "properties": {
+        "@id": "way/30965588",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6413135,
+            50.9333779
+          ],
+          [
+            11.6409741,
+            50.9333319
+          ],
+          [
+            11.6402831,
+            50.9332635
+          ],
+          [
+            11.6386803,
+            50.9332393
+          ],
+          [
+            11.6375301,
+            50.9332728
+          ],
+          [
+            11.6367291,
+            50.9333145
+          ],
+          [
+            11.6361106,
+            50.9333545
+          ],
+          [
+            11.634821,
+            50.9334845
+          ],
+          [
+            11.6336639,
+            50.9335974
+          ],
+          [
+            11.6331566,
+            50.9336482
+          ],
+          [
+            11.6330532,
+            50.9336599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34072874",
+      "properties": {
+        "@id": "way/34072874",
+        "destination": "Stadtroda",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6209593,
+            50.879757
+          ],
+          [
+            11.6201229,
+            50.879865
+          ],
+          [
+            11.6187034,
+            50.8800787
+          ],
+          [
+            11.6184267,
+            50.8801291
+          ],
+          [
+            11.6181364,
+            50.8802041
+          ],
+          [
+            11.6178136,
+            50.8803135
+          ],
+          [
+            11.6175572,
+            50.8804129
+          ],
+          [
+            11.6173782,
+            50.8804984
+          ],
+          [
+            11.6172709,
+            50.8805807
+          ],
+          [
+            11.6172024,
+            50.8806718
+          ],
+          [
+            11.6171749,
+            50.8807476
+          ],
+          [
+            11.6171636,
+            50.880824
+          ],
+          [
+            11.6171706,
+            50.8808999
+          ],
+          [
+            11.6172073,
+            50.8809699
+          ],
+          [
+            11.6172672,
+            50.8810432
+          ],
+          [
+            11.617345,
+            50.8811087
+          ],
+          [
+            11.6174366,
+            50.8811665
+          ],
+          [
+            11.6175269,
+            50.8812033
+          ],
+          [
+            11.6176154,
+            50.8812375
+          ],
+          [
+            11.6176954,
+            50.8812535
+          ],
+          [
+            11.6178073,
+            50.8812352
+          ],
+          [
+            11.6179396,
+            50.8812017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51939954",
+      "properties": {
+        "@id": "way/51939954",
+        "destination": "Frankfurt am Main",
+        "destination:ref": "A 4",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "A 4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6174603,
+            50.8815587
+          ],
+          [
+            11.6174675,
+            50.8814675
+          ],
+          [
+            11.6174743,
+            50.8814256
+          ],
+          [
+            11.6174534,
+            50.8813363
+          ],
+          [
+            11.6174107,
+            50.8812515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51939962",
+      "properties": {
+        "@id": "way/51939962",
+        "destination": "Stadtroda",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6170177,
+            50.8799184
+          ],
+          [
+            11.6176316,
+            50.8798049
+          ],
+          [
+            11.6179696,
+            50.8797342
+          ],
+          [
+            11.6188761,
+            50.8795034
+          ],
+          [
+            11.6201897,
+            50.8792336
+          ],
+          [
+            11.6202783,
+            50.8792057
+          ],
+          [
+            11.6203428,
+            50.879184
+          ],
+          [
+            11.6204195,
+            50.8791507
+          ],
+          [
+            11.6204735,
+            50.8791296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51939963",
+      "properties": {
+        "@id": "way/51939963",
+        "destination": "Jena",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6170177,
+            50.8799184
+          ],
+          [
+            11.6179231,
+            50.8798029
+          ],
+          [
+            11.6193078,
+            50.8795997
+          ],
+          [
+            11.6206871,
+            50.8793895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51939967",
+      "properties": {
+        "@id": "way/51939967",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "osmarender:nameDirection": "-1",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6148497,
+            50.8804397
+          ],
+          [
+            11.6143388,
+            50.880469
+          ],
+          [
+            11.6138055,
+            50.8804881
+          ],
+          [
+            11.6132904,
+            50.8804973
+          ],
+          [
+            11.6126473,
+            50.880481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51939984",
+      "properties": {
+        "@id": "way/51939984",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|none|merge_to_left",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5957685,
+            50.872802
+          ],
+          [
+            11.5963395,
+            50.8731187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59010746",
+      "properties": {
+        "@id": "way/59010746",
+        "bdouble": "yes",
+        "cutting": "right",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "18/11/2014",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "start_date": "2014",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5784145,
+            50.8712711
+          ],
+          [
+            11.5823333,
+            50.8705601
+          ],
+          [
+            11.5832529,
+            50.8704363
+          ],
+          [
+            11.5836531,
+            50.870387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71594529",
+      "properties": {
+        "@id": "way/71594529",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6043223,
+            50.8777766
+          ],
+          [
+            11.6042058,
+            50.8777144
+          ],
+          [
+            11.6040919,
+            50.8776536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71594531",
+      "properties": {
+        "@id": "way/71594531",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "-1",
+        "length": "600",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Lobdeburg-Tunnel",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2009",
+        "tunnel": "yes",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q14913906",
+        "wikipedia": "de:Lobdeburgtunnel",
+        "wikipedia:de": "Lobdeburgtunnel",
+        "wikipedia:pl": "Lobdeburgtunnel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6045446,
+            50.8776243
+          ],
+          [
+            11.6061188,
+            50.8784669
+          ],
+          [
+            11.6066883,
+            50.8787596
+          ],
+          [
+            11.6073852,
+            50.8790937
+          ],
+          [
+            11.607925,
+            50.8793171
+          ],
+          [
+            11.6079511,
+            50.8793279
+          ],
+          [
+            11.6086159,
+            50.8795813
+          ],
+          [
+            11.609276,
+            50.879782
+          ],
+          [
+            11.6097987,
+            50.8799117
+          ],
+          [
+            11.6104207,
+            50.8800379
+          ],
+          [
+            11.61111,
+            50.880151
+          ],
+          [
+            11.6117596,
+            50.8802442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134465465",
+      "properties": {
+        "@id": "way/134465465",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5982416,
+            50.8624943
+          ],
+          [
+            11.5981546,
+            50.8628174
+          ],
+          [
+            11.5981012,
+            50.8632368
+          ],
+          [
+            11.59802,
+            50.864438
+          ],
+          [
+            11.5979413,
+            50.866779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134465482",
+      "properties": {
+        "@id": "way/134465482",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5978095,
+            50.86782
+          ],
+          [
+            11.5977395,
+            50.8683026
+          ],
+          [
+            11.5977045,
+            50.8686747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134465550",
+      "properties": {
+        "@id": "way/134465550",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5972133,
+            50.8723173
+          ],
+          [
+            11.5972993,
+            50.8721775
+          ],
+          [
+            11.59737,
+            50.8720445
+          ],
+          [
+            11.5974608,
+            50.871856
+          ],
+          [
+            11.5975382,
+            50.8716684
+          ],
+          [
+            11.5976002,
+            50.8714599
+          ],
+          [
+            11.5976346,
+            50.8713236
+          ],
+          [
+            11.597663,
+            50.8711674
+          ],
+          [
+            11.5977027,
+            50.8709314
+          ],
+          [
+            11.597712,
+            50.8707076
+          ],
+          [
+            11.5977086,
+            50.8706704
+          ],
+          [
+            11.5976695,
+            50.8703804
+          ],
+          [
+            11.5976446,
+            50.8701812
+          ],
+          [
+            11.5975857,
+            50.8698439
+          ],
+          [
+            11.5975691,
+            50.8695808
+          ],
+          [
+            11.597581,
+            50.8693415
+          ],
+          [
+            11.5975839,
+            50.8686794
+          ],
+          [
+            11.597622,
+            50.8682989
+          ],
+          [
+            11.5976587,
+            50.8681036
+          ],
+          [
+            11.5977138,
+            50.8678103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150555931",
+      "properties": {
+        "@id": "way/150555931",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6042623,
+            50.8774786
+          ],
+          [
+            11.6044375,
+            50.8775689
+          ],
+          [
+            11.6045446,
+            50.8776243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150555933",
+      "properties": {
+        "@id": "way/150555933",
+        "bdouble": "yes",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "height": "21",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "1944",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6040919,
+            50.8776536
+          ],
+          [
+            11.5980724,
+            50.8743707
+          ],
+          [
+            11.5965272,
+            50.8734892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150555942",
+      "properties": {
+        "@id": "way/150555942",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6117596,
+            50.8802442
+          ],
+          [
+            11.6118331,
+            50.8802584
+          ],
+          [
+            11.6123042,
+            50.8802961
+          ],
+          [
+            11.6127153,
+            50.880309
+          ],
+          [
+            11.6132196,
+            50.8803328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157504019",
+      "properties": {
+        "@id": "way/157504019",
+        "destination": "Rudolstadt;Kahla",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5942559,
+            50.8758346
+          ],
+          [
+            11.5946293,
+            50.8753911
+          ],
+          [
+            11.5951255,
+            50.8748057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157504038",
+      "properties": {
+        "@id": "way/157504038",
+        "destination": "Jena",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5952524,
+            50.8748445
+          ],
+          [
+            11.5947741,
+            50.875402
+          ],
+          [
+            11.594387,
+            50.8758587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159745206",
+      "properties": {
+        "@id": "way/159745206",
+        "destination": "Jena-Zentrum;Naumburg;Stadtroda-West",
+        "destination:lanes": "Jena-Zentrum;Jena-Lobeda;Naumburg|Stadtroda-West",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6159149,
+            50.8800666
+          ],
+          [
+            11.6170177,
+            50.8799184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160998926",
+      "properties": {
+        "@id": "way/160998926",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5977045,
+            50.8686747
+          ],
+          [
+            11.5976971,
+            50.8693322
+          ],
+          [
+            11.597723,
+            50.8695942
+          ],
+          [
+            11.5977495,
+            50.869826
+          ],
+          [
+            11.5977906,
+            50.8701625
+          ],
+          [
+            11.5978253,
+            50.8703722
+          ],
+          [
+            11.5978587,
+            50.8706964
+          ],
+          [
+            11.5978633,
+            50.870933
+          ],
+          [
+            11.5978391,
+            50.8711355
+          ],
+          [
+            11.5977928,
+            50.8713385
+          ],
+          [
+            11.5977541,
+            50.8714853
+          ],
+          [
+            11.597672,
+            50.8717038
+          ],
+          [
+            11.5975514,
+            50.8719772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167528147",
+      "properties": {
+        "@id": "way/167528147",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5977138,
+            50.8678103
+          ],
+          [
+            11.5978073,
+            50.8672339
+          ],
+          [
+            11.5978449,
+            50.8667702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167528153",
+      "properties": {
+        "@id": "way/167528153",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5978449,
+            50.8667702
+          ],
+          [
+            11.5978663,
+            50.8650864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168567727",
+      "properties": {
+        "@id": "way/168567727",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5983862,
+            50.8619239
+          ],
+          [
+            11.5982916,
+            50.8622922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168567736",
+      "properties": {
+        "@id": "way/168567736",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5982916,
+            50.8622922
+          ],
+          [
+            11.5982416,
+            50.8624943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168567737",
+      "properties": {
+        "@id": "way/168567737",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5979413,
+            50.866779
+          ],
+          [
+            11.5979043,
+            50.8672358
+          ],
+          [
+            11.5978095,
+            50.86782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199992820",
+      "properties": {
+        "@id": "way/199992820",
+        "destination": "Jena",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5966912,
+            50.873175
+          ],
+          [
+            11.5952524,
+            50.8748445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199992821",
+      "properties": {
+        "@id": "way/199992821",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5965904,
+            50.873098
+          ],
+          [
+            11.5969086,
+            50.8727287
+          ],
+          [
+            11.5972133,
+            50.8723173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199992822",
+      "properties": {
+        "@id": "way/199992822",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5958678,
+            50.8739301
+          ],
+          [
+            11.5965904,
+            50.873098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199992824",
+      "properties": {
+        "@id": "way/199992824",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5951255,
+            50.8748057
+          ],
+          [
+            11.5958678,
+            50.8739301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199992825",
+      "properties": {
+        "@id": "way/199992825",
+        "highway": "trunk",
+        "lanes": "3",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5975514,
+            50.8719772
+          ],
+          [
+            11.5971373,
+            50.8726516
+          ],
+          [
+            11.5969222,
+            50.872907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215654674",
+      "properties": {
+        "@id": "way/215654674",
+        "bdouble": "yes",
+        "construction": "motorway",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "overtaking": "no",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5924433,
+            50.8712957
+          ],
+          [
+            11.593097,
+            50.871551
+          ],
+          [
+            11.593797,
+            50.8718216
+          ],
+          [
+            11.5942408,
+            50.8720251
+          ],
+          [
+            11.5946706,
+            50.8722233
+          ],
+          [
+            11.5950138,
+            50.8724064
+          ],
+          [
+            11.5957685,
+            50.872802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/218430677",
+      "properties": {
+        "@id": "way/218430677",
+        "bdouble": "yes",
+        "cutting": "right",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "ref": "A 4",
+        "source:maxspeed": "signals"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5850461,
+            50.8705802
+          ],
+          [
+            11.5845249,
+            50.8706107
+          ],
+          [
+            11.5838999,
+            50.8706717
+          ],
+          [
+            11.5832802,
+            50.8707423
+          ],
+          [
+            11.5826357,
+            50.8708397
+          ],
+          [
+            11.5812901,
+            50.871076
+          ],
+          [
+            11.5785613,
+            50.8715841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224649991",
+      "properties": {
+        "@id": "way/224649991",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "osmarender:nameDirection": "-1",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "width": "14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6126473,
+            50.880481
+          ],
+          [
+            11.6123232,
+            50.8804677
+          ],
+          [
+            11.6117838,
+            50.8804216
+          ],
+          [
+            11.6117021,
+            50.8804146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224649993",
+      "properties": {
+        "@id": "way/224649993",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "width": "10.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6238082,
+            50.8791892
+          ],
+          [
+            11.6218374,
+            50.8794997
+          ],
+          [
+            11.6204506,
+            50.8797063
+          ],
+          [
+            11.6201128,
+            50.8797558
+          ],
+          [
+            11.6181375,
+            50.8800431
+          ],
+          [
+            11.6172939,
+            50.8801785
+          ],
+          [
+            11.6157526,
+            50.8803624
+          ],
+          [
+            11.6148497,
+            50.8804397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234316631",
+      "properties": {
+        "@id": "way/234316631",
+        "destination:ref": "A 4",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "ref": "A 4",
+        "turn:lanes": "none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6174107,
+            50.8812515
+          ],
+          [
+            11.6165883,
+            50.8807325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234316632",
+      "properties": {
+        "@id": "way/234316632",
+        "destination:ref": "A 4",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "A 4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6165883,
+            50.8807325
+          ],
+          [
+            11.6164886,
+            50.8806716
+          ],
+          [
+            11.6163295,
+            50.880597
+          ],
+          [
+            11.616168,
+            50.8805411
+          ],
+          [
+            11.6160299,
+            50.8805017
+          ],
+          [
+            11.6158398,
+            50.8804687
+          ],
+          [
+            11.6157165,
+            50.8804604
+          ],
+          [
+            11.615444,
+            50.8804576
+          ],
+          [
+            11.6148497,
+            50.8804397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238489804",
+      "properties": {
+        "@id": "way/238489804",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6421022,
+            50.9334671
+          ],
+          [
+            11.6413135,
+            50.9333779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551215",
+      "properties": {
+        "@id": "way/245551215",
+        "destination:lanes": "Stadtroda|Jena-Zentrum;Jena-Lobeda",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "turn:lanes": "through|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6227929,
+            50.8794617
+          ],
+          [
+            11.6224266,
+            50.8795344
+          ],
+          [
+            11.6221941,
+            50.8795727
+          ],
+          [
+            11.6209593,
+            50.879757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252378643",
+      "properties": {
+        "@id": "way/252378643",
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5978663,
+            50.8650864
+          ],
+          [
+            11.5978728,
+            50.864456
+          ],
+          [
+            11.5979451,
+            50.8632391
+          ],
+          [
+            11.5980061,
+            50.8627939
+          ],
+          [
+            11.5980631,
+            50.8624777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255832226",
+      "properties": {
+        "@id": "way/255832226",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|slight_right",
+        "width": "10.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6263545,
+            50.8788018
+          ],
+          [
+            11.6238082,
+            50.8791892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258001242",
+      "properties": {
+        "@id": "way/258001242",
+        "bdouble": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5965272,
+            50.8734892
+          ],
+          [
+            11.5960226,
+            50.8732013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258001250",
+      "properties": {
+        "@id": "way/258001250",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "width": "10.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6272993,
+            50.8786582
+          ],
+          [
+            11.6263545,
+            50.8788018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263642736",
+      "properties": {
+        "@id": "way/263642736",
+        "bdouble": "yes",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "height": "21",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2006",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5980464,
+            50.8740684
+          ],
+          [
+            11.6042623,
+            50.8774786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293883692",
+      "properties": {
+        "@id": "way/293883692",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "overtaking": "no",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5836531,
+            50.870387
+          ],
+          [
+            11.5843152,
+            50.8703266
+          ],
+          [
+            11.585023,
+            50.8702825
+          ],
+          [
+            11.5864258,
+            50.870259
+          ],
+          [
+            11.5872962,
+            50.8702916
+          ],
+          [
+            11.5879394,
+            50.8703282
+          ],
+          [
+            11.5888803,
+            50.8704162
+          ],
+          [
+            11.5897627,
+            50.8705557
+          ],
+          [
+            11.5908737,
+            50.8708109
+          ],
+          [
+            11.5918103,
+            50.8710889
+          ],
+          [
+            11.5924433,
+            50.8712957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311769792",
+      "properties": {
+        "@id": "way/311769792",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5929385,
+            50.8717316
+          ],
+          [
+            11.5922859,
+            50.8715047
+          ],
+          [
+            11.5918157,
+            50.8713482
+          ],
+          [
+            11.5914625,
+            50.8712479
+          ],
+          [
+            11.5910416,
+            50.8711359
+          ],
+          [
+            11.5906845,
+            50.8710481
+          ],
+          [
+            11.5903336,
+            50.8709665
+          ],
+          [
+            11.5897509,
+            50.8708475
+          ],
+          [
+            11.5891833,
+            50.8707596
+          ],
+          [
+            11.588318,
+            50.8706546
+          ],
+          [
+            11.5876118,
+            50.8705934
+          ],
+          [
+            11.5869088,
+            50.870559
+          ],
+          [
+            11.5862287,
+            50.8705476
+          ],
+          [
+            11.5855984,
+            50.8705514
+          ],
+          [
+            11.5850461,
+            50.8705802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311769793",
+      "properties": {
+        "@id": "way/311769793",
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5953547,
+            50.8728379
+          ],
+          [
+            11.5946478,
+            50.872498
+          ],
+          [
+            11.5942989,
+            50.8723355
+          ],
+          [
+            11.5938502,
+            50.8721314
+          ],
+          [
+            11.5935699,
+            50.8719885
+          ],
+          [
+            11.5929385,
+            50.8717316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314767883",
+      "properties": {
+        "@id": "way/314767883",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5969222,
+            50.872907
+          ],
+          [
+            11.5966912,
+            50.873175
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:33.667Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/718592112",
+      "properties": {
+        "@id": "node/718592112",
+        "waterway": "mooring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895838,
+          50.9242681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/718595029",
+      "properties": {
+        "@id": "node/718595029",
+        "waterway": "mooring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890693,
+          50.924087
+        ]
+      }
+    }
+  ]
+}

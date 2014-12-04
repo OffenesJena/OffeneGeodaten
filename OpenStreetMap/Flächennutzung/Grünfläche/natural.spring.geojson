@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:09.289Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/270492155",
+      "properties": {
+        "@id": "node/270492155",
+        "amenity": "drinking_water",
+        "name": "Fürstenbrunnen",
+        "natural": "spring",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6335821,
+          50.9067623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304489033",
+      "properties": {
+        "@id": "node/304489033",
+        "created_by": "Potlatch 0.10e",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5923999,
+          50.91871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365040981",
+      "properties": {
+        "@id": "node/365040981",
+        "created_by": "Potlatch 0.10f",
+        "name": "Zigeunerquelle",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5372667,
+          50.9499839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621461023",
+      "properties": {
+        "@id": "node/621461023",
+        "name": "Sängerquelle",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5830039,
+          50.8873072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703999987",
+      "properties": {
+        "@id": "node/703999987",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5862261,
+          50.9669774
+        ]
+      }
+    }
+  ]
+}

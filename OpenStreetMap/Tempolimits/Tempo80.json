@@ -1,0 +1,2821 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 23289591,
+      "nodes": [
+        486595,
+        851561888,
+        486597,
+        851561658,
+        486599,
+        851561845,
+        486601,
+        851562016
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "-1",
+        "length": "600",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Lobdeburg-Tunnel",
+        "oneway": "yes",
+        "osmarender:nameDirection": "-1",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2009",
+        "tunnel": "yes",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q14913906",
+        "wikipedia": "de:Lobdeburgtunnel",
+        "wikipedia:de": "Lobdeburgtunnel",
+        "wikipedia:pl": "Lobdeburgtunnel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23289599,
+      "nodes": [
+        252102486,
+        851561749,
+        851561804,
+        851561960,
+        298065472
+      ],
+      "tags": {
+        "destination": "Jena-Zentrum;Naumburg;Stadtroda-West",
+        "destination:lanes": "Jena-Zentrum;Jena-Lobeda;Naumburg|Stadtroda-West",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "A 4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25729953,
+      "nodes": [
+        486359,
+        2026414990
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "height": "21",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2006",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27172829,
+      "nodes": [
+        851561546,
+        2079901767,
+        315583407,
+        851561838
+      ],
+      "tags": {
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27577293,
+      "nodes": [
+        486607,
+        1789167800
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "overtaking:hgv": "no",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27577295,
+      "nodes": [
+        302789824,
+        1796886527,
+        1796886513,
+        1796886509,
+        1796886506,
+        302789826,
+        731427503
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "layer": "-1",
+        "lenght": "3072 m",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Jagdbergtunnel",
+        "oneway": "yes",
+        "opening_date": "18/11/2014",
+        "operator": "Autobahnamt Thüringen",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "start_date": "2014",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "wikidata": "Q1678261",
+        "wikipedia": "de:Jagdbergtunnel",
+        "wikipedia:de": "Jagdbergtunnel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27577296,
+      "nodes": [
+        731427504,
+        302789799,
+        3159201875,
+        3159201876,
+        3074694984,
+        1796886510,
+        1796886521,
+        1796886531,
+        1796886538,
+        302789805
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "layer": "-1",
+        "lenght": "3072 m",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Jagdbergtunnel",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "operator": "Autobahnamt Thüringen",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "start_date": "2014",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "wikidata": "Q1678261",
+        "wikipedia": "de:Jagdbergtunnel",
+        "wikipedia:de": "Jagdbergtunnel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29033583,
+      "nodes": [
+        315583403,
+        851561817,
+        315583757,
+        315583758,
+        894788735
+      ],
+      "tags": {
+        "destination": "Jena-Zentrum;Jena-Lobeda;Naumburg",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30965588,
+      "nodes": [
+        1721472658,
+        1721472656,
+        1721472653,
+        1721472649,
+        1721472652,
+        1497275132,
+        767141346,
+        1497275074,
+        1497275064,
+        1497275072,
+        32128182
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "no",
+        "ref": "B 7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34072874,
+      "nodes": [
+        315583403,
+        851561989,
+        315583401,
+        851561535,
+        315583400,
+        315583399,
+        851561584,
+        315583398,
+        851561774,
+        315583397,
+        851561821,
+        315583396,
+        851561976,
+        315583395,
+        298144076,
+        851561504,
+        851562023,
+        851561695,
+        851561877,
+        851561645,
+        851561539,
+        851562020
+      ],
+      "tags": {
+        "destination": "Stadtroda",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51939954,
+      "nodes": [
+        2464861014,
+        851561685,
+        298144069,
+        851561724,
+        851561978
+      ],
+      "tags": {
+        "destination": "Frankfurt am Main",
+        "destination:ref": "A 4",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "A 4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51939962,
+      "nodes": [
+        1831995059,
+        252102489,
+        252102485,
+        252102488,
+        298095958,
+        851561856,
+        851561621,
+        851561667,
+        1960361251
+      ],
+      "tags": {
+        "destination": "Stadtroda",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51939963,
+      "nodes": [
+        1831995059,
+        851561664,
+        2079901769,
+        1831995053
+      ],
+      "tags": {
+        "destination": "Jena",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51939967,
+      "nodes": [
+        424277429,
+        486589,
+        509314763,
+        851561924,
+        851561521
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "osmarender:nameDirection": "-1",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|merge_to_left",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51939984,
+      "nodes": [
+        31996209,
+        486359
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|none|merge_to_left",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59010746,
+      "nodes": [
+        731427503,
+        302789828,
+        2026414928,
+        2974620996
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "cutting": "right",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "18/11/2014",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "start_date": "2014",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 71594529,
+      "nodes": [
+        851562016,
+        2831378342,
+        50597231
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 71594531,
+      "nodes": [
+        851561627,
+        486363,
+        851562002,
+        390434767,
+        3159237104,
+        486364,
+        509314769,
+        851562050,
+        31917887,
+        509314765,
+        851561706,
+        1634539079
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "-1",
+        "length": "600",
+        "lit": "yes",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Lobdeburg-Tunnel",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2009",
+        "tunnel": "yes",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q14913906",
+        "wikipedia": "de:Lobdeburgtunnel",
+        "wikipedia:de": "Lobdeburgtunnel",
+        "wikipedia:pl": "Lobdeburgtunnel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 134465465,
+      "nodes": [
+        1798117348,
+        2099818857,
+        1798117363,
+        252102101,
+        1798117386
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 134465482,
+      "nodes": [
+        1478289357,
+        1789167539,
+        1788468146
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 134465550,
+      "nodes": [
+        31918156,
+        1789167776,
+        1478289474,
+        1789167760,
+        1789167751,
+        1789167745,
+        1478289468,
+        1478289440,
+        1789167703,
+        3208164186,
+        1789167675,
+        1478289423,
+        1478289411,
+        1478289385,
+        1789167626,
+        1789167612,
+        1789167540,
+        1789167538,
+        1996157451,
+        1789167535
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 150555931,
+      "nodes": [
+        486362,
+        2831378341,
+        851561627
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 150555933,
+      "nodes": [
+        50597231,
+        2026415058,
+        2634379281
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "height": "21",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "1944",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 150555942,
+      "nodes": [
+        1634539079,
+        2831378344,
+        2615334018,
+        2615334021,
+        2692662732
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157504019,
+      "nodes": [
+        1697360399,
+        1827119817,
+        2099752736
+      ],
+      "tags": {
+        "destination": "Rudolstadt;Kahla",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157504038,
+      "nodes": [
+        1729694396,
+        489962089,
+        1697360403
+      ],
+      "tags": {
+        "destination": "Jena",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159745206,
+      "nodes": [
+        298065472,
+        1831995059
+      ],
+      "tags": {
+        "destination": "Jena-Zentrum;Naumburg;Stadtroda-West",
+        "destination:lanes": "Jena-Zentrum;Jena-Lobeda;Naumburg|Stadtroda-West",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160998926,
+      "nodes": [
+        1788468146,
+        1789167611,
+        1789167627,
+        1729694382,
+        1729694385,
+        1729694388,
+        1789167674,
+        1789167702,
+        1729694390,
+        1789167735,
+        1789167747,
+        1789167761,
+        1478289478
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 167528147,
+      "nodes": [
+        1789167535,
+        1798117406,
+        1798117384
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 167528153,
+      "nodes": [
+        1798117384,
+        2026414885
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168567727,
+      "nodes": [
+        1798117331,
+        1798117339
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168567736,
+      "nodes": [
+        1798117339,
+        1798117348
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168567737,
+      "nodes": [
+        1798117386,
+        1798117408,
+        1478289357
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199992820,
+      "nodes": [
+        1789167810,
+        1729694396
+      ],
+      "tags": {
+        "destination": "Jena",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199992821,
+      "nodes": [
+        2099752734,
+        3208164187,
+        31918156
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199992822,
+      "nodes": [
+        2099752735,
+        2099752734
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199992824,
+      "nodes": [
+        2099752736,
+        2099752735
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199992825,
+      "nodes": [
+        1478289478,
+        1789167794,
+        1789167803
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "3",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|merge_to_left"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215654674,
+      "nodes": [
+        1788468202,
+        1788468212,
+        3195359159,
+        3195359158,
+        2026414964,
+        3195359157,
+        31996209
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "construction": "motorway",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "overtaking": "no",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218430677,
+      "nodes": [
+        2276805312,
+        2276805320,
+        2276805340,
+        2276805360,
+        2276805370,
+        2276805391,
+        731427504
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "cutting": "right",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "ref": "A 4",
+        "source:maxspeed": "signals"
+      }
+    },
+    {
+      "type": "way",
+      "id": 224649991,
+      "nodes": [
+        851561521,
+        486591,
+        2831378345,
+        486595
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "osmarender:nameDirection": "-1",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "width": "14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 224649993,
+      "nodes": [
+        851561546,
+        315583408,
+        2464860936,
+        486585,
+        851561781,
+        851561863,
+        509314758,
+        424277429
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "width": "10.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234316631,
+      "nodes": [
+        851561978,
+        544787077
+      ],
+      "tags": {
+        "destination:ref": "A 4",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "ref": "A 4",
+        "turn:lanes": "none|merge_to_left"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234316632,
+      "nodes": [
+        544787077,
+        2425763838,
+        851561908,
+        315591098,
+        851561731,
+        851561948,
+        851561555,
+        851561600,
+        424277429
+      ],
+      "tags": {
+        "destination:ref": "A 4",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "A 4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238489804,
+      "nodes": [
+        1721472660,
+        1721472658
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "no",
+        "ref": "B 7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245551215,
+      "nodes": [
+        851561838,
+        315583406,
+        315583405,
+        315583403
+      ],
+      "tags": {
+        "destination:lanes": "Stadtroda|Jena-Zentrum;Jena-Lobeda",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "turn:lanes": "through|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252378643,
+      "nodes": [
+        2026414885,
+        1798117375,
+        1798117362,
+        1798117350,
+        1798117349
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "1",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255832226,
+      "nodes": [
+        2615334013,
+        851561546
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|slight_right",
+        "width": "10.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258001242,
+      "nodes": [
+        2634379281,
+        486607
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "bridge": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258001250,
+      "nodes": [
+        2634379350,
+        2615334013
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "width": "10.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263642736,
+      "nodes": [
+        2026414990,
+        486362
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "height": "21",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "4",
+        "layer": "1",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "name": "Saaletalbrücke",
+        "oneway": "yes",
+        "placement": "middle_of:2",
+        "ref": "A 4",
+        "source:lit": "http://www.autobahn-bilder.de",
+        "source:maxspeed": "signals",
+        "start_date": "2006",
+        "turn:lanes": "through|through|through|right",
+        "width": "14",
+        "wikidata": "Q1555455",
+        "wikipedia": "de:Saaletalbrücke Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293883692,
+      "nodes": [
+        2974620996,
+        1788468184,
+        1788468181,
+        302789829,
+        2026414925,
+        1788468183,
+        1788468185,
+        1788468186,
+        1788468193,
+        1788468198,
+        1788468202
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "opening_date": "2014",
+        "overtaking": "no",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311769792,
+      "nodes": [
+        486611,
+        2276805411,
+        2276805407,
+        2276805403,
+        2276805395,
+        2276805387,
+        2276805383,
+        2276805371,
+        2276805362,
+        2276805324,
+        2276805316,
+        2276805307,
+        2276805303,
+        2276805305,
+        2276805312
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311769793,
+      "nodes": [
+        1789167800,
+        2276805469,
+        2276805460,
+        2276805446,
+        2026414965,
+        486611
+      ],
+      "tags": {
+        "bdouble": "yes",
+        "highway": "motorway",
+        "int_ref": "E 40",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "80",
+        "maxspeed:source": "signals",
+        "maxspeed:variable": "yes",
+        "oneway": "yes",
+        "overtaking:hgv": "no",
+        "ref": "A 4",
+        "source:maxspeed": "signals",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314767883,
+      "nodes": [
+        1789167803,
+        1789167810
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "80",
+        "oneway": "yes",
+        "ref": "B 88",
+        "source:maxspeed": "DE:urban",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 731427503,
+      "lat": 50.8712711,
+      "lon": 11.5784145
+    },
+    {
+      "type": "node",
+      "id": 731427504,
+      "lat": 50.8715841,
+      "lon": 11.5785613
+    },
+    {
+      "type": "node",
+      "id": 302789828,
+      "lat": 50.8705601,
+      "lon": 11.5823333
+    },
+    {
+      "type": "node",
+      "id": 302789829,
+      "lat": 50.870259,
+      "lon": 11.5864258
+    },
+    {
+      "type": "node",
+      "id": 1788468181,
+      "lat": 50.8702825,
+      "lon": 11.585023
+    },
+    {
+      "type": "node",
+      "id": 1788468184,
+      "lat": 50.8703266,
+      "lon": 11.5843152
+    },
+    {
+      "type": "node",
+      "id": 2026414928,
+      "lat": 50.8704363,
+      "lon": 11.5832529
+    },
+    {
+      "type": "node",
+      "id": 2276805303,
+      "lat": 50.8705476,
+      "lon": 11.5862287
+    },
+    {
+      "type": "node",
+      "id": 2276805305,
+      "lat": 50.8705514,
+      "lon": 11.5855984
+    },
+    {
+      "type": "node",
+      "id": 2276805320,
+      "lat": 50.8706107,
+      "lon": 11.5845249
+    },
+    {
+      "type": "node",
+      "id": 2276805340,
+      "lat": 50.8706717,
+      "lon": 11.5838999
+    },
+    {
+      "type": "node",
+      "id": 2276805360,
+      "lat": 50.8707423,
+      "lon": 11.5832802
+    },
+    {
+      "type": "node",
+      "id": 2276805370,
+      "lat": 50.8708397,
+      "lon": 11.5826357
+    },
+    {
+      "type": "node",
+      "id": 2276805391,
+      "lat": 50.871076,
+      "lon": 11.5812901
+    },
+    {
+      "type": "node",
+      "id": 2974620996,
+      "lat": 50.870387,
+      "lon": 11.5836531
+    },
+    {
+      "type": "node",
+      "id": 2276805312,
+      "lat": 50.8705802,
+      "lon": 11.5850461
+    },
+    {
+      "type": "node",
+      "id": 1798117331,
+      "lat": 50.8619239,
+      "lon": 11.5983862
+    },
+    {
+      "type": "node",
+      "id": 1798117339,
+      "lat": 50.8622922,
+      "lon": 11.5982916
+    },
+    {
+      "type": "node",
+      "id": 1798117348,
+      "lat": 50.8624943,
+      "lon": 11.5982416
+    },
+    {
+      "type": "node",
+      "id": 252102101,
+      "lat": 50.864438,
+      "lon": 11.59802
+    },
+    {
+      "type": "node",
+      "id": 1798117349,
+      "lat": 50.8624777,
+      "lon": 11.5980631
+    },
+    {
+      "type": "node",
+      "id": 1798117362,
+      "lat": 50.8632391,
+      "lon": 11.5979451
+    },
+    {
+      "type": "node",
+      "id": 1798117363,
+      "lat": 50.8632368,
+      "lon": 11.5981012
+    },
+    {
+      "type": "node",
+      "id": 1798117375,
+      "lat": 50.864456,
+      "lon": 11.5978728
+    },
+    {
+      "type": "node",
+      "id": 2026414885,
+      "lat": 50.8650864,
+      "lon": 11.5978663
+    },
+    {
+      "type": "node",
+      "id": 2099818857,
+      "lat": 50.8628174,
+      "lon": 11.5981546
+    },
+    {
+      "type": "node",
+      "id": 1798117350,
+      "lat": 50.8627939,
+      "lon": 11.5980061
+    },
+    {
+      "type": "node",
+      "id": 1788468212,
+      "lat": 50.871551,
+      "lon": 11.593097
+    },
+    {
+      "type": "node",
+      "id": 2276805307,
+      "lat": 50.870559,
+      "lon": 11.5869088
+    },
+    {
+      "type": "node",
+      "id": 2276805316,
+      "lat": 50.8705934,
+      "lon": 11.5876118
+    },
+    {
+      "type": "node",
+      "id": 2276805324,
+      "lat": 50.8706546,
+      "lon": 11.588318
+    },
+    {
+      "type": "node",
+      "id": 2276805362,
+      "lat": 50.8707596,
+      "lon": 11.5891833
+    },
+    {
+      "type": "node",
+      "id": 2276805371,
+      "lat": 50.8708475,
+      "lon": 11.5897509
+    },
+    {
+      "type": "node",
+      "id": 2276805383,
+      "lat": 50.8709665,
+      "lon": 11.5903336
+    },
+    {
+      "type": "node",
+      "id": 2276805387,
+      "lat": 50.8710481,
+      "lon": 11.5906845
+    },
+    {
+      "type": "node",
+      "id": 2276805395,
+      "lat": 50.8711359,
+      "lon": 11.5910416
+    },
+    {
+      "type": "node",
+      "id": 2276805403,
+      "lat": 50.8712479,
+      "lon": 11.5914625
+    },
+    {
+      "type": "node",
+      "id": 2276805407,
+      "lat": 50.8713482,
+      "lon": 11.5918157
+    },
+    {
+      "type": "node",
+      "id": 486611,
+      "lat": 50.8717316,
+      "lon": 11.5929385
+    },
+    {
+      "type": "node",
+      "id": 1788468183,
+      "lat": 50.8703282,
+      "lon": 11.5879394
+    },
+    {
+      "type": "node",
+      "id": 1788468185,
+      "lat": 50.8704162,
+      "lon": 11.5888803
+    },
+    {
+      "type": "node",
+      "id": 1788468186,
+      "lat": 50.8705557,
+      "lon": 11.5897627
+    },
+    {
+      "type": "node",
+      "id": 1788468193,
+      "lat": 50.8708109,
+      "lon": 11.5908737
+    },
+    {
+      "type": "node",
+      "id": 1788468198,
+      "lat": 50.8710889,
+      "lon": 11.5918103
+    },
+    {
+      "type": "node",
+      "id": 1788468202,
+      "lat": 50.8712957,
+      "lon": 11.5924433
+    },
+    {
+      "type": "node",
+      "id": 2026414925,
+      "lat": 50.8702916,
+      "lon": 11.5872962
+    },
+    {
+      "type": "node",
+      "id": 2276805411,
+      "lat": 50.8715047,
+      "lon": 11.5922859
+    },
+    {
+      "type": "node",
+      "id": 1788468146,
+      "lat": 50.8686747,
+      "lon": 11.5977045
+    },
+    {
+      "type": "node",
+      "id": 1789167535,
+      "lat": 50.8678103,
+      "lon": 11.5977138
+    },
+    {
+      "type": "node",
+      "id": 1789167538,
+      "lat": 50.8682989,
+      "lon": 11.597622
+    },
+    {
+      "type": "node",
+      "id": 1789167539,
+      "lat": 50.8683026,
+      "lon": 11.5977395
+    },
+    {
+      "type": "node",
+      "id": 1789167540,
+      "lat": 50.8686794,
+      "lon": 11.5975839
+    },
+    {
+      "type": "node",
+      "id": 1789167611,
+      "lat": 50.8693322,
+      "lon": 11.5976971
+    },
+    {
+      "type": "node",
+      "id": 1789167612,
+      "lat": 50.8693415,
+      "lon": 11.597581
+    },
+    {
+      "type": "node",
+      "id": 1789167627,
+      "lat": 50.8695942,
+      "lon": 11.597723
+    },
+    {
+      "type": "node",
+      "id": 1798117384,
+      "lat": 50.8667702,
+      "lon": 11.5978449
+    },
+    {
+      "type": "node",
+      "id": 1798117386,
+      "lat": 50.866779,
+      "lon": 11.5979413
+    },
+    {
+      "type": "node",
+      "id": 1798117406,
+      "lat": 50.8672339,
+      "lon": 11.5978073
+    },
+    {
+      "type": "node",
+      "id": 1798117408,
+      "lat": 50.8672358,
+      "lon": 11.5979043
+    },
+    {
+      "type": "node",
+      "id": 1478289357,
+      "lat": 50.86782,
+      "lon": 11.5978095
+    },
+    {
+      "type": "node",
+      "id": 1996157451,
+      "lat": 50.8681036,
+      "lon": 11.5976587
+    },
+    {
+      "type": "node",
+      "id": 1478289385,
+      "lat": 50.8698439,
+      "lon": 11.5975857
+    },
+    {
+      "type": "node",
+      "id": 1478289411,
+      "lat": 50.8701812,
+      "lon": 11.5976446
+    },
+    {
+      "type": "node",
+      "id": 1478289423,
+      "lat": 50.8703804,
+      "lon": 11.5976695
+    },
+    {
+      "type": "node",
+      "id": 1478289440,
+      "lat": 50.8711674,
+      "lon": 11.597663
+    },
+    {
+      "type": "node",
+      "id": 1478289468,
+      "lat": 50.8713236,
+      "lon": 11.5976346
+    },
+    {
+      "type": "node",
+      "id": 1478289474,
+      "lat": 50.8720445,
+      "lon": 11.59737
+    },
+    {
+      "type": "node",
+      "id": 1729694382,
+      "lat": 50.869826,
+      "lon": 11.5977495
+    },
+    {
+      "type": "node",
+      "id": 1729694385,
+      "lat": 50.8701625,
+      "lon": 11.5977906
+    },
+    {
+      "type": "node",
+      "id": 1729694388,
+      "lat": 50.8703722,
+      "lon": 11.5978253
+    },
+    {
+      "type": "node",
+      "id": 1729694390,
+      "lat": 50.8711355,
+      "lon": 11.5978391
+    },
+    {
+      "type": "node",
+      "id": 1789167626,
+      "lat": 50.8695808,
+      "lon": 11.5975691
+    },
+    {
+      "type": "node",
+      "id": 1789167675,
+      "lat": 50.8706704,
+      "lon": 11.5977086
+    },
+    {
+      "type": "node",
+      "id": 1789167702,
+      "lat": 50.870933,
+      "lon": 11.5978633
+    },
+    {
+      "type": "node",
+      "id": 1789167703,
+      "lat": 50.8709314,
+      "lon": 11.5977027
+    },
+    {
+      "type": "node",
+      "id": 1789167735,
+      "lat": 50.8713385,
+      "lon": 11.5977928
+    },
+    {
+      "type": "node",
+      "id": 1789167745,
+      "lat": 50.8714599,
+      "lon": 11.5976002
+    },
+    {
+      "type": "node",
+      "id": 1789167747,
+      "lat": 50.8714853,
+      "lon": 11.5977541
+    },
+    {
+      "type": "node",
+      "id": 1789167751,
+      "lat": 50.8716684,
+      "lon": 11.5975382
+    },
+    {
+      "type": "node",
+      "id": 1789167760,
+      "lat": 50.871856,
+      "lon": 11.5974608
+    },
+    {
+      "type": "node",
+      "id": 1789167776,
+      "lat": 50.8721775,
+      "lon": 11.5972993
+    },
+    {
+      "type": "node",
+      "id": 2026414964,
+      "lat": 50.8722233,
+      "lon": 11.5946706
+    },
+    {
+      "type": "node",
+      "id": 2026414965,
+      "lat": 50.8719885,
+      "lon": 11.5935699
+    },
+    {
+      "type": "node",
+      "id": 2276805446,
+      "lat": 50.8721314,
+      "lon": 11.5938502
+    },
+    {
+      "type": "node",
+      "id": 3195359158,
+      "lat": 50.8720251,
+      "lon": 11.5942408
+    },
+    {
+      "type": "node",
+      "id": 3195359159,
+      "lat": 50.8718216,
+      "lon": 11.593797
+    },
+    {
+      "type": "node",
+      "id": 31918156,
+      "lat": 50.8723173,
+      "lon": 11.5972133
+    },
+    {
+      "type": "node",
+      "id": 1478289478,
+      "lat": 50.8719772,
+      "lon": 11.5975514
+    },
+    {
+      "type": "node",
+      "id": 1789167761,
+      "lat": 50.8717038,
+      "lon": 11.597672
+    },
+    {
+      "type": "node",
+      "id": 1789167674,
+      "lat": 50.8706964,
+      "lon": 11.5978587
+    },
+    {
+      "type": "node",
+      "id": 3208164186,
+      "lat": 50.8707076,
+      "lon": 11.597712
+    },
+    {
+      "type": "node",
+      "id": 1796886509,
+      "lat": 50.8784376,
+      "lon": 11.5399757
+    },
+    {
+      "type": "node",
+      "id": 1796886513,
+      "lat": 50.8786386,
+      "lon": 11.5386284
+    },
+    {
+      "type": "node",
+      "id": 1796886521,
+      "lat": 50.8786552,
+      "lon": 11.5400824
+    },
+    {
+      "type": "node",
+      "id": 1796886531,
+      "lat": 50.8788679,
+      "lon": 11.5386566
+    },
+    {
+      "type": "node",
+      "id": 302789824,
+      "lat": 50.8787901,
+      "lon": 11.5365282
+    },
+    {
+      "type": "node",
+      "id": 1796886527,
+      "lat": 50.8787606,
+      "lon": 11.5374667
+    },
+    {
+      "type": "node",
+      "id": 1796886506,
+      "lat": 50.8782822,
+      "lon": 11.5409292
+    },
+    {
+      "type": "node",
+      "id": 1796886510,
+      "lat": 50.8784954,
+      "lon": 11.5410633
+    },
+    {
+      "type": "node",
+      "id": 3074694984,
+      "lat": 50.878332,
+      "lon": 11.5419544
+    },
+    {
+      "type": "node",
+      "id": 302789805,
+      "lat": 50.8790241,
+      "lon": 11.5365475
+    },
+    {
+      "type": "node",
+      "id": 1796886538,
+      "lat": 50.8789897,
+      "lon": 11.5374968
+    },
+    {
+      "type": "node",
+      "id": 302789799,
+      "lat": 50.8752765,
+      "lon": 11.5586196
+    },
+    {
+      "type": "node",
+      "id": 302789826,
+      "lat": 50.8750391,
+      "lon": 11.5584041
+    },
+    {
+      "type": "node",
+      "id": 3159201875,
+      "lat": 50.8753306,
+      "lon": 11.5583076
+    },
+    {
+      "type": "node",
+      "id": 3159201876,
+      "lat": 50.8753796,
+      "lon": 11.5580437
+    },
+    {
+      "type": "node",
+      "id": 1789167810,
+      "lat": 50.873175,
+      "lon": 11.5966912
+    },
+    {
+      "type": "node",
+      "id": 31996209,
+      "lat": 50.872802,
+      "lon": 11.5957685
+    },
+    {
+      "type": "node",
+      "id": 489962089,
+      "lat": 50.875402,
+      "lon": 11.5947741
+    },
+    {
+      "type": "node",
+      "id": 1697360399,
+      "lat": 50.8758346,
+      "lon": 11.5942559
+    },
+    {
+      "type": "node",
+      "id": 1697360403,
+      "lat": 50.8758587,
+      "lon": 11.594387
+    },
+    {
+      "type": "node",
+      "id": 1729694396,
+      "lat": 50.8748445,
+      "lon": 11.5952524
+    },
+    {
+      "type": "node",
+      "id": 1789167794,
+      "lat": 50.8726516,
+      "lon": 11.5971373
+    },
+    {
+      "type": "node",
+      "id": 1789167803,
+      "lat": 50.872907,
+      "lon": 11.5969222
+    },
+    {
+      "type": "node",
+      "id": 1827119817,
+      "lat": 50.8753911,
+      "lon": 11.5946293
+    },
+    {
+      "type": "node",
+      "id": 2026415058,
+      "lat": 50.8743707,
+      "lon": 11.5980724
+    },
+    {
+      "type": "node",
+      "id": 2099752735,
+      "lat": 50.8739301,
+      "lon": 11.5958678
+    },
+    {
+      "type": "node",
+      "id": 2099752736,
+      "lat": 50.8748057,
+      "lon": 11.5951255
+    },
+    {
+      "type": "node",
+      "id": 486607,
+      "lat": 50.8732013,
+      "lon": 11.5960226
+    },
+    {
+      "type": "node",
+      "id": 1789167800,
+      "lat": 50.8728379,
+      "lon": 11.5953547
+    },
+    {
+      "type": "node",
+      "id": 2634379281,
+      "lat": 50.8734892,
+      "lon": 11.5965272
+    },
+    {
+      "type": "node",
+      "id": 2026414990,
+      "lat": 50.8740684,
+      "lon": 11.5980464
+    },
+    {
+      "type": "node",
+      "id": 486359,
+      "lat": 50.8731187,
+      "lon": 11.5963395
+    },
+    {
+      "type": "node",
+      "id": 2276805460,
+      "lat": 50.8723355,
+      "lon": 11.5942989
+    },
+    {
+      "type": "node",
+      "id": 2276805469,
+      "lat": 50.872498,
+      "lon": 11.5946478
+    },
+    {
+      "type": "node",
+      "id": 3195359157,
+      "lat": 50.8724064,
+      "lon": 11.5950138
+    },
+    {
+      "type": "node",
+      "id": 2099752734,
+      "lat": 50.873098,
+      "lon": 11.5965904
+    },
+    {
+      "type": "node",
+      "id": 3208164187,
+      "lat": 50.8727287,
+      "lon": 11.5969086
+    },
+    {
+      "type": "node",
+      "id": 486363,
+      "lat": 50.8784669,
+      "lon": 11.6061188
+    },
+    {
+      "type": "node",
+      "id": 486601,
+      "lat": 50.8786571,
+      "lon": 11.6059027
+    },
+    {
+      "type": "node",
+      "id": 50597231,
+      "lat": 50.8776536,
+      "lon": 11.6040919
+    },
+    {
+      "type": "node",
+      "id": 851562016,
+      "lat": 50.8777766,
+      "lon": 11.6043223
+    },
+    {
+      "type": "node",
+      "id": 2831378342,
+      "lat": 50.8777144,
+      "lon": 11.6042058
+    },
+    {
+      "type": "node",
+      "id": 486362,
+      "lat": 50.8774786,
+      "lon": 11.6042623
+    },
+    {
+      "type": "node",
+      "id": 851561627,
+      "lat": 50.8776243,
+      "lon": 11.6045446
+    },
+    {
+      "type": "node",
+      "id": 2831378341,
+      "lat": 50.8775689,
+      "lon": 11.6044375
+    },
+    {
+      "type": "node",
+      "id": 851562002,
+      "lat": 50.8787596,
+      "lon": 11.6066883
+    },
+    {
+      "type": "node",
+      "id": 486364,
+      "lat": 50.8793279,
+      "lon": 11.6079511
+    },
+    {
+      "type": "node",
+      "id": 486591,
+      "lat": 50.8804677,
+      "lon": 11.6123232
+    },
+    {
+      "type": "node",
+      "id": 486595,
+      "lat": 50.8804146,
+      "lon": 11.6117021
+    },
+    {
+      "type": "node",
+      "id": 486597,
+      "lat": 50.8800916,
+      "lon": 11.6097121
+    },
+    {
+      "type": "node",
+      "id": 486599,
+      "lat": 50.8795142,
+      "lon": 11.6078017
+    },
+    {
+      "type": "node",
+      "id": 31917887,
+      "lat": 50.8799117,
+      "lon": 11.6097987
+    },
+    {
+      "type": "node",
+      "id": 390434767,
+      "lat": 50.8790937,
+      "lon": 11.6073852
+    },
+    {
+      "type": "node",
+      "id": 509314765,
+      "lat": 50.8800379,
+      "lon": 11.6104207
+    },
+    {
+      "type": "node",
+      "id": 509314769,
+      "lat": 50.8795813,
+      "lon": 11.6086159
+    },
+    {
+      "type": "node",
+      "id": 851561658,
+      "lat": 50.8799593,
+      "lon": 11.6091738
+    },
+    {
+      "type": "node",
+      "id": 851561706,
+      "lat": 50.880151,
+      "lon": 11.61111
+    },
+    {
+      "type": "node",
+      "id": 851561845,
+      "lat": 50.8789405,
+      "lon": 11.6064725
+    },
+    {
+      "type": "node",
+      "id": 851561888,
+      "lat": 50.8802226,
+      "lon": 11.6103435
+    },
+    {
+      "type": "node",
+      "id": 851562050,
+      "lat": 50.879782,
+      "lon": 11.609276
+    },
+    {
+      "type": "node",
+      "id": 851561521,
+      "lat": 50.880481,
+      "lon": 11.6126473
+    },
+    {
+      "type": "node",
+      "id": 2615334021,
+      "lat": 50.880309,
+      "lon": 11.6127153
+    },
+    {
+      "type": "node",
+      "id": 2831378345,
+      "lat": 50.8804216,
+      "lon": 11.6117838
+    },
+    {
+      "type": "node",
+      "id": 3159237104,
+      "lat": 50.8793171,
+      "lon": 11.607925
+    },
+    {
+      "type": "node",
+      "id": 1634539079,
+      "lat": 50.8802442,
+      "lon": 11.6117596
+    },
+    {
+      "type": "node",
+      "id": 2615334018,
+      "lat": 50.8802961,
+      "lon": 11.6123042
+    },
+    {
+      "type": "node",
+      "id": 2831378344,
+      "lat": 50.8802584,
+      "lon": 11.6118331
+    },
+    {
+      "type": "node",
+      "id": 486589,
+      "lat": 50.880469,
+      "lon": 11.6143388
+    },
+    {
+      "type": "node",
+      "id": 252102488,
+      "lat": 50.8795034,
+      "lon": 11.6188761
+    },
+    {
+      "type": "node",
+      "id": 298144076,
+      "lat": 50.8810432,
+      "lon": 11.6172672
+    },
+    {
+      "type": "node",
+      "id": 315583395,
+      "lat": 50.8809699,
+      "lon": 11.6172073
+    },
+    {
+      "type": "node",
+      "id": 315583396,
+      "lat": 50.880824,
+      "lon": 11.6171636
+    },
+    {
+      "type": "node",
+      "id": 315583397,
+      "lat": 50.8806718,
+      "lon": 11.6172024
+    },
+    {
+      "type": "node",
+      "id": 315583398,
+      "lat": 50.8804984,
+      "lon": 11.6173782
+    },
+    {
+      "type": "node",
+      "id": 315583399,
+      "lat": 50.8803135,
+      "lon": 11.6178136
+    },
+    {
+      "type": "node",
+      "id": 315583400,
+      "lat": 50.8802041,
+      "lon": 11.6181364
+    },
+    {
+      "type": "node",
+      "id": 315583401,
+      "lat": 50.8800787,
+      "lon": 11.6187034
+    },
+    {
+      "type": "node",
+      "id": 424277429,
+      "lat": 50.8804397,
+      "lon": 11.6148497
+    },
+    {
+      "type": "node",
+      "id": 509314758,
+      "lat": 50.8803624,
+      "lon": 11.6157526
+    },
+    {
+      "type": "node",
+      "id": 509314763,
+      "lat": 50.8804881,
+      "lon": 11.6138055
+    },
+    {
+      "type": "node",
+      "id": 851561504,
+      "lat": 50.8811087,
+      "lon": 11.617345
+    },
+    {
+      "type": "node",
+      "id": 851561535,
+      "lat": 50.8801291,
+      "lon": 11.6184267
+    },
+    {
+      "type": "node",
+      "id": 851561584,
+      "lat": 50.8804129,
+      "lon": 11.6175572
+    },
+    {
+      "type": "node",
+      "id": 851561664,
+      "lat": 50.8798029,
+      "lon": 11.6179231
+    },
+    {
+      "type": "node",
+      "id": 851561695,
+      "lat": 50.8812033,
+      "lon": 11.6175269
+    },
+    {
+      "type": "node",
+      "id": 851561749,
+      "lat": 50.8802487,
+      "lon": 11.6142758
+    },
+    {
+      "type": "node",
+      "id": 851561774,
+      "lat": 50.8805807,
+      "lon": 11.6172709
+    },
+    {
+      "type": "node",
+      "id": 851561804,
+      "lat": 50.8802238,
+      "lon": 11.6146199
+    },
+    {
+      "type": "node",
+      "id": 851561821,
+      "lat": 50.8807476,
+      "lon": 11.6171749
+    },
+    {
+      "type": "node",
+      "id": 851561924,
+      "lat": 50.8804973,
+      "lon": 11.6132904
+    },
+    {
+      "type": "node",
+      "id": 851561960,
+      "lat": 50.8801293,
+      "lon": 11.6152854
+    },
+    {
+      "type": "node",
+      "id": 851561976,
+      "lat": 50.8808999,
+      "lon": 11.6171706
+    },
+    {
+      "type": "node",
+      "id": 851562023,
+      "lat": 50.8811665,
+      "lon": 11.6174366
+    },
+    {
+      "type": "node",
+      "id": 894788735,
+      "lat": 50.880718,
+      "lon": 11.6189713
+    },
+    {
+      "type": "node",
+      "id": 851561863,
+      "lat": 50.8801785,
+      "lon": 11.6172939
+    },
+    {
+      "type": "node",
+      "id": 2079901769,
+      "lat": 50.8795997,
+      "lon": 11.6193078
+    },
+    {
+      "type": "node",
+      "id": 851561781,
+      "lat": 50.8800431,
+      "lon": 11.6181375
+    },
+    {
+      "type": "node",
+      "id": 851561724,
+      "lat": 50.8813363,
+      "lon": 11.6174534
+    },
+    {
+      "type": "node",
+      "id": 2425763838,
+      "lat": 50.8806716,
+      "lon": 11.6164886
+    },
+    {
+      "type": "node",
+      "id": 851561539,
+      "lat": 50.8812352,
+      "lon": 11.6178073
+    },
+    {
+      "type": "node",
+      "id": 851561685,
+      "lat": 50.8814675,
+      "lon": 11.6174675
+    },
+    {
+      "type": "node",
+      "id": 851561877,
+      "lat": 50.8812375,
+      "lon": 11.6176154
+    },
+    {
+      "type": "node",
+      "id": 851562020,
+      "lat": 50.8812017,
+      "lon": 11.6179396
+    },
+    {
+      "type": "node",
+      "id": 2464861014,
+      "lat": 50.8815587,
+      "lon": 11.6174603
+    },
+    {
+      "type": "node",
+      "id": 252102485,
+      "lat": 50.8797342,
+      "lon": 11.6179696
+    },
+    {
+      "type": "node",
+      "id": 252102489,
+      "lat": 50.8798049,
+      "lon": 11.6176316
+    },
+    {
+      "type": "node",
+      "id": 298065472,
+      "lat": 50.8800666,
+      "lon": 11.6159149
+    },
+    {
+      "type": "node",
+      "id": 1831995059,
+      "lat": 50.8799184,
+      "lon": 11.6170177
+    },
+    {
+      "type": "node",
+      "id": 298144069,
+      "lat": 50.8814256,
+      "lon": 11.6174743
+    },
+    {
+      "type": "node",
+      "id": 851561645,
+      "lat": 50.8812535,
+      "lon": 11.6176954
+    },
+    {
+      "type": "node",
+      "id": 252102486,
+      "lat": 50.8803348,
+      "lon": 11.6135784
+    },
+    {
+      "type": "node",
+      "id": 315591098,
+      "lat": 50.8805411,
+      "lon": 11.616168
+    },
+    {
+      "type": "node",
+      "id": 544787077,
+      "lat": 50.8807325,
+      "lon": 11.6165883
+    },
+    {
+      "type": "node",
+      "id": 851561555,
+      "lat": 50.8804604,
+      "lon": 11.6157165
+    },
+    {
+      "type": "node",
+      "id": 851561600,
+      "lat": 50.8804576,
+      "lon": 11.615444
+    },
+    {
+      "type": "node",
+      "id": 851561731,
+      "lat": 50.8805017,
+      "lon": 11.6160299
+    },
+    {
+      "type": "node",
+      "id": 851561908,
+      "lat": 50.880597,
+      "lon": 11.6163295
+    },
+    {
+      "type": "node",
+      "id": 851561948,
+      "lat": 50.8804687,
+      "lon": 11.6158398
+    },
+    {
+      "type": "node",
+      "id": 851561978,
+      "lat": 50.8812515,
+      "lon": 11.6174107
+    },
+    {
+      "type": "node",
+      "id": 2692662732,
+      "lat": 50.8803328,
+      "lon": 11.6132196
+    },
+    {
+      "type": "node",
+      "id": 315583405,
+      "lat": 50.8795727,
+      "lon": 11.6221941
+    },
+    {
+      "type": "node",
+      "id": 315583757,
+      "lat": 50.8799352,
+      "lon": 11.6203138
+    },
+    {
+      "type": "node",
+      "id": 315583758,
+      "lat": 50.8800669,
+      "lon": 11.6200546
+    },
+    {
+      "type": "node",
+      "id": 851561621,
+      "lat": 50.879184,
+      "lon": 11.6203428
+    },
+    {
+      "type": "node",
+      "id": 851561667,
+      "lat": 50.8791507,
+      "lon": 11.6204195
+    },
+    {
+      "type": "node",
+      "id": 851561838,
+      "lat": 50.8794617,
+      "lon": 11.6227929
+    },
+    {
+      "type": "node",
+      "id": 851561856,
+      "lat": 50.8792057,
+      "lon": 11.6202783
+    },
+    {
+      "type": "node",
+      "id": 851561989,
+      "lat": 50.879865,
+      "lon": 11.6201229
+    },
+    {
+      "type": "node",
+      "id": 1960361251,
+      "lat": 50.8791296,
+      "lon": 11.6204735
+    },
+    {
+      "type": "node",
+      "id": 1831995053,
+      "lat": 50.8793895,
+      "lon": 11.6206871
+    },
+    {
+      "type": "node",
+      "id": 315583407,
+      "lat": 50.8794064,
+      "lon": 11.6230332
+    },
+    {
+      "type": "node",
+      "id": 851561817,
+      "lat": 50.8798163,
+      "lon": 11.620736
+    },
+    {
+      "type": "node",
+      "id": 315583403,
+      "lat": 50.879757,
+      "lon": 11.6209593
+    },
+    {
+      "type": "node",
+      "id": 486585,
+      "lat": 50.8797558,
+      "lon": 11.6201128
+    },
+    {
+      "type": "node",
+      "id": 315583406,
+      "lat": 50.8795344,
+      "lon": 11.6224266
+    },
+    {
+      "type": "node",
+      "id": 315583408,
+      "lat": 50.8794997,
+      "lon": 11.6218374
+    },
+    {
+      "type": "node",
+      "id": 851561546,
+      "lat": 50.8791892,
+      "lon": 11.6238082
+    },
+    {
+      "type": "node",
+      "id": 2079901767,
+      "lat": 50.8793094,
+      "lon": 11.623443
+    },
+    {
+      "type": "node",
+      "id": 2464860936,
+      "lat": 50.8797063,
+      "lon": 11.6204506
+    },
+    {
+      "type": "node",
+      "id": 298095958,
+      "lat": 50.8792336,
+      "lon": 11.6201897
+    },
+    {
+      "type": "node",
+      "id": 2615334013,
+      "lat": 50.8788018,
+      "lon": 11.6263545
+    },
+    {
+      "type": "node",
+      "id": 2634379350,
+      "lat": 50.8786582,
+      "lon": 11.6272993
+    },
+    {
+      "type": "node",
+      "id": 767141346,
+      "lat": 50.9333545,
+      "lon": 11.6361106
+    },
+    {
+      "type": "node",
+      "id": 1497275064,
+      "lat": 50.9335974,
+      "lon": 11.6336639
+    },
+    {
+      "type": "node",
+      "id": 1497275132,
+      "lat": 50.9333145,
+      "lon": 11.6367291
+    },
+    {
+      "type": "node",
+      "id": 1721472649,
+      "lat": 50.9332393,
+      "lon": 11.6386803
+    },
+    {
+      "type": "node",
+      "id": 1721472652,
+      "lat": 50.9332728,
+      "lon": 11.6375301
+    },
+    {
+      "type": "node",
+      "id": 32128182,
+      "lat": 50.9336599,
+      "lon": 11.6330532
+    },
+    {
+      "type": "node",
+      "id": 1497275072,
+      "lat": 50.9336482,
+      "lon": 11.6331566
+    },
+    {
+      "type": "node",
+      "id": 1497275074,
+      "lat": 50.9334845,
+      "lon": 11.634821
+    },
+    {
+      "type": "node",
+      "id": 1721472653,
+      "lat": 50.9332635,
+      "lon": 11.6402831
+    },
+    {
+      "type": "node",
+      "id": 1721472656,
+      "lat": 50.9333319,
+      "lon": 11.6409741
+    },
+    {
+      "type": "node",
+      "id": 1721472658,
+      "lat": 50.9333779,
+      "lon": 11.6413135
+    },
+    {
+      "type": "node",
+      "id": 1721472660,
+      "lat": 50.9334671,
+      "lon": 11.6421022
+    }
+  ]
+}

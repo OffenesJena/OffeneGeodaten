@@ -1,0 +1,1228 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 35069467,
+      "nodes": [
+        267138406,
+        312509629
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35150121,
+      "nodes": [
+        35304625,
+        35304626,
+        424277421,
+        2527317667,
+        35304627,
+        894788760,
+        35304628,
+        412294887,
+        2527317668
+      ],
+      "tags": {
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37921446,
+      "nodes": [
+        35304624,
+        2527317666
+      ],
+      "tags": {
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "none|merge_to_left"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38541068,
+      "nodes": [
+        456169668,
+        3195777292
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38541069,
+      "nodes": [
+        2601526342,
+        456169668
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51094776,
+      "nodes": [
+        651808059,
+        364133338,
+        1272033558,
+        35304841
+      ],
+      "tags": {
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Karl-Marx-Allee",
+        "oneway": "yes",
+        "overtaking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159190101,
+      "nodes": [
+        1712854112,
+        1712854186,
+        1712854191,
+        1712854197,
+        288408401
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "overtaking": "no",
+        "turn:lanes": "slight_left"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159190105,
+      "nodes": [
+        1712854122,
+        1712854098,
+        651808059
+      ],
+      "tags": {
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "overtaking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159190110,
+      "nodes": [
+        35304841,
+        1712854009,
+        35305560
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Karl-Marx-Allee",
+        "oneway": "yes",
+        "overtaking": "no",
+        "turn:lanes": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159190134,
+      "nodes": [
+        1712854112,
+        1712854213,
+        1712854218,
+        35304900,
+        1712854229,
+        1712854231,
+        1712854234,
+        1712854241,
+        2425735593
+      ],
+      "tags": {
+        "bicycle": "no",
+        "destination": "Jena-Zentrum",
+        "destination:ref": "B 88",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "turn:lanes": "through|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234312237,
+      "nodes": [
+        288408401,
+        1712854225,
+        1712854221,
+        35304836,
+        1272033573,
+        1712854199,
+        35304837,
+        1712854187,
+        1712854162,
+        1712854122
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "1",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "overtaking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234312238,
+      "nodes": [
+        2425735585,
+        2425735587,
+        2425735589,
+        2425735591,
+        1712854112
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes",
+        "turn:lanes": "slight_left;through|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234312241,
+      "nodes": [
+        2301343939,
+        1712854233,
+        2301343937,
+        2301343913,
+        2301343947,
+        1712854244,
+        2301343915,
+        2301343949,
+        1712854245,
+        1712854247,
+        35304625
+      ],
+      "tags": {
+        "bicycle": "no",
+        "destination": "Jena-Zentrum",
+        "destination:ref": "B 88",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "60",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 234312242,
+      "nodes": [
+        2425735593,
+        1712854232,
+        2301343939
+      ],
+      "tags": {
+        "bicycle": "no",
+        "destination": "Jena-Zentrum",
+        "destination:ref": "B 88",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "turn:lanes": "none|merge_to_left"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240877212,
+      "nodes": [
+        2601526483,
+        2601526443,
+        2601526427,
+        2601526416,
+        2601526408,
+        464477967
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240881686,
+      "nodes": [
+        1831995053,
+        282666495,
+        851561928,
+        1831995030,
+        851561898,
+        1831995029,
+        282666496,
+        1831995021,
+        851561580,
+        1831995011,
+        1831995008,
+        851561814,
+        851561969,
+        1831994989,
+        282666500,
+        1831994988,
+        851561683,
+        1831994990
+      ],
+      "tags": {
+        "destination": "Jena",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245551203,
+      "nodes": [
+        2527317666,
+        35304625
+      ],
+      "tags": {
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245551204,
+      "nodes": [
+        35304629,
+        35304631
+      ],
+      "tags": {
+        "bicycle": "no",
+        "destination": "Naumburg;Gera;Weimar",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245551205,
+      "nodes": [
+        2527317668,
+        3195513226,
+        2527317669,
+        35304629
+      ],
+      "tags": {
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|through|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 249515769,
+      "nodes": [
+        35304896,
+        1712854083,
+        2425735585
+      ],
+      "tags": {
+        "hazmat:water": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Erlanger Allee",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579269,
+      "nodes": [
+        121958014,
+        2601526342
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579270,
+      "nodes": [
+        464477967,
+        2625121079,
+        746203557
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579271,
+      "nodes": [
+        299794623,
+        299792591,
+        3195777287
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88",
+        "turn:lanes:backward": "left|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579272,
+      "nodes": [
+        3195777287,
+        746760865,
+        2485637414
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579274,
+      "nodes": [
+        312509629,
+        746760863,
+        121958018,
+        299794623
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579275,
+      "nodes": [
+        3195777292,
+        312509919,
+        2601526241,
+        2485637446,
+        267138406
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313579277,
+      "nodes": [
+        746203557,
+        2601526399,
+        2601526389,
+        2601526376,
+        2601526366,
+        464477483,
+        121958014
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Wiesenstraße",
+        "oneway": "no",
+        "ref": "B 88"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35304626,
+      "lat": 50.8909724,
+      "lon": 11.6043458
+    },
+    {
+      "type": "node",
+      "id": 35304627,
+      "lat": 50.8916071,
+      "lon": 11.6033956
+    },
+    {
+      "type": "node",
+      "id": 424277421,
+      "lat": 50.8912284,
+      "lon": 11.6039306
+    },
+    {
+      "type": "node",
+      "id": 894788760,
+      "lat": 50.8918999,
+      "lon": 11.6030689
+    },
+    {
+      "type": "node",
+      "id": 2527317667,
+      "lat": 50.8914352,
+      "lon": 11.6036169
+    },
+    {
+      "type": "node",
+      "id": 35304836,
+      "lat": 50.8884365,
+      "lon": 11.6122829
+    },
+    {
+      "type": "node",
+      "id": 35304841,
+      "lat": 50.8870997,
+      "lon": 11.6097928
+    },
+    {
+      "type": "node",
+      "id": 364133338,
+      "lat": 50.8874592,
+      "lon": 11.6101054
+    },
+    {
+      "type": "node",
+      "id": 1272033558,
+      "lat": 50.887286,
+      "lon": 11.6099337
+    },
+    {
+      "type": "node",
+      "id": 1272033573,
+      "lat": 50.888413,
+      "lon": 11.6121543
+    },
+    {
+      "type": "node",
+      "id": 1712854009,
+      "lat": 50.8867336,
+      "lon": 11.6095253
+    },
+    {
+      "type": "node",
+      "id": 1712854098,
+      "lat": 50.8876504,
+      "lon": 11.6103356
+    },
+    {
+      "type": "node",
+      "id": 1712854122,
+      "lat": 50.8878976,
+      "lon": 11.6107617
+    },
+    {
+      "type": "node",
+      "id": 1712854162,
+      "lat": 50.8880588,
+      "lon": 11.611092
+    },
+    {
+      "type": "node",
+      "id": 1712854199,
+      "lat": 50.888393,
+      "lon": 11.6120271
+    },
+    {
+      "type": "node",
+      "id": 1712854221,
+      "lat": 50.8884763,
+      "lon": 11.612549
+    },
+    {
+      "type": "node",
+      "id": 1712854225,
+      "lat": 50.888479,
+      "lon": 11.6128335
+    },
+    {
+      "type": "node",
+      "id": 1712854231,
+      "lat": 50.8885945,
+      "lon": 11.6126904
+    },
+    {
+      "type": "node",
+      "id": 1712854234,
+      "lat": 50.8886176,
+      "lon": 11.6123441
+    },
+    {
+      "type": "node",
+      "id": 1712854241,
+      "lat": 50.8886217,
+      "lon": 11.6120004
+    },
+    {
+      "type": "node",
+      "id": 1712854247,
+      "lat": 50.8892427,
+      "lon": 11.6074725
+    },
+    {
+      "type": "node",
+      "id": 1712854232,
+      "lat": 50.88859,
+      "lon": 11.6107889
+    },
+    {
+      "type": "node",
+      "id": 1712854233,
+      "lat": 50.8885844,
+      "lon": 11.6099787
+    },
+    {
+      "type": "node",
+      "id": 1712854244,
+      "lat": 50.8887493,
+      "lon": 11.6088574
+    },
+    {
+      "type": "node",
+      "id": 1712854245,
+      "lat": 50.8890208,
+      "lon": 11.607912
+    },
+    {
+      "type": "node",
+      "id": 2301343913,
+      "lat": 50.8886747,
+      "lon": 11.6092449
+    },
+    {
+      "type": "node",
+      "id": 2301343915,
+      "lat": 50.8887987,
+      "lon": 11.6086305
+    },
+    {
+      "type": "node",
+      "id": 2301343937,
+      "lat": 50.8886152,
+      "lon": 11.609677
+    },
+    {
+      "type": "node",
+      "id": 2301343939,
+      "lat": 50.888578,
+      "lon": 11.6104204
+    },
+    {
+      "type": "node",
+      "id": 2301343947,
+      "lat": 50.8887075,
+      "lon": 11.6090425
+    },
+    {
+      "type": "node",
+      "id": 2301343949,
+      "lat": 50.8888882,
+      "lon": 11.6083129
+    },
+    {
+      "type": "node",
+      "id": 35304625,
+      "lat": 50.8893758,
+      "lon": 11.6071612
+    },
+    {
+      "type": "node",
+      "id": 35304837,
+      "lat": 50.8883405,
+      "lon": 11.6117575
+    },
+    {
+      "type": "node",
+      "id": 2425735593,
+      "lat": 50.8886076,
+      "lon": 11.6115902
+    },
+    {
+      "type": "node",
+      "id": 1712854187,
+      "lat": 50.8882483,
+      "lon": 11.6114794
+    },
+    {
+      "type": "node",
+      "id": 35305560,
+      "lat": 50.8864187,
+      "lon": 11.6093026
+    },
+    {
+      "type": "node",
+      "id": 35304624,
+      "lat": 50.8878876,
+      "lon": 11.6097427
+    },
+    {
+      "type": "node",
+      "id": 2527317666,
+      "lat": 50.8886156,
+      "lon": 11.6084714
+    },
+    {
+      "type": "node",
+      "id": 651808059,
+      "lat": 50.8875521,
+      "lon": 11.6101985
+    },
+    {
+      "type": "node",
+      "id": 35304631,
+      "lat": 50.8940199,
+      "lon": 11.6022021
+    },
+    {
+      "type": "node",
+      "id": 35304628,
+      "lat": 50.8921439,
+      "lon": 11.6028499
+    },
+    {
+      "type": "node",
+      "id": 35304629,
+      "lat": 50.8934932,
+      "lon": 11.6022469
+    },
+    {
+      "type": "node",
+      "id": 412294887,
+      "lat": 50.8924602,
+      "lon": 11.6026079
+    },
+    {
+      "type": "node",
+      "id": 2527317668,
+      "lat": 50.8926879,
+      "lon": 11.6024744
+    },
+    {
+      "type": "node",
+      "id": 2527317669,
+      "lat": 50.8931069,
+      "lon": 11.602325
+    },
+    {
+      "type": "node",
+      "id": 3195513226,
+      "lat": 50.8930147,
+      "lon": 11.6023579
+    },
+    {
+      "type": "node",
+      "id": 1831994988,
+      "lat": 50.8785976,
+      "lon": 11.6215442
+    },
+    {
+      "type": "node",
+      "id": 1831994989,
+      "lat": 50.8785984,
+      "lon": 11.6217894
+    },
+    {
+      "type": "node",
+      "id": 1831995008,
+      "lat": 50.8787258,
+      "lon": 11.6220696
+    },
+    {
+      "type": "node",
+      "id": 282666500,
+      "lat": 50.8785864,
+      "lon": 11.6216597
+    },
+    {
+      "type": "node",
+      "id": 851561683,
+      "lat": 50.878624,
+      "lon": 11.6214276
+    },
+    {
+      "type": "node",
+      "id": 851561814,
+      "lat": 50.8786792,
+      "lon": 11.6220148
+    },
+    {
+      "type": "node",
+      "id": 851561969,
+      "lat": 50.8786176,
+      "lon": 11.6218895
+    },
+    {
+      "type": "node",
+      "id": 851561580,
+      "lat": 50.878854,
+      "lon": 11.6221311
+    },
+    {
+      "type": "node",
+      "id": 1831995011,
+      "lat": 50.878791,
+      "lon": 11.6221069
+    },
+    {
+      "type": "node",
+      "id": 1831994990,
+      "lat": 50.8786737,
+      "lon": 11.6213383
+    },
+    {
+      "type": "node",
+      "id": 282666495,
+      "lat": 50.8792443,
+      "lon": 11.6216348
+    },
+    {
+      "type": "node",
+      "id": 851561928,
+      "lat": 50.8792128,
+      "lon": 11.6218229
+    },
+    {
+      "type": "node",
+      "id": 282666496,
+      "lat": 50.8789714,
+      "lon": 11.6221295
+    },
+    {
+      "type": "node",
+      "id": 851561898,
+      "lat": 50.8791225,
+      "lon": 11.6220138
+    },
+    {
+      "type": "node",
+      "id": 1831995021,
+      "lat": 50.8789079,
+      "lon": 11.6221364
+    },
+    {
+      "type": "node",
+      "id": 1831995029,
+      "lat": 50.8790472,
+      "lon": 11.6220996
+    },
+    {
+      "type": "node",
+      "id": 1831995030,
+      "lat": 50.8791668,
+      "lon": 11.6219334
+    },
+    {
+      "type": "node",
+      "id": 1831995053,
+      "lat": 50.8793895,
+      "lon": 11.6206871
+    },
+    {
+      "type": "node",
+      "id": 1712854191,
+      "lat": 50.8882973,
+      "lon": 11.6139764
+    },
+    {
+      "type": "node",
+      "id": 1712854197,
+      "lat": 50.8883618,
+      "lon": 11.6137091
+    },
+    {
+      "type": "node",
+      "id": 1712854218,
+      "lat": 50.8884542,
+      "lon": 11.6135809
+    },
+    {
+      "type": "node",
+      "id": 1712854229,
+      "lat": 50.8885503,
+      "lon": 11.6130356
+    },
+    {
+      "type": "node",
+      "id": 1712854112,
+      "lat": 50.8882449,
+      "lon": 11.6141866
+    },
+    {
+      "type": "node",
+      "id": 1712854186,
+      "lat": 50.8882754,
+      "lon": 11.6140532
+    },
+    {
+      "type": "node",
+      "id": 1712854213,
+      "lat": 50.8883818,
+      "lon": 11.6138224
+    },
+    {
+      "type": "node",
+      "id": 2425735585,
+      "lat": 50.8878937,
+      "lon": 11.6149805
+    },
+    {
+      "type": "node",
+      "id": 2425735587,
+      "lat": 50.8879887,
+      "lon": 11.6147972
+    },
+    {
+      "type": "node",
+      "id": 2425735589,
+      "lat": 50.8880923,
+      "lon": 11.614576
+    },
+    {
+      "type": "node",
+      "id": 2425735591,
+      "lat": 50.8881767,
+      "lon": 11.6143786
+    },
+    {
+      "type": "node",
+      "id": 35304896,
+      "lat": 50.8871024,
+      "lon": 11.6160976
+    },
+    {
+      "type": "node",
+      "id": 1712854083,
+      "lat": 50.8875995,
+      "lon": 11.6154531
+    },
+    {
+      "type": "node",
+      "id": 35304900,
+      "lat": 50.8884982,
+      "lon": 11.6133392
+    },
+    {
+      "type": "node",
+      "id": 288408401,
+      "lat": 50.8884258,
+      "lon": 11.6133273
+    },
+    {
+      "type": "node",
+      "id": 2485637414,
+      "lat": 50.9409672,
+      "lon": 11.6034245
+    },
+    {
+      "type": "node",
+      "id": 746760865,
+      "lat": 50.9419147,
+      "lon": 11.6046199
+    },
+    {
+      "type": "node",
+      "id": 3195777287,
+      "lat": 50.9430038,
+      "lon": 11.606025
+    },
+    {
+      "type": "node",
+      "id": 299792591,
+      "lat": 50.943373,
+      "lon": 11.6065499
+    },
+    {
+      "type": "node",
+      "id": 121958018,
+      "lat": 50.9435622,
+      "lon": 11.6069043
+    },
+    {
+      "type": "node",
+      "id": 299794623,
+      "lat": 50.9434807,
+      "lon": 11.606743
+    },
+    {
+      "type": "node",
+      "id": 746760863,
+      "lat": 50.9438883,
+      "lon": 11.6075215
+    },
+    {
+      "type": "node",
+      "id": 267138406,
+      "lat": 50.9461014,
+      "lon": 11.6114309
+    },
+    {
+      "type": "node",
+      "id": 312509629,
+      "lat": 50.9456655,
+      "lon": 11.6106923
+    },
+    {
+      "type": "node",
+      "id": 2485637446,
+      "lat": 50.947381,
+      "lon": 11.6137849
+    },
+    {
+      "type": "node",
+      "id": 121958014,
+      "lat": 50.9497792,
+      "lon": 11.6174874
+    },
+    {
+      "type": "node",
+      "id": 312509919,
+      "lat": 50.9487563,
+      "lon": 11.6160555
+    },
+    {
+      "type": "node",
+      "id": 464477483,
+      "lat": 50.9498815,
+      "lon": 11.6177032
+    },
+    {
+      "type": "node",
+      "id": 2601526241,
+      "lat": 50.9480359,
+      "lon": 11.614958
+    },
+    {
+      "type": "node",
+      "id": 2601526342,
+      "lat": 50.9496826,
+      "lon": 11.6173419
+    },
+    {
+      "type": "node",
+      "id": 2601526376,
+      "lat": 50.9502327,
+      "lon": 11.6184254
+    },
+    {
+      "type": "node",
+      "id": 2601526389,
+      "lat": 50.9507135,
+      "lon": 11.6192881
+    },
+    {
+      "type": "node",
+      "id": 456169668,
+      "lat": 50.9495903,
+      "lon": 11.6171961
+    },
+    {
+      "type": "node",
+      "id": 2601526366,
+      "lat": 50.9500716,
+      "lon": 11.6181186
+    },
+    {
+      "type": "node",
+      "id": 3195777292,
+      "lat": 50.9493368,
+      "lon": 11.6168427
+    },
+    {
+      "type": "node",
+      "id": 2601526399,
+      "lat": 50.950981,
+      "lon": 11.6197154
+    },
+    {
+      "type": "node",
+      "id": 2601526408,
+      "lat": 50.9519958,
+      "lon": 11.6210916
+    },
+    {
+      "type": "node",
+      "id": 2601526416,
+      "lat": 50.9523589,
+      "lon": 11.6215594
+    },
+    {
+      "type": "node",
+      "id": 2601526427,
+      "lat": 50.9526822,
+      "lon": 11.6219004
+    },
+    {
+      "type": "node",
+      "id": 2601526443,
+      "lat": 50.9533916,
+      "lon": 11.6226488
+    },
+    {
+      "type": "node",
+      "id": 2601526483,
+      "lat": 50.9539602,
+      "lon": 11.6231456
+    },
+    {
+      "type": "node",
+      "id": 2625121079,
+      "lat": 50.9516656,
+      "lon": 11.6206614
+    },
+    {
+      "type": "node",
+      "id": 464477967,
+      "lat": 50.9519025,
+      "lon": 11.6209581
+    },
+    {
+      "type": "node",
+      "id": 746203557,
+      "lat": 50.9513943,
+      "lon": 11.6203082
+    }
+  ]
+}

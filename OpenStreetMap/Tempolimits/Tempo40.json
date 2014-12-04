@@ -1,0 +1,68 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 293883695,
+      "nodes": [
+        1789167753,
+        1788468206,
+        1788468205,
+        1478289454,
+        1789167741,
+        1478289441
+      ],
+      "tags": {
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "40",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788468205,
+      "lat": 50.8715315,
+      "lon": 11.5949561
+    },
+    {
+      "type": "node",
+      "id": 1789167741,
+      "lat": 50.8713594,
+      "lon": 11.5956311
+    },
+    {
+      "type": "node",
+      "id": 1478289441,
+      "lat": 50.8713154,
+      "lon": 11.5957727
+    },
+    {
+      "type": "node",
+      "id": 1478289454,
+      "lat": 50.8714556,
+      "lon": 11.5952209
+    },
+    {
+      "type": "node",
+      "id": 1789167753,
+      "lat": 50.871641,
+      "lon": 11.5945598
+    },
+    {
+      "type": "node",
+      "id": 1788468206,
+      "lat": 50.8715831,
+      "lon": 11.5947604
+    }
+  ]
+}

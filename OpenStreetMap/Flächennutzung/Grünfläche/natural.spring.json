@@ -1,0 +1,63 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:43:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 270492155,
+      "lat": 50.9067623,
+      "lon": 11.6335821,
+      "tags": {
+        "amenity": "drinking_water",
+        "name": "Fürstenbrunnen",
+        "natural": "spring",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304489033,
+      "lat": 50.91871,
+      "lon": 11.5923999,
+      "tags": {
+        "created_by": "Potlatch 0.10e",
+        "natural": "spring"
+      }
+    },
+    {
+      "type": "node",
+      "id": 365040981,
+      "lat": 50.9499839,
+      "lon": 11.5372667,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "name": "Zigeunerquelle",
+        "natural": "spring"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621461023,
+      "lat": 50.8873072,
+      "lon": 11.5830039,
+      "tags": {
+        "name": "Sängerquelle",
+        "natural": "spring"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703999987,
+      "lat": 50.9669774,
+      "lon": 11.5862261,
+      "tags": {
+        "natural": "spring"
+      }
+    }
+  ]
+}

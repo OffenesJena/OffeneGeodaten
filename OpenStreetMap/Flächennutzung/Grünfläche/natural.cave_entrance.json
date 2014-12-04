@@ -1,0 +1,33 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:43:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 304488922,
+      "lat": 50.9184166,
+      "lon": 11.5924347,
+      "tags": {
+        "access": "no",
+        "created_by": "Potlatch 0.10e",
+        "name": "Teufelslöcher",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 936934695,
+      "lat": 50.8956193,
+      "lon": 11.5965989,
+      "tags": {
+        "natural": "cave_entrance"
+      }
+    }
+  ]
+}

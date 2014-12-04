@@ -1,0 +1,395 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 26114956,
+      "nodes": [
+        285891526,
+        285891705,
+        792238686,
+        792258903,
+        792258884,
+        792238681,
+        1271121053,
+        792238690,
+        1271121054,
+        792238684,
+        792238688,
+        792238692,
+        792258865
+      ],
+      "tags": {
+        "description": "Spielstraße",
+        "foot": "yes",
+        "highway": "living_street",
+        "lit": "yes",
+        "maxspeed": "10",
+        "name": "Sonnenblumenweg",
+        "oneway": "no",
+        "sidewalk": "none",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27532553,
+      "nodes": [
+        671916915,
+        2026739575,
+        2607213617
+      ],
+      "tags": {
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "10",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28449681,
+      "nodes": [
+        312554550,
+        312554547
+      ],
+      "tags": {
+        "highway": "service",
+        "maxspeed": "10",
+        "motorcycle": "no",
+        "oneway": "yes",
+        "service": "driveway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33821827,
+      "nodes": [
+        387456074,
+        2154551831,
+        387456075
+      ],
+      "tags": {
+        "access": "permissive",
+        "bicycle": "yes",
+        "designation": "Privatstraße",
+        "highway": "pedestrian",
+        "maxspeed": "10",
+        "name": "Weißenfelser Straße",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 117367493,
+      "nodes": [
+        387456076,
+        387456075,
+        387456077
+      ],
+      "tags": {
+        "access": "permissive",
+        "bicycle": "yes",
+        "designation": "Privatstraße",
+        "highway": "pedestrian",
+        "maxspeed": "10",
+        "name": "Weißenfelser Straße",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222189194,
+      "nodes": [
+        285891165,
+        293686266
+      ],
+      "tags": {
+        "highway": "residential",
+        "maxspeed": "10",
+        "name": "Grüne Aue",
+        "oneway": "-1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244980348,
+      "nodes": [
+        2522461877,
+        2522461875,
+        2522461873,
+        2522461874,
+        2522461876
+      ],
+      "tags": {
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "10",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244980349,
+      "nodes": [
+        2522461880,
+        3159138742,
+        2522461881,
+        2522461879,
+        2522461877,
+        2522461876,
+        3159138739,
+        2522461878
+      ],
+      "tags": {
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "10",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254946591,
+      "nodes": [
+        2607213617,
+        313454753
+      ],
+      "tags": {
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "10",
+        "service": "alley",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293686266,
+      "lat": 50.90394,
+      "lon": 11.5703424
+    },
+    {
+      "type": "node",
+      "id": 285891705,
+      "lat": 50.9062408,
+      "lon": 11.5707609
+    },
+    {
+      "type": "node",
+      "id": 792238681,
+      "lat": 50.9060438,
+      "lon": 11.5697236
+    },
+    {
+      "type": "node",
+      "id": 792238684,
+      "lat": 50.9061316,
+      "lon": 11.5695469
+    },
+    {
+      "type": "node",
+      "id": 792238686,
+      "lat": 50.9060805,
+      "lon": 11.5706889
+    },
+    {
+      "type": "node",
+      "id": 792238688,
+      "lat": 50.9062283,
+      "lon": 11.5685031
+    },
+    {
+      "type": "node",
+      "id": 792238690,
+      "lat": 50.9060957,
+      "lon": 11.5696726
+    },
+    {
+      "type": "node",
+      "id": 792238692,
+      "lat": 50.9061573,
+      "lon": 11.5684224
+    },
+    {
+      "type": "node",
+      "id": 792258865,
+      "lat": 50.9061028,
+      "lon": 11.567577
+    },
+    {
+      "type": "node",
+      "id": 792258884,
+      "lat": 50.9060493,
+      "lon": 11.5699046
+    },
+    {
+      "type": "node",
+      "id": 792258903,
+      "lat": 50.906062,
+      "lon": 11.5703201
+    },
+    {
+      "type": "node",
+      "id": 1271121053,
+      "lat": 50.9060734,
+      "lon": 11.5697066
+    },
+    {
+      "type": "node",
+      "id": 1271121054,
+      "lat": 50.9061208,
+      "lon": 11.5696152
+    },
+    {
+      "type": "node",
+      "id": 285891526,
+      "lat": 50.9062853,
+      "lon": 11.5717403
+    },
+    {
+      "type": "node",
+      "id": 285891165,
+      "lat": 50.9051155,
+      "lon": 11.5699185
+    },
+    {
+      "type": "node",
+      "id": 2522461873,
+      "lat": 50.9242949,
+      "lon": 11.5835769
+    },
+    {
+      "type": "node",
+      "id": 2522461874,
+      "lat": 50.9243682,
+      "lon": 11.583325
+    },
+    {
+      "type": "node",
+      "id": 2522461875,
+      "lat": 50.9244934,
+      "lon": 11.5837223
+    },
+    {
+      "type": "node",
+      "id": 2522461876,
+      "lat": 50.9246207,
+      "lon": 11.5834775
+    },
+    {
+      "type": "node",
+      "id": 2522461877,
+      "lat": 50.9246448,
+      "lon": 11.5837618
+    },
+    {
+      "type": "node",
+      "id": 2522461878,
+      "lat": 50.9246846,
+      "lon": 11.5830453
+    },
+    {
+      "type": "node",
+      "id": 2522461879,
+      "lat": 50.9247448,
+      "lon": 11.583877
+    },
+    {
+      "type": "node",
+      "id": 2522461880,
+      "lat": 50.9247417,
+      "lon": 11.5843287
+    },
+    {
+      "type": "node",
+      "id": 3159138739,
+      "lat": 50.9246707,
+      "lon": 11.5831391
+    },
+    {
+      "type": "node",
+      "id": 3159138742,
+      "lat": 50.9247555,
+      "lon": 11.584258
+    },
+    {
+      "type": "node",
+      "id": 312554547,
+      "lat": 50.9268152,
+      "lon": 11.5823889
+    },
+    {
+      "type": "node",
+      "id": 312554550,
+      "lat": 50.9267276,
+      "lon": 11.5823646
+    },
+    {
+      "type": "node",
+      "id": 2522461881,
+      "lat": 50.9247921,
+      "lon": 11.5840706
+    },
+    {
+      "type": "node",
+      "id": 313454753,
+      "lat": 50.9270927,
+      "lon": 11.5906818
+    },
+    {
+      "type": "node",
+      "id": 671916915,
+      "lat": 50.9270958,
+      "lon": 11.5904635
+    },
+    {
+      "type": "node",
+      "id": 2026739575,
+      "lat": 50.9270926,
+      "lon": 11.5905185
+    },
+    {
+      "type": "node",
+      "id": 2607213617,
+      "lat": 50.9270953,
+      "lon": 11.5905665
+    },
+    {
+      "type": "node",
+      "id": 387456074,
+      "lat": 50.9482452,
+      "lon": 11.6052649
+    },
+    {
+      "type": "node",
+      "id": 387456075,
+      "lat": 50.9486299,
+      "lon": 11.6046386
+    },
+    {
+      "type": "node",
+      "id": 387456076,
+      "lat": 50.9487999,
+      "lon": 11.6049014
+    },
+    {
+      "type": "node",
+      "id": 387456077,
+      "lat": 50.948576,
+      "lon": 11.6045473
+    },
+    {
+      "type": "node",
+      "id": 2154551831,
+      "lat": 50.948445,
+      "lon": 11.6049396
+    }
+  ]
+}

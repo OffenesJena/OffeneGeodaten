@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:49.591Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/197380070",
+      "properties": {
+        "@id": "way/197380070",
+        "leisure": "horse_riding",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5556501,
+              50.9445967
+            ],
+            [
+              11.5556444,
+              50.944518
+            ],
+            [
+              11.555476,
+              50.9443864
+            ],
+            [
+              11.5556441,
+              50.9443262
+            ],
+            [
+              11.5557407,
+              50.9442882
+            ],
+            [
+              11.5564119,
+              50.9444839
+            ],
+            [
+              11.5561755,
+              50.9446826
+            ],
+            [
+              11.5556501,
+              50.9445967
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

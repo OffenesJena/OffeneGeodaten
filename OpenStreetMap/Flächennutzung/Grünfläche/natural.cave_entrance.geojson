@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:04.331Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/304488922",
+      "properties": {
+        "@id": "node/304488922",
+        "access": "no",
+        "created_by": "Potlatch 0.10e",
+        "name": "Teufelslöcher",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5924347,
+          50.9184166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936934695",
+      "properties": {
+        "@id": "node/936934695",
+        "natural": "cave_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965989,
+          50.8956193
+        ]
+      }
+    }
+  ]
+}

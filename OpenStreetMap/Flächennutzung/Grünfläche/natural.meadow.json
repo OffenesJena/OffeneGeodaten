@@ -1,0 +1,49 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:43:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 221720681,
+      "nodes": [
+        850723812,
+        1683552838,
+        2302767389,
+        2302767388,
+        850723812
+      ],
+      "tags": {
+        "natural": "meadow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 850723812,
+      "lat": 50.9264224,
+      "lon": 11.5600495
+    },
+    {
+      "type": "node",
+      "id": 2302767388,
+      "lat": 50.9260275,
+      "lon": 11.5600352
+    },
+    {
+      "type": "node",
+      "id": 1683552838,
+      "lat": 50.926565,
+      "lon": 11.5607456
+    },
+    {
+      "type": "node",
+      "id": 2302767389,
+      "lat": 50.9261278,
+      "lon": 11.5608209
+    }
+  ]
+}

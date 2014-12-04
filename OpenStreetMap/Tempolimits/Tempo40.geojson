@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:20.503Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/293883695",
+      "properties": {
+        "@id": "way/293883695",
+        "destination:ref": "B 88",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "40",
+        "oneway": "yes",
+        "ref": "B 88",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5945598,
+            50.871641
+          ],
+          [
+            11.5947604,
+            50.8715831
+          ],
+          [
+            11.5949561,
+            50.8715315
+          ],
+          [
+            11.5952209,
+            50.8714556
+          ],
+          [
+            11.5956311,
+            50.8713594
+          ],
+          [
+            11.5957727,
+            50.8713154
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1149 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:18.234Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23289576",
+      "properties": {
+        "@id": "way/23289576",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6218257,
+            50.876997
+          ],
+          [
+            11.6217284,
+            50.8770323
+          ],
+          [
+            11.6214699,
+            50.8771249
+          ],
+          [
+            11.6214285,
+            50.8771398
+          ],
+          [
+            11.6214127,
+            50.8771419
+          ],
+          [
+            11.6213988,
+            50.8771411
+          ],
+          [
+            11.6213898,
+            50.8771402
+          ],
+          [
+            11.621381,
+            50.8771386
+          ],
+          [
+            11.6213697,
+            50.8771348
+          ],
+          [
+            11.6213599,
+            50.8771295
+          ],
+          [
+            11.6213431,
+            50.8771189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23289584",
+      "properties": {
+        "@id": "way/23289584",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6218766,
+            50.8770506
+          ],
+          [
+            11.6218257,
+            50.876997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23963596",
+      "properties": {
+        "@id": "way/23963596",
+        "highway": "residential",
+        "highway_alt_1": "unclassified",
+        "maxspeed": "20",
+        "name": "Engelplatz",
+        "source:maxspeed": "DE:zone20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5848044,
+            50.9263763
+          ],
+          [
+            11.5840679,
+            50.9263851
+          ],
+          [
+            11.5837204,
+            50.9263822
+          ],
+          [
+            11.5835544,
+            50.9263857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27498319",
+      "properties": {
+        "@id": "way/27498319",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6218476,
+            50.8774859
+          ],
+          [
+            11.6220467,
+            50.8773642
+          ],
+          [
+            11.6221397,
+            50.877328
+          ],
+          [
+            11.6222365,
+            50.8772929
+          ],
+          [
+            11.622327,
+            50.8772624
+          ],
+          [
+            11.6224141,
+            50.8772364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31129786",
+      "properties": {
+        "@id": "way/31129786",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "20",
+        "name": "Löbdergraben",
+        "sidewalk": "right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.589034,
+            50.9269649
+          ],
+          [
+            11.5893155,
+            50.9269714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110375944",
+      "properties": {
+        "@id": "way/110375944",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Grietgasse",
+        "source:maxspeed": "DE:zone:20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5849477,
+            50.9263687
+          ],
+          [
+            11.5848044,
+            50.9263763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159139790",
+      "properties": {
+        "@id": "way/159139790",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.637316,
+            50.875511
+          ],
+          [
+            11.6370233,
+            50.8755703
+          ],
+          [
+            11.636883,
+            50.8755996
+          ],
+          [
+            11.6368406,
+            50.8756103
+          ],
+          [
+            11.6367475,
+            50.8756339
+          ],
+          [
+            11.6366062,
+            50.8756694
+          ],
+          [
+            11.6365667,
+            50.8756793
+          ],
+          [
+            11.6365488,
+            50.8756838
+          ],
+          [
+            11.6364055,
+            50.8757266
+          ],
+          [
+            11.6363649,
+            50.8757387
+          ],
+          [
+            11.6362796,
+            50.8757686
+          ],
+          [
+            11.636153,
+            50.8758166
+          ],
+          [
+            11.636109,
+            50.8758423
+          ],
+          [
+            11.6360427,
+            50.875881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167167872",
+      "properties": {
+        "@id": "way/167167872",
+        "highway": "tertiary",
+        "maxspeed": "20",
+        "name": "Löbdergraben",
+        "public_transport": "stop_position",
+        "sidewalk": "right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5852797,
+            50.9271501
+          ],
+          [
+            11.5853938,
+            50.9271196
+          ],
+          [
+            11.5856295,
+            50.9270567
+          ],
+          [
+            11.5858558,
+            50.9270111
+          ],
+          [
+            11.5861133,
+            50.9269592
+          ],
+          [
+            11.5861936,
+            50.9269494
+          ],
+          [
+            11.5864543,
+            50.9269177
+          ],
+          [
+            11.5865215,
+            50.9269117
+          ],
+          [
+            11.5867181,
+            50.9268967
+          ],
+          [
+            11.5867882,
+            50.9268929
+          ],
+          [
+            11.5871065,
+            50.9268821
+          ],
+          [
+            11.5871667,
+            50.9268848
+          ],
+          [
+            11.5878307,
+            50.9269043
+          ],
+          [
+            11.5882713,
+            50.9269267
+          ],
+          [
+            11.589034,
+            50.9269649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242896713",
+      "properties": {
+        "@id": "way/242896713",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Am Steinbach"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6155438,
+            50.950453
+          ],
+          [
+            11.6156038,
+            50.9504169
+          ],
+          [
+            11.615646,
+            50.9503871
+          ],
+          [
+            11.6157588,
+            50.9503157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254055484",
+      "properties": {
+        "@id": "way/254055484",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "20",
+        "name": "Grietgasse",
+        "source:maxspeed": "DE:zone:20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5865658,
+            50.9261949
+          ],
+          [
+            11.5864157,
+            50.926242
+          ],
+          [
+            11.5863439,
+            50.9262577
+          ],
+          [
+            11.586289,
+            50.9262692
+          ],
+          [
+            11.5861354,
+            50.9262983
+          ],
+          [
+            11.5860127,
+            50.9263136
+          ],
+          [
+            11.5859258,
+            50.9263203
+          ],
+          [
+            11.5855714,
+            50.9263388
+          ],
+          [
+            11.5852837,
+            50.9263538
+          ],
+          [
+            11.5849477,
+            50.9263687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256888976",
+      "properties": {
+        "@id": "way/256888976",
+        "destination:forward": "Jena",
+        "hgv": "no",
+        "highway": "tertiary",
+        "maxspeed": "20",
+        "name": "Rautal",
+        "ref": "K 15",
+        "source:maxspeed": "sign"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5727327,
+            50.9599094
+          ],
+          [
+            11.5729916,
+            50.9596741
+          ],
+          [
+            11.5732911,
+            50.9592578
+          ],
+          [
+            11.573409,
+            50.95898
+          ],
+          [
+            11.5734745,
+            50.9589212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258463907",
+      "properties": {
+        "@id": "way/258463907",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "service": "parking_aisle",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6364055,
+            50.8757266
+          ],
+          [
+            11.6363586,
+            50.8755709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258463910",
+      "properties": {
+        "@id": "way/258463910",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "service": "parking_aisle",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6366062,
+            50.8756694
+          ],
+          [
+            11.636573,
+            50.8755589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291238326",
+      "properties": {
+        "@id": "way/291238326",
+        "highway": "service",
+        "lit": "yes",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6212446,
+            50.8769864
+          ],
+          [
+            11.621306,
+            50.8770711
+          ],
+          [
+            11.6213431,
+            50.8771189
+          ],
+          [
+            11.6212507,
+            50.8771634
+          ],
+          [
+            11.6216341,
+            50.8775678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291238327",
+      "properties": {
+        "@id": "way/291238327",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6220467,
+            50.8773642
+          ],
+          [
+            11.6219677,
+            50.8772818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291238328",
+      "properties": {
+        "@id": "way/291238328",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.622327,
+            50.8772624
+          ],
+          [
+            11.6222467,
+            50.877175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291239372",
+      "properties": {
+        "@id": "way/291239372",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.621619,
+            50.8772804
+          ],
+          [
+            11.6214699,
+            50.8771249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291239373",
+      "properties": {
+        "@id": "way/291239373",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6217582,
+            50.8775208
+          ],
+          [
+            11.6216488,
+            50.8774052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291239555",
+      "properties": {
+        "@id": "way/291239555",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6222365,
+            50.8772929
+          ],
+          [
+            11.6221561,
+            50.8772088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241058",
+      "properties": {
+        "@id": "way/291241058",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6221561,
+            50.8772088
+          ],
+          [
+            11.6219706,
+            50.8770144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241059",
+      "properties": {
+        "@id": "way/291241059",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6219706,
+            50.8770144
+          ],
+          [
+            11.6219221,
+            50.8769636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241060",
+      "properties": {
+        "@id": "way/291241060",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6219677,
+            50.8772818
+          ],
+          [
+            11.6217812,
+            50.8770874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241061",
+      "properties": {
+        "@id": "way/291241061",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6217812,
+            50.8770874
+          ],
+          [
+            11.6217284,
+            50.8770323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241062",
+      "properties": {
+        "@id": "way/291241062",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6221397,
+            50.877328
+          ],
+          [
+            11.6220614,
+            50.8772455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241063",
+      "properties": {
+        "@id": "way/291241063",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6220614,
+            50.8772455
+          ],
+          [
+            11.6218766,
+            50.8770506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241150",
+      "properties": {
+        "@id": "way/291241150",
+        "highway": "service",
+        "maxspeed": "20",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6220602,
+            50.8769801
+          ],
+          [
+            11.6220535,
+            50.8769736
+          ],
+          [
+            11.6220482,
+            50.876968
+          ],
+          [
+            11.6220434,
+            50.8769633
+          ],
+          [
+            11.6220382,
+            50.8769597
+          ],
+          [
+            11.6220314,
+            50.8769557
+          ],
+          [
+            11.6220242,
+            50.8769525
+          ],
+          [
+            11.622016,
+            50.87695
+          ],
+          [
+            11.6220069,
+            50.8769483
+          ],
+          [
+            11.6219984,
+            50.8769476
+          ],
+          [
+            11.6219892,
+            50.8769477
+          ],
+          [
+            11.6219731,
+            50.8769505
+          ],
+          [
+            11.6219389,
+            50.8769583
+          ],
+          [
+            11.6219221,
+            50.8769636
+          ],
+          [
+            11.6219089,
+            50.8769677
+          ],
+          [
+            11.6218257,
+            50.876997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241151",
+      "properties": {
+        "@id": "way/291241151",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "service": "driveway",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6222467,
+            50.877175
+          ],
+          [
+            11.6220602,
+            50.8769801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241316",
+      "properties": {
+        "@id": "way/291241316",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6216488,
+            50.8774052
+          ],
+          [
+            11.6215543,
+            50.8773053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241317",
+      "properties": {
+        "@id": "way/291241317",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6215543,
+            50.8773053
+          ],
+          [
+            11.6213988,
+            50.8771411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241318",
+      "properties": {
+        "@id": "way/291241318",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6218246,
+            50.8774947
+          ],
+          [
+            11.6217145,
+            50.8773799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291241319",
+      "properties": {
+        "@id": "way/291241319",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6217145,
+            50.8773799
+          ],
+          [
+            11.621619,
+            50.8772804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294415648",
+      "properties": {
+        "@id": "way/294415648",
+        "highway": "service",
+        "maxspeed": "20",
+        "oneway": "no",
+        "service": "driveway",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6218476,
+            50.8774859
+          ],
+          [
+            11.6218246,
+            50.8774947
+          ],
+          [
+            11.6217582,
+            50.8775208
+          ],
+          [
+            11.6216341,
+            50.8775678
+          ],
+          [
+            11.6213171,
+            50.8776874
+          ],
+          [
+            11.6212283,
+            50.8777074
+          ],
+          [
+            11.6211579,
+            50.877703
+          ],
+          [
+            11.6210879,
+            50.8776709
+          ],
+          [
+            11.6207406,
+            50.8773528
+          ],
+          [
+            11.6207115,
+            50.8773091
+          ],
+          [
+            11.6207173,
+            50.8772799
+          ],
+          [
+            11.6207444,
+            50.8772468
+          ],
+          [
+            11.6207902,
+            50.8772244
+          ],
+          [
+            11.6209223,
+            50.8771823
+          ]
+        ]
+      }
+    }
+  ]
+}

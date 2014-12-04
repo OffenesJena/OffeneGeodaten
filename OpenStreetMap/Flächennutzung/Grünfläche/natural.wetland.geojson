@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:11.995Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/39528431",
+      "properties": {
+        "@id": "way/39528431",
+        "natural": "wetland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5005006,
+              50.9521372
+            ],
+            [
+              11.500175,
+              50.9522242
+            ],
+            [
+              11.4998585,
+              50.9523844
+            ],
+            [
+              11.4997193,
+              50.952576
+            ],
+            [
+              11.4997306,
+              50.9527648
+            ],
+            [
+              11.499896,
+              50.9528298
+            ],
+            [
+              11.5001953,
+              50.9528014
+            ],
+            [
+              11.500777,
+              50.9525919
+            ],
+            [
+              11.5004748,
+              50.9526137
+            ],
+            [
+              11.5002528,
+              50.9525796
+            ],
+            [
+              11.5001567,
+              50.9524587
+            ],
+            [
+              11.5002468,
+              50.9522999
+            ],
+            [
+              11.5005006,
+              50.9521372
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

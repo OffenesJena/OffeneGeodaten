@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:17.459Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26114956",
+      "properties": {
+        "@id": "way/26114956",
+        "description": "Spielstraße",
+        "foot": "yes",
+        "highway": "living_street",
+        "lit": "yes",
+        "maxspeed": "10",
+        "name": "Sonnenblumenweg",
+        "oneway": "no",
+        "sidewalk": "none",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5717403,
+            50.9062853
+          ],
+          [
+            11.5707609,
+            50.9062408
+          ],
+          [
+            11.5706889,
+            50.9060805
+          ],
+          [
+            11.5703201,
+            50.906062
+          ],
+          [
+            11.5699046,
+            50.9060493
+          ],
+          [
+            11.5697236,
+            50.9060438
+          ],
+          [
+            11.5697066,
+            50.9060734
+          ],
+          [
+            11.5696726,
+            50.9060957
+          ],
+          [
+            11.5696152,
+            50.9061208
+          ],
+          [
+            11.5695469,
+            50.9061316
+          ],
+          [
+            11.5685031,
+            50.9062283
+          ],
+          [
+            11.5684224,
+            50.9061573
+          ],
+          [
+            11.567577,
+            50.9061028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27532553",
+      "properties": {
+        "@id": "way/27532553",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "10",
+        "service": "alley"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5904635,
+            50.9270958
+          ],
+          [
+            11.5905185,
+            50.9270926
+          ],
+          [
+            11.5905665,
+            50.9270953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28449681",
+      "properties": {
+        "@id": "way/28449681",
+        "highway": "service",
+        "maxspeed": "10",
+        "motorcycle": "no",
+        "oneway": "yes",
+        "service": "driveway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5823646,
+            50.9267276
+          ],
+          [
+            11.5823889,
+            50.9268152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33821827",
+      "properties": {
+        "@id": "way/33821827",
+        "access": "permissive",
+        "bicycle": "yes",
+        "designation": "Privatstraße",
+        "highway": "pedestrian",
+        "maxspeed": "10",
+        "name": "Weißenfelser Straße",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6052649,
+            50.9482452
+          ],
+          [
+            11.6049396,
+            50.948445
+          ],
+          [
+            11.6046386,
+            50.9486299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117367493",
+      "properties": {
+        "@id": "way/117367493",
+        "access": "permissive",
+        "bicycle": "yes",
+        "designation": "Privatstraße",
+        "highway": "pedestrian",
+        "maxspeed": "10",
+        "name": "Weißenfelser Straße",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6049014,
+            50.9487999
+          ],
+          [
+            11.6046386,
+            50.9486299
+          ],
+          [
+            11.6045473,
+            50.948576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222189194",
+      "properties": {
+        "@id": "way/222189194",
+        "highway": "residential",
+        "maxspeed": "10",
+        "name": "Grüne Aue",
+        "oneway": "-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5699185,
+            50.9051155
+          ],
+          [
+            11.5703424,
+            50.90394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244980348",
+      "properties": {
+        "@id": "way/244980348",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "10",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5837618,
+            50.9246448
+          ],
+          [
+            11.5837223,
+            50.9244934
+          ],
+          [
+            11.5835769,
+            50.9242949
+          ],
+          [
+            11.583325,
+            50.9243682
+          ],
+          [
+            11.5834775,
+            50.9246207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244980349",
+      "properties": {
+        "@id": "way/244980349",
+        "highway": "service",
+        "lanes": "1",
+        "maxspeed": "10",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5843287,
+            50.9247417
+          ],
+          [
+            11.584258,
+            50.9247555
+          ],
+          [
+            11.5840706,
+            50.9247921
+          ],
+          [
+            11.583877,
+            50.9247448
+          ],
+          [
+            11.5837618,
+            50.9246448
+          ],
+          [
+            11.5834775,
+            50.9246207
+          ],
+          [
+            11.5831391,
+            50.9246707
+          ],
+          [
+            11.5830453,
+            50.9246846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254946591",
+      "properties": {
+        "@id": "way/254946591",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "10",
+        "service": "alley",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5905665,
+            50.9270953
+          ],
+          [
+            11.5906818,
+            50.9270927
+          ]
+        ]
+      }
+    }
+  ]
+}

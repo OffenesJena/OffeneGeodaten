@@ -1,0 +1,285 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:43:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 279340706,
+      "lat": 50.9271133,
+      "lon": 11.5722178,
+      "tags": {
+        "ele": "212",
+        "name": "Friedensberg",
+        "natural": "peak",
+        "old_name": "Galgenberg",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293029438,
+      "lat": 50.9397424,
+      "lon": 11.627118,
+      "tags": {
+        "ele": "385",
+        "name": "Jenzig",
+        "natural": "peak",
+        "wikipedia:de": "Jenzig"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299477205,
+      "lat": 50.9555394,
+      "lon": 11.6104452,
+      "tags": {
+        "amenity": "bench",
+        "name": "Heiligenberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302221980,
+      "lat": 50.9485313,
+      "lon": 11.5673324,
+      "tags": {
+        "ele": "363",
+        "name": "Windknollen",
+        "natural": "peak",
+        "wikidata": "Q2583618",
+        "wikipedia": "de:Windknollen",
+        "wikipedia:de": "Windknollen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 313129074,
+      "lat": 50.8836482,
+      "lon": 11.5786539,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "name": "Mönchsberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370185655,
+      "lat": 50.9590435,
+      "lon": 11.6440047,
+      "tags": {
+        "ele": "228",
+        "name": "Feldherrenhügel",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 564725793,
+      "lat": 50.8617352,
+      "lon": 11.5703093,
+      "tags": {
+        "name": "Spitzenberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 631873873,
+      "lat": 50.8901793,
+      "lon": 11.6449048,
+      "tags": {
+        "ele": "386",
+        "name": "Einsiedlerberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 707023645,
+      "lat": 50.9639562,
+      "lon": 11.5625284,
+      "tags": {
+        "ele": "381",
+        "name": "Dornberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 715081741,
+      "lat": 50.9556843,
+      "lon": 11.6574771,
+      "tags": {
+        "name": "Gleisberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 727671581,
+      "lat": 50.8798731,
+      "lon": 11.5648901,
+      "tags": {
+        "ele": "399",
+        "name": "Cospoth",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 727673052,
+      "lat": 50.8741865,
+      "lon": 11.5849101,
+      "tags": {
+        "ele": "288",
+        "name": "Jagdberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 727675181,
+      "lat": 50.8929767,
+      "lon": 11.5553415,
+      "tags": {
+        "ele": "346",
+        "name": "Holzberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 727676008,
+      "lat": 50.8974159,
+      "lon": 11.5565002,
+      "tags": {
+        "name": "Lämmerberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 727676269,
+      "lat": 50.8902693,
+      "lon": 11.5636204,
+      "tags": {
+        "name": "Lindenberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749216123,
+      "lat": 50.9247926,
+      "lon": 11.6105149,
+      "tags": {
+        "ele": "391.7",
+        "name": "Hausberg",
+        "natural": "peak",
+        "wikipedia:de": "Hausberg (Jena)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749227406,
+      "lat": 50.9235888,
+      "lon": 11.6222523,
+      "tags": {
+        "name": "Kirchberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749233842,
+      "lat": 50.9237653,
+      "lon": 11.6282868,
+      "tags": {
+        "name": "Windberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749244325,
+      "lat": 50.9130036,
+      "lon": 11.6039616,
+      "tags": {
+        "name": "Hummelsberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749257751,
+      "lat": 50.9018713,
+      "lon": 11.6193392,
+      "tags": {
+        "ele": "373",
+        "name": "Johannisberg",
+        "natural": "peak",
+        "wikipedia:de": "Johannisberg (Jena-Lobeda)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749268135,
+      "lat": 50.9184319,
+      "lon": 11.6588214,
+      "tags": {
+        "ele": "386",
+        "name": "Hirschberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749841938,
+      "lat": 50.9483971,
+      "lon": 11.5296084,
+      "tags": {
+        "name": "Schneckenberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749927627,
+      "lat": 50.9273311,
+      "lon": 11.5430163,
+      "tags": {
+        "ele": "351",
+        "name": "Paulsberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2489863276,
+      "lat": 50.8857822,
+      "lon": 11.570098,
+      "tags": {
+        "name": "Vogelberg",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2489959946,
+      "lat": 50.9270041,
+      "lon": 11.5498652,
+      "tags": {
+        "name": "Tatzend",
+        "natural": "peak"
+      }
+    }
+  ]
+}

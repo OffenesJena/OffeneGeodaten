@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:44:30.507Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/308929652",
+      "properties": {
+        "@id": "way/308929652",
+        "building": "yes",
+        "waterway": "dam"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5505394,
+              50.8955322
+            ],
+            [
+              11.5490274,
+              50.896182
+            ],
+            [
+              11.5490089,
+              50.896165
+            ],
+            [
+              11.5489924,
+              50.8961406
+            ],
+            [
+              11.5498519,
+              50.8955748
+            ],
+            [
+              11.5498893,
+              50.8955654
+            ],
+            [
+              11.5505137,
+              50.8955012
+            ],
+            [
+              11.5505394,
+              50.8955322
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

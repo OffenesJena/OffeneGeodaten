@@ -1,0 +1,2693 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-04T02:43:23.537Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/10369752",
+      "properties": {
+        "@id": "way/10369752",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5993817,
+            50.9007783
+          ],
+          [
+            11.5996639,
+            50.9003456
+          ],
+          [
+            11.5999439,
+            50.8998198
+          ],
+          [
+            11.600821,
+            50.8982027
+          ],
+          [
+            11.6014208,
+            50.8969697
+          ],
+          [
+            11.6016999,
+            50.8961954
+          ],
+          [
+            11.6018389,
+            50.8956561
+          ],
+          [
+            11.6019158,
+            50.8951648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24021375",
+      "properties": {
+        "@id": "way/24021375",
+        "highway": "secondary",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5230447,
+            50.9708065
+          ],
+          [
+            11.5229608,
+            50.9710548
+          ],
+          [
+            11.5228382,
+            50.9713372
+          ],
+          [
+            11.522643,
+            50.9716573
+          ],
+          [
+            11.5224572,
+            50.9719515
+          ],
+          [
+            11.5218905,
+            50.972895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28279665",
+      "properties": {
+        "@id": "way/28279665",
+        "highway": "secondary",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5228221,
+            50.9648859
+          ],
+          [
+            11.5236587,
+            50.9655896
+          ],
+          [
+            11.5239407,
+            50.9658852
+          ],
+          [
+            11.52411,
+            50.9661182
+          ],
+          [
+            11.5242147,
+            50.9663163
+          ],
+          [
+            11.5242538,
+            50.9664815
+          ],
+          [
+            11.5242679,
+            50.9666593
+          ],
+          [
+            11.5242283,
+            50.966869
+          ],
+          [
+            11.5234735,
+            50.9693333
+          ],
+          [
+            11.5230939,
+            50.9706035
+          ],
+          [
+            11.52305,
+            50.9707559
+          ],
+          [
+            11.5230447,
+            50.9708065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28279697",
+      "properties": {
+        "@id": "way/28279697",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "70",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5075576,
+            50.9604698
+          ],
+          [
+            11.5074882,
+            50.9604407
+          ],
+          [
+            11.5074277,
+            50.9604185
+          ],
+          [
+            11.5073365,
+            50.9603965
+          ],
+          [
+            11.5069347,
+            50.9603458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34819771",
+      "properties": {
+        "@id": "way/34819771",
+        "destination:forward": "Closewitz",
+        "highway": "tertiary",
+        "maxspeed": "70",
+        "ref": "K 16"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5662233,
+            50.960223
+          ],
+          [
+            11.5671199,
+            50.9599876
+          ],
+          [
+            11.5673787,
+            50.9599421
+          ],
+          [
+            11.5676678,
+            50.9599217
+          ],
+          [
+            11.5690864,
+            50.9598771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35067174",
+      "properties": {
+        "@id": "way/35067174",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5463301,
+            50.9403304
+          ],
+          [
+            11.5471187,
+            50.9399042
+          ],
+          [
+            11.5473424,
+            50.9397934
+          ],
+          [
+            11.5476194,
+            50.9396918
+          ],
+          [
+            11.5479317,
+            50.9396188
+          ],
+          [
+            11.5482195,
+            50.9395591
+          ],
+          [
+            11.5490354,
+            50.9394161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35067180",
+      "properties": {
+        "@id": "way/35067180",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5154776,
+            50.9597213
+          ],
+          [
+            11.5159315,
+            50.9595967
+          ],
+          [
+            11.5160974,
+            50.9595412
+          ],
+          [
+            11.5165713,
+            50.9594196
+          ],
+          [
+            11.516987,
+            50.9592776
+          ],
+          [
+            11.5177709,
+            50.9590307
+          ],
+          [
+            11.5180615,
+            50.9589062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35067973",
+      "properties": {
+        "@id": "way/35067973",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7",
+        "turn:lanes:backward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5490354,
+            50.9394161
+          ],
+          [
+            11.5494793,
+            50.9393488
+          ],
+          [
+            11.5498449,
+            50.9393064
+          ],
+          [
+            11.5501791,
+            50.9392861
+          ],
+          [
+            11.5504843,
+            50.9392901
+          ],
+          [
+            11.5506616,
+            50.9392949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36334731",
+      "properties": {
+        "@id": "way/36334731",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.513617,
+            50.960154
+          ],
+          [
+            11.5138724,
+            50.9601085
+          ],
+          [
+            11.5142395,
+            50.9600305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36334783",
+      "properties": {
+        "@id": "way/36334783",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5452098,
+            50.9409636
+          ],
+          [
+            11.5453294,
+            50.9408968
+          ],
+          [
+            11.5463301,
+            50.9403304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36334784",
+      "properties": {
+        "@id": "way/36334784",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5506616,
+            50.9392949
+          ],
+          [
+            11.5517393,
+            50.9392924
+          ],
+          [
+            11.5533425,
+            50.9392611
+          ],
+          [
+            11.5535622,
+            50.9392432
+          ],
+          [
+            11.5538363,
+            50.9392044
+          ],
+          [
+            11.5541043,
+            50.9391475
+          ],
+          [
+            11.5543339,
+            50.9390628
+          ],
+          [
+            11.5545685,
+            50.9389791
+          ],
+          [
+            11.5548555,
+            50.9388385
+          ],
+          [
+            11.5550234,
+            50.9387077
+          ],
+          [
+            11.5552399,
+            50.9385079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37921470",
+      "properties": {
+        "@id": "way/37921470",
+        "bicycle": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5977341,
+            50.9024377
+          ],
+          [
+            11.5978517,
+            50.9023542
+          ],
+          [
+            11.5981342,
+            50.9021385
+          ],
+          [
+            11.5983716,
+            50.9019374
+          ],
+          [
+            11.5986628,
+            50.9016736
+          ],
+          [
+            11.5990035,
+            50.9013093
+          ],
+          [
+            11.5992005,
+            50.9010421
+          ],
+          [
+            11.5993817,
+            50.9007783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37921471",
+      "properties": {
+        "@id": "way/37921471",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.597857,
+            50.902513
+          ],
+          [
+            11.5975152,
+            50.9027279
+          ],
+          [
+            11.5971629,
+            50.9029237
+          ],
+          [
+            11.5966295,
+            50.9031951
+          ],
+          [
+            11.5961457,
+            50.9034168
+          ],
+          [
+            11.5957,
+            50.9036
+          ],
+          [
+            11.5952108,
+            50.9037932
+          ],
+          [
+            11.5948245,
+            50.90394
+          ],
+          [
+            11.5940156,
+            50.9042317
+          ],
+          [
+            11.5932561,
+            50.9045099
+          ],
+          [
+            11.5924088,
+            50.9048138
+          ],
+          [
+            11.5918325,
+            50.9050348
+          ],
+          [
+            11.5911911,
+            50.9052894
+          ],
+          [
+            11.5908898,
+            50.905419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38811591",
+      "properties": {
+        "@id": "way/38811591",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5368989,
+            50.9533267
+          ],
+          [
+            11.5371528,
+            50.9531649
+          ],
+          [
+            11.5380138,
+            50.9525793
+          ],
+          [
+            11.5380828,
+            50.9525102
+          ],
+          [
+            11.5381461,
+            50.9524191
+          ],
+          [
+            11.5381961,
+            50.952299
+          ],
+          [
+            11.5381917,
+            50.9521818
+          ],
+          [
+            11.538149,
+            50.9520629
+          ],
+          [
+            11.5380697,
+            50.9519497
+          ],
+          [
+            11.5378623,
+            50.9517494
+          ],
+          [
+            11.5374305,
+            50.9513305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38811622",
+      "properties": {
+        "@id": "way/38811622",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5367805,
+            50.9533982
+          ],
+          [
+            11.5368421,
+            50.9533602
+          ],
+          [
+            11.5368989,
+            50.9533267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47076746",
+      "properties": {
+        "@id": "way/47076746",
+        "destination:backward": "Isserstedt;Lützeroda",
+        "highway": "tertiary",
+        "maxspeed": "70",
+        "name": "General-von-Tauentzien-Weg;Isserstedter Straße",
+        "ref": "K 13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5563894,
+            50.9599033
+          ],
+          [
+            11.5566345,
+            50.959942
+          ],
+          [
+            11.5582683,
+            50.9600831
+          ],
+          [
+            11.5586849,
+            50.9601251
+          ],
+          [
+            11.5601749,
+            50.9602912
+          ],
+          [
+            11.5616368,
+            50.9605041
+          ],
+          [
+            11.5626778,
+            50.9607033
+          ],
+          [
+            11.5631296,
+            50.9607725
+          ],
+          [
+            11.5633495,
+            50.9607845
+          ],
+          [
+            11.563511,
+            50.9607532
+          ],
+          [
+            11.5658463,
+            50.960288
+          ],
+          [
+            11.5662233,
+            50.960223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47474594",
+      "properties": {
+        "@id": "way/47474594",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88",
+        "turn:lanes": "left|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.587381,
+            50.9152382
+          ],
+          [
+            11.5872907,
+            50.91511
+          ],
+          [
+            11.5871307,
+            50.9149191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47474595",
+      "properties": {
+        "@id": "way/47474595",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5871307,
+            50.9149191
+          ],
+          [
+            11.5870192,
+            50.914758
+          ],
+          [
+            11.5867149,
+            50.9143338
+          ],
+          [
+            11.5864855,
+            50.9139546
+          ],
+          [
+            11.586203,
+            50.9133735
+          ],
+          [
+            11.5859657,
+            50.9127105
+          ],
+          [
+            11.5858553,
+            50.912212
+          ],
+          [
+            11.5857931,
+            50.9116772
+          ],
+          [
+            11.5857833,
+            50.9113193
+          ],
+          [
+            11.5858398,
+            50.9107546
+          ],
+          [
+            11.5859594,
+            50.9101752
+          ],
+          [
+            11.5860916,
+            50.9097852
+          ],
+          [
+            11.5863361,
+            50.9092046
+          ],
+          [
+            11.5865481,
+            50.9088146
+          ],
+          [
+            11.5869237,
+            50.9082637
+          ],
+          [
+            11.587471,
+            50.90757
+          ],
+          [
+            11.587971,
+            50.90709
+          ],
+          [
+            11.588514,
+            50.90665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47474596",
+      "properties": {
+        "@id": "way/47474596",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5949129,
+            50.9037815
+          ],
+          [
+            11.5956085,
+            50.9035133
+          ],
+          [
+            11.5962411,
+            50.9032434
+          ],
+          [
+            11.5966527,
+            50.9030446
+          ],
+          [
+            11.5968714,
+            50.9029307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47474597",
+      "properties": {
+        "@id": "way/47474597",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5896676,
+            50.9199886
+          ],
+          [
+            11.5896089,
+            50.9193647
+          ],
+          [
+            11.5894851,
+            50.9185375
+          ],
+          [
+            11.5893463,
+            50.918096
+          ],
+          [
+            11.5892204,
+            50.9177899
+          ],
+          [
+            11.589021,
+            50.9174199
+          ],
+          [
+            11.5888069,
+            50.9170805
+          ],
+          [
+            11.5883,
+            50.91643
+          ],
+          [
+            11.5877,
+            50.91567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56018759",
+      "properties": {
+        "@id": "way/56018759",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5895258,
+            50.9061463
+          ],
+          [
+            11.589264,
+            50.9063058
+          ],
+          [
+            11.5889756,
+            50.9065091
+          ],
+          [
+            11.5885791,
+            50.906802
+          ],
+          [
+            11.5882353,
+            50.9070795
+          ],
+          [
+            11.5880495,
+            50.9072514
+          ],
+          [
+            11.5877092,
+            50.907593
+          ],
+          [
+            11.5872852,
+            50.9080791
+          ],
+          [
+            11.587062,
+            50.9083951
+          ],
+          [
+            11.5867286,
+            50.9088821
+          ],
+          [
+            11.5865384,
+            50.9092221
+          ],
+          [
+            11.5862906,
+            50.9097321
+          ],
+          [
+            11.586148,
+            50.910253
+          ],
+          [
+            11.5860282,
+            50.9106808
+          ],
+          [
+            11.5859384,
+            50.9112907
+          ],
+          [
+            11.5859756,
+            50.911863
+          ],
+          [
+            11.5860858,
+            50.9125049
+          ],
+          [
+            11.5862046,
+            50.91294
+          ],
+          [
+            11.586328,
+            50.91333
+          ],
+          [
+            11.5865327,
+            50.9137216
+          ],
+          [
+            11.5867831,
+            50.9141321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56032066",
+      "properties": {
+        "@id": "way/56032066",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5873025,
+            50.9148808
+          ],
+          [
+            11.5874266,
+            50.9150438
+          ],
+          [
+            11.5877755,
+            50.9154868
+          ],
+          [
+            11.588257,
+            50.91615
+          ],
+          [
+            11.5888227,
+            50.9168638
+          ],
+          [
+            11.5892,
+            50.91745
+          ],
+          [
+            11.5895264,
+            50.9180666
+          ],
+          [
+            11.5896419,
+            50.9185062
+          ],
+          [
+            11.589708,
+            50.9187924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/73911706",
+      "properties": {
+        "@id": "way/73911706",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5082839,
+            50.9603171
+          ],
+          [
+            11.5083732,
+            50.9603514
+          ],
+          [
+            11.5084597,
+            50.9603646
+          ],
+          [
+            11.5087544,
+            50.9603849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/73911707",
+      "properties": {
+        "@id": "way/73911707",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5082869,
+            50.9604926
+          ],
+          [
+            11.5082485,
+            50.9605401
+          ],
+          [
+            11.508182,
+            50.9605884
+          ],
+          [
+            11.5081102,
+            50.9606199
+          ],
+          [
+            11.5080242,
+            50.9606412
+          ],
+          [
+            11.5078973,
+            50.9606481
+          ],
+          [
+            11.5077976,
+            50.9606345
+          ],
+          [
+            11.5076896,
+            50.9605965
+          ],
+          [
+            11.507631,
+            50.9605601
+          ],
+          [
+            11.5075576,
+            50.9604698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134752145",
+      "properties": {
+        "@id": "way/134752145",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5374305,
+            50.9513305
+          ],
+          [
+            11.5371773,
+            50.9511024
+          ],
+          [
+            11.5369262,
+            50.9508796
+          ],
+          [
+            11.5364775,
+            50.9504758
+          ],
+          [
+            11.5363821,
+            50.9503821
+          ],
+          [
+            11.5361942,
+            50.9502385
+          ],
+          [
+            11.5361313,
+            50.9501905
+          ],
+          [
+            11.535644,
+            50.9498861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134752325",
+      "properties": {
+        "@id": "way/134752325",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5349659,
+            50.953733
+          ],
+          [
+            11.5357254,
+            50.9536485
+          ],
+          [
+            11.5360401,
+            50.9536165
+          ],
+          [
+            11.5363545,
+            50.9535618
+          ],
+          [
+            11.5365811,
+            50.9534899
+          ],
+          [
+            11.5367805,
+            50.9533982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150541383",
+      "properties": {
+        "@id": "way/150541383",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5333299,
+            50.9478918
+          ],
+          [
+            11.5331728,
+            50.9477145
+          ],
+          [
+            11.5330568,
+            50.9475726
+          ],
+          [
+            11.5328898,
+            50.9473006
+          ],
+          [
+            11.5327758,
+            50.9469838
+          ],
+          [
+            11.5327086,
+            50.9466506
+          ],
+          [
+            11.5326938,
+            50.9463742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183472330",
+      "properties": {
+        "@id": "way/183472330",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5897099,
+            50.9204044
+          ],
+          [
+            11.5896957,
+            50.9202769
+          ],
+          [
+            11.5896676,
+            50.9199886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199656324",
+      "properties": {
+        "@id": "way/199656324",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6022021,
+            50.8940199
+          ],
+          [
+            11.6020565,
+            50.8953318
+          ],
+          [
+            11.6019339,
+            50.896011
+          ],
+          [
+            11.6018233,
+            50.8963829
+          ],
+          [
+            11.6016992,
+            50.8967252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205890076",
+      "properties": {
+        "@id": "way/205890076",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5087544,
+            50.9603849
+          ],
+          [
+            11.509278,
+            50.9603642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215845224",
+      "properties": {
+        "@id": "way/215845224",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "70",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5069347,
+            50.9603458
+          ],
+          [
+            11.5073472,
+            50.9603509
+          ],
+          [
+            11.5074314,
+            50.9603526
+          ],
+          [
+            11.5074974,
+            50.9603425
+          ],
+          [
+            11.507566,
+            50.9603275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219412352",
+      "properties": {
+        "@id": "way/219412352",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "ref": "B 7",
+        "turn:lanes:forward": "none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.509278,
+            50.9603642
+          ],
+          [
+            11.5103,
+            50.9603377
+          ],
+          [
+            11.5114131,
+            50.9603286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219412353",
+      "properties": {
+        "@id": "way/219412353",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5087544,
+            50.9603849
+          ],
+          [
+            11.5084883,
+            50.9604243
+          ],
+          [
+            11.5083877,
+            50.9604469
+          ],
+          [
+            11.5082869,
+            50.9604926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219412354",
+      "properties": {
+        "@id": "way/219412354",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5114131,
+            50.9603286
+          ],
+          [
+            11.5117395,
+            50.9603235
+          ],
+          [
+            11.5121462,
+            50.9603137
+          ],
+          [
+            11.5129856,
+            50.9602398
+          ],
+          [
+            11.513617,
+            50.960154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233388166",
+      "properties": {
+        "@id": "way/233388166",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6016992,
+            50.8967252
+          ],
+          [
+            11.6015845,
+            50.8969699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240877205",
+      "properties": {
+        "@id": "way/240877205",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "70",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5340019,
+            50.9430976
+          ],
+          [
+            11.5341253,
+            50.9430001
+          ],
+          [
+            11.5342598,
+            50.9429063
+          ],
+          [
+            11.5344306,
+            50.9428109
+          ],
+          [
+            11.5345908,
+            50.9427456
+          ],
+          [
+            11.5348069,
+            50.9426581
+          ],
+          [
+            11.5350645,
+            50.9425774
+          ],
+          [
+            11.5353919,
+            50.9424868
+          ],
+          [
+            11.5356902,
+            50.9424325
+          ],
+          [
+            11.5360015,
+            50.9424013
+          ],
+          [
+            11.5361871,
+            50.9423927
+          ],
+          [
+            11.5374014,
+            50.9423196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551197",
+      "properties": {
+        "@id": "way/245551197",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5893605,
+            50.9060959
+          ],
+          [
+            11.589518,
+            50.906
+          ],
+          [
+            11.5897663,
+            50.905849
+          ],
+          [
+            11.590066,
+            50.9056889
+          ],
+          [
+            11.5906773,
+            50.9053851
+          ],
+          [
+            11.5914407,
+            50.9050629
+          ],
+          [
+            11.5924671,
+            50.9046747
+          ],
+          [
+            11.5932186,
+            50.9044041
+          ],
+          [
+            11.5938925,
+            50.9041625
+          ],
+          [
+            11.5945668,
+            50.9039241
+          ],
+          [
+            11.5949129,
+            50.9037815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551200",
+      "properties": {
+        "@id": "way/245551200",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88",
+        "turn:lanes": "left|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5877,
+            50.91567
+          ],
+          [
+            11.587381,
+            50.9152382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551209",
+      "properties": {
+        "@id": "way/245551209",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "left_of:1",
+        "ref": "B 88",
+        "turn:lanes": "left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.588514,
+            50.90665
+          ],
+          [
+            11.5892557,
+            50.9061623
+          ],
+          [
+            11.5893605,
+            50.9060959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551210",
+      "properties": {
+        "@id": "way/245551210",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88",
+        "turn:lanes": "left|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5867831,
+            50.9141321
+          ],
+          [
+            11.5870107,
+            50.9144595
+          ],
+          [
+            11.5871793,
+            50.9147073
+          ],
+          [
+            11.5873025,
+            50.9148808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551211",
+      "properties": {
+        "@id": "way/245551211",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5897742,
+            50.9193898
+          ],
+          [
+            11.5898235,
+            50.9198538
+          ],
+          [
+            11.5898364,
+            50.9199817
+          ],
+          [
+            11.589862,
+            50.9202653
+          ],
+          [
+            11.5898785,
+            50.9203939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551212",
+      "properties": {
+        "@id": "way/245551212",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "left_of:1",
+        "ref": "B 88",
+        "turn:lanes": "left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5968714,
+            50.9029307
+          ],
+          [
+            11.5970856,
+            50.9028275
+          ],
+          [
+            11.597595,
+            50.9025283
+          ],
+          [
+            11.5977341,
+            50.9024377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/245551213",
+      "properties": {
+        "@id": "way/245551213",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5908898,
+            50.905419
+          ],
+          [
+            11.5906629,
+            50.9055264
+          ],
+          [
+            11.5901257,
+            50.9057919
+          ],
+          [
+            11.5898673,
+            50.9059377
+          ],
+          [
+            11.5896388,
+            50.9060773
+          ],
+          [
+            11.5895258,
+            50.9061463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251158175",
+      "properties": {
+        "@id": "way/251158175",
+        "bicycle": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88",
+        "turn:lanes": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.589708,
+            50.9187924
+          ],
+          [
+            11.5897742,
+            50.9193898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295793247",
+      "properties": {
+        "@id": "way/295793247",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5077829,
+            50.9601837
+          ],
+          [
+            11.5078824,
+            50.9601674
+          ],
+          [
+            11.5079859,
+            50.9601685
+          ],
+          [
+            11.5080607,
+            50.9601806
+          ],
+          [
+            11.5080915,
+            50.9601888
+          ],
+          [
+            11.5081599,
+            50.9602149
+          ],
+          [
+            11.5082049,
+            50.9602401
+          ],
+          [
+            11.5082552,
+            50.9602812
+          ],
+          [
+            11.5082839,
+            50.9603171
+          ],
+          [
+            11.5083084,
+            50.9603761
+          ],
+          [
+            11.50831,
+            50.9604294
+          ],
+          [
+            11.5082869,
+            50.9604926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579743",
+      "properties": {
+        "@id": "way/313579743",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6015845,
+            50.8969699
+          ],
+          [
+            11.6014272,
+            50.8973491
+          ],
+          [
+            11.6008936,
+            50.898423
+          ],
+          [
+            11.6003029,
+            50.899553
+          ],
+          [
+            11.5998594,
+            50.9003883
+          ],
+          [
+            11.5996655,
+            50.900673
+          ],
+          [
+            11.5992747,
+            50.9012259
+          ],
+          [
+            11.5989149,
+            50.9016331
+          ],
+          [
+            11.5986334,
+            50.9019005
+          ],
+          [
+            11.5984544,
+            50.9020513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313579744",
+      "properties": {
+        "@id": "way/313579744",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "B 88",
+        "turn:lanes": "through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5984544,
+            50.9020513
+          ],
+          [
+            11.5983164,
+            50.9021708
+          ],
+          [
+            11.5979793,
+            50.9024255
+          ],
+          [
+            11.597857,
+            50.902513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314243811",
+      "properties": {
+        "@id": "way/314243811",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "no",
+        "ref": "B 7",
+        "turn:lanes:forward": "left|none"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5142395,
+            50.9600305
+          ],
+          [
+            11.5148368,
+            50.9598883
+          ],
+          [
+            11.5154776,
+            50.9597213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314839921",
+      "properties": {
+        "@id": "way/314839921",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "70",
+        "name": "Stadtrodaer Straße",
+        "oneway": "yes",
+        "ref": "B 88"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6019158,
+            50.8951648
+          ],
+          [
+            11.6020947,
+            50.8933831
+          ],
+          [
+            11.6021996,
+            50.8930225
+          ],
+          [
+            11.6022768,
+            50.8927571
+          ],
+          [
+            11.6023278,
+            50.8926376
+          ],
+          [
+            11.6024061,
+            50.8924863
+          ],
+          [
+            11.6027158,
+            50.8920799
+          ],
+          [
+            11.6030025,
+            50.8917557
+          ],
+          [
+            11.6033058,
+            50.8914898
+          ],
+          [
+            11.6038245,
+            50.8911361
+          ],
+          [
+            11.6042761,
+            50.8908669
+          ],
+          [
+            11.6053777,
+            50.8902342
+          ],
+          [
+            11.6064834,
+            50.8896065
+          ],
+          [
+            11.6076362,
+            50.8889514
+          ],
+          [
+            11.6088399,
+            50.8882531
+          ],
+          [
+            11.6093203,
+            50.8879759
+          ],
+          [
+            11.6101944,
+            50.8874428
+          ],
+          [
+            11.6105863,
+            50.8871313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314839922",
+      "properties": {
+        "@id": "way/314839922",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "yes",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5075576,
+            50.9604698
+          ],
+          [
+            11.5075465,
+            50.9604318
+          ],
+          [
+            11.5075472,
+            50.9603787
+          ],
+          [
+            11.507566,
+            50.9603275
+          ],
+          [
+            11.5075967,
+            50.9602857
+          ],
+          [
+            11.5076281,
+            50.9602567
+          ],
+          [
+            11.5076689,
+            50.9602292
+          ],
+          [
+            11.5077133,
+            50.9602071
+          ],
+          [
+            11.5077829,
+            50.9601837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315685296",
+      "properties": {
+        "@id": "way/315685296",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "70",
+        "name": "Weimarische Straße",
+        "oneway": "no",
+        "ref": "B 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5180615,
+            50.9589062
+          ],
+          [
+            11.5181441,
+            50.9588647
+          ],
+          [
+            11.518356,
+            50.9587267
+          ],
+          [
+            11.5186095,
+            50.9585399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315691682",
+      "properties": {
+        "@id": "way/315691682",
+        "hgv": "no",
+        "highway": "tertiary",
+        "lit": "no",
+        "maxspeed": "70",
+        "name": "Rautal",
+        "ref": "K 15",
+        "source:maxspeed": "sign"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5745044,
+            50.9584521
+          ],
+          [
+            11.5747319,
+            50.9582078
+          ],
+          [
+            11.5748534,
+            50.9580818
+          ],
+          [
+            11.5749462,
+            50.9578472
+          ],
+          [
+            11.5750068,
+            50.9576962
+          ],
+          [
+            11.5751083,
+            50.9575117
+          ],
+          [
+            11.5753011,
+            50.9572704
+          ],
+          [
+            11.5755685,
+            50.9569602
+          ],
+          [
+            11.5757274,
+            50.956746
+          ],
+          [
+            11.5759755,
+            50.9563324
+          ],
+          [
+            11.5767477,
+            50.9553417
+          ],
+          [
+            11.5770217,
+            50.9550728
+          ],
+          [
+            11.5773123,
+            50.9549715
+          ],
+          [
+            11.5775424,
+            50.9549443
+          ],
+          [
+            11.5786185,
+            50.9549945
+          ],
+          [
+            11.5796488,
+            50.9551216
+          ],
+          [
+            11.5806348,
+            50.9554496
+          ],
+          [
+            11.5816002,
+            50.9559077
+          ],
+          [
+            11.5818612,
+            50.9559545
+          ],
+          [
+            11.5820587,
+            50.9559583
+          ],
+          [
+            11.5824022,
+            50.9559906
+          ],
+          [
+            11.5830938,
+            50.9561506
+          ],
+          [
+            11.5836787,
+            50.9563076
+          ],
+          [
+            11.5847238,
+            50.9565286
+          ],
+          [
+            11.5862388,
+            50.9571516
+          ],
+          [
+            11.5872538,
+            50.9574886
+          ],
+          [
+            11.5888298,
+            50.9581816
+          ],
+          [
+            11.5894368,
+            50.9583476
+          ],
+          [
+            11.5902228,
+            50.9584026
+          ],
+          [
+            11.5907838,
+            50.9582466
+          ],
+          [
+            11.5922249,
+            50.9575094
+          ],
+          [
+            11.5928913,
+            50.9572431
+          ],
+          [
+            11.5932915,
+            50.9570917
+          ],
+          [
+            11.5939785,
+            50.9568665
+          ],
+          [
+            11.595097,
+            50.9564109
+          ],
+          [
+            11.5952869,
+            50.9563419
+          ],
+          [
+            11.5960103,
+            50.95607
+          ],
+          [
+            11.5962125,
+            50.9559924
+          ],
+          [
+            11.5968335,
+            50.9557469
+          ],
+          [
+            11.5971592,
+            50.9556452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315691684",
+      "properties": {
+        "@id": "way/315691684",
+        "highway": "tertiary",
+        "maxspeed": "70"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5748731,
+            50.9620324
+          ],
+          [
+            11.5752772,
+            50.9624207
+          ],
+          [
+            11.5755379,
+            50.9626699
+          ],
+          [
+            11.5771147,
+            50.964169
+          ],
+          [
+            11.5786402,
+            50.9656551
+          ],
+          [
+            11.5804623,
+            50.9673685
+          ],
+          [
+            11.5805161,
+            50.9674083
+          ],
+          [
+            11.5807819,
+            50.9675022
+          ],
+          [
+            11.5859699,
+            50.9692832
+          ],
+          [
+            11.5862954,
+            50.9693962
+          ],
+          [
+            11.5875143,
+            50.9698327
+          ],
+          [
+            11.5913026,
+            50.9708439
+          ],
+          [
+            11.5917223,
+            50.9708765
+          ],
+          [
+            11.5921306,
+            50.9708582
+          ],
+          [
+            11.5935572,
+            50.9706638
+          ],
+          [
+            11.5958967,
+            50.9702921
+          ],
+          [
+            11.5973977,
+            50.9699691
+          ],
+          [
+            11.5981602,
+            50.9697182
+          ]
+        ]
+      }
+    }
+  ]
+}

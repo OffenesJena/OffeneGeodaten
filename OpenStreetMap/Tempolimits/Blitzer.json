@@ -1,0 +1,109 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
+    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 486599,
+      "lat": 50.8795142,
+      "lon": 11.6078017,
+      "tags": {
+        "highway": "speed_camera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851562002,
+      "lat": 50.8787596,
+      "lon": 11.6066883,
+      "tags": {
+        "highway": "speed_camera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1813499262,
+      "lat": 50.9337413,
+      "lon": 11.6250636,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1813499263,
+      "lat": 50.9338366,
+      "lon": 11.6236678,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823267122,
+      "lat": 50.9005001,
+      "lon": 11.5788637,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823271052,
+      "lat": 50.9008777,
+      "lon": 11.5783383,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823288314,
+      "lat": 50.9220603,
+      "lon": 11.5899815,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823288315,
+      "lat": 50.9220621,
+      "lon": 11.5899389,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1827293967,
+      "lat": 50.9269374,
+      "lon": 11.5875931,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1998466662,
+      "lat": 50.92692,
+      "lon": 11.5872239,
+      "tags": {
+        "highway": "speed_camera",
+        "maxspeed": "20"
+      }
+    }
+  ]
+}
