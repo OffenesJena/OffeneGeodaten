@@ -1,0 +1,107 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 571153806,
+      "lat": 50.9259689,
+      "lon": 11.5858229,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Paradies (Volksbad)",
+        "operator": "teilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571154955,
+      "lat": 50.9286976,
+      "lon": 11.5776261,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Jahnstraße (Kegelbahn)",
+        "operator": "teilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571155745,
+      "lat": 50.9307807,
+      "lon": 11.5766208,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "2",
+        "operator": "teilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571159297,
+      "lat": 50.9354999,
+      "lon": 11.5894814,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Nollendorfer Platz",
+        "operator": "teilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571163695,
+      "lat": 50.9307298,
+      "lon": 11.6040311,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Karl-Liebknecht-Straße",
+        "operator": "teilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571166606,
+      "lat": 50.9012077,
+      "lon": 11.5774866,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Max-Steenbeck-Straße",
+        "operator": "teilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 915732723,
+      "lat": 50.9294708,
+      "lon": 11.5924364,
+      "tags": {
+        "amenity": "car_sharing",
+        "contact:website": "http://www.teilauto.net/",
+        "name": "Car Sharing",
+        "operator": "TeilAuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578083843,
+      "lat": 50.9256658,
+      "lon": 11.5861703,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "2",
+        "name": "Paradiesbahnhof - Elektro",
+        "operator": "Flinkster",
+        "ref": "PBF-ELEKTRO"
+      }
+    }
+  ]
+}

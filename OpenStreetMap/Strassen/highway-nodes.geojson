@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:43:06.890Z",
+  "timestamp": "2014-12-16T10:45:11.102Z",
   "features": [
     {
       "type": "Feature",
@@ -85,7 +85,7 @@
       "properties": {
         "@id": "node/35304331",
         "highway": "traffic_signals",
-        "railway": "crossing"
+        "railway": "level_crossing"
       },
       "geometry": {
         "type": "Point",
@@ -203,8 +203,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5937593,
-          50.8768683
+          11.5937642,
+          50.8768648
         ]
       }
     },
@@ -780,8 +780,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5791213,
-          50.9196107
+          11.5791391,
+          50.9196191
         ]
       }
     },
@@ -962,8 +962,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5799919,
-          50.9208761
+          11.5800209,
+          50.9208817
         ]
       }
     },
@@ -4571,36 +4571,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1239936782",
-      "properties": {
-        "@id": "node/1239936782",
-        "highway": "turning_circle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6324774,
-          50.9301389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1239936836",
-      "properties": {
-        "@id": "node/1239936836",
-        "highway": "turning_circle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6327168,
-          50.9307072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1271121049",
       "properties": {
         "@id": "node/1271121049",
@@ -4740,6 +4710,23 @@
         "coordinates": [
           11.5929759,
           50.8984858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478289457",
+      "properties": {
+        "@id": "node/1478289457",
+        "highway": "motorway_junction",
+        "name": "Jena-Göschwitz",
+        "ref": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5930194,
+          50.8715207
         ]
       }
     },
@@ -5168,7 +5155,8 @@
       "id": "node/1712853972",
       "properties": {
         "@id": "node/1712853972",
-        "highway": "traffic_signals"
+        "crossing": "traffic_signals",
+        "highway": "crossing"
       },
       "geometry": {
         "type": "Point",
@@ -5232,23 +5220,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1788468202",
-      "properties": {
-        "@id": "node/1788468202",
-        "highway": "motorway_junction",
-        "name": "Jena-Göschwitz",
-        "ref": "53"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5924433,
-          50.8712957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1789167674",
       "properties": {
         "@id": "node/1789167674",
@@ -5264,16 +5235,16 @@
     },
     {
       "type": "Feature",
-      "id": "node/1789167686",
+      "id": "node/1789167685",
       "properties": {
-        "@id": "node/1789167686",
+        "@id": "node/1789167685",
         "highway": "give_way"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5982114,
-          50.870746
+          11.5982525,
+          50.8707252
         ]
       }
     },
@@ -5289,8 +5260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5953547,
-          50.8728379
+          11.5950424,
+          50.8726877
         ]
       }
     },
@@ -5433,8 +5404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5658718,
-          50.9053892
+          11.5658678,
+          50.9054071
         ]
       }
     },
@@ -5769,8 +5740,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5938853,
-          50.8768804
+          11.5938693,
+          50.87685
         ]
       }
     },
@@ -5785,8 +5756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5937307,
-          50.8769704
+          11.59371,
+          50.8769648
         ]
       }
     },
@@ -8710,22 +8681,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2612754765",
-      "properties": {
-        "@id": "node/2612754765",
-        "crossing": "traffic_signals",
-        "highway": "crossing"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6124784,
-          50.8863321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2612991736",
       "properties": {
         "@id": "node/2612991736",
@@ -9635,8 +9590,7 @@
       "properties": {
         "@id": "node/2743278684",
         "crossing": "island",
-        "highway": "crossing",
-        "traffic_calming": "island"
+        "highway": "crossing"
       },
       "geometry": {
         "type": "Point",
@@ -13900,8 +13854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6023579,
-          50.8930147
+          11.6023508,
+          50.8930308
         ]
       }
     },
@@ -13916,8 +13870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6021996,
-          50.8930225
+          11.6022015,
+          50.8930106
         ]
       }
     },
@@ -14059,8 +14013,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5938565,
-          50.8768083
+          11.5938548,
+          50.8768049
         ]
       }
     },
@@ -14308,6 +14262,37 @@
         "coordinates": [
           11.5742872,
           50.9610961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3224164061",
+      "properties": {
+        "@id": "node/3224164061",
+        "highway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5797352,
+          50.918524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3232100610",
+      "properties": {
+        "@id": "node/3232100610",
+        "crossing": "island",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5231108,
+          50.9706029
         ]
       }
     }

@@ -1,0 +1,561 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 344455533,
+      "lat": 50.9269558,
+      "lon": 11.5803443,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "Carl-Zeiß-Platz",
+        "amenity": "library",
+        "contact:website": "http://stadtbibliothek.jena.de",
+        "name": "Ernst Abbe Bücherei",
+        "ref:isil": "DE-J82",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 639177865,
+      "lat": 50.918378,
+      "lon": 11.5699007,
+      "tags": {
+        "amenity": "library",
+        "contact:website": "http://www.fh-jena.de/fhj/bib/de/Seiten/default.aspx",
+        "name": "Bibliothek der EAH Jena",
+        "operator": "Ernst-Abbe-Hochschule Jena",
+        "ref:isil": "DE-J59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733176,
+      "lat": 50.9251748,
+      "lon": 11.5791099,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Kinder- und Jugendmedizin 'Jussuf Ibrahim'",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-73"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733261,
+      "lat": 50.9193118,
+      "lon": 11.5908174,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Sportwissenschaften"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733263,
+      "lat": 50.9245346,
+      "lon": 11.5817972,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07745",
+        "addr:street": "Berggasse",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Geschichte der Medizin, Naturwissenschaft und Technik",
+        "ref:isil": "DE-27-47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733273,
+      "lat": 50.9290485,
+      "lon": 11.5813679,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Rechts-, Wirtschafts- und Sozialwissenschaften",
+        "ref:isil": "DE-27-33;DE-27-142",
+        "wheelchair": "yes",
+        "wheelchair:description": "Die unterste Ebene der Bibliothek (Ebene -1) ist über der Fahrstuhl erreichbar, bedarf jedoch einer Schlüsselaktivierung eines netten THULB-Mitarbeiter."
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733275,
+      "lat": 50.9278263,
+      "lon": 11.582544,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Ernst-Abbe-Platz",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Naturwissenschaften",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-50",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behindertengerechte Toiletten sind auf der Ebene des Instituts für Mathematik und Informatik im Haus vorhanden. Diese müssen jedoch von Institutsmitarbeitern aufgeschlossene werden."
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733350,
+      "lat": 50.9346946,
+      "lon": 11.5646654,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Hautkrankheiten",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733352,
+      "lat": 50.9332231,
+      "lon": 11.5801233,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Hals-, Nasen- und Ohrenheilkunde",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673733353,
+      "lat": 50.9340684,
+      "lon": 11.5836177,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Physik",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-16",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673837332,
+      "lat": 50.9334478,
+      "lon": 11.5796625,
+      "tags": {
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Urologie",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-136",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1687566862,
+      "lat": 50.8984934,
+      "lon": 11.5757499,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "07745",
+        "addr:street": "Anna-Siemsen-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "library",
+        "contact:email": "info@bibliothek-winzerla.de",
+        "contact:fax": "03641/697236",
+        "contact:phone": "03641/697238",
+        "contact:website": "http://www.bibliothek-winzerla.de",
+        "name": "Ortsteilbibliothek Winzerla"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49403588,
+      "nodes": [
+        627366064,
+        627366070,
+        627366494,
+        627366497,
+        627366076,
+        627366079,
+        627366064
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Humboldtstraße",
+        "amenity": "library",
+        "building": "yes",
+        "name": "ThULB Zweigbibliothek Chemie",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-14"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53238169,
+      "nodes": [
+        673733279,
+        673733282,
+        673733281,
+        673733277,
+        673733279
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Philosophenweg",
+        "amenity": "library",
+        "building": "yes",
+        "name": "ThULB Zweigbibliothek Psychiatrie",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173579109,
+      "nodes": [
+        1843675295,
+        1843675286,
+        1843675284,
+        1843675287,
+        1843675290,
+        1843675292,
+        1843675295
+      ],
+      "tags": {
+        "amenity": "library",
+        "building": "hospital",
+        "name": "ThULB Teilbibliothek Medizin",
+        "ref:isil": "DE-27-43"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201322986,
+      "nodes": [
+        2112795244,
+        2112795247,
+        2112795242,
+        2112795241,
+        2112795240,
+        2112795238,
+        2112795246,
+        2112795236,
+        2112795235,
+        2112795233,
+        2112795227,
+        2112795234,
+        2112795230,
+        2112795213,
+        2540120186,
+        2112795218,
+        2112795222,
+        2112795220,
+        2112795225,
+        2112795216,
+        2112795237,
+        2112795244
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:postcode": "07743",
+        "addr:street": "Bibliotheksplatz",
+        "amenity": "library",
+        "building": "library",
+        "contact:website": "http://www.thulb.uni-jena.de/",
+        "name": "Thüringer Universitäts und Landesbibliothek (ThULB)",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27",
+        "wheelchair": "yes",
+        "wikidata": "Q1255096",
+        "wikipedia": "de:Thüringer Universitäts- und Landesbibliothek",
+        "wikipedia:de": "Thüringer Universitäts- und Landesbibliothek"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221127757,
+      "nodes": [
+        2301849210,
+        2301849206,
+        2301849211,
+        2301849207,
+        2301849210
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Platanenstraße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "library",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Stadtteilbibliothek Lobeda-Ost",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1843675284,
+      "lat": 50.8851808,
+      "lon": 11.6191165
+    },
+    {
+      "type": "node",
+      "id": 1843675286,
+      "lat": 50.8853221,
+      "lon": 11.6194005
+    },
+    {
+      "type": "node",
+      "id": 1843675287,
+      "lat": 50.8853599,
+      "lon": 11.6188939
+    },
+    {
+      "type": "node",
+      "id": 1843675290,
+      "lat": 50.8854672,
+      "lon": 11.6191095
+    },
+    {
+      "type": "node",
+      "id": 1843675292,
+      "lat": 50.885487,
+      "lon": 11.619085
+    },
+    {
+      "type": "node",
+      "id": 1843675295,
+      "lat": 50.885521,
+      "lon": 11.6191533
+    },
+    {
+      "type": "node",
+      "id": 2301849206,
+      "lat": 50.8865197,
+      "lon": 11.6145257
+    },
+    {
+      "type": "node",
+      "id": 2301849207,
+      "lat": 50.8866703,
+      "lon": 11.6140992
+    },
+    {
+      "type": "node",
+      "id": 2301849210,
+      "lat": 50.8867447,
+      "lon": 11.6142495
+    },
+    {
+      "type": "node",
+      "id": 2301849211,
+      "lat": 50.8864469,
+      "lon": 11.6143755
+    },
+    {
+      "type": "node",
+      "id": 627366064,
+      "lat": 50.9325362,
+      "lon": 11.5759053
+    },
+    {
+      "type": "node",
+      "id": 627366070,
+      "lat": 50.9323843,
+      "lon": 11.5758459
+    },
+    {
+      "type": "node",
+      "id": 627366076,
+      "lat": 50.9324493,
+      "lon": 11.5750873
+    },
+    {
+      "type": "node",
+      "id": 627366079,
+      "lat": 50.9326509,
+      "lon": 11.575166
+    },
+    {
+      "type": "node",
+      "id": 627366494,
+      "lat": 50.9324668,
+      "lon": 11.5753141
+    },
+    {
+      "type": "node",
+      "id": 627366497,
+      "lat": 50.9324171,
+      "lon": 11.5752947
+    },
+    {
+      "type": "node",
+      "id": 673733277,
+      "lat": 50.9322121,
+      "lon": 11.5836946
+    },
+    {
+      "type": "node",
+      "id": 673733279,
+      "lat": 50.9322762,
+      "lon": 11.5837159
+    },
+    {
+      "type": "node",
+      "id": 673733281,
+      "lat": 50.9321783,
+      "lon": 11.58395
+    },
+    {
+      "type": "node",
+      "id": 673733282,
+      "lat": 50.9322423,
+      "lon": 11.5839713
+    },
+    {
+      "type": "node",
+      "id": 2112795216,
+      "lat": 50.9302291,
+      "lon": 11.5872964
+    },
+    {
+      "type": "node",
+      "id": 2112795220,
+      "lat": 50.9302365,
+      "lon": 11.5874322
+    },
+    {
+      "type": "node",
+      "id": 2112795222,
+      "lat": 50.9302473,
+      "lon": 11.5875027
+    },
+    {
+      "type": "node",
+      "id": 2112795225,
+      "lat": 50.9302486,
+      "lon": 11.5874119
+    },
+    {
+      "type": "node",
+      "id": 2112795227,
+      "lat": 50.930349,
+      "lon": 11.5880907
+    },
+    {
+      "type": "node",
+      "id": 2112795230,
+      "lat": 50.9303564,
+      "lon": 11.5880715
+    },
+    {
+      "type": "node",
+      "id": 2112795233,
+      "lat": 50.9303578,
+      "lon": 11.5882212
+    },
+    {
+      "type": "node",
+      "id": 2112795234,
+      "lat": 50.9303612,
+      "lon": 11.5880811
+    },
+    {
+      "type": "node",
+      "id": 2112795235,
+      "lat": 50.930626,
+      "lon": 11.5881453
+    },
+    {
+      "type": "node",
+      "id": 2112795236,
+      "lat": 50.9306287,
+      "lon": 11.5881773
+    },
+    {
+      "type": "node",
+      "id": 2112795237,
+      "lat": 50.9306327,
+      "lon": 11.5873434
+    },
+    {
+      "type": "node",
+      "id": 2112795238,
+      "lat": 50.930853,
+      "lon": 11.5879208
+    },
+    {
+      "type": "node",
+      "id": 2112795240,
+      "lat": 50.9308605,
+      "lon": 11.5878342
+    },
+    {
+      "type": "node",
+      "id": 2112795241,
+      "lat": 50.9308921,
+      "lon": 11.5878545
+    },
+    {
+      "type": "node",
+      "id": 2112795242,
+      "lat": 50.9308928,
+      "lon": 11.587538
+    },
+    {
+      "type": "node",
+      "id": 2112795244,
+      "lat": 50.9309029,
+      "lon": 11.5872739
+    },
+    {
+      "type": "node",
+      "id": 2112795246,
+      "lat": 50.9309043,
+      "lon": 11.5879956
+    },
+    {
+      "type": "node",
+      "id": 2112795247,
+      "lat": 50.9309096,
+      "lon": 11.587538
+    },
+    {
+      "type": "node",
+      "id": 2112795213,
+      "lat": 50.9302232,
+      "lon": 11.5880713
+    },
+    {
+      "type": "node",
+      "id": 2112795218,
+      "lat": 50.9302314,
+      "lon": 11.5875855
+    },
+    {
+      "type": "node",
+      "id": 2540120186,
+      "lat": 50.9302268,
+      "lon": 11.587855
+    }
+  ]
+}

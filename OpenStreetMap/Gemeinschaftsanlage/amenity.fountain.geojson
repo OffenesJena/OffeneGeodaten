@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:28.396Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/268084311",
+      "properties": {
+        "@id": "node/268084311",
+        "amenity": "fountain",
+        "drinkable": "no",
+        "name": "Märchenbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5886549,
+          50.9232162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299809236",
+      "properties": {
+        "@id": "node/299809236",
+        "amenity": "fountain",
+        "name": "Bismarckbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880076,
+          50.9278632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304763671",
+      "properties": {
+        "@id": "node/304763671",
+        "amenity": "fountain",
+        "created_by": "Potlatch 0.10e",
+        "drinkable": "no",
+        "name": "Märchenbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586332,
+          50.9227755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1667260740",
+      "properties": {
+        "@id": "node/1667260740",
+        "amenity": "fountain",
+        "source": "Aerowest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600801,
+          50.9216293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2225828312",
+      "properties": {
+        "@id": "node/2225828312",
+        "amenity": "fountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5844932,
+          50.9279702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444294741",
+      "properties": {
+        "@id": "node/2444294741",
+        "amenity": "fountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5804704,
+          50.927717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2538233693",
+      "properties": {
+        "@id": "node/2538233693",
+        "amenity": "fountain",
+        "historic": "yes",
+        "man_made": "water_well",
+        "name": "Löwenbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5890442,
+          50.9286887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2651936617",
+      "properties": {
+        "@id": "node/2651936617",
+        "amenity": "fountain",
+        "historic": "yes",
+        "name": "Marktbrunnen",
+        "start_date": "1847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6071451,
+          50.8924248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2789494973",
+      "properties": {
+        "@id": "node/2789494973",
+        "amenity": "fountain",
+        "name": "Philisterbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5842217,
+          50.9294348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221552573",
+      "properties": {
+        "@id": "way/221552573",
+        "amenity": "fountain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6030435,
+              50.8823382
+            ],
+            [
+              11.6032208,
+              50.8823891
+            ],
+            [
+              11.6033012,
+              50.8822793
+            ],
+            [
+              11.6031294,
+              50.8822249
+            ],
+            [
+              11.6030435,
+              50.8823382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221552581",
+      "properties": {
+        "@id": "way/221552581",
+        "amenity": "fountain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6102139,
+              50.8854875
+            ],
+            [
+              11.6102936,
+              50.8855229
+            ],
+            [
+              11.6103499,
+              50.8854722
+            ],
+            [
+              11.610271,
+              50.8854376
+            ],
+            [
+              11.6102139,
+              50.8854875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221653869",
+      "properties": {
+        "@id": "way/221653869",
+        "amenity": "fountain",
+        "disused": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6064328,
+              50.8847614
+            ],
+            [
+              11.6065103,
+              50.8847975
+            ],
+            [
+              11.6065659,
+              50.8847499
+            ],
+            [
+              11.6064884,
+              50.8847138
+            ],
+            [
+              11.6064328,
+              50.8847614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221653871",
+      "properties": {
+        "@id": "way/221653871",
+        "amenity": "fountain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6181459,
+              50.8839939
+            ],
+            [
+              11.6182557,
+              50.8840475
+            ],
+            [
+              11.6182213,
+              50.8840755
+            ],
+            [
+              11.6181116,
+              50.8840219
+            ],
+            [
+              11.6181459,
+              50.8839939
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

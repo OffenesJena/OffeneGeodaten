@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:59.294Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/634910244",
+      "properties": {
+        "@id": "node/634910244",
+        "amenity": "veterinary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570704,
+          50.9214627
+        ]
+      }
+    }
+  ]
+}

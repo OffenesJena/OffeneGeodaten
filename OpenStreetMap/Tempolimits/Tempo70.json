@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
-    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "timestamp_osm_base": "2014-12-16T09:44:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -36,17 +36,18 @@
       "type": "way",
       "id": 24021375,
       "nodes": [
-        1631409268,
+        3232100614,
         2482937999,
         1631409271,
-        2482938002,
-        2482938003,
-        269314758
+        3232100621
       ],
       "tags": {
         "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "2",
         "maxspeed": "70",
-        "ref": "L 1060"
+        "ref": "L 1060",
+        "turn:lanes:backward": "left|none"
       }
     },
     {
@@ -62,12 +63,12 @@
         32125667,
         32125669,
         1634555377,
-        32125676,
-        269314756,
-        1631409268
+        3232100608
       ],
       "tags": {
         "highway": "secondary",
+        "lanes": "2",
+        "lanes:backward": "1",
         "maxspeed": "70",
         "ref": "L 1060"
       }
@@ -1230,6 +1231,74 @@
       }
     },
     {
+      "type": "way",
+      "id": 317005330,
+      "nodes": [
+        3232100611,
+        3232100612
+      ],
+      "tags": {
+        "access:lanes": "yes|no|yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317005331,
+      "nodes": [
+        3232100612,
+        3232100614
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317005334,
+      "nodes": [
+        3232100608,
+        3232100610,
+        3232100611
+      ],
+      "tags": {
+        "access:lanes": "yes|no|yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060",
+        "traffic_calming": "island"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317005335,
+      "nodes": [
+        3232100621,
+        2482938002,
+        2482938003,
+        269314758
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      }
+    },
+    {
       "type": "node",
       "id": 32127731,
       "lat": 50.9430001,
@@ -1669,12 +1738,6 @@
     },
     {
       "type": "node",
-      "id": 32125676,
-      "lat": 50.9706035,
-      "lon": 11.5230939
-    },
-    {
-      "type": "node",
       "id": 989079065,
       "lat": 50.9661182,
       "lon": 11.52411
@@ -1711,21 +1774,27 @@
     },
     {
       "type": "node",
-      "id": 269314756,
-      "lat": 50.9707559,
-      "lon": 11.52305
+      "id": 3232100608,
+      "lat": 50.9705688,
+      "lon": 11.5231191
+    },
+    {
+      "type": "node",
+      "id": 3232100610,
+      "lat": 50.9706029,
+      "lon": 11.5231108
+    },
+    {
+      "type": "node",
+      "id": 3232100611,
+      "lat": 50.9706285,
+      "lon": 11.5231046
     },
     {
       "type": "node",
       "id": 269314758,
       "lat": 50.972895,
       "lon": 11.5218905
-    },
-    {
-      "type": "node",
-      "id": 1631409268,
-      "lat": 50.9708065,
-      "lon": 11.5230447
     },
     {
       "type": "node",
@@ -1750,6 +1819,24 @@
       "id": 2482938003,
       "lat": 50.9719515,
       "lon": 11.5224572
+    },
+    {
+      "type": "node",
+      "id": 3232100612,
+      "lat": 50.970734,
+      "lon": 11.5230669
+    },
+    {
+      "type": "node",
+      "id": 3232100614,
+      "lat": 50.9708065,
+      "lon": 11.5230447
+    },
+    {
+      "type": "node",
+      "id": 3232100621,
+      "lat": 50.9714745,
+      "lon": 11.5227675
     },
     {
       "type": "node",
@@ -2066,8 +2153,8 @@
     {
       "type": "node",
       "id": 3195513227,
-      "lat": 50.8930225,
-      "lon": 11.6021996
+      "lat": 50.8930106,
+      "lon": 11.6022015
     },
     {
       "type": "node",

@@ -1,0 +1,326 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 301986013,
+      "lat": 50.8947878,
+      "lon": 11.5830499,
+      "tags": {
+        "amenity": "vending_machine",
+        "created_by": "Merkaartor 0.11",
+        "operator": "JeNah",
+        "payment:coins": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301986014,
+      "lat": 50.899918,
+      "lon": 11.5788093,
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "JeNah",
+        "payment:coins": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 509285162,
+      "lat": 50.8847338,
+      "lon": 11.6218446,
+      "tags": {
+        "amenity": "vending_machine",
+        "man_made": "surveillance",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1076850483,
+      "lat": 50.9249617,
+      "lon": 11.5873861,
+      "tags": {
+        "amenity": "vending_machine",
+        "level": "0",
+        "operator": "DB Netz AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1076850512,
+      "lat": 50.9248585,
+      "lon": 11.5875234,
+      "tags": {
+        "amenity": "vending_machine",
+        "level": "0",
+        "operator": "DB Netz AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1651873290,
+      "lat": 50.9236095,
+      "lon": 11.5779836,
+      "tags": {
+        "amenity": "vending_machine",
+        "level": "-1",
+        "operator": "Deutsche Bahn AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1831117067,
+      "lat": 50.9367638,
+      "lon": 11.5933709,
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Deutsche Bahn",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446118336,
+      "lat": 50.9233117,
+      "lon": 11.5777244,
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446118337,
+      "lat": 50.923251,
+      "lon": 11.5780304,
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446118338,
+      "lat": 50.9232312,
+      "lon": 11.5780314,
+      "tags": {
+        "amenity": "vending_machine",
+        "information": "terminal",
+        "operator": "Deutsche Bahn AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446118341,
+      "lat": 50.9234545,
+      "lon": 11.577982,
+      "tags": {
+        "amenity": "vending_machine",
+        "level": "-1",
+        "operator": "Deutsche Bahn AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2540120143,
+      "lat": 50.9294156,
+      "lon": 11.5907736,
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550554841,
+      "lat": 50.9299046,
+      "lon": 11.6012445,
+      "tags": {
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "bicycle_tube"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2561103186,
+      "lat": 50.9261194,
+      "lon": 11.5840115,
+      "tags": {
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598867601,
+      "lat": 50.9262393,
+      "lon": 11.588232,
+      "tags": {
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991790,
+      "lat": 50.9294711,
+      "lon": 11.5889664,
+      "tags": {
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2627876621,
+      "lat": 50.9240325,
+      "lon": 11.583335,
+      "tags": {
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2627876627,
+      "lat": 50.9242383,
+      "lon": 11.58286,
+      "tags": {
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2641554627,
+      "lat": 50.8773288,
+      "lon": 11.6218414,
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Toll Collect GmbH",
+        "vending": "toll"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2641554634,
+      "lat": 50.9424367,
+      "lon": 11.5976489,
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Toll Collect GmbH",
+        "vending": "toll"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995616251,
+      "lat": 50.9268495,
+      "lon": 11.5878851,
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995616252,
+      "lat": 50.9270553,
+      "lon": 11.5859706,
+      "tags": {
+        "amenity": "vending_machine",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2998887840,
+      "lat": 50.8892282,
+      "lon": 11.6125172,
+      "tags": {
+        "amenity": "vending_machine",
+        "vending": "excrement_bags"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113690438,
+      "lat": 50.8836262,
+      "lon": 11.5934141,
+      "tags": {
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Deutsche Bahn AG",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      }
+    }
+  ]
+}

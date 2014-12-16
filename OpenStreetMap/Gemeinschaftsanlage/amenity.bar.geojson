@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:34.017Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/299805695",
+      "properties": {
+        "@id": "node/299805695",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "bar",
+        "contact:website": "http://www.j-kinski.de",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "name": "Cleanicum",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5814365,
+          50.930189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315597188",
+      "properties": {
+        "@id": "node/315597188",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "27-29",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/jena.fly",
+        "name": "Fly",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5839363,
+          50.9294576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668055144",
+      "properties": {
+        "@id": "node/668055144",
+        "amenity": "bar",
+        "contact:website": "http://www.diezel.de",
+        "name": "dieVINO Theka",
+        "opening_hours": "11:00-20:00",
+        "operator": "diezel",
+        "shop": "alcohol",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58499,
+          50.9262416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/715525760",
+      "properties": {
+        "@id": "node/715525760",
+        "amenity": "bar",
+        "contact:website": "http://www.derstrand22.de",
+        "name": "Der Strand 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5850667,
+          50.9229683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1518792808",
+      "properties": {
+        "@id": "node/1518792808",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "bar",
+        "contact:website": "http://www.carlsberg-sportsbar.de/",
+        "name": "Carlsberg Sports Bar",
+        "opening_hours": "Mo-Th 17:00-24:00; Fr 17:00-01:00; Sa 13:00-02:00; Su 13:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880613,
+          50.9286079
+        ]
+      }
+    }
+  ]
+}

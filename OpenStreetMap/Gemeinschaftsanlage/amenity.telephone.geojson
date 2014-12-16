@@ -1,0 +1,384 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:47.442Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/280570033",
+      "properties": {
+        "@id": "node/280570033",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6293573,
+          50.8818259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292132078",
+      "properties": {
+        "@id": "node/292132078",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5852293,
+          50.9274788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298065470",
+      "properties": {
+        "@id": "node/298065470",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070109,
+          50.8829054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/301234186",
+      "properties": {
+        "@id": "node/301234186",
+        "amenity": "telephone",
+        "created_by": "Merkaartor 0.11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5727449,
+          50.8993385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302918343",
+      "properties": {
+        "@id": "node/302918343",
+        "amenity": "telephone",
+        "brand": "Deutsche Telekom AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6010743,
+          50.9295716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302933722",
+      "properties": {
+        "@id": "node/302933722",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983759,
+          50.9328379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/347056229",
+      "properties": {
+        "@id": "node/347056229",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881104,
+          50.9145328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387455327",
+      "properties": {
+        "@id": "node/387455327",
+        "amenity": "telephone",
+        "operator": "Deutsche Telekom AG",
+        "payment:telephone_cards": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731999,
+          50.924205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/390569839",
+      "properties": {
+        "@id": "node/390569839",
+        "amenity": "telephone",
+        "operator": "Deutsche Telekom AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5900614,
+          50.932355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507115773",
+      "properties": {
+        "@id": "node/507115773",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6254201,
+          50.8840298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/567921124",
+      "properties": {
+        "@id": "node/567921124",
+        "amenity": "telephone",
+        "covered": "no",
+        "operator": "Deutsche Telekom AG",
+        "payment:telephone_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5717846,
+          50.9324511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/606375703",
+      "properties": {
+        "@id": "node/606375703",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5785663,
+          50.8993477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/622553541",
+      "properties": {
+        "@id": "node/622553541",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6022246,
+          50.9509949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/627329895",
+      "properties": {
+        "@id": "node/627329895",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5784195,
+          50.9313141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/634380613",
+      "properties": {
+        "@id": "node/634380613",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5790194,
+          50.929398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638454942",
+      "properties": {
+        "@id": "node/638454942",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5683853,
+          50.9230528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/756943531",
+      "properties": {
+        "@id": "node/756943531",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5830513,
+          50.9295704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/930136871",
+      "properties": {
+        "@id": "node/930136871",
+        "amenity": "telephone",
+        "operator": "Deutsche Telekom",
+        "payment:coins": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5223655,
+          50.9609025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1854440189",
+      "properties": {
+        "@id": "node/1854440189",
+        "amenity": "telephone",
+        "operator": "Telekom",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "no",
+        "payment:telephone_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593573,
+          50.9407479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2435473079",
+      "properties": {
+        "@id": "node/2435473079",
+        "amenity": "telephone",
+        "covered": "booth",
+        "operator": "Deutsche Telekom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5935698,
+          50.8836033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2532420020",
+      "properties": {
+        "@id": "node/2532420020",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5966696,
+          50.9283177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2991602074",
+      "properties": {
+        "@id": "node/2991602074",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582121,
+          50.9255584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2991602190",
+      "properties": {
+        "@id": "node/2991602190",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5914271,
+          50.9357304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3054097369",
+      "properties": {
+        "@id": "node/3054097369",
+        "amenity": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6039002,
+          50.9316381
+        ]
+      }
+    }
+  ]
+}

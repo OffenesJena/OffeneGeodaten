@@ -1,0 +1,243 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 280570033,
+      "lat": 50.8818259,
+      "lon": 11.6293573,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292132078,
+      "lat": 50.9274788,
+      "lon": 11.5852293,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298065470,
+      "lat": 50.8829054,
+      "lon": 11.6070109,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301234186,
+      "lat": 50.8993385,
+      "lon": 11.5727449,
+      "tags": {
+        "amenity": "telephone",
+        "created_by": "Merkaartor 0.11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302918343,
+      "lat": 50.9295716,
+      "lon": 11.6010743,
+      "tags": {
+        "amenity": "telephone",
+        "brand": "Deutsche Telekom AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302933722,
+      "lat": 50.9328379,
+      "lon": 11.5983759,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 347056229,
+      "lat": 50.9145328,
+      "lon": 11.5881104,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387455327,
+      "lat": 50.924205,
+      "lon": 11.5731999,
+      "tags": {
+        "amenity": "telephone",
+        "operator": "Deutsche Telekom AG",
+        "payment:telephone_cards": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 390569839,
+      "lat": 50.932355,
+      "lon": 11.5900614,
+      "tags": {
+        "amenity": "telephone",
+        "operator": "Deutsche Telekom AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507115773,
+      "lat": 50.8840298,
+      "lon": 11.6254201,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 567921124,
+      "lat": 50.9324511,
+      "lon": 11.5717846,
+      "tags": {
+        "amenity": "telephone",
+        "covered": "no",
+        "operator": "Deutsche Telekom AG",
+        "payment:telephone_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606375703,
+      "lat": 50.8993477,
+      "lon": 11.5785663,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 622553541,
+      "lat": 50.9509949,
+      "lon": 11.6022246,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 627329895,
+      "lat": 50.9313141,
+      "lon": 11.5784195,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 634380613,
+      "lat": 50.929398,
+      "lon": 11.5790194,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638454942,
+      "lat": 50.9230528,
+      "lon": 11.5683853,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 756943531,
+      "lat": 50.9295704,
+      "lon": 11.5830513,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 930136871,
+      "lat": 50.9609025,
+      "lon": 11.5223655,
+      "tags": {
+        "amenity": "telephone",
+        "operator": "Deutsche Telekom",
+        "payment:coins": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854440189,
+      "lat": 50.9407479,
+      "lon": 11.593573,
+      "tags": {
+        "amenity": "telephone",
+        "operator": "Telekom",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "no",
+        "payment:telephone_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2435473079,
+      "lat": 50.8836033,
+      "lon": 11.5935698,
+      "tags": {
+        "amenity": "telephone",
+        "covered": "booth",
+        "operator": "Deutsche Telekom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2532420020,
+      "lat": 50.9283177,
+      "lon": 11.5966696,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2991602074,
+      "lat": 50.9255584,
+      "lon": 11.582121,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2991602190,
+      "lat": 50.9357304,
+      "lon": 11.5914271,
+      "tags": {
+        "amenity": "telephone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3054097369,
+      "lat": 50.9316381,
+      "lon": 11.6039002,
+      "tags": {
+        "amenity": "telephone"
+      }
+    }
+  ]
+}

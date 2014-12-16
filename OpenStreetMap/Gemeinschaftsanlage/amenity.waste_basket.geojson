@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:44:01.277Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/670759025",
+      "properties": {
+        "@id": "node/670759025",
+        "amenity": "waste_basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5637186,
+          50.9642318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932814640",
+      "properties": {
+        "@id": "node/932814640",
+        "amenity": "waste_basket",
+        "date_off": "October",
+        "date_on": "March"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5829973,
+          50.9198322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932814645",
+      "properties": {
+        "@id": "node/932814645",
+        "amenity": "waste_basket",
+        "date_off": "October",
+        "date_on": "March"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581742,
+          50.9201905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932814649",
+      "properties": {
+        "@id": "node/932814649",
+        "amenity": "waste_basket",
+        "date_off": "October",
+        "date_on": "March"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5836035,
+          50.9208162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2611752573",
+      "properties": {
+        "@id": "node/2611752573",
+        "amenity": "waste_basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5843776,
+          50.9300832
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:20.383Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/270492155",
+      "properties": {
+        "@id": "node/270492155",
+        "amenity": "drinking_water",
+        "name": "Fürstenbrunnen",
+        "natural": "spring",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6335821,
+          50.9067623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1673179196",
+      "properties": {
+        "@id": "node/1673179196",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6155984,
+          50.9416274
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:45.664Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2683352657",
+      "properties": {
+        "@id": "node/2683352657",
+        "amenity": "brothel",
+        "contact:email": "hausmona@gmx.de",
+        "contact:facebook": "https://www.facebook.com/psst.jena",
+        "contact:phone": "03641-239869",
+        "contact:website": "http://www.psst-jena.de",
+        "name": "Haus Mona",
+        "operator": "Firma psst-jena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5853048,
+          50.8930653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296115175",
+      "properties": {
+        "@id": "way/296115175",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "07743",
+        "addr:street": "Talstraße",
+        "amenity": "brothel",
+        "building": "house",
+        "name": "Textilpflegeshop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5713561,
+              50.9313586
+            ],
+            [
+              11.5712679,
+              50.931256
+            ],
+            [
+              11.5713993,
+              50.9312111
+            ],
+            [
+              11.5714875,
+              50.9313137
+            ],
+            [
+              11.5713561,
+              50.9313586
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

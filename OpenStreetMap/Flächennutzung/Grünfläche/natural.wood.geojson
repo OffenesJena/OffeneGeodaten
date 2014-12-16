@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:44:02.792Z",
+  "timestamp": "2014-12-16T10:47:28.616Z",
   "features": [
     {
       "type": "Feature",
@@ -762,8 +762,8 @@
       "id": "way/56454751",
       "properties": {
         "@id": "way/56454751",
-        "natural": "wood",
-        "wood": "deciduous"
+        "leaf_type": "broadleaved",
+        "natural": "wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -882,8 +882,8 @@
       "id": "way/56698263",
       "properties": {
         "@id": "way/56698263",
-        "natural": "wood",
-        "wood": "deciduous"
+        "leaf_type": "broadleaved",
+        "natural": "wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -946,8 +946,8 @@
       "id": "way/59861521",
       "properties": {
         "@id": "way/59861521",
-        "natural": "wood",
-        "wood": "deciduous"
+        "leaf_type": "broadleaved",
+        "natural": "wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -1911,8 +1911,8 @@
       "id": "way/287959127",
       "properties": {
         "@id": "way/287959127",
-        "natural": "wood",
-        "wood": "deciduous"
+        "leaf_type": "broadleaved",
+        "natural": "wood"
       },
       "geometry": {
         "type": "Polygon",
@@ -2962,8 +2962,7 @@
       "properties": {
         "@id": "relation/2131795",
         "natural": "wood",
-        "type": "multipolygon",
-        "wood": "deciduous"
+        "type": "multipolygon"
       },
       "geometry": {
         "type": "Polygon",

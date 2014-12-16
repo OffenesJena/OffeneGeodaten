@@ -1,0 +1,697 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 252105837,
+      "lat": 50.8666802,
+      "lon": 11.5972709,
+      "tags": {
+        "amenity": "fast_food",
+        "fixme": "Sah aufgegeben aus. Ist die Bude überhaupt noch offen?",
+        "name": "Wurstbude"
+      }
+    },
+    {
+      "type": "node",
+      "id": 256792640,
+      "lat": 50.8671455,
+      "lon": 11.5982005,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268301124,
+      "lat": 50.9320641,
+      "lon": 11.5900045,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "07743",
+        "addr:street": "Saalbahnhofstraße",
+        "amenity": "fast_food",
+        "name": "Jena Pizza",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292154211,
+      "lat": 50.9290767,
+      "lon": 11.5849006,
+      "tags": {
+        "amenity": "fast_food",
+        "created_by": "Merkaartor 0.11",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299808115,
+      "lat": 50.9305077,
+      "lon": 11.580658,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Asia Food",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299811684,
+      "lat": 50.9282592,
+      "lon": 11.5832754,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299811828,
+      "lat": 50.9281417,
+      "lon": 11.5832445,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "sushi;chinese",
+        "name": "WokMan",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418991436,
+      "lat": 50.9205546,
+      "lon": 11.5916583,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "07749",
+        "addr:street": "Wöllnitzer Straße",
+        "amenity": "fast_food",
+        "contact:phone": "03641/63 54 20",
+        "contact:website": "http://www.joeys.de",
+        "cuisine": "pizza",
+        "name": "Joey's Pizzaservice",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "Joey's Pizzaservice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 459796012,
+      "lat": 50.9308863,
+      "lon": 11.5799163,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "fast_food",
+        "name": "Somart",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 498114715,
+      "lat": 50.9292251,
+      "lon": 11.5859067,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisstraße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "drink:club-mate": "retail",
+        "name": "Saray Döner",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621213182,
+      "lat": 50.9294676,
+      "lon": 11.5828245,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:street": "Bachstraße",
+        "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/pages/Azad-Grill-Jena/157560890947197",
+        "cuisine": "kebab",
+        "drink:club-mate": "yes",
+        "name": "Azad Grill Jena",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621213252,
+      "lat": 50.9267388,
+      "lon": 11.5800701,
+      "tags": {
+        "addr:housenumber": "3a",
+        "addr:postcode": "07743",
+        "addr:street": "Lutherstraße",
+        "amenity": "fast_food",
+        "contact:website": "http://www.bistro-alibaba.de/",
+        "cuisine": "kebab",
+        "name": "Alibaba",
+        "source": "http://www.bistro-alibaba.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621214119,
+      "lat": 50.9286043,
+      "lon": 11.5845825,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Chinese",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621214865,
+      "lat": 50.9292493,
+      "lon": 11.5840437,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Agrargenossenschaft Bucha eG",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621215786,
+      "lat": 50.9278946,
+      "lon": 11.5812681,
+      "tags": {
+        "amenity": "fast_food",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624286397,
+      "lat": 50.9277422,
+      "lon": 11.5876441,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Nordsee",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626492495,
+      "lat": 50.9196841,
+      "lon": 11.5701008,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Side Döner",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626494759,
+      "lat": 50.9207182,
+      "lon": 11.570578,
+      "tags": {
+        "amenity": "fast_food",
+        "contact:website": "http://www.puhlfuerss.de",
+        "cuisine": "regional",
+        "name": "Puhlfürß"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626806105,
+      "lat": 50.931326,
+      "lon": 11.5781154,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Schlemmereck",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 627763541,
+      "lat": 50.9294454,
+      "lon": 11.5790183,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 634380622,
+      "lat": 50.936214,
+      "lon": 11.5926596,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Thüringen Grill",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 634382567,
+      "lat": 50.9309661,
+      "lon": 11.5895362,
+      "tags": {
+        "amenity": "fast_food",
+        "building:level": "0",
+        "contact:website": "http://www.dasbistro-jena.de/",
+        "name": "Das Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 635050699,
+      "lat": 50.9145054,
+      "lon": 11.5871733,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 959157482,
+      "lat": 50.9262783,
+      "lon": 11.5842366,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "name": "Dürüm Kebap Haus",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1388507276,
+      "lat": 50.9274786,
+      "lon": 11.5871123,
+      "tags": {
+        "addr:postcode": "07743",
+        "addr:street": "Ludwig-Weimar-Gasse",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Döner",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449530226,
+      "lat": 50.932308,
+      "lon": 11.5722417,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Joes Pizza",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449530863,
+      "lat": 50.9318077,
+      "lon": 11.572247,
+      "tags": {
+        "addr:postcode": "07743",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Hallo Pizza",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2077522358,
+      "lat": 50.9220245,
+      "lon": 11.57256,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:postcode": "07745",
+        "addr:street": "Schleidenstraße",
+        "amenity": "fast_food",
+        "contact:phone": "+49 3641 292810",
+        "cuisine": "asian",
+        "name": "Hoang's Asia",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa off; Su 11:00-21:00",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2097251783,
+      "lat": 50.928574,
+      "lon": 11.5910565,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "07743",
+        "addr:street": "Steinweg",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "drink:club-mate": "retail",
+        "name": "\"Orient\" Döner-Kebap-Pizza-Nudel-Haus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2099429555,
+      "lat": 50.9386164,
+      "lon": 11.5893828,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "City Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550554735,
+      "lat": 50.9294474,
+      "lon": 11.6002614,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "name": "Dersimo",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144583,
+      "lat": 50.958735,
+      "lon": 11.5098241,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2789498903,
+      "lat": 50.9262835,
+      "lon": 11.5837175,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Grillteufel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2789498904,
+      "lat": 50.9277476,
+      "lon": 11.5832267,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "Grillteufel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916235177,
+      "lat": 50.8794272,
+      "lon": 11.6346771,
+      "tags": {
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237199095,
+      "nodes": [
+        2451441641,
+        2451441635,
+        2451441628,
+        2451441629,
+        2451441633,
+        2451441639,
+        2451441641
+      ],
+      "tags": {
+        "addr:city": "Jena-Lobeda",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Amsterdamer Straße",
+        "amenity": "fast_food",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "mc_cafe": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Sa,Su 00:00-02:00;Mo-Su 07:00-24:00",
+        "operator": "McDonald's",
+        "roof:shape": "flat",
+        "smoking": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247013950,
+      "nodes": [
+        2539596348,
+        2539596341,
+        2539596340,
+        2539596347,
+        2539596348
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "fast_food",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:facebook": "https://www.facebook.com/FritzMitte",
+        "cuisine": "friture",
+        "name": "Fritz Mitte",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247101924,
+      "nodes": [
+        2540395752,
+        2540395755,
+        2540395759,
+        2540395757,
+        2540395752
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "kebab"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266252125,
+      "nodes": [
+        2718240598,
+        2718240596,
+        2718240597,
+        2718240599,
+        2718240598
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "friture",
+        "name": "Schlemmer-Treff",
+        "opening_hours": "8:00-18:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310453673,
+      "nodes": [
+        3158761966,
+        3158761961,
+        3158761960,
+        3158761963,
+        3158761966
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Asien Imbiss"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2718240596,
+      "lat": 50.8840161,
+      "lon": 11.5943815
+    },
+    {
+      "type": "node",
+      "id": 2718240597,
+      "lat": 50.8840218,
+      "lon": 11.5944698
+    },
+    {
+      "type": "node",
+      "id": 2718240598,
+      "lat": 50.8840559,
+      "lon": 11.5943751
+    },
+    {
+      "type": "node",
+      "id": 2718240599,
+      "lat": 50.8840616,
+      "lon": 11.5944633
+    },
+    {
+      "type": "node",
+      "id": 2540395752,
+      "lat": 50.8846641,
+      "lon": 11.6079752
+    },
+    {
+      "type": "node",
+      "id": 2540395755,
+      "lat": 50.8846835,
+      "lon": 11.6079524
+    },
+    {
+      "type": "node",
+      "id": 2540395757,
+      "lat": 50.8846974,
+      "lon": 11.6080466
+    },
+    {
+      "type": "node",
+      "id": 2540395759,
+      "lat": 50.8847168,
+      "lon": 11.6080238
+    },
+    {
+      "type": "node",
+      "id": 2451441628,
+      "lat": 50.8774704,
+      "lon": 11.6207264
+    },
+    {
+      "type": "node",
+      "id": 2451441629,
+      "lat": 50.8774804,
+      "lon": 11.6207
+    },
+    {
+      "type": "node",
+      "id": 2451441633,
+      "lat": 50.8775594,
+      "lon": 11.6204932
+    },
+    {
+      "type": "node",
+      "id": 2451441635,
+      "lat": 50.8777341,
+      "lon": 11.6209794
+    },
+    {
+      "type": "node",
+      "id": 2451441639,
+      "lat": 50.8778016,
+      "lon": 11.6207256
+    },
+    {
+      "type": "node",
+      "id": 2451441641,
+      "lat": 50.8778231,
+      "lon": 11.6207463
+    },
+    {
+      "type": "node",
+      "id": 2539596340,
+      "lat": 50.9296016,
+      "lon": 11.5828273
+    },
+    {
+      "type": "node",
+      "id": 2539596341,
+      "lat": 50.9296051,
+      "lon": 11.5827529
+    },
+    {
+      "type": "node",
+      "id": 2539596347,
+      "lat": 50.9296476,
+      "lon": 11.5828328
+    },
+    {
+      "type": "node",
+      "id": 2539596348,
+      "lat": 50.9296511,
+      "lon": 11.5827584
+    },
+    {
+      "type": "node",
+      "id": 3158761960,
+      "lat": 50.9252747,
+      "lon": 11.5844777
+    },
+    {
+      "type": "node",
+      "id": 3158761961,
+      "lat": 50.9253008,
+      "lon": 11.5843455
+    },
+    {
+      "type": "node",
+      "id": 3158761963,
+      "lat": 50.9253232,
+      "lon": 11.5845019
+    },
+    {
+      "type": "node",
+      "id": 3158761966,
+      "lat": 50.9253494,
+      "lon": 11.5843697
+    }
+  ]
+}

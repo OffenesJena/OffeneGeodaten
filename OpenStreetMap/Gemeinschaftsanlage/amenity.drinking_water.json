@@ -1,0 +1,32 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 270492155,
+      "lat": 50.9067623,
+      "lon": 11.6335821,
+      "tags": {
+        "amenity": "drinking_water",
+        "name": "Fürstenbrunnen",
+        "natural": "spring",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1673179196,
+      "lat": 50.9416274,
+      "lon": 11.6155984,
+      "tags": {
+        "amenity": "drinking_water"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 620090298,
+      "lat": 50.9233501,
+      "lon": 11.5532151,
+      "tags": {
+        "access": "public",
+        "amenity": "observatory",
+        "landuse": "observatory",
+        "man_made": "telescope",
+        "name": "Forststernwarte",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192073170,
+      "nodes": [
+        2026295587,
+        2026295583,
+        2026295584,
+        2026295577,
+        2026295580,
+        2026295581,
+        2026295582,
+        2026295578,
+        2026295579,
+        2026295592,
+        2026295591,
+        2026295588,
+        2026295586,
+        2026295594,
+        2026295593,
+        2026295589,
+        2026295587
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2-3",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "observatory",
+        "building": "yes",
+        "contact:website": "http://www.astro.uni-jena.de/",
+        "man_made": "telescope",
+        "name": "Astrophysikalisches Institut und Universitäts-Sternwarte Jena",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref": "AIU",
+        "telescope:type": "optical",
+        "wikipedia:de": "Astrophysikalisches Institut und Universitäts-Sternwarte Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192073177,
+      "nodes": [
+        2026295576,
+        2026295574,
+        2026295573,
+        2026295575,
+        2026295576
+      ],
+      "tags": {
+        "access": "public",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "observatory",
+        "building": "yes",
+        "contact:phone": "03641-587785",
+        "contact:website": "http://www.urania-sternwarte.de",
+        "description": "Volkssternwarte Urania",
+        "man_made": "telescope",
+        "name": "Volkssternwarte Urania",
+        "telescope:type": "optical",
+        "tourism": "attraction",
+        "wikidata": "Q2532219",
+        "wikipedia": "de:Volkssternwarte Urania Jena",
+        "wikipedia:de": "Volkssternwarte Urania Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026295573,
+      "lat": 50.9249579,
+      "lon": 11.5828588
+    },
+    {
+      "type": "node",
+      "id": 2026295574,
+      "lat": 50.9249962,
+      "lon": 11.5827928
+    },
+    {
+      "type": "node",
+      "id": 2026295575,
+      "lat": 50.9250033,
+      "lon": 11.5829253
+    },
+    {
+      "type": "node",
+      "id": 2026295576,
+      "lat": 50.9250417,
+      "lon": 11.5828593
+    },
+    {
+      "type": "node",
+      "id": 2026295577,
+      "lat": 50.9252184,
+      "lon": 11.5827309
+    },
+    {
+      "type": "node",
+      "id": 2026295578,
+      "lat": 50.9252188,
+      "lon": 11.5829287
+    },
+    {
+      "type": "node",
+      "id": 2026295579,
+      "lat": 50.9252188,
+      "lon": 11.5830489
+    },
+    {
+      "type": "node",
+      "id": 2026295580,
+      "lat": 50.9252196,
+      "lon": 11.5828333
+    },
+    {
+      "type": "node",
+      "id": 2026295581,
+      "lat": 50.9252356,
+      "lon": 11.5828575
+    },
+    {
+      "type": "node",
+      "id": 2026295582,
+      "lat": 50.9252364,
+      "lon": 11.5829262
+    },
+    {
+      "type": "node",
+      "id": 2026295583,
+      "lat": 50.9252396,
+      "lon": 11.5826361
+    },
+    {
+      "type": "node",
+      "id": 2026295584,
+      "lat": 50.9252404,
+      "lon": 11.5826921
+    },
+    {
+      "type": "node",
+      "id": 2026295586,
+      "lat": 50.9252906,
+      "lon": 11.5828447
+    },
+    {
+      "type": "node",
+      "id": 2026295587,
+      "lat": 50.9252926,
+      "lon": 11.5826393
+    },
+    {
+      "type": "node",
+      "id": 2026295588,
+      "lat": 50.9252938,
+      "lon": 11.5829217
+    },
+    {
+      "type": "node",
+      "id": 2026295589,
+      "lat": 50.9252954,
+      "lon": 11.5826965
+    },
+    {
+      "type": "node",
+      "id": 2026295591,
+      "lat": 50.9253118,
+      "lon": 11.5829211
+    },
+    {
+      "type": "node",
+      "id": 2026295592,
+      "lat": 50.9253118,
+      "lon": 11.5830388
+    },
+    {
+      "type": "node",
+      "id": 2026295593,
+      "lat": 50.925313,
+      "lon": 11.5827296
+    },
+    {
+      "type": "node",
+      "id": 2026295594,
+      "lat": 50.925313,
+      "lon": 11.5828276
+    }
+  ]
+}

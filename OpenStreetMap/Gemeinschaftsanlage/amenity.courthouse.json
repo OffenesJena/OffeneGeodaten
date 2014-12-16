@@ -1,0 +1,134 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2457956533,
+      "lat": 50.9251453,
+      "lon": 11.5860268,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Mathilde-Vaerting-Straße",
+        "amenity": "courthouse",
+        "name": "Rechtsanwalt Herbert Beck",
+        "wheelchair": "no",
+        "wheelchair:description": "zu viele Stufen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35842352,
+      "nodes": [
+        419071511,
+        419071513,
+        419071516,
+        419071519,
+        419071520,
+        419071522,
+        419071523,
+        419071525,
+        419071527,
+        419071528,
+        419071530,
+        419071532,
+        419071511
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Justizzentrum",
+        "addr:housenumber": "13",
+        "addr:postcode": "07745",
+        "addr:street": "Rathenaustraße",
+        "amenity": "courthouse",
+        "building": "yes",
+        "contact:phone": "+45 3641 307 0",
+        "name": "Justizzentrum",
+        "source": "knowledge",
+        "wikidata": "Q1270681",
+        "wikipedia": "de:Thüringer Oberlandesgericht",
+        "wikipedia:de": "Thüringer Oberlandesgericht"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419071511,
+      "lat": 50.9221621,
+      "lon": 11.5792465
+    },
+    {
+      "type": "node",
+      "id": 419071513,
+      "lat": 50.9221547,
+      "lon": 11.5795993
+    },
+    {
+      "type": "node",
+      "id": 419071516,
+      "lat": 50.9225646,
+      "lon": 11.5796208
+    },
+    {
+      "type": "node",
+      "id": 419071519,
+      "lat": 50.922578,
+      "lon": 11.5789796
+    },
+    {
+      "type": "node",
+      "id": 419071520,
+      "lat": 50.9221693,
+      "lon": 11.5789582
+    },
+    {
+      "type": "node",
+      "id": 419071522,
+      "lat": 50.9221668,
+      "lon": 11.5790769
+    },
+    {
+      "type": "node",
+      "id": 419071523,
+      "lat": 50.9220456,
+      "lon": 11.5790706
+    },
+    {
+      "type": "node",
+      "id": 419071525,
+      "lat": 50.9220528,
+      "lon": 11.5787277
+    },
+    {
+      "type": "node",
+      "id": 419071527,
+      "lat": 50.9216505,
+      "lon": 11.5787066
+    },
+    {
+      "type": "node",
+      "id": 419071528,
+      "lat": 50.9216373,
+      "lon": 11.5793365
+    },
+    {
+      "type": "node",
+      "id": 419071530,
+      "lat": 50.9220366,
+      "lon": 11.5793574
+    },
+    {
+      "type": "node",
+      "id": 419071532,
+      "lat": 50.922039,
+      "lon": 11.5792401
+    }
+  ]
+}

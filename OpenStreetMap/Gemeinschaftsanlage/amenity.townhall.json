@@ -1,0 +1,138 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 27532878,
+      "nodes": [
+        302269456,
+        302269457,
+        2444305549,
+        1738363339,
+        302269458,
+        2604601128,
+        2604601136,
+        2444305508,
+        302269456
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Unterm Markt",
+        "amenity": "townhall",
+        "building": "yes",
+        "historic": "yes",
+        "name": "Rathaus"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258779049,
+      "nodes": [
+        2641024319,
+        2641024317,
+        2641024318,
+        2641024320,
+        2641024321,
+        2641024319
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07747",
+        "addr:street": "Rathausplatz",
+        "addr:suburb": "Lobeda",
+        "amenity": "townhall",
+        "building": "yes",
+        "image": "http://commons.wikimedia.org/wiki/File:Rathaus_Lobeda.JPG",
+        "name": "Rathaus Lobeda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2641024317,
+      "lat": 50.8926511,
+      "lon": 11.6072322
+    },
+    {
+      "type": "node",
+      "id": 2641024318,
+      "lat": 50.8926386,
+      "lon": 11.6071047
+    },
+    {
+      "type": "node",
+      "id": 2641024319,
+      "lat": 50.8926685,
+      "lon": 11.6074099
+    },
+    {
+      "type": "node",
+      "id": 2641024320,
+      "lat": 50.8925615,
+      "lon": 11.6071237
+    },
+    {
+      "type": "node",
+      "id": 2641024321,
+      "lat": 50.8925914,
+      "lon": 11.6074289
+    },
+    {
+      "type": "node",
+      "id": 302269456,
+      "lat": 50.928052,
+      "lon": 11.587598
+    },
+    {
+      "type": "node",
+      "id": 302269457,
+      "lat": 50.9281164,
+      "lon": 11.5870995
+    },
+    {
+      "type": "node",
+      "id": 302269458,
+      "lat": 50.9278844,
+      "lon": 11.5870225
+    },
+    {
+      "type": "node",
+      "id": 1738363339,
+      "lat": 50.9279023,
+      "lon": 11.5870285
+    },
+    {
+      "type": "node",
+      "id": 2444305508,
+      "lat": 50.9279282,
+      "lon": 11.5875538
+    },
+    {
+      "type": "node",
+      "id": 2444305549,
+      "lat": 50.9279966,
+      "lon": 11.5870598
+    },
+    {
+      "type": "node",
+      "id": 2604601128,
+      "lat": 50.9278104,
+      "lon": 11.5875167
+    },
+    {
+      "type": "node",
+      "id": 2604601136,
+      "lat": 50.9278317,
+      "lon": 11.5875224
+    }
+  ]
+}

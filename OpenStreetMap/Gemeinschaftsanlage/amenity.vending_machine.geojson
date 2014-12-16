@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:57.160Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/301986013",
+      "properties": {
+        "@id": "node/301986013",
+        "amenity": "vending_machine",
+        "created_by": "Merkaartor 0.11",
+        "operator": "JeNah",
+        "payment:coins": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5830499,
+          50.8947878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/301986014",
+      "properties": {
+        "@id": "node/301986014",
+        "amenity": "vending_machine",
+        "operator": "JeNah",
+        "payment:coins": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5788093,
+          50.899918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/509285162",
+      "properties": {
+        "@id": "node/509285162",
+        "amenity": "vending_machine",
+        "man_made": "surveillance",
+        "vending": "parking_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6218446,
+          50.8847338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1076850483",
+      "properties": {
+        "@id": "node/1076850483",
+        "amenity": "vending_machine",
+        "level": "0",
+        "operator": "DB Netz AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5873861,
+          50.9249617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1076850512",
+      "properties": {
+        "@id": "node/1076850512",
+        "amenity": "vending_machine",
+        "level": "0",
+        "operator": "DB Netz AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875234,
+          50.9248585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1651873290",
+      "properties": {
+        "@id": "node/1651873290",
+        "amenity": "vending_machine",
+        "level": "-1",
+        "operator": "Deutsche Bahn AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5779836,
+          50.9236095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1831117067",
+      "properties": {
+        "@id": "node/1831117067",
+        "amenity": "vending_machine",
+        "operator": "Deutsche Bahn",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933709,
+          50.9367638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2446118336",
+      "properties": {
+        "@id": "node/2446118336",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5777244,
+          50.9233117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2446118337",
+      "properties": {
+        "@id": "node/2446118337",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "payment:coins": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5780304,
+          50.923251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2446118338",
+      "properties": {
+        "@id": "node/2446118338",
+        "amenity": "vending_machine",
+        "information": "terminal",
+        "operator": "Deutsche Bahn AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5780314,
+          50.9232312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2446118341",
+      "properties": {
+        "@id": "node/2446118341",
+        "amenity": "vending_machine",
+        "level": "-1",
+        "operator": "Deutsche Bahn AG",
+        "payment:account_cards": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.577982,
+          50.9234545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2540120143",
+      "properties": {
+        "@id": "node/2540120143",
+        "amenity": "vending_machine",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5907736,
+          50.9294156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550554841",
+      "properties": {
+        "@id": "node/2550554841",
+        "amenity": "vending_machine",
+        "payment:coins": "yes",
+        "vending": "bicycle_tube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6012445,
+          50.9299046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2561103186",
+      "properties": {
+        "@id": "node/2561103186",
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5840115,
+          50.9261194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598867601",
+      "properties": {
+        "@id": "node/2598867601",
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588232,
+          50.9262393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2612991790",
+      "properties": {
+        "@id": "node/2612991790",
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889664,
+          50.9294711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2627876621",
+      "properties": {
+        "@id": "node/2627876621",
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.583335,
+          50.9240325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2627876627",
+      "properties": {
+        "@id": "node/2627876627",
+        "amenity": "vending_machine",
+        "vending": "parking_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58286,
+          50.9242383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641554627",
+      "properties": {
+        "@id": "node/2641554627",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Toll Collect GmbH",
+        "vending": "toll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6218414,
+          50.8773288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641554634",
+      "properties": {
+        "@id": "node/2641554634",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Toll Collect GmbH",
+        "vending": "toll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5976489,
+          50.9424367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2995616251",
+      "properties": {
+        "@id": "node/2995616251",
+        "amenity": "vending_machine",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5878851,
+          50.9268495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2995616252",
+      "properties": {
+        "@id": "node/2995616252",
+        "amenity": "vending_machine",
+        "operator": "Jenaer Nahverkehrsgesellschaft mbH",
+        "payment:coins": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5859706,
+          50.9270553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2998887840",
+      "properties": {
+        "@id": "node/2998887840",
+        "amenity": "vending_machine",
+        "vending": "excrement_bags"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6125172,
+          50.8892282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3113690438",
+      "properties": {
+        "@id": "node/3113690438",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "operator": "Deutsche Bahn AG",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5934141,
+          50.8836262
+        ]
+      }
+    }
+  ]
+}

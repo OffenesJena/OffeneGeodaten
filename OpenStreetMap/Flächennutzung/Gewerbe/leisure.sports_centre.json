@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
-    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "timestamp_osm_base": "2014-12-16T09:48:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -101,6 +101,22 @@
         "leisure": "sports_centre",
         "name": "Mammut Ladies",
         "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3236744085,
+      "lat": 50.9313683,
+      "lon": 11.6261441,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Fuchslöcherstraße",
+        "leisure": "sports_centre",
+        "name": "Kampfsportschule Jena",
+        "sport": "Jiu_Jitsu",
+        "website": "http://www.kampfsportschule-jena.de"
       }
     },
     {

@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-04T01:43:02.000Z",
-    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "timestamp_osm_base": "2014-12-16T09:45:01.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6433,6 +6433,78 @@
       "id": 3218223953,
       "lat": 50.9594684,
       "lon": 11.5535301,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124099,
+      "lat": 50.9300273,
+      "lon": 11.6297714,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124101,
+      "lat": 50.9300289,
+      "lon": 11.6299408,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124126,
+      "lat": 50.9300631,
+      "lon": 11.6322774,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124127,
+      "lat": 50.9300647,
+      "lon": 11.6324468,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124317,
+      "lat": 50.9306232,
+      "lon": 11.6324184,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124318,
+      "lat": 50.9306248,
+      "lon": 11.6325878,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124453,
+      "lat": 50.9312278,
+      "lon": 11.6327686,
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3220124458,
+      "lat": 50.9312371,
+      "lon": 11.6325957,
       "tags": {
         "natural": "tree"
       }

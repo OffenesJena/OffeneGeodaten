@@ -1,0 +1,1081 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:20.151Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/262680186",
+      "properties": {
+        "@id": "node/262680186",
+        "amenity": "pub",
+        "name": "Gartenlokal \"Am Birnstiel\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5637002,
+          50.9245736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292143673",
+      "properties": {
+        "@id": "node/292143673",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07749",
+        "addr:street": "Petersenplatz",
+        "amenity": "pub",
+        "name": "Kernbergschänke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.590898,
+          50.9233689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299805139",
+      "properties": {
+        "@id": "node/299805139",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "07743",
+        "addr:street": "Bachstraße",
+        "amenity": "pub",
+        "contact:website": "http://www.irishpub-jena.de",
+        "name": "Fiddlers Green - Irish Pub",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5824382,
+          50.9296406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299805365",
+      "properties": {
+        "@id": "node/299805365",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "pub",
+        "contact:website": "http://www.cheers-jena.de",
+        "cuisine": "american",
+        "name": "Cheers American Sports Bar and Grill",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5831944,
+          50.9294372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299805529",
+      "properties": {
+        "@id": "node/299805529",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "contact:website": "http://www.hurvinek-jena.de",
+        "name": "Hurvinek",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5812653,
+          50.9302599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299808276",
+      "properties": {
+        "@id": "node/299808276",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "cuisine": "spanish",
+        "name": "Picassos Tapas Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5810165,
+          50.9303681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299811460",
+      "properties": {
+        "@id": "node/299811460",
+        "amenity": "pub",
+        "name": "B52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5810324,
+          50.9277607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300651230",
+      "properties": {
+        "@id": "node/300651230",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "contact:website": "http://www.diekneipe-jena.de",
+        "name": "Die Kneipe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5816601,
+          50.930103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300653226",
+      "properties": {
+        "@id": "node/300653226",
+        "amenity": "pub",
+        "name": "Das Fass",
+        "smoking": "separated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5817888,
+          50.9300489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302215433",
+      "properties": {
+        "@id": "node/302215433",
+        "amenity": "pub",
+        "contact:phone": "+49 3641 615468",
+        "contact:website": "http://www.waldschloesschen-jena.de/",
+        "name": "Waldschlößchen",
+        "note": "seit Juli 2011 geschlossen!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5579318,
+          50.9183001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320143042",
+      "properties": {
+        "@id": "node/320143042",
+        "amenity": "pub",
+        "name": "Gasthof zum Rautal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731896,
+          50.9597987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/391497613",
+      "properties": {
+        "@id": "node/391497613",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Quergasse",
+        "amenity": "pub",
+        "contact:email": "info@quere.de",
+        "contact:phone": "03641 447411",
+        "contact:website": "http://www.quere.de",
+        "drink:club-mate": "served",
+        "name": "Quergasse No. 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5801391,
+          50.9298426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412818103",
+      "properties": {
+        "@id": "node/412818103",
+        "amenity": "pub",
+        "contact:website": "http://www.havanaclubbar.de/",
+        "is_in": "F-Haus",
+        "name": "Havana Club Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582204,
+          50.9293193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/420478516",
+      "properties": {
+        "@id": "node/420478516",
+        "addr:city": "Jena",
+        "addr:housename": "STC - Schmiede e.V.",
+        "addr:housenumber": "5",
+        "addr:postcode": "07747",
+        "addr:street": "Emil-Wölk-Straße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "pub",
+        "biergarten": "yes",
+        "name": "Schmiede",
+        "wheelchair": "limited",
+        "wheelchair:description": "Vor der Gaststätte ist ein Biergarten, der ebenerdig erreichbar ist."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6155178,
+          50.8823315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469735780",
+      "properties": {
+        "@id": "node/469735780",
+        "amenity": "pub",
+        "name": "Joker",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5741782,
+          50.8980059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/470368174",
+      "properties": {
+        "@id": "node/470368174",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "St.-Jakob-Straße",
+        "amenity": "pub",
+        "name": "Sophienstüb'l",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888714,
+          50.9338824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/514966285",
+      "properties": {
+        "@id": "node/514966285",
+        "amenity": "pub",
+        "name": "Papperla Pub",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5770597,
+          50.9241513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528050506",
+      "properties": {
+        "@id": "node/528050506",
+        "amenity": "pub",
+        "name": "Kastanie",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574652,
+          50.9226263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621212992",
+      "properties": {
+        "@id": "node/621212992",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "pub",
+        "name": "Kellerbar zum Tontopf",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5831415,
+          50.9297289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621215120",
+      "properties": {
+        "@id": "node/621215120",
+        "addr:city": "Jena",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Holzmarkt",
+        "amenity": "pub",
+        "contact:phone": "+49 3641 823641",
+        "name": "Jensche Gilde",
+        "wheelchair": "limited",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5847971,
+          50.9266601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/624271629",
+      "properties": {
+        "@id": "node/624271629",
+        "amenity": "pub",
+        "name": "Zur Leutraquelle",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5717252,
+          50.9314541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/624272632",
+      "properties": {
+        "@id": "node/624272632",
+        "amenity": "pub",
+        "name": "Zapata",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5747216,
+          50.9299968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/624321604",
+      "properties": {
+        "@id": "node/624321604",
+        "amenity": "pub",
+        "name": "Stefan's Weinstube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5907059,
+          50.9278281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638453943",
+      "properties": {
+        "@id": "node/638453943",
+        "amenity": "pub",
+        "contact:website": "http://www.flower-power.de",
+        "drink:club-mate": "yes",
+        "name": "Flowerpower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883953,
+          50.9284626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/805057388",
+      "properties": {
+        "@id": "node/805057388",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "pub",
+        "contact:phone": "+49 (0) 3641 445505",
+        "name": "Alster",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5820479,
+          50.9293418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/805057394",
+      "properties": {
+        "@id": "node/805057394",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "pub",
+        "contact:phone": "+49 (0) 3641 597466",
+        "name": "Rocket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5817994,
+          50.9293814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/937607915",
+      "properties": {
+        "@id": "node/937607915",
+        "amenity": "pub",
+        "food": "yes",
+        "layer": "1",
+        "name": "Marktmühle",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884644,
+          50.9286117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1632715613",
+      "properties": {
+        "@id": "node/1632715613",
+        "amenity": "pub",
+        "name": "Kiek in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5907148,
+          50.8855701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550554732",
+      "properties": {
+        "@id": "node/2550554732",
+        "amenity": "pub",
+        "contact:website": "http://www.besie-jena.de/",
+        "name": "BeSie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6029429,
+          50.9307188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48959593",
+      "properties": {
+        "@id": "way/48959593",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:fax": "03641/472153",
+        "contact:phone": "03641/472153",
+        "drink:club-mate": "served",
+        "name": "Café Wagner",
+        "url": "http://www.wagnerverein-jena.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5801432,
+              50.931172
+            ],
+            [
+              11.5803041,
+              50.9311078
+            ],
+            [
+              11.5804114,
+              50.931216
+            ],
+            [
+              11.5802451,
+              50.9312802
+            ],
+            [
+              11.5801432,
+              50.931172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111978462",
+      "properties": {
+        "@id": "way/111978462",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07745",
+        "addr:street": "Göschwitzer Straße",
+        "addr:suburb": "Burgau",
+        "amenity": "pub",
+        "biergarten": "yes",
+        "building": "yes",
+        "contact:website": "http://www.am-wehr.de/",
+        "cuisine": "regional",
+        "food": "yes",
+        "name": "Am Wehr"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5976674,
+              50.8954783
+            ],
+            [
+              11.5976899,
+              50.8954344
+            ],
+            [
+              11.5974439,
+              50.8953842
+            ],
+            [
+              11.5974213,
+              50.8954281
+            ],
+            [
+              11.5976674,
+              50.8954783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156118785",
+      "properties": {
+        "@id": "way/156118785",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:street": "Wenigenjenaer Ufer",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:fax": "03641/890050",
+        "contact:phone": "03641/445572",
+        "contact:website": "http://www.adria-grill-jena.de",
+        "name": "Adria-Grill",
+        "tourism": "guest_house",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5963743,
+              50.9332415
+            ],
+            [
+              11.5965215,
+              50.9332057
+            ],
+            [
+              11.5965034,
+              50.9331667
+            ],
+            [
+              11.5965181,
+              50.933164
+            ],
+            [
+              11.5965086,
+              50.9331437
+            ],
+            [
+              11.5965258,
+              50.9331405
+            ],
+            [
+              11.5965138,
+              50.9331147
+            ],
+            [
+              11.5964841,
+              50.9331203
+            ],
+            [
+              11.5964625,
+              50.9330641
+            ],
+            [
+              11.5963064,
+              50.9330916
+            ],
+            [
+              11.5963743,
+              50.9332415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162853871",
+      "properties": {
+        "@id": "way/162853871",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "07749",
+        "addr:street": "Drevesstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bierstube Kernberge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5928973,
+              50.9213568
+            ],
+            [
+              11.5930522,
+              50.9213597
+            ],
+            [
+              11.5930562,
+              50.9212749
+            ],
+            [
+              11.5929012,
+              50.921272
+            ],
+            [
+              11.5928973,
+              50.9213568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192995394",
+      "properties": {
+        "@id": "way/192995394",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:website": "http://www.gruenowski.de/",
+        "drink:club-mate": "retail",
+        "food": "yes",
+        "name": "Grünowski",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5826403,
+              50.9245496
+            ],
+            [
+              11.5828549,
+              50.9245216
+            ],
+            [
+              11.5828206,
+              50.9244175
+            ],
+            [
+              11.5826061,
+              50.9244455
+            ],
+            [
+              11.5826403,
+              50.9245496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192995401",
+      "properties": {
+        "@id": "way/192995401",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:website": "http://www.the-ater-cafe.de/",
+        "drink:club-mate": "yes",
+        "food": "yes",
+        "name": "Theatercafé",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5832993,
+              50.9253419
+            ],
+            [
+              11.5835273,
+              50.9253126
+            ],
+            [
+              11.5834853,
+              50.9251824
+            ],
+            [
+              11.5832572,
+              50.9252117
+            ],
+            [
+              11.5832993,
+              50.9253419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246337491",
+      "properties": {
+        "@id": "way/246337491",
+        "amenity": "pub",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6346747,
+              50.8794539
+            ],
+            [
+              11.6346445,
+              50.8793705
+            ],
+            [
+              11.6349249,
+              50.87933
+            ],
+            [
+              11.6349406,
+              50.8793732
+            ],
+            [
+              11.6349813,
+              50.8793673
+            ],
+            [
+              11.6349986,
+              50.8794149
+            ],
+            [
+              11.6349109,
+              50.8794276
+            ],
+            [
+              11.6349082,
+              50.8794201
+            ],
+            [
+              11.6346747,
+              50.8794539
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247013947",
+      "properties": {
+        "@id": "way/247013947",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "07743",
+        "addr:street": "Jenergasse",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:phone": "03641 447313",
+        "contact:website": "http://www.cafe-immergruen-jena.de/",
+        "food": "yes",
+        "name": "Café Immergrün",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5853733,
+              50.9297605
+            ],
+            [
+              11.5855239,
+              50.929744
+            ],
+            [
+              11.5854795,
+              50.9295829
+            ],
+            [
+              11.5854089,
+              50.9295906
+            ],
+            [
+              11.5854234,
+              50.9296433
+            ],
+            [
+              11.5853435,
+              50.929652
+            ],
+            [
+              11.5853733,
+              50.9297605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295549316",
+      "properties": {
+        "@id": "way/295549316",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07747",
+        "addr:street": "Alte Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Erika's Getränkeshop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6089609,
+              50.8892836
+            ],
+            [
+              11.6089901,
+              50.8891885
+            ],
+            [
+              11.609128,
+              50.8892053
+            ],
+            [
+              11.6091152,
+              50.8892471
+            ],
+            [
+              11.6090682,
+              50.8892412
+            ],
+            [
+              11.6090551,
+              50.8892825
+            ],
+            [
+              11.6090517,
+              50.8892947
+            ],
+            [
+              11.6089609,
+              50.8892836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310864227",
+      "properties": {
+        "@id": "way/310864227",
+        "amenity": "pub",
+        "beer_garden": "yes",
+        "building": "yes",
+        "name": "Spartenheim Rautal",
+        "operator": "Kleingartenverein Rautal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5992434,
+              50.9537385
+            ],
+            [
+              11.5990835,
+              50.9538173
+            ],
+            [
+              11.5992186,
+              50.9539261
+            ],
+            [
+              11.5993784,
+              50.9538473
+            ],
+            [
+              11.5992434,
+              50.9537385
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

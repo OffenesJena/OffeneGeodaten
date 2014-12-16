@@ -1,0 +1,169 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 197459833,
+      "nodes": [
+        2076996950,
+        2076996947,
+        2076996944,
+        2076996942,
+        2076996941,
+        2076996943,
+        2076996945,
+        2076996946,
+        2076996939,
+        2076996940,
+        2076996954,
+        2076996955,
+        2076996957,
+        2076996956,
+        2076996953,
+        2076996952,
+        2076996951,
+        2076996948,
+        2076996949,
+        2076996950
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Am Planetarium",
+        "amenity": "planetarium",
+        "building": "yes",
+        "contact:email": "order@planetarium-jena.de",
+        "contact:facebook": "https://www.facebook.com/planetariumjena",
+        "contact:fax": "+49 3641 885420",
+        "contact:phone": "+49 3641 885488",
+        "contact:website": "http://www.planetarium-jena.de/",
+        "name": "Zeiss-Planetarium",
+        "wikidata": "Q320440",
+        "wikipedia": "de:Planetarium Jena",
+        "wikipedia:de": "Planetarium Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2076996939,
+      "lat": 50.9316863,
+      "lon": 11.5866153
+    },
+    {
+      "type": "node",
+      "id": 2076996940,
+      "lat": 50.9316892,
+      "lon": 11.5864374
+    },
+    {
+      "type": "node",
+      "id": 2076996943,
+      "lat": 50.9317594,
+      "lon": 11.5867288
+    },
+    {
+      "type": "node",
+      "id": 2076996945,
+      "lat": 50.9318603,
+      "lon": 11.5867157
+    },
+    {
+      "type": "node",
+      "id": 2076996946,
+      "lat": 50.9318618,
+      "lon": 11.5866227
+    },
+    {
+      "type": "node",
+      "id": 2076996948,
+      "lat": 50.9318903,
+      "lon": 11.5867561
+    },
+    {
+      "type": "node",
+      "id": 2076996951,
+      "lat": 50.9319459,
+      "lon": 11.5866263
+    },
+    {
+      "type": "node",
+      "id": 2076996952,
+      "lat": 50.9319671,
+      "lon": 11.5866272
+    },
+    {
+      "type": "node",
+      "id": 2076996953,
+      "lat": 50.9319683,
+      "lon": 11.5865545
+    },
+    {
+      "type": "node",
+      "id": 2076996954,
+      "lat": 50.9319724,
+      "lon": 11.5864494
+    },
+    {
+      "type": "node",
+      "id": 2076996955,
+      "lat": 50.9319739,
+      "lon": 11.5863572
+    },
+    {
+      "type": "node",
+      "id": 2076996956,
+      "lat": 50.9320243,
+      "lon": 11.5865568
+    },
+    {
+      "type": "node",
+      "id": 2076996957,
+      "lat": 50.9320276,
+      "lon": 11.5863594
+    },
+    {
+      "type": "node",
+      "id": 2076996941,
+      "lat": 50.9316938,
+      "lon": 11.5868513
+    },
+    {
+      "type": "node",
+      "id": 2076996942,
+      "lat": 50.9317021,
+      "lon": 11.5870114
+    },
+    {
+      "type": "node",
+      "id": 2076996944,
+      "lat": 50.9317793,
+      "lon": 11.5871155
+    },
+    {
+      "type": "node",
+      "id": 2076996947,
+      "lat": 50.9318802,
+      "lon": 11.5871024
+    },
+    {
+      "type": "node",
+      "id": 2076996949,
+      "lat": 50.9319375,
+      "lon": 11.5868198
+    },
+    {
+      "type": "node",
+      "id": 2076996950,
+      "lat": 50.9319458,
+      "lon": 11.5869799
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 262680186,
+      "lat": 50.9245736,
+      "lon": 11.5637002,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gartenlokal \"Am Birnstiel\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 292143673,
+      "lat": 50.9233689,
+      "lon": 11.590898,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07749",
+        "addr:street": "Petersenplatz",
+        "amenity": "pub",
+        "name": "Kernbergschänke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299805139,
+      "lat": 50.9296406,
+      "lon": 11.5824382,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "07743",
+        "addr:street": "Bachstraße",
+        "amenity": "pub",
+        "contact:website": "http://www.irishpub-jena.de",
+        "name": "Fiddlers Green - Irish Pub",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299805365,
+      "lat": 50.9294372,
+      "lon": 11.5831944,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "pub",
+        "contact:website": "http://www.cheers-jena.de",
+        "cuisine": "american",
+        "name": "Cheers American Sports Bar and Grill",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299805529,
+      "lat": 50.9302599,
+      "lon": 11.5812653,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "contact:website": "http://www.hurvinek-jena.de",
+        "name": "Hurvinek",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299808276,
+      "lat": 50.9303681,
+      "lon": 11.5810165,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "cuisine": "spanish",
+        "name": "Picassos Tapas Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299811460,
+      "lat": 50.9277607,
+      "lon": 11.5810324,
+      "tags": {
+        "amenity": "pub",
+        "name": "B52"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300651230,
+      "lat": 50.930103,
+      "lon": 11.5816601,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "contact:website": "http://www.diekneipe-jena.de",
+        "name": "Die Kneipe",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300653226,
+      "lat": 50.9300489,
+      "lon": 11.5817888,
+      "tags": {
+        "amenity": "pub",
+        "name": "Das Fass",
+        "smoking": "separated",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302215433,
+      "lat": 50.9183001,
+      "lon": 11.5579318,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+49 3641 615468",
+        "contact:website": "http://www.waldschloesschen-jena.de/",
+        "name": "Waldschlößchen",
+        "note": "seit Juli 2011 geschlossen!"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320143042,
+      "lat": 50.9597987,
+      "lon": 11.5731896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gasthof zum Rautal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 391497613,
+      "lat": 50.9298426,
+      "lon": 11.5801391,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Quergasse",
+        "amenity": "pub",
+        "contact:email": "info@quere.de",
+        "contact:phone": "03641 447411",
+        "contact:website": "http://www.quere.de",
+        "drink:club-mate": "served",
+        "name": "Quergasse No. 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412818103,
+      "lat": 50.9293193,
+      "lon": 11.582204,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "http://www.havanaclubbar.de/",
+        "is_in": "F-Haus",
+        "name": "Havana Club Bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420478516,
+      "lat": 50.8823315,
+      "lon": 11.6155178,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housename": "STC - Schmiede e.V.",
+        "addr:housenumber": "5",
+        "addr:postcode": "07747",
+        "addr:street": "Emil-Wölk-Straße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "pub",
+        "biergarten": "yes",
+        "name": "Schmiede",
+        "wheelchair": "limited",
+        "wheelchair:description": "Vor der Gaststätte ist ein Biergarten, der ebenerdig erreichbar ist."
+      }
+    },
+    {
+      "type": "node",
+      "id": 469735780,
+      "lat": 50.8980059,
+      "lon": 11.5741782,
+      "tags": {
+        "amenity": "pub",
+        "name": "Joker",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470368174,
+      "lat": 50.9338824,
+      "lon": 11.5888714,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "St.-Jakob-Straße",
+        "amenity": "pub",
+        "name": "Sophienstüb'l",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514966285,
+      "lat": 50.9241513,
+      "lon": 11.5770597,
+      "tags": {
+        "amenity": "pub",
+        "name": "Papperla Pub",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528050506,
+      "lat": 50.9226263,
+      "lon": 11.574652,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kastanie",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621212992,
+      "lat": 50.9297289,
+      "lon": 11.5831415,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "pub",
+        "name": "Kellerbar zum Tontopf",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621215120,
+      "lat": 50.9266601,
+      "lon": 11.5847971,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Holzmarkt",
+        "amenity": "pub",
+        "contact:phone": "+49 3641 823641",
+        "name": "Jensche Gilde",
+        "wheelchair": "limited",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624271629,
+      "lat": 50.9314541,
+      "lon": 11.5717252,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zur Leutraquelle",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624272632,
+      "lat": 50.9299968,
+      "lon": 11.5747216,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zapata",
+        "smoking": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624321604,
+      "lat": 50.9278281,
+      "lon": 11.5907059,
+      "tags": {
+        "amenity": "pub",
+        "name": "Stefan's Weinstube"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638453943,
+      "lat": 50.9284626,
+      "lon": 11.5883953,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "http://www.flower-power.de",
+        "drink:club-mate": "yes",
+        "name": "Flowerpower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 805057388,
+      "lat": 50.9293418,
+      "lon": 11.5820479,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "pub",
+        "contact:phone": "+49 (0) 3641 445505",
+        "name": "Alster",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 805057394,
+      "lat": 50.9293814,
+      "lon": 11.5817994,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "pub",
+        "contact:phone": "+49 (0) 3641 597466",
+        "name": "Rocket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 937607915,
+      "lat": 50.9286117,
+      "lon": 11.5884644,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "layer": "1",
+        "name": "Marktmühle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1632715613,
+      "lat": 50.8855701,
+      "lon": 11.5907148,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kiek in"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550554732,
+      "lat": 50.9307188,
+      "lon": 11.6029429,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "http://www.besie-jena.de/",
+        "name": "BeSie"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48959593,
+      "nodes": [
+        621185463,
+        621185468,
+        621185470,
+        621185474,
+        621185463
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:fax": "03641/472153",
+        "contact:phone": "03641/472153",
+        "drink:club-mate": "served",
+        "name": "Café Wagner",
+        "url": "http://www.wagnerverein-jena.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 111978462,
+      "nodes": [
+        1274113523,
+        1274113519,
+        1274113507,
+        1274113504,
+        1274113523
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07745",
+        "addr:street": "Göschwitzer Straße",
+        "addr:suburb": "Burgau",
+        "amenity": "pub",
+        "biergarten": "yes",
+        "building": "yes",
+        "contact:website": "http://www.am-wehr.de/",
+        "cuisine": "regional",
+        "food": "yes",
+        "name": "Am Wehr"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156118785,
+      "nodes": [
+        1684080941,
+        1684080935,
+        1684080931,
+        1684080930,
+        1684080928,
+        1684080925,
+        1684080922,
+        1684080924,
+        1684080914,
+        1684080918,
+        1684080941
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:street": "Wenigenjenaer Ufer",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:fax": "03641/890050",
+        "contact:phone": "03641/445572",
+        "contact:website": "http://www.adria-grill-jena.de",
+        "name": "Adria-Grill",
+        "tourism": "guest_house",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162853871,
+      "nodes": [
+        1746667982,
+        1746667983,
+        1746667979,
+        1746667978,
+        1746667982
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "07749",
+        "addr:street": "Drevesstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bierstube Kernberge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192995394,
+      "nodes": [
+        2035256733,
+        2035256732,
+        2035256730,
+        2035256731,
+        2035256733
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:website": "http://www.gruenowski.de/",
+        "drink:club-mate": "retail",
+        "food": "yes",
+        "name": "Grünowski",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192995401,
+      "nodes": [
+        2035256744,
+        2035256742,
+        2035256736,
+        2035256740,
+        2035256744
+      ],
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:website": "http://www.the-ater-cafe.de/",
+        "drink:club-mate": "yes",
+        "food": "yes",
+        "name": "Theatercafé",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246337491,
+      "nodes": [
+        2533849287,
+        2533849261,
+        2533849253,
+        2533849263,
+        2533849257,
+        2533849271,
+        2533849279,
+        2533849275,
+        2533849287
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247013947,
+      "nodes": [
+        2539596374,
+        2539596371,
+        2539596338,
+        2539596339,
+        2539596346,
+        2539596349,
+        2539596374
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "07743",
+        "addr:street": "Jenergasse",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:phone": "03641 447313",
+        "contact:website": "http://www.cafe-immergruen-jena.de/",
+        "food": "yes",
+        "name": "Café Immergrün",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 295549316,
+      "nodes": [
+        2992796253,
+        2992796254,
+        2992796255,
+        2992796256,
+        2992796257,
+        2992809272,
+        2992796258,
+        2992796253
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07747",
+        "addr:street": "Alte Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Erika's Getränkeshop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310864227,
+      "nodes": [
+        3163617480,
+        3163617481,
+        3163617483,
+        3163617482,
+        3163617480
+      ],
+      "tags": {
+        "amenity": "pub",
+        "beer_garden": "yes",
+        "building": "yes",
+        "name": "Spartenheim Rautal",
+        "operator": "Kleingartenverein Rautal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2035256730,
+      "lat": 50.9244175,
+      "lon": 11.5828206
+    },
+    {
+      "type": "node",
+      "id": 2035256731,
+      "lat": 50.9244455,
+      "lon": 11.5826061
+    },
+    {
+      "type": "node",
+      "id": 2035256732,
+      "lat": 50.9245216,
+      "lon": 11.5828549
+    },
+    {
+      "type": "node",
+      "id": 2035256733,
+      "lat": 50.9245496,
+      "lon": 11.5826403
+    },
+    {
+      "type": "node",
+      "id": 1274113504,
+      "lat": 50.8954281,
+      "lon": 11.5974213
+    },
+    {
+      "type": "node",
+      "id": 1274113507,
+      "lat": 50.8953842,
+      "lon": 11.5974439
+    },
+    {
+      "type": "node",
+      "id": 1274113519,
+      "lat": 50.8954344,
+      "lon": 11.5976899
+    },
+    {
+      "type": "node",
+      "id": 1274113523,
+      "lat": 50.8954783,
+      "lon": 11.5976674
+    },
+    {
+      "type": "node",
+      "id": 2992796253,
+      "lat": 50.8892836,
+      "lon": 11.6089609
+    },
+    {
+      "type": "node",
+      "id": 2992796254,
+      "lat": 50.8891885,
+      "lon": 11.6089901
+    },
+    {
+      "type": "node",
+      "id": 2992796255,
+      "lat": 50.8892053,
+      "lon": 11.609128
+    },
+    {
+      "type": "node",
+      "id": 2992796258,
+      "lat": 50.8892947,
+      "lon": 11.6090517
+    },
+    {
+      "type": "node",
+      "id": 2992796256,
+      "lat": 50.8892471,
+      "lon": 11.6091152
+    },
+    {
+      "type": "node",
+      "id": 2992796257,
+      "lat": 50.8892412,
+      "lon": 11.6090682
+    },
+    {
+      "type": "node",
+      "id": 2992809272,
+      "lat": 50.8892825,
+      "lon": 11.6090551
+    },
+    {
+      "type": "node",
+      "id": 2533849253,
+      "lat": 50.87933,
+      "lon": 11.6349249
+    },
+    {
+      "type": "node",
+      "id": 2533849257,
+      "lat": 50.8793673,
+      "lon": 11.6349813
+    },
+    {
+      "type": "node",
+      "id": 2533849261,
+      "lat": 50.8793705,
+      "lon": 11.6346445
+    },
+    {
+      "type": "node",
+      "id": 2533849263,
+      "lat": 50.8793732,
+      "lon": 11.6349406
+    },
+    {
+      "type": "node",
+      "id": 2533849271,
+      "lat": 50.8794149,
+      "lon": 11.6349986
+    },
+    {
+      "type": "node",
+      "id": 2533849275,
+      "lat": 50.8794201,
+      "lon": 11.6349082
+    },
+    {
+      "type": "node",
+      "id": 2533849279,
+      "lat": 50.8794276,
+      "lon": 11.6349109
+    },
+    {
+      "type": "node",
+      "id": 2533849287,
+      "lat": 50.8794539,
+      "lon": 11.6346747
+    },
+    {
+      "type": "node",
+      "id": 1746667978,
+      "lat": 50.921272,
+      "lon": 11.5929012
+    },
+    {
+      "type": "node",
+      "id": 1746667979,
+      "lat": 50.9212749,
+      "lon": 11.5930562
+    },
+    {
+      "type": "node",
+      "id": 1746667982,
+      "lat": 50.9213568,
+      "lon": 11.5928973
+    },
+    {
+      "type": "node",
+      "id": 1746667983,
+      "lat": 50.9213597,
+      "lon": 11.5930522
+    },
+    {
+      "type": "node",
+      "id": 621185463,
+      "lat": 50.931172,
+      "lon": 11.5801432
+    },
+    {
+      "type": "node",
+      "id": 621185468,
+      "lat": 50.9311078,
+      "lon": 11.5803041
+    },
+    {
+      "type": "node",
+      "id": 621185470,
+      "lat": 50.931216,
+      "lon": 11.5804114
+    },
+    {
+      "type": "node",
+      "id": 621185474,
+      "lat": 50.9312802,
+      "lon": 11.5802451
+    },
+    {
+      "type": "node",
+      "id": 2035256736,
+      "lat": 50.9251824,
+      "lon": 11.5834853
+    },
+    {
+      "type": "node",
+      "id": 2035256740,
+      "lat": 50.9252117,
+      "lon": 11.5832572
+    },
+    {
+      "type": "node",
+      "id": 2035256742,
+      "lat": 50.9253126,
+      "lon": 11.5835273
+    },
+    {
+      "type": "node",
+      "id": 2035256744,
+      "lat": 50.9253419,
+      "lon": 11.5832993
+    },
+    {
+      "type": "node",
+      "id": 2539596338,
+      "lat": 50.9295829,
+      "lon": 11.5854795
+    },
+    {
+      "type": "node",
+      "id": 2539596339,
+      "lat": 50.9295906,
+      "lon": 11.5854089
+    },
+    {
+      "type": "node",
+      "id": 2539596346,
+      "lat": 50.9296433,
+      "lon": 11.5854234
+    },
+    {
+      "type": "node",
+      "id": 2539596349,
+      "lat": 50.929652,
+      "lon": 11.5853435
+    },
+    {
+      "type": "node",
+      "id": 2539596371,
+      "lat": 50.929744,
+      "lon": 11.5855239
+    },
+    {
+      "type": "node",
+      "id": 2539596374,
+      "lat": 50.9297605,
+      "lon": 11.5853733
+    },
+    {
+      "type": "node",
+      "id": 1684080914,
+      "lat": 50.9330641,
+      "lon": 11.5964625
+    },
+    {
+      "type": "node",
+      "id": 1684080918,
+      "lat": 50.9330916,
+      "lon": 11.5963064
+    },
+    {
+      "type": "node",
+      "id": 1684080922,
+      "lat": 50.9331147,
+      "lon": 11.5965138
+    },
+    {
+      "type": "node",
+      "id": 1684080924,
+      "lat": 50.9331203,
+      "lon": 11.5964841
+    },
+    {
+      "type": "node",
+      "id": 1684080925,
+      "lat": 50.9331405,
+      "lon": 11.5965258
+    },
+    {
+      "type": "node",
+      "id": 1684080928,
+      "lat": 50.9331437,
+      "lon": 11.5965086
+    },
+    {
+      "type": "node",
+      "id": 1684080930,
+      "lat": 50.933164,
+      "lon": 11.5965181
+    },
+    {
+      "type": "node",
+      "id": 1684080931,
+      "lat": 50.9331667,
+      "lon": 11.5965034
+    },
+    {
+      "type": "node",
+      "id": 1684080935,
+      "lat": 50.9332057,
+      "lon": 11.5965215
+    },
+    {
+      "type": "node",
+      "id": 1684080941,
+      "lat": 50.9332415,
+      "lon": 11.5963743
+    },
+    {
+      "type": "node",
+      "id": 3163617480,
+      "lat": 50.9537385,
+      "lon": 11.5992434
+    },
+    {
+      "type": "node",
+      "id": 3163617481,
+      "lat": 50.9538173,
+      "lon": 11.5990835
+    },
+    {
+      "type": "node",
+      "id": 3163617482,
+      "lat": 50.9538473,
+      "lon": 11.5993784
+    },
+    {
+      "type": "node",
+      "id": 3163617483,
+      "lat": 50.9539261,
+      "lon": 11.5992186
+    }
+  ]
+}

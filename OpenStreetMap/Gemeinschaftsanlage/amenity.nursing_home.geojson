@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:55.961Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1683739926",
+      "properties": {
+        "@id": "node/1683739926",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7-13",
+        "addr:postcode": "07745",
+        "addr:street": "Max-Steenbeck-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "nursing_home",
+        "contact:website": "http://advita.de/standorte/jena/",
+        "name": "Advita",
+        "social_facility": "group_home",
+        "social_facility:for": "senior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5748943,
+          50.9019645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2930688376",
+      "properties": {
+        "@id": "node/2930688376",
+        "amenity": "nursing_home",
+        "name": "AWO Pflegedienst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59965,
+          50.9455709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966392755",
+      "properties": {
+        "@id": "node/2966392755",
+        "alt_name": "Phönix",
+        "amenity": "nursing_home",
+        "contact:website": "http://www.phoenix.nu/",
+        "name": "Haus Im Lerchenfeld",
+        "operator": "PHÖNIX Seniorenzentren Beteiligungsgesellschaft mbH",
+        "social_facility": "group_home",
+        "social_facility:for": "senior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999365,
+          50.9458997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49354021",
+      "properties": {
+        "@id": "way/49354021",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Semmelweisstraße",
+        "amenity": "nursing_home",
+        "building": "yes",
+        "name": "Luisenheim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5755987,
+              50.9313394
+            ],
+            [
+              11.5759481,
+              50.9312518
+            ],
+            [
+              11.5760302,
+              50.931382
+            ],
+            [
+              11.576176,
+              50.9313454
+            ],
+            [
+              11.5761474,
+              50.9313001
+            ],
+            [
+              11.5763029,
+              50.9312612
+            ],
+            [
+              11.5763343,
+              50.931311
+            ],
+            [
+              11.576587,
+              50.9312477
+            ],
+            [
+              11.5764312,
+              50.9310008
+            ],
+            [
+              11.5761186,
+              50.9310792
+            ],
+            [
+              11.5760361,
+              50.9309483
+            ],
+            [
+              11.5761347,
+              50.9309236
+            ],
+            [
+              11.576037,
+              50.9307689
+            ],
+            [
+              11.5757252,
+              50.9308471
+            ],
+            [
+              11.5758823,
+              50.931096
+            ],
+            [
+              11.5755048,
+              50.9311906
+            ],
+            [
+              11.5755987,
+              50.9313394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49747652",
+      "properties": {
+        "@id": "way/49747652",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "07745",
+        "addr:street": "Am Friedensberg",
+        "amenity": "nursing_home",
+        "building": "yes",
+        "contact:email": "jena@curanum.de",
+        "contact:fax": "(03641) 233-077",
+        "contact:phone": "(03641) 233-100",
+        "contact:website": "http://www.curanum-seniorenzentrum-jena.de",
+        "name": "CURANUM Seniorenzentrum Jena",
+        "operator": "CURANUM AG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5718623,
+              50.9260467
+            ],
+            [
+              11.5718355,
+              50.9259572
+            ],
+            [
+              11.5718658,
+              50.9257476
+            ],
+            [
+              11.5718262,
+              50.9256036
+            ],
+            [
+              11.5716063,
+              50.92563
+            ],
+            [
+              11.5716288,
+              50.9257519
+            ],
+            [
+              11.5716107,
+              50.9259016
+            ],
+            [
+              11.5715864,
+              50.9258999
+            ],
+            [
+              11.571589,
+              50.925869
+            ],
+            [
+              11.570995,
+              50.9258198
+            ],
+            [
+              11.5709819,
+              50.9259546
+            ],
+            [
+              11.571564,
+              50.9260016
+            ],
+            [
+              11.5715642,
+              50.9259878
+            ],
+            [
+              11.5716178,
+              50.9259885
+            ],
+            [
+              11.5716346,
+              50.9260751
+            ],
+            [
+              11.5718623,
+              50.9260467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315737736",
+      "properties": {
+        "@id": "way/315737736",
+        "amenity": "nursing_home",
+        "building": "house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6272431,
+              50.9325821
+            ],
+            [
+              11.6270689,
+              50.9325684
+            ],
+            [
+              11.6270745,
+              50.9325402
+            ],
+            [
+              11.6269773,
+              50.9325326
+            ],
+            [
+              11.6270101,
+              50.9323663
+            ],
+            [
+              11.626826,
+              50.9323518
+            ],
+            [
+              11.6268223,
+              50.9323706
+            ],
+            [
+              11.6263023,
+              50.9323298
+            ],
+            [
+              11.6263212,
+              50.9322341
+            ],
+            [
+              11.6263004,
+              50.9322325
+            ],
+            [
+              11.6263184,
+              50.9321412
+            ],
+            [
+              11.6268594,
+              50.9321836
+            ],
+            [
+              11.6268617,
+              50.932172
+            ],
+            [
+              11.6270535,
+              50.932187
+            ],
+            [
+              11.6270503,
+              50.9322031
+            ],
+            [
+              11.6273139,
+              50.9322237
+            ],
+            [
+              11.6272431,
+              50.9325821
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

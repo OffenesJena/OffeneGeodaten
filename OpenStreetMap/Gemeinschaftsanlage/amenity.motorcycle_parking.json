@@ -1,0 +1,53 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 296083939,
+      "nodes": [
+        2998386899,
+        2998410496,
+        2998386901,
+        2998386902,
+        2998386899
+      ],
+      "tags": {
+        "amenity": "motorcycle_parking",
+        "fee": "no",
+        "note:de": "Motorrad",
+        "parking": "surface",
+        "supervised": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2998386899,
+      "lat": 50.8893958,
+      "lon": 11.6128741
+    },
+    {
+      "type": "node",
+      "id": 2998386901,
+      "lat": 50.8893848,
+      "lon": 11.6129652
+    },
+    {
+      "type": "node",
+      "id": 2998386902,
+      "lat": 50.8894204,
+      "lon": 11.6129411
+    },
+    {
+      "type": "node",
+      "id": 2998410496,
+      "lat": 50.8893586,
+      "lon": 11.6128955
+    }
+  ]
+}

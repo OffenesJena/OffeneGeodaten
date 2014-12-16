@@ -1,0 +1,67 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1048567596,
+      "lat": 50.9181436,
+      "lon": 11.5837551,
+      "tags": {
+        "amenity": "sauna",
+        "operator": "USV Jena e.V."
+      }
+    },
+    {
+      "type": "way",
+      "id": 25620186,
+      "nodes": [
+        279231528,
+        279231529,
+        279231530,
+        279231531,
+        279231528
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Closewitzer Straße",
+        "amenity": "sauna",
+        "building": "yes",
+        "name": "Finnlandsauna Jena",
+        "url": "http://www.sauna-jena.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279231528,
+      "lat": 50.9534474,
+      "lon": 11.6020885
+    },
+    {
+      "type": "node",
+      "id": 279231529,
+      "lat": 50.9535209,
+      "lon": 11.6023839
+    },
+    {
+      "type": "node",
+      "id": 279231530,
+      "lat": 50.9537861,
+      "lon": 11.6022176
+    },
+    {
+      "type": "node",
+      "id": 279231531,
+      "lat": 50.9537127,
+      "lon": 11.6019222
+    }
+  ]
+}

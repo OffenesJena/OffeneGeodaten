@@ -1,0 +1,718 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 265616096,
+      "lat": 50.9268133,
+      "lon": 11.587241,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "fix me"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269480431,
+      "lat": 50.9369768,
+      "lon": 11.5847286,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269483117,
+      "lat": 50.9324709,
+      "lon": 11.5840239,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 273943240,
+      "lat": 50.9235513,
+      "lon": 11.5918041,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279785774,
+      "lat": 50.8826006,
+      "lon": 11.6287963,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287503244,
+      "lat": 50.9252848,
+      "lon": 11.6021943,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292099865,
+      "lat": 50.8933903,
+      "lon": 11.5796757,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292255622,
+      "lat": 50.9346525,
+      "lon": 11.565618,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295404325,
+      "lat": 50.9242326,
+      "lon": 11.5832591,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299452718,
+      "lat": 50.931024,
+      "lon": 11.5716047,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301787525,
+      "lat": 50.8785742,
+      "lon": 11.5919334,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302270567,
+      "lat": 50.9267181,
+      "lon": 11.5817342,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302918339,
+      "lat": 50.9306962,
+      "lon": 11.6034014,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Deutsche Post AG",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302933721,
+      "lat": 50.932813,
+      "lon": 11.5983754,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303917658,
+      "lat": 50.9507677,
+      "lon": 11.6014015,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304349402,
+      "lat": 50.9328071,
+      "lon": 11.6201448,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 307857646,
+      "lat": 50.923625,
+      "lon": 11.621771,
+      "tags": {
+        "amenity": "post_box",
+        "collection_times": "Mo-Sa 09:00; Su off",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320143040,
+      "lat": 50.9600713,
+      "lon": 11.5725606,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 344972141,
+      "lat": 50.9570333,
+      "lon": 11.6168952,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Citipost"
+      }
+    },
+    {
+      "type": "node",
+      "id": 344972142,
+      "lat": 50.9568926,
+      "lon": 11.6166392,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 354702695,
+      "lat": 50.8815508,
+      "lon": 11.6328175,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356036586,
+      "lat": 50.9162039,
+      "lon": 11.5781043,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356040287,
+      "lat": 50.9039365,
+      "lon": 11.578045,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 369021169,
+      "lat": 50.9546047,
+      "lon": 11.6365904,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 415795319,
+      "lat": 50.9467445,
+      "lon": 11.6108853,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 459158523,
+      "lat": 50.9216879,
+      "lon": 11.6041897,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 478557889,
+      "lat": 50.8833842,
+      "lon": 11.6196327,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494244262,
+      "lat": 50.8882808,
+      "lon": 11.615123,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528051943,
+      "lat": 50.9231721,
+      "lon": 11.5783072,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533733522,
+      "lat": 50.9214096,
+      "lon": 11.5701341,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 575766523,
+      "lat": 50.9219984,
+      "lon": 11.5962688,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 592639759,
+      "lat": 50.8930632,
+      "lon": 11.6072532,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 634380614,
+      "lat": 50.9294775,
+      "lon": 11.5790499,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702902505,
+      "lat": 50.9099166,
+      "lon": 11.5722535,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 884715119,
+      "lat": 50.9754836,
+      "lon": 11.5511625,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 884715120,
+      "lat": 50.9733659,
+      "lon": 11.5365013,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 930136866,
+      "lat": 50.9608232,
+      "lon": 11.5220675,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1448222957,
+      "lat": 50.9288546,
+      "lon": 11.5876823,
+      "tags": {
+        "amenity": "post_box",
+        "collection_times": "Mo- Fr 14:00, 15:30; Sa 12:45",
+        "operator": "Deutsche Post",
+        "ref:operator": "Kirchplatz 6, 07743 Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455830300,
+      "lat": 50.9024149,
+      "lon": 11.5731558,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455946379,
+      "lat": 50.9052247,
+      "lon": 11.5563492,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455951323,
+      "lat": 50.9140938,
+      "lon": 11.5626098,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455951324,
+      "lat": 50.9155344,
+      "lon": 11.5663324,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455959693,
+      "lat": 50.9296403,
+      "lon": 11.5811097,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455965514,
+      "lat": 50.9322516,
+      "lon": 11.5652809,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455970754,
+      "lat": 50.9370665,
+      "lon": 11.5583555,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455975061,
+      "lat": 50.9406936,
+      "lon": 11.5932833,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455976844,
+      "lat": 50.9479201,
+      "lon": 11.600316,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455980917,
+      "lat": 50.9540539,
+      "lon": 11.6044198,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1455990984,
+      "lat": 50.9323268,
+      "lon": 11.6180529,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456006095,
+      "lat": 50.9341042,
+      "lon": 11.6253507,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456010199,
+      "lat": 50.9309862,
+      "lon": 11.6261197,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456018176,
+      "lat": 50.9196598,
+      "lon": 11.6255653,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456020146,
+      "lat": 50.9211157,
+      "lon": 11.6249843,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456034753,
+      "lat": 50.9038199,
+      "lon": 11.5977025,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456035637,
+      "lat": 50.9003945,
+      "lon": 11.5920537,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456060740,
+      "lat": 50.8994709,
+      "lon": 11.5934056,
+      "tags": {
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30,17:30; Sa 10:00",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456075533,
+      "lat": 50.8839904,
+      "lon": 11.6065967,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456079481,
+      "lat": 50.8811827,
+      "lon": 11.603555,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456082306,
+      "lat": 50.8823895,
+      "lon": 11.5940571,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456085757,
+      "lat": 50.8840155,
+      "lon": 11.6209894,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456087528,
+      "lat": 50.879924,
+      "lon": 11.6284569,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456097925,
+      "lat": 50.8857449,
+      "lon": 11.6292184,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456099043,
+      "lat": 50.8879165,
+      "lon": 11.6315159,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456105485,
+      "lat": 50.887686,
+      "lon": 11.6519678,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1732644485,
+      "lat": 50.8814463,
+      "lon": 11.6040783,
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1939931366,
+      "lat": 50.9349529,
+      "lon": 11.5733839,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550554765,
+      "lat": 50.9289832,
+      "lon": 11.5996727,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Citykurier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2608126374,
+      "lat": 50.8981413,
+      "lon": 11.5933253,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2608256244,
+      "lat": 50.8839862,
+      "lon": 11.6065895,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2783739912,
+      "lat": 50.8994583,
+      "lon": 11.5933989,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Citykurier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2783739917,
+      "lat": 50.899467,
+      "lon": 11.5934058,
+      "tags": {
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30,17:30; Sa 10:00",
+        "operator": "Deutsche Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207374437,
+      "lat": 50.9218127,
+      "lon": 11.5974944,
+      "tags": {
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      }
+    }
+  ]
+}

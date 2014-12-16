@@ -1,0 +1,2063 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:09.722Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/983128054",
+      "properties": {
+        "@id": "node/983128054",
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "ESG",
+        "official_name": "Evangelische Studenten Gemeinde",
+        "religion": "christian",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5750317,
+          50.9316092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24427109",
+      "properties": {
+        "@id": "way/24427109",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Kirchplatz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Michael",
+        "religion": "christian",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5875304,
+              50.9290768
+            ],
+            [
+              11.58753,
+              50.9290408
+            ],
+            [
+              11.5875301,
+              50.9289975
+            ],
+            [
+              11.58753,
+              50.9289641
+            ],
+            [
+              11.5875798,
+              50.928964
+            ],
+            [
+              11.5876612,
+              50.9289639
+            ],
+            [
+              11.5877151,
+              50.9289638
+            ],
+            [
+              11.5880942,
+              50.9289609
+            ],
+            [
+              11.588311,
+              50.9289593
+            ],
+            [
+              11.5883116,
+              50.9289818
+            ],
+            [
+              11.5883918,
+              50.928981
+            ],
+            [
+              11.5884484,
+              50.9290191
+            ],
+            [
+              11.5884504,
+              50.9290795
+            ],
+            [
+              11.5884048,
+              50.9291183
+            ],
+            [
+              11.5883668,
+              50.9291191
+            ],
+            [
+              11.588318,
+              50.9291205
+            ],
+            [
+              11.5883193,
+              50.9291531
+            ],
+            [
+              11.5880702,
+              50.9291602
+            ],
+            [
+              11.5877136,
+              50.9291592
+            ],
+            [
+              11.5877136,
+              50.9291331
+            ],
+            [
+              11.5877009,
+              50.929133
+            ],
+            [
+              11.5877011,
+              50.9290766
+            ],
+            [
+              11.587579,
+              50.9290767
+            ],
+            [
+              11.5875304,
+              50.9290768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25842368",
+      "properties": {
+        "@id": "way/25842368",
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6084525,
+              50.8906813
+            ],
+            [
+              11.6084322,
+              50.8907435
+            ],
+            [
+              11.6085304,
+              50.8907563
+            ],
+            [
+              11.6085506,
+              50.8906941
+            ],
+            [
+              11.6084525,
+              50.8906813
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32818701",
+      "properties": {
+        "@id": "way/32818701",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Sankt Martin",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6352622,
+              50.9554639
+            ],
+            [
+              11.6356217,
+              50.9554976
+            ],
+            [
+              11.6356405,
+              50.9554182
+            ],
+            [
+              11.635281,
+              50.9553844
+            ],
+            [
+              11.6352622,
+              50.9554639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33822312",
+      "properties": {
+        "@id": "way/33822312",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Stifterstraße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Adventgemeinde",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6052007,
+              50.9505041
+            ],
+            [
+              11.6050929,
+              50.9504137
+            ],
+            [
+              11.6052829,
+              50.9503233
+            ],
+            [
+              11.6053907,
+              50.9504137
+            ],
+            [
+              11.6052007,
+              50.9505041
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35061045",
+      "properties": {
+        "@id": "way/35061045",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:email": "post@stjohann-jena.de",
+        "contact:fax": "+49 3641 5225-10",
+        "contact:phone": "+49 3641 5225-0",
+        "contact:website": "http://www.stjohann-jena.de",
+        "denomination": "roman_catholic",
+        "historic": "yes",
+        "name": "St. Johann Baptist",
+        "religion": "christian",
+        "wikidata": "Q2319284",
+        "wikipedia": "de:St. Johannes Baptist (Jena)",
+        "wikipedia:de": "St. Johannes Baptist (Jena)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5822023,
+              50.9302165
+            ],
+            [
+              11.5822017,
+              50.9302195
+            ],
+            [
+              11.5822,
+              50.9302221
+            ],
+            [
+              11.5821977,
+              50.930224
+            ],
+            [
+              11.5821951,
+              50.9302254
+            ],
+            [
+              11.5821915,
+              50.9302266
+            ],
+            [
+              11.5821861,
+              50.9302273
+            ],
+            [
+              11.5821811,
+              50.9302269
+            ],
+            [
+              11.5821763,
+              50.9302256
+            ],
+            [
+              11.5821726,
+              50.9302236
+            ],
+            [
+              11.5821703,
+              50.9302214
+            ],
+            [
+              11.582169,
+              50.9302192
+            ],
+            [
+              11.5821685,
+              50.930217
+            ],
+            [
+              11.5821689,
+              50.9302143
+            ],
+            [
+              11.5821698,
+              50.9302126
+            ],
+            [
+              11.5821714,
+              50.9302107
+            ],
+            [
+              11.5821738,
+              50.9302089
+            ],
+            [
+              11.5821804,
+              50.9302081
+            ],
+            [
+              11.5821045,
+              50.9302077
+            ],
+            [
+              11.5820677,
+              50.9301961
+            ],
+            [
+              11.5820688,
+              50.930159
+            ],
+            [
+              11.5821054,
+              50.9301367
+            ],
+            [
+              11.5822035,
+              50.9301372
+            ],
+            [
+              11.5822041,
+              50.9301017
+            ],
+            [
+              11.5822673,
+              50.9301021
+            ],
+            [
+              11.5823347,
+              50.9301025
+            ],
+            [
+              11.5823343,
+              50.9301281
+            ],
+            [
+              11.5825189,
+              50.930129
+            ],
+            [
+              11.5825188,
+              50.930133
+            ],
+            [
+              11.5825218,
+              50.9301304
+            ],
+            [
+              11.5825266,
+              50.9301288
+            ],
+            [
+              11.5825303,
+              50.930129
+            ],
+            [
+              11.5825356,
+              50.9301301
+            ],
+            [
+              11.5825394,
+              50.9301334
+            ],
+            [
+              11.5825405,
+              50.9301369
+            ],
+            [
+              11.5825403,
+              50.930139
+            ],
+            [
+              11.5825379,
+              50.9301422
+            ],
+            [
+              11.5826116,
+              50.9301418
+            ],
+            [
+              11.5826123,
+              50.9301967
+            ],
+            [
+              11.5825958,
+              50.9301968
+            ],
+            [
+              11.5825963,
+              50.9302352
+            ],
+            [
+              11.5824534,
+              50.9302359
+            ],
+            [
+              11.5824531,
+              50.9302095
+            ],
+            [
+              11.582333,
+              50.9302089
+            ],
+            [
+              11.5823325,
+              50.9302406
+            ],
+            [
+              11.5822658,
+              50.9302402
+            ],
+            [
+              11.5822019,
+              50.9302398
+            ],
+            [
+              11.5822023,
+              50.9302165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49185098",
+      "properties": {
+        "@id": "way/49185098",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Friedenskirche",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5824933,
+              50.9307703
+            ],
+            [
+              11.5828447,
+              50.9307471
+            ],
+            [
+              11.5828365,
+              50.930698
+            ],
+            [
+              11.5829081,
+              50.9306932
+            ],
+            [
+              11.5829292,
+              50.9306711
+            ],
+            [
+              11.5829258,
+              50.9306397
+            ],
+            [
+              11.5828964,
+              50.9306225
+            ],
+            [
+              11.5828286,
+              50.930627
+            ],
+            [
+              11.5828218,
+              50.9305857
+            ],
+            [
+              11.5824665,
+              50.9306092
+            ],
+            [
+              11.5824933,
+              50.9307703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50073653",
+      "properties": {
+        "@id": "way/50073653",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "07743",
+        "addr:street": "Humboldtstraße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "methodist",
+        "name": "Ev.-meth. Kirche",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5712321,
+              50.9332188
+            ],
+            [
+              11.5711291,
+              50.9333136
+            ],
+            [
+              11.5712548,
+              50.9333679
+            ],
+            [
+              11.5713579,
+              50.9332732
+            ],
+            [
+              11.5712321,
+              50.9332188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116525440",
+      "properties": {
+        "@id": "way/116525440",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Nikolaus",
+        "religion": "christian",
+        "wikipedia:de": "St._Nikolaus_(Leutra)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5652656,
+              50.8697699
+            ],
+            [
+              11.5655619,
+              50.8697768
+            ],
+            [
+              11.5655575,
+              50.869853
+            ],
+            [
+              11.5652611,
+              50.8698461
+            ],
+            [
+              11.5652656,
+              50.8697699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123459264",
+      "properties": {
+        "@id": "way/123459264",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Dorfkirche",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5124753,
+              50.9298835
+            ],
+            [
+              11.5124751,
+              50.9298678
+            ],
+            [
+              11.5122864,
+              50.929869
+            ],
+            [
+              11.5122879,
+              50.9299616
+            ],
+            [
+              11.5124766,
+              50.9299604
+            ],
+            [
+              11.5124764,
+              50.9299504
+            ],
+            [
+              11.5125362,
+              50.92995
+            ],
+            [
+              11.512535,
+              50.929883
+            ],
+            [
+              11.5124753,
+              50.9298835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125520729",
+      "properties": {
+        "@id": "way/125520729",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5362158,
+              50.9728681
+            ],
+            [
+              11.536141,
+              50.972858
+            ],
+            [
+              11.5361148,
+              50.9729351
+            ],
+            [
+              11.5361707,
+              50.9729427
+            ],
+            [
+              11.5361562,
+              50.9729855
+            ],
+            [
+              11.5364703,
+              50.973028
+            ],
+            [
+              11.5365154,
+              50.9728949
+            ],
+            [
+              11.5362203,
+              50.972855
+            ],
+            [
+              11.5362158,
+              50.9728681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149698896",
+      "properties": {
+        "@id": "way/149698896",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "6a",
+        "addr:postcode": "07749",
+        "addr:street": "Hügelstraße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "http://www.lutherhaus-jena.de",
+        "denomination": "protestant",
+        "name": "Lutherhaus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5925855,
+              50.9244635
+            ],
+            [
+              11.5922629,
+              50.9245416
+            ],
+            [
+              11.592147,
+              50.9243503
+            ],
+            [
+              11.5923561,
+              50.9242997
+            ],
+            [
+              11.5923442,
+              50.9242801
+            ],
+            [
+              11.5924577,
+              50.9242526
+            ],
+            [
+              11.5925855,
+              50.9244635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156119017",
+      "properties": {
+        "@id": "way/156119017",
+        "addr:city": "Jena",
+        "addr:housenumber": "32",
+        "addr:postcode": "07749",
+        "addr:street": "Schlippenstraße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Schillerkirche „Unserer Lieben Frau“",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6004083,
+              50.9325628
+            ],
+            [
+              11.6004176,
+              50.9325184
+            ],
+            [
+              11.6002544,
+              50.9325048
+            ],
+            [
+              11.6002554,
+              50.9324996
+            ],
+            [
+              11.6002139,
+              50.9324962
+            ],
+            [
+              11.6002318,
+              50.932411
+            ],
+            [
+              11.6002385,
+              50.9324116
+            ],
+            [
+              11.6002433,
+              50.9323887
+            ],
+            [
+              11.6003407,
+              50.9323968
+            ],
+            [
+              11.6003377,
+              50.9324116
+            ],
+            [
+              11.6003778,
+              50.9324149
+            ],
+            [
+              11.6003796,
+              50.9324063
+            ],
+            [
+              11.600394,
+              50.9324075
+            ],
+            [
+              11.6003923,
+              50.9324158
+            ],
+            [
+              11.6004374,
+              50.9324196
+            ],
+            [
+              11.6004381,
+              50.932416
+            ],
+            [
+              11.6004442,
+              50.9324165
+            ],
+            [
+              11.6004453,
+              50.9324114
+            ],
+            [
+              11.6004593,
+              50.9324126
+            ],
+            [
+              11.6004582,
+              50.9324182
+            ],
+            [
+              11.6004778,
+              50.9324198
+            ],
+            [
+              11.6005093,
+              50.9324225
+            ],
+            [
+              11.6005105,
+              50.9324169
+            ],
+            [
+              11.6005224,
+              50.9324179
+            ],
+            [
+              11.6005211,
+              50.9324242
+            ],
+            [
+              11.6005758,
+              50.9324287
+            ],
+            [
+              11.6005794,
+              50.9324238
+            ],
+            [
+              11.6005907,
+              50.9324282
+            ],
+            [
+              11.6005864,
+              50.9324316
+            ],
+            [
+              11.6006227,
+              50.9324583
+            ],
+            [
+              11.6006324,
+              50.9324558
+            ],
+            [
+              11.6006385,
+              50.9324633
+            ],
+            [
+              11.6006304,
+              50.9324659
+            ],
+            [
+              11.6006259,
+              50.9325026
+            ],
+            [
+              11.6006322,
+              50.9325046
+            ],
+            [
+              11.6006263,
+              50.932512
+            ],
+            [
+              11.6006216,
+              50.9325091
+            ],
+            [
+              11.6005712,
+              50.932531
+            ],
+            [
+              11.6005741,
+              50.932536
+            ],
+            [
+              11.6005624,
+              50.9325387
+            ],
+            [
+              11.6005601,
+              50.9325333
+            ],
+            [
+              11.6005145,
+              50.9325281
+            ],
+            [
+              11.6005055,
+              50.932571
+            ],
+            [
+              11.6004083,
+              50.9325628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161190490",
+      "properties": {
+        "@id": "way/161190490",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Marienkirche",
+        "religion": "christian",
+        "website": "http://www.kirche-ziegenhain.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6250381,
+              50.9198303
+            ],
+            [
+              11.6253033,
+              50.9198757
+            ],
+            [
+              11.6253553,
+              50.9198578
+            ],
+            [
+              11.6253687,
+              50.9198197
+            ],
+            [
+              11.6253373,
+              50.9197868
+            ],
+            [
+              11.6250744,
+              50.9197443
+            ],
+            [
+              11.6250863,
+              50.9197111
+            ],
+            [
+              11.6249548,
+              50.9196921
+            ],
+            [
+              11.6249417,
+              50.9196906
+            ],
+            [
+              11.6249472,
+              50.919672
+            ],
+            [
+              11.6248336,
+              50.9196589
+            ],
+            [
+              11.6248121,
+              50.9197308
+            ],
+            [
+              11.6249258,
+              50.9197448
+            ],
+            [
+              11.6248806,
+              50.9198724
+            ],
+            [
+              11.6250113,
+              50.9198929
+            ],
+            [
+              11.6250381,
+              50.9198303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194837535",
+      "properties": {
+        "@id": "way/194837535",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "07751",
+        "addr:street": "Dorfstraße",
+        "addr:suburb": "Jenaprießnitz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Kirche Jenaprießnitz",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6507519,
+              50.9274225
+            ],
+            [
+              11.6509646,
+              50.9274543
+            ],
+            [
+              11.6509333,
+              50.9275375
+            ],
+            [
+              11.6507206,
+              50.9275057
+            ],
+            [
+              11.6507519,
+              50.9274225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198810827",
+      "properties": {
+        "@id": "way/198810827",
+        "amenity": "place_of_worship",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6253959,
+              50.9193816
+            ],
+            [
+              11.6256158,
+              50.9193512
+            ],
+            [
+              11.6255836,
+              50.9192616
+            ],
+            [
+              11.6253664,
+              50.9192886
+            ],
+            [
+              11.6253959,
+              50.9193816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203747938",
+      "properties": {
+        "@id": "way/203747938",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "07743",
+        "addr:street": "Merseburger Straße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Gemeindehaus \"Simon Petrus\"",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6045799,
+              50.9489715
+            ],
+            [
+              11.6044322,
+              50.9488783
+            ],
+            [
+              11.6042607,
+              50.9489816
+            ],
+            [
+              11.6043679,
+              50.949049
+            ],
+            [
+              11.6042995,
+              50.949092
+            ],
+            [
+              11.6043437,
+              50.94912
+            ],
+            [
+              11.6045799,
+              50.9489715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204111899",
+      "properties": {
+        "@id": "way/204111899",
+        "addr:city": "Jena",
+        "addr:housenumber": "83",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "new_apostolic",
+        "name": "Neuapostolische Kirche",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6042017,
+              50.9463995
+            ],
+            [
+              11.6042956,
+              50.9463471
+            ],
+            [
+              11.6043197,
+              50.9463336
+            ],
+            [
+              11.6043734,
+              50.9463336
+            ],
+            [
+              11.6045072,
+              50.9464143
+            ],
+            [
+              11.6044243,
+              50.946462
+            ],
+            [
+              11.6044458,
+              50.9464772
+            ],
+            [
+              11.6042688,
+              50.9465871
+            ],
+            [
+              11.6041424,
+              50.9465089
+            ],
+            [
+              11.6042603,
+              50.9464352
+            ],
+            [
+              11.6042017,
+              50.9463995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204913799",
+      "properties": {
+        "@id": "way/204913799",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "St. Maria Magdalena",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6149901,
+              50.9521614
+            ],
+            [
+              11.6149547,
+              50.9522438
+            ],
+            [
+              11.6151721,
+              50.952275
+            ],
+            [
+              11.6152584,
+              50.9522425
+            ],
+            [
+              11.6152043,
+              50.9521922
+            ],
+            [
+              11.6149901,
+              50.9521614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205110015",
+      "properties": {
+        "@id": "way/205110015",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07751",
+        "addr:street": "Am Goethepark",
+        "addr:suburb": "Drackendorf",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Auferstehungskirche",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.629728,
+              50.8882214
+            ],
+            [
+              11.6294642,
+              50.8881239
+            ],
+            [
+              11.6294767,
+              50.8881105
+            ],
+            [
+              11.6294295,
+              50.888093
+            ],
+            [
+              11.6294741,
+              50.888045
+            ],
+            [
+              11.6295159,
+              50.8880604
+            ],
+            [
+              11.6295312,
+              50.8880439
+            ],
+            [
+              11.6296776,
+              50.8880981
+            ],
+            [
+              11.6297096,
+              50.8880636
+            ],
+            [
+              11.6297896,
+              50.8880932
+            ],
+            [
+              11.6297561,
+              50.8881293
+            ],
+            [
+              11.6297989,
+              50.8881451
+            ],
+            [
+              11.6298064,
+              50.8881708
+            ],
+            [
+              11.6297953,
+              50.8881981
+            ],
+            [
+              11.6297624,
+              50.8882141
+            ],
+            [
+              11.629728,
+              50.8882214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206153454",
+      "properties": {
+        "@id": "way/206153454",
+        "amenity": "place_of_worship",
+        "name": "St. Marien",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6129887,
+              50.9594117
+            ],
+            [
+              11.6129938,
+              50.9593766
+            ],
+            [
+              11.6131279,
+              50.95938
+            ],
+            [
+              11.6131255,
+              50.9594185
+            ],
+            [
+              11.613155,
+              50.9594202
+            ],
+            [
+              11.6131818,
+              50.9594405
+            ],
+            [
+              11.6131791,
+              50.959481
+            ],
+            [
+              11.6131416,
+              50.959503
+            ],
+            [
+              11.6128411,
+              50.9594979
+            ],
+            [
+              11.6128409,
+              50.9594746
+            ],
+            [
+              11.6127339,
+              50.9594743
+            ],
+            [
+              11.6127416,
+              50.9594205
+            ],
+            [
+              11.6128405,
+              50.9594223
+            ],
+            [
+              11.612841,
+              50.9594074
+            ],
+            [
+              11.6129887,
+              50.9594117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247607004",
+      "properties": {
+        "@id": "way/247607004",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07743",
+        "addr:street": "Am Saaleufer",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:email": "Jena@FeG.de",
+        "contact:website": "http://www.jena.feg.de",
+        "denomination": "evangelical",
+        "name": "Freie evangelische Gemeinde Jena",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5949709,
+              50.9292619
+            ],
+            [
+              11.5949769,
+              50.929279
+            ],
+            [
+              11.5949325,
+              50.9292921
+            ],
+            [
+              11.5947875,
+              50.9292756
+            ],
+            [
+              11.5948157,
+              50.9291576
+            ],
+            [
+              11.5949781,
+              50.9291795
+            ],
+            [
+              11.5950237,
+              50.9292075
+            ],
+            [
+              11.5950878,
+              50.9292541
+            ],
+            [
+              11.5949709,
+              50.9292619
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253262144",
+      "properties": {
+        "@id": "way/253262144",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Alte Hauptstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Dorfkirche Göschwitz",
+        "religion": "christian",
+        "wikipedia:de": "Dorfkirche_Göschwitz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5925136,
+              50.8786701
+            ],
+            [
+              11.5927588,
+              50.878686
+            ],
+            [
+              11.5927701,
+              50.8786165
+            ],
+            [
+              11.5925249,
+              50.8786006
+            ],
+            [
+              11.5925136,
+              50.8786701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255697766",
+      "properties": {
+        "@id": "way/255697766",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "69",
+        "addr:postcode": "07745",
+        "addr:street": "Geraer Straße",
+        "addr:suburb": "Burgau",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Dreifaltigkeitskirche",
+        "religion": "christian",
+        "wikipedia:de": "Dreifaltigkeitskirche_(Burgau)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5926661,
+              50.8968716
+            ],
+            [
+              11.592688,
+              50.8967637
+            ],
+            [
+              11.5930708,
+              50.8967945
+            ],
+            [
+              11.593049,
+              50.8969024
+            ],
+            [
+              11.5926661,
+              50.8968716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255707639",
+      "properties": {
+        "@id": "way/255707639",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Laurentius",
+        "religion": "christian",
+        "wikipedia:de": "St._Laurentius_(Maua)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6001992,
+              50.8678648
+            ],
+            [
+              11.6002128,
+              50.8677918
+            ],
+            [
+              11.6005213,
+              50.8678089
+            ],
+            [
+              11.6005554,
+              50.8678333
+            ],
+            [
+              11.6005463,
+              50.8678662
+            ],
+            [
+              11.6005077,
+              50.8678834
+            ],
+            [
+              11.6001992,
+              50.8678648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256888965",
+      "properties": {
+        "@id": "way/256888965",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07745",
+        "addr:street": "Waldstraße",
+        "addr:suburb": "Ammerbach",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "http://www.dietrich-bonhoeffer-gemeinde-jena.de",
+        "denomination": "lutheran",
+        "name": "Evangelische Kirche",
+        "operator": "Dietrich-Bonhoeffer-Gemeinde",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.557141,
+              50.9046884
+            ],
+            [
+              11.5571585,
+              50.9046049
+            ],
+            [
+              11.557425,
+              50.9046271
+            ],
+            [
+              11.5574075,
+              50.9047106
+            ],
+            [
+              11.557141,
+              50.9046884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258777812",
+      "properties": {
+        "@id": "way/258777812",
+        "alt_name": "Peterskirche",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "http://www.kirchkreis-jena.de/region_lobeda/lobeda.html",
+        "denomination": "lutheran",
+        "name": "St. Peter",
+        "religion": "christian",
+        "wikipedia": "de:Peterskirche (Lobeda)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6057031,
+              50.8930887
+            ],
+            [
+              11.6052869,
+              50.893047
+            ],
+            [
+              11.6053146,
+              50.8929285
+            ],
+            [
+              11.6055291,
+              50.8929534
+            ],
+            [
+              11.60554,
+              50.8929098
+            ],
+            [
+              11.6056409,
+              50.8929235
+            ],
+            [
+              11.605626,
+              50.8929647
+            ],
+            [
+              11.6057269,
+              50.8929778
+            ],
+            [
+              11.6057605,
+              50.8930158
+            ],
+            [
+              11.6057486,
+              50.8930651
+            ],
+            [
+              11.6057031,
+              50.8930887
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262422321",
+      "properties": {
+        "@id": "way/262422321",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:colour": "brown",
+        "contact:website": "http://www.kirchkreis-jena.de/region_lobeda/woellnitz.html",
+        "denomination": "lutheran",
+        "image": "File:Kirche_Wöllnitz.jpg",
+        "name": "Kirche Wöllnitz",
+        "operator": "Evangelisch-Lutherischer Kirchenkreis Jena",
+        "religion": "christian",
+        "roof:colour": "black",
+        "start_date": "1740",
+        "wikipedia:de": "Dorfkirche_Wöllnitz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5931297,
+              50.9047813
+            ],
+            [
+              11.5931662,
+              50.9047273
+            ],
+            [
+              11.5932152,
+              50.9047224
+            ],
+            [
+              11.5933843,
+              50.9047673
+            ],
+            [
+              11.5934066,
+              50.9047919
+            ],
+            [
+              11.5933701,
+              50.9048458
+            ],
+            [
+              11.593326,
+              50.904849
+            ],
+            [
+              11.5931603,
+              50.9048092
+            ],
+            [
+              11.5931297,
+              50.9047813
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262667675",
+      "properties": {
+        "@id": "way/262667675",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07745",
+        "addr:street": "Teichgasse",
+        "addr:suburb": "Winzerla",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Winzerla",
+        "religion": "christian",
+        "wikipedia:de": "Dorfkirche_Winzerla"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5822917,
+              50.8908278
+            ],
+            [
+              11.5823415,
+              50.8907461
+            ],
+            [
+              11.5826357,
+              50.8908174
+            ],
+            [
+              11.5825852,
+              50.8909002
+            ],
+            [
+              11.5823999,
+              50.8908553
+            ],
+            [
+              11.5823878,
+              50.8908751
+            ],
+            [
+              11.582347,
+              50.8908652
+            ],
+            [
+              11.5823598,
+              50.8908443
+            ],
+            [
+              11.5822917,
+              50.8908278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315691678",
+      "properties": {
+        "@id": "way/315691678",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Dorfkirche Closewitz",
+        "religion": "christian",
+        "wikidata": "Q15109606",
+        "wikipedia": "de:Dorfkirche Closewitz",
+        "wikipedia:de": "Dorfkirche Closewitz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5713754,
+              50.9600384
+            ],
+            [
+              11.5714087,
+              50.9599839
+            ],
+            [
+              11.5716565,
+              50.9600439
+            ],
+            [
+              11.5716248,
+              50.9600958
+            ],
+            [
+              11.5715513,
+              50.960078
+            ],
+            [
+              11.5715304,
+              50.9601122
+            ],
+            [
+              11.5714613,
+              50.9600954
+            ],
+            [
+              11.5714806,
+              50.9600639
+            ],
+            [
+              11.5713754,
+              50.9600384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315691683",
+      "properties": {
+        "@id": "way/315691683",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Nikolaus",
+        "religion": "christian",
+        "wikidata": "Q15129692",
+        "wikipedia": "de:St. Nikolaus (Lützeroda)",
+        "wikipedia:de": "St. Nikolaus (Lützeroda)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5533842,
+              50.9596722
+            ],
+            [
+              11.5534222,
+              50.9596662
+            ],
+            [
+              11.5534317,
+              50.9596902
+            ],
+            [
+              11.5534876,
+              50.9596813
+            ],
+            [
+              11.5534802,
+              50.9596627
+            ],
+            [
+              11.5535772,
+              50.9596474
+            ],
+            [
+              11.5535561,
+              50.9595945
+            ],
+            [
+              11.5534848,
+              50.9596057
+            ],
+            [
+              11.5534733,
+              50.9595768
+            ],
+            [
+              11.5534124,
+              50.9595864
+            ],
+            [
+              11.5534183,
+              50.9596012
+            ],
+            [
+              11.5533596,
+              50.9596105
+            ],
+            [
+              11.5533842,
+              50.9596722
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-04T01:42:02.000Z",
-    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "timestamp_osm_base": "2014-12-16T09:44:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -59,7 +59,7 @@
       "lon": 11.5888044,
       "tags": {
         "highway": "traffic_signals",
-        "railway": "crossing"
+        "railway": "level_crossing"
       }
     },
     {
@@ -126,8 +126,8 @@
     {
       "type": "node",
       "id": 49261898,
-      "lat": 50.8768683,
-      "lon": 11.5937593,
+      "lat": 50.8768648,
+      "lon": 11.5937642,
       "tags": {
         "crossing": "traffic_signals",
         "highway": "crossing"
@@ -500,8 +500,8 @@
     {
       "type": "node",
       "id": 259832924,
-      "lat": 50.9196107,
-      "lon": 11.5791213,
+      "lat": 50.9196191,
+      "lon": 11.5791391,
       "tags": {
         "highway": "turning_circle"
       }
@@ -610,8 +610,8 @@
     {
       "type": "node",
       "id": 263042647,
-      "lat": 50.9208761,
-      "lon": 11.5799919,
+      "lat": 50.9208817,
+      "lon": 11.5800209,
       "tags": {
         "highway": "turning_circle"
       }
@@ -2942,24 +2942,6 @@
     },
     {
       "type": "node",
-      "id": 1239936782,
-      "lat": 50.9301389,
-      "lon": 11.6324774,
-      "tags": {
-        "highway": "turning_circle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1239936836,
-      "lat": 50.9307072,
-      "lon": 11.6327168,
-      "tags": {
-        "highway": "turning_circle"
-      }
-    },
-    {
-      "type": "node",
       "id": 1271121049,
       "lat": 50.9060452,
       "lon": 11.5696657,
@@ -3046,6 +3028,17 @@
         "bicycle": "yes",
         "crossing": "traffic_signals",
         "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1478289457,
+      "lat": 50.8715207,
+      "lon": 11.5930194,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Jena-Göschwitz",
+        "ref": "53"
       }
     },
     {
@@ -3318,7 +3311,8 @@
       "lat": 50.8863324,
       "lon": 11.612478,
       "tags": {
-        "highway": "traffic_signals"
+        "crossing": "traffic_signals",
+        "highway": "crossing"
       }
     },
     {
@@ -3357,17 +3351,6 @@
     },
     {
       "type": "node",
-      "id": 1788468202,
-      "lat": 50.8712957,
-      "lon": 11.5924433,
-      "tags": {
-        "highway": "motorway_junction",
-        "name": "Jena-Göschwitz",
-        "ref": "53"
-      }
-    },
-    {
-      "type": "node",
       "id": 1789167674,
       "lat": 50.8706964,
       "lon": 11.5978587,
@@ -3377,9 +3360,9 @@
     },
     {
       "type": "node",
-      "id": 1789167686,
-      "lat": 50.870746,
-      "lon": 11.5982114,
+      "id": 1789167685,
+      "lat": 50.8707252,
+      "lon": 11.5982525,
       "tags": {
         "highway": "give_way"
       }
@@ -3387,8 +3370,8 @@
     {
       "type": "node",
       "id": 1789167800,
-      "lat": 50.8728379,
-      "lon": 11.5953547,
+      "lat": 50.8726877,
+      "lon": 11.5950424,
       "tags": {
         "highway": "motorway_junction",
         "name": "Jena-Göschwitz",
@@ -3479,8 +3462,8 @@
     {
       "type": "node",
       "id": 1830596793,
-      "lat": 50.9053892,
-      "lon": 11.5658718,
+      "lat": 50.9054071,
+      "lon": 11.5658678,
       "tags": {
         "highway": "traffic_signals"
       }
@@ -3689,8 +3672,8 @@
     {
       "type": "node",
       "id": 2026415142,
-      "lat": 50.8768804,
-      "lon": 11.5938853,
+      "lat": 50.87685,
+      "lon": 11.5938693,
       "tags": {
         "highway": "give_way"
       }
@@ -3698,8 +3681,8 @@
     {
       "type": "node",
       "id": 2026415158,
-      "lat": 50.8769704,
-      "lon": 11.5937307,
+      "lat": 50.8769648,
+      "lon": 11.59371,
       "tags": {
         "crossing": "traffic_signals",
         "highway": "traffic_signals"
@@ -5587,16 +5570,6 @@
     },
     {
       "type": "node",
-      "id": 2612754765,
-      "lat": 50.8863321,
-      "lon": 11.6124784,
-      "tags": {
-        "crossing": "traffic_signals",
-        "highway": "crossing"
-      }
-    },
-    {
-      "type": "node",
       "id": 2612991736,
       "lat": 50.9285921,
       "lon": 11.5940982,
@@ -6201,8 +6174,7 @@
       "lon": 11.6236713,
       "tags": {
         "crossing": "island",
-        "highway": "crossing",
-        "traffic_calming": "island"
+        "highway": "crossing"
       }
     },
     {
@@ -8867,8 +8839,8 @@
     {
       "type": "node",
       "id": 3195513226,
-      "lat": 50.8930147,
-      "lon": 11.6023579,
+      "lat": 50.8930308,
+      "lon": 11.6023508,
       "tags": {
         "crossing": "traffic_signals",
         "highway": "traffic_signals"
@@ -8877,8 +8849,8 @@
     {
       "type": "node",
       "id": 3195513227,
-      "lat": 50.8930225,
-      "lon": 11.6021996,
+      "lat": 50.8930106,
+      "lon": 11.6022015,
       "tags": {
         "crossing": "traffic_signals",
         "highway": "traffic_signals"
@@ -8966,8 +8938,8 @@
     {
       "type": "node",
       "id": 3208172765,
-      "lat": 50.8768083,
-      "lon": 11.5938565,
+      "lat": 50.8768049,
+      "lon": 11.5938548,
       "tags": {
         "crossing": "traffic_signals",
         "highway": "crossing"
@@ -9122,6 +9094,25 @@
       "lon": 11.5742872,
       "tags": {
         "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3224164061,
+      "lat": 50.918524,
+      "lon": 11.5797352,
+      "tags": {
+        "highway": "stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3232100610,
+      "lat": 50.9706029,
+      "lon": 11.5231108,
+      "tags": {
+        "crossing": "island",
+        "highway": "crossing"
       }
     }
   ]

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:05.281Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/305886920",
+      "properties": {
+        "@id": "node/305886920",
+        "amenity": "parking_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6054917,
+          50.882911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2544972587",
+      "properties": {
+        "@id": "node/2544972587",
+        "access": "yes",
+        "amenity": "parking_entrance",
+        "covered": "yes",
+        "fee": "yes",
+        "name": "Schillerpassage",
+        "parking": "multi-storey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932421,
+          50.9324523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2675757673",
+      "properties": {
+        "@id": "node/2675757673",
+        "access": "private",
+        "amenity": "parking_entrance",
+        "parking": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5813867,
+          50.9282975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3224164063",
+      "properties": {
+        "@id": "node/3224164063",
+        "amenity": "parking_entrance",
+        "parking": "multi-storey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5793033,
+          50.9186504
+        ]
+      }
+    }
+  ]
+}

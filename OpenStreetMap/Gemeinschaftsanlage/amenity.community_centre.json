@@ -1,0 +1,441 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1683829576,
+      "lat": 50.9008907,
+      "lon": 11.5763484,
+      "tags": {
+        "amenity": "community_centre",
+        "contact:website": "http://www.dietrich-bonhoeffer-gemeinde-jena.de/",
+        "denomination": "lutheran",
+        "name": "Gemeindezentrum der Bonhoeffer-Gemeinde",
+        "operator": "Bonhoeffer-Gemeinde",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1875593753,
+      "lat": 50.9292604,
+      "lon": 11.5824008,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "community_centre",
+        "building:level": "1",
+        "club": "it",
+        "contact:phone": "0162/6318746",
+        "contact:website": "https://www.krautspace.de",
+        "drink:club-mate": "yes",
+        "leisure": "hackerspace",
+        "name": "Krautspace",
+        "office": "club",
+        "operator": "Hackspace Jena e.V."
+      }
+    },
+    {
+      "type": "way",
+      "id": 56080827,
+      "nodes": [
+        703887659,
+        703887666,
+        703887663,
+        703887662,
+        703887659
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Closewitzer Straße",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Begegnungszentrum Closewitzer Straße 2",
+        "operator": "Begegnungszentrum Jena e.V."
+      }
+    },
+    {
+      "type": "way",
+      "id": 153576891,
+      "nodes": [
+        1662292224,
+        1662292185,
+        1662292181,
+        1662292184,
+        1662292187,
+        1662292196,
+        1662292223,
+        1662292224
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Knebelstraße",
+        "amenity": "community_centre",
+        "building": "yes",
+        "contact:phone": "+49 3641 498000",
+        "contact:website": "http://www.volksbad-jena.de",
+        "name": "Volksbad",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q2531618",
+        "wikipedia": "de:Volksbad Jena",
+        "wikipedia:de": "Volksbad Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259740175,
+      "nodes": [
+        2651936628,
+        2651936629,
+        2651936630,
+        2651936631,
+        2651936632,
+        2651936633,
+        2651936634,
+        2651936635,
+        2651936636,
+        2651936637,
+        2651936638,
+        2651936639,
+        2651936640,
+        2651936641,
+        2651936642,
+        2651936643,
+        2651936628
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Martin-Niemöller-Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "community_centre",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Martin- Niemöller- Haus",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266824858,
+      "nodes": [
+        2723316302,
+        2723316279,
+        2723316261,
+        2723316255,
+        2723316249,
+        2723316243,
+        2723316257,
+        2723316264,
+        2723316269,
+        2723316284,
+        2723316302
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "29/30",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "community_centre",
+        "denomination": "roman_catholic",
+        "name": "Gemeindehaus Gabriel Henry",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266824867,
+      "nodes": [
+        2723316311,
+        2723316309,
+        2723316298,
+        2723316296,
+        2723316272,
+        2723316279,
+        2723316302,
+        2723316311
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "community_centre",
+        "building": "yes",
+        "contact:website": "http://lkg-jena.de/",
+        "denomination": "lutheran",
+        "name": "Landeskirchliche Gemeinschaft Jena",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2651936628,
+      "lat": 50.8906264,
+      "lon": 11.6091719
+    },
+    {
+      "type": "node",
+      "id": 2651936629,
+      "lat": 50.8906339,
+      "lon": 11.6089089
+    },
+    {
+      "type": "node",
+      "id": 2651936630,
+      "lat": 50.890604,
+      "lon": 11.608816
+    },
+    {
+      "type": "node",
+      "id": 2651936631,
+      "lat": 50.8906052,
+      "lon": 11.6087398
+    },
+    {
+      "type": "node",
+      "id": 2651936632,
+      "lat": 50.8905753,
+      "lon": 11.6086528
+    },
+    {
+      "type": "node",
+      "id": 2651936633,
+      "lat": 50.8905859,
+      "lon": 11.6085579
+    },
+    {
+      "type": "node",
+      "id": 2651936634,
+      "lat": 50.8905397,
+      "lon": 11.6084136
+    },
+    {
+      "type": "node",
+      "id": 2651936635,
+      "lat": 50.8904499,
+      "lon": 11.6084462
+    },
+    {
+      "type": "node",
+      "id": 2651936636,
+      "lat": 50.8904406,
+      "lon": 11.6086084
+    },
+    {
+      "type": "node",
+      "id": 2651936637,
+      "lat": 50.8904923,
+      "lon": 11.60873
+    },
+    {
+      "type": "node",
+      "id": 2651936638,
+      "lat": 50.8904905,
+      "lon": 11.6087616
+    },
+    {
+      "type": "node",
+      "id": 2651936639,
+      "lat": 50.8905011,
+      "lon": 11.6087972
+    },
+    {
+      "type": "node",
+      "id": 2651936640,
+      "lat": 50.8904948,
+      "lon": 11.6089573
+    },
+    {
+      "type": "node",
+      "id": 2651936641,
+      "lat": 50.8905341,
+      "lon": 11.6090572
+    },
+    {
+      "type": "node",
+      "id": 2651936642,
+      "lat": 50.8905322,
+      "lon": 11.6091017
+    },
+    {
+      "type": "node",
+      "id": 2651936643,
+      "lat": 50.8905628,
+      "lon": 11.6091906
+    },
+    {
+      "type": "node",
+      "id": 1662292181,
+      "lat": 50.9250465,
+      "lon": 11.5860995
+    },
+    {
+      "type": "node",
+      "id": 1662292184,
+      "lat": 50.9251487,
+      "lon": 11.5860551
+    },
+    {
+      "type": "node",
+      "id": 1662292187,
+      "lat": 50.925227,
+      "lon": 11.5860689
+    },
+    {
+      "type": "node",
+      "id": 1662292196,
+      "lat": 50.9253141,
+      "lon": 11.5864488
+    },
+    {
+      "type": "node",
+      "id": 1662292223,
+      "lat": 50.9254456,
+      "lon": 11.5864463
+    },
+    {
+      "type": "node",
+      "id": 2723316243,
+      "lat": 50.9304701,
+      "lon": 11.5811718
+    },
+    {
+      "type": "node",
+      "id": 2723316249,
+      "lat": 50.9305194,
+      "lon": 11.5810557
+    },
+    {
+      "type": "node",
+      "id": 2723316255,
+      "lat": 50.9305316,
+      "lon": 11.581027
+    },
+    {
+      "type": "node",
+      "id": 2723316257,
+      "lat": 50.9305777,
+      "lon": 11.5812866
+    },
+    {
+      "type": "node",
+      "id": 2723316261,
+      "lat": 50.9306019,
+      "lon": 11.5808612
+    },
+    {
+      "type": "node",
+      "id": 2723316264,
+      "lat": 50.9306234,
+      "lon": 11.5811787
+    },
+    {
+      "type": "node",
+      "id": 2723316269,
+      "lat": 50.9306356,
+      "lon": 11.58115
+    },
+    {
+      "type": "node",
+      "id": 2723316272,
+      "lat": 50.9306522,
+      "lon": 11.5807143
+    },
+    {
+      "type": "node",
+      "id": 2723316279,
+      "lat": 50.9306605,
+      "lon": 11.5807232
+    },
+    {
+      "type": "node",
+      "id": 2723316284,
+      "lat": 50.9307025,
+      "lon": 11.5809925
+    },
+    {
+      "type": "node",
+      "id": 2723316296,
+      "lat": 50.9307434,
+      "lon": 11.5804993
+    },
+    {
+      "type": "node",
+      "id": 2723316298,
+      "lat": 50.9307509,
+      "lon": 11.5805073
+    },
+    {
+      "type": "node",
+      "id": 2723316302,
+      "lat": 50.930768,
+      "lon": 11.580838
+    },
+    {
+      "type": "node",
+      "id": 2723316309,
+      "lat": 50.9308395,
+      "lon": 11.580602
+    },
+    {
+      "type": "node",
+      "id": 2723316311,
+      "lat": 50.9308592,
+      "lon": 11.5806231
+    },
+    {
+      "type": "node",
+      "id": 1662292185,
+      "lat": 50.925208,
+      "lon": 11.5868106
+    },
+    {
+      "type": "node",
+      "id": 1662292224,
+      "lat": 50.9254469,
+      "lon": 11.5868098
+    },
+    {
+      "type": "node",
+      "id": 703887659,
+      "lat": 50.9507213,
+      "lon": 11.5976377
+    },
+    {
+      "type": "node",
+      "id": 703887662,
+      "lat": 50.9506732,
+      "lon": 11.5977389
+    },
+    {
+      "type": "node",
+      "id": 703887663,
+      "lat": 50.9508739,
+      "lon": 11.5979793
+    },
+    {
+      "type": "node",
+      "id": 703887666,
+      "lat": 50.950922,
+      "lon": 11.597878
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-04T01:44:02.000Z",
-    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "timestamp_osm_base": "2014-12-16T09:48:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -125,6 +125,20 @@
         1664530156,
         1664530160,
         1664530164
+      ],
+      "tags": {
+        "leisure": "swimming_pool"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317168068,
+      "nodes": [
+        3234092639,
+        3234092640,
+        3234092641,
+        3234092642,
+        3234092639
       ],
       "tags": {
         "leisure": "swimming_pool"
@@ -453,6 +467,30 @@
       "id": 1663059455,
       "lat": 50.9204649,
       "lon": 11.5972968
+    },
+    {
+      "type": "node",
+      "id": 3234092639,
+      "lat": 50.9276924,
+      "lon": 11.6004126
+    },
+    {
+      "type": "node",
+      "id": 3234092640,
+      "lat": 50.927638,
+      "lon": 11.6005212
+    },
+    {
+      "type": "node",
+      "id": 3234092641,
+      "lat": 50.9276012,
+      "lon": 11.6004745
+    },
+    {
+      "type": "node",
+      "id": 3234092642,
+      "lat": 50.9276593,
+      "lon": 11.6003683
     },
     {
       "type": "node",

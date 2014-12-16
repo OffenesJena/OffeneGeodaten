@@ -1,0 +1,50 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 221263931,
+      "nodes": [
+        1378630651,
+        1378630654,
+        2303068821,
+        2303100199,
+        1378630651
+      ],
+      "tags": {
+        "amenity": "health_centre",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1378630651,
+      "lat": 50.8839892,
+      "lon": 11.6192395
+    },
+    {
+      "type": "node",
+      "id": 1378630654,
+      "lat": 50.8838777,
+      "lon": 11.6189988
+    },
+    {
+      "type": "node",
+      "id": 2303068821,
+      "lat": 50.8835383,
+      "lon": 11.6194221
+    },
+    {
+      "type": "node",
+      "id": 2303100199,
+      "lat": 50.8836466,
+      "lon": 11.6196635
+    }
+  ]
+}

@@ -1,0 +1,2344 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:28.555Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/259258143",
+      "properties": {
+        "@id": "node/259258143",
+        "amenity": "restaurant",
+        "created_by": "JOSM",
+        "name": "Ammerbacher Hof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5580598,
+          50.9047205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262876410",
+      "properties": {
+        "@id": "node/262876410",
+        "addr:city": "Jena",
+        "addr:housenumber": "14",
+        "addr:postcode": "07749",
+        "addr:street": "Kunitzer Straße",
+        "amenity": "restaurant",
+        "contact:website": "http://www.trattoria-italia.de",
+        "cuisine": "italian",
+        "name": "Trattoria Italia",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6046149,
+          50.9328198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279343818",
+      "properties": {
+        "@id": "node/279343818",
+        "amenity": "restaurant",
+        "cuisine": "fine_dining",
+        "is_in": "F-Haus",
+        "name": "Zum Löwen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5821861,
+          50.9295554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281678058",
+      "properties": {
+        "@id": "node/281678058",
+        "addr:housename": "Forsthaus",
+        "addr:housenumber": "88",
+        "addr:postcode": "07745",
+        "addr:street": "Forstweg",
+        "amenity": "restaurant",
+        "contact:website": "http://www.forsthaus-jena.de",
+        "cuisine": "german",
+        "name": "Forsthaus",
+        "opening_hours": "We-Su 11:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5552237,
+          50.9232087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286684578",
+      "properties": {
+        "@id": "node/286684578",
+        "amenity": "restaurant",
+        "name": "Landgrafen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5795059,
+          50.9365189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292154209",
+      "properties": {
+        "@id": "node/292154209",
+        "addr:city": "Jena",
+        "addr:housenumber": "13",
+        "addr:postcode": "07743",
+        "addr:street": "Jenergasse",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Wein-Tanne",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5862577,
+          50.9295892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297902256",
+      "properties": {
+        "@id": "node/297902256",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "99",
+        "addr:postcode": "07749",
+        "addr:street": "Am Jenzig",
+        "amenity": "restaurant",
+        "name": "Jenzighaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6225298,
+          50.9386648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299806760",
+      "properties": {
+        "@id": "node/299806760",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/dahemejena",
+        "contact:website": "http://www.daheme-jena.de",
+        "cuisine": "regional",
+        "name": "Daheme",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5825561,
+          50.9297099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299807449",
+      "properties": {
+        "@id": "node/299807449",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "restaurant",
+        "contact:email": "post@stilbruch-jena.de",
+        "contact:phone": "03641/827171",
+        "contact:website": "http://www.stilbruch-jena.de",
+        "cuisine": "regional",
+        "name": "Stilbruch",
+        "wheelchair": "no",
+        "wheelchair:description": "Nur im Sommer wenn Stühle auf der Strasse stehen. WC aber nicht zugänglich."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5823685,
+          50.9297788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299808005",
+      "properties": {
+        "@id": "node/299808005",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "07743",
+        "addr:street": "Am Heinrichsberg",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Wirtschaftswunder",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819129,
+          50.9299918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299810647",
+      "properties": {
+        "@id": "node/299810647",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "restaurant",
+        "contact:website": "http://www.ratszeise.de",
+        "cuisine": "regional",
+        "name": "Ratszeise",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875251,
+          50.9279968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300652086",
+      "properties": {
+        "@id": "node/300652086",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "restaurant",
+        "cuisine": "french;vietnamese",
+        "name": "Bel Ami",
+        "smoking": "isolated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582903,
+          50.9297663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300652498",
+      "properties": {
+        "@id": "node/300652498",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "restaurant",
+        "contact:email": "info@gattobello.de",
+        "contact:phone": "03641-229322",
+        "contact:website": "http://www.gattobello.de",
+        "cuisine": "fine_dining",
+        "name": "Gatto bello",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58268,
+          50.9298017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/306179311",
+      "properties": {
+        "@id": "node/306179311",
+        "amenity": "restaurant",
+        "name": "Carl-August"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5334672,
+          50.9448289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313415076",
+      "properties": {
+        "@id": "node/313415076",
+        "amenity": "restaurant",
+        "created_by": "Potlatch 0.10f",
+        "name": "Bauersfeld",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5868492,
+          50.9320392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315602439",
+      "properties": {
+        "@id": "node/315602439",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "restaurant",
+        "contact:phone": "03641/665187",
+        "contact:website": "http://kartoffelhaus-jena.de",
+        "cuisine": "regional",
+        "name": "Kartoffelhaus Nr. 1",
+        "phone": "+49 3641 665187",
+        "website": "http://www.kartoffelhaus-jena.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884409,
+          50.9281302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315604132",
+      "properties": {
+        "@id": "node/315604132",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "9a",
+        "addr:postcode": "07743",
+        "addr:street": "Löbdergraben",
+        "amenity": "restaurant",
+        "contact:fax": "03628/ 660666",
+        "contact:phone": "03641/ 228624",
+        "contact:website": "http://www.elsombrero.de",
+        "cuisine": "mexican",
+        "name": "El Sombrero",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589436,
+          50.9271677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/315636251",
+      "properties": {
+        "@id": "node/315636251",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "restaurant",
+        "name": "Alt Jena",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883985,
+          50.9284265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333121562",
+      "properties": {
+        "@id": "node/333121562",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "restaurant",
+        "name": "Hanfried",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884249,
+          50.9280416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340016373",
+      "properties": {
+        "@id": "node/340016373",
+        "amenity": "restaurant",
+        "cuisine": "regional;trout",
+        "name": "Zur Kunitzburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6352752,
+          50.9530213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343396701",
+      "properties": {
+        "@id": "node/343396701",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Am Heinrichsberg",
+        "amenity": "restaurant",
+        "contact:phone": "03641 / 62 80 50",
+        "contact:website": "http://www.sushifreunde.de",
+        "cuisine": "sushi",
+        "name": "Sushi Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5833677,
+          50.929744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435451910",
+      "properties": {
+        "@id": "node/435451910",
+        "amenity": "restaurant",
+        "cuisine": "fine_dining",
+        "name": "Scala",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5846709,
+          50.928835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442686686",
+      "properties": {
+        "@id": "node/442686686",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Philosophenweg",
+        "amenity": "restaurant",
+        "cafeteria": "yes",
+        "cuisine": "canteen",
+        "name": "Mensa Philosophenweg",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5843783,
+          50.9324268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/464474676",
+      "properties": {
+        "@id": "node/464474676",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:postcode": "07749",
+        "addr:street": "Am Jenzig",
+        "amenity": "restaurant",
+        "contact:website": "http://www.distel-schänke.de",
+        "name": "Distelschänke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6102608,
+          50.9363636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469100579",
+      "properties": {
+        "@id": "node/469100579",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+493641828384",
+        "cuisine": "pasta",
+        "name": "Lo Studente",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5853134,
+          50.9292782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469103039",
+      "properties": {
+        "@id": "node/469103039",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Schweizer Höhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5661637,
+          50.9289325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/492109585",
+      "properties": {
+        "@id": "node/492109585",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "102",
+        "addr:postcode": "07743",
+        "addr:street": "Erfurter Straße",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Papiermühle",
+        "tourism": "hotel",
+        "website": "http://www.papiermuehle-jena.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5579939,
+          50.937446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/498111652",
+      "properties": {
+        "@id": "node/498111652",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "restaurant",
+        "contact:email": "jena@ristorante-versilia.de",
+        "contact:fax": "03641/357792",
+        "contact:phone": "03641/357790",
+        "contact:website": "http://www.versilia-jena.de",
+        "cuisine": "pizza;pasta",
+        "name": "Pizzeria Versilia",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5821152,
+          50.9298761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621212596",
+      "properties": {
+        "@id": "node/621212596",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "Quergasse",
+        "amenity": "restaurant",
+        "contact:email": "info@zur-schweiz.de",
+        "contact:fax": "(03641) 52 05 - 111",
+        "contact:phone": "(03641) 52 05 - 0",
+        "contact:website": "http://www.zur-schweiz.de",
+        "cuisine": "regional",
+        "name": "Zur Schweiz",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5804417,
+          50.9298128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621213896",
+      "properties": {
+        "@id": "node/621213896",
+        "amenity": "restaurant",
+        "drink:club-mate": "retail",
+        "name": "Mensa",
+        "operator": "Studentenwerk Thüringen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5825923,
+          50.9287598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621215107",
+      "properties": {
+        "@id": "node/621215107",
+        "addr:street": "Holzmarkt",
+        "amenity": "restaurant",
+        "contact:website": "www.drwok-jena.de",
+        "cuisine": "thai",
+        "name": "Dr. WOK",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5853934,
+          50.9267022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621216366",
+      "properties": {
+        "@id": "node/621216366",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Rathausgasse",
+        "amenity": "restaurant",
+        "contact:website": "http://www.steakhouse-jena.de/",
+        "cuisine": "steak_house;burger",
+        "name": "Steak House Jena",
+        "opening_hours": "Mo-Sa 10:00+; Su off",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876671,
+          50.9283744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/626493148",
+      "properties": {
+        "@id": "node/626493148",
+        "amenity": "restaurant",
+        "contact:website": "http://www.stw-thueringen.de/deutsch/mensen/einrichtungen/jena/cafeteria-fh.html",
+        "cuisine": "regional",
+        "name": "EAH-Jena-Cafeteria",
+        "operator": "Studentenwerk Thüringen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5704278,
+          50.9188478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/626494870",
+      "properties": {
+        "@id": "node/626494870",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Mensa",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5667091,
+          50.916654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/634390620",
+      "properties": {
+        "@id": "node/634390620",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "131",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "amenity": "restaurant",
+        "contact:website": "http://www.dionysos-jena.de",
+        "cuisine": "greek",
+        "name": "Dionysos",
+        "opening_hours": "Mo-Fr 11:00-14:30; Mo-Fr 17:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5959304,
+          50.9448452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/679922702",
+      "properties": {
+        "@id": "node/679922702",
+        "amenity": "restaurant",
+        "name": "Nachtigall",
+        "opening_hours": "Mo-Su 12:00+; Tu off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6190798,
+          50.9621552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/715565848",
+      "properties": {
+        "@id": "node/715565848",
+        "amenity": "restaurant",
+        "name": "XXL",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5841298,
+          50.9238507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/832374196",
+      "properties": {
+        "@id": "node/832374196",
+        "amenity": "restaurant",
+        "cuisine": "italian;greek",
+        "name": "Die Taverne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5623645,
+          50.935142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932763569",
+      "properties": {
+        "@id": "node/932763569",
+        "addr:city": "Jena",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Holzmarkt",
+        "amenity": "restaurant",
+        "contact:phone": "+49 3641 443221",
+        "cuisine": "regional",
+        "name": "Roter Hirsch",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5847434,
+          50.9265206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1196895998",
+      "properties": {
+        "@id": "node/1196895998",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "name": "Vegetable",
+        "operator": "Studentenwerk Thüringen",
+        "wheelchair": "yes",
+        "wheelchair:description": "Vordere Eingangstür ist schwer alleine zu öffnen. Der Hintereingang ist aber komplett barrierefrei."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5827186,
+          50.9282952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1198045399",
+      "properties": {
+        "@id": "node/1198045399",
+        "amenity": "restaurant",
+        "drink:club-mate": "retail",
+        "name": "Cafeteria",
+        "operator": "Studentenwerk Thüringen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5814416,
+          50.9286977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1379422957",
+      "properties": {
+        "@id": "node/1379422957",
+        "addr:city": "Jena",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Unterm Markt",
+        "amenity": "restaurant",
+        "contact:website": "http://www.hoennger.com/index.php?Itemid=23&id=25&option=com_content&task=view",
+        "cuisine": "regional",
+        "name": "Bistro \"Strammer Max\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589412,
+          50.9276968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1494411791",
+      "properties": {
+        "@id": "node/1494411791",
+        "addr:city": "Cospeda",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "07751",
+        "addr:street": "Jenaer Straße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Gasthaus zur Linde",
+        "opening_hours": "Tu-Su 11:30-23:00",
+        "phone": "+49 3641 820350",
+        "website": "www.cospeda-online.de/tou_gast_linde.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5598358,
+          50.9490908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1670964151",
+      "properties": {
+        "@id": "node/1670964151",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Poseidon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5724424,
+          50.9025731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1670964208",
+      "properties": {
+        "@id": "node/1670964208",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "New Asia Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.572408,
+          50.9023926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1677248014",
+      "properties": {
+        "@id": "node/1677248014",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "07743",
+        "addr:street": "Grietgasse",
+        "amenity": "restaurant",
+        "contact:phone": "+49 3641 441011",
+        "contact:website": "http://www.hercules-jena.de/",
+        "cuisine": "greek",
+        "name": "Hercules",
+        "opening_hours": "Mo-Su 11:00-14:30, 17:30-24:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881228,
+          50.926404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1717855213",
+      "properties": {
+        "@id": "node/1717855213",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Zum Saalestrand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.579482,
+          50.9158837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1833522108",
+      "properties": {
+        "@id": "node/1833522108",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "restaurant",
+        "contact:phone": "+49 (3641) 420333",
+        "cuisine": "indian",
+        "name": "Taj of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881844,
+          50.9276868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1879637788",
+      "properties": {
+        "@id": "node/1879637788",
+        "amenity": "restaurant",
+        "name": "Casino Beutenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5697558,
+          50.9093521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294659320",
+      "properties": {
+        "@id": "node/2294659320",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Saalepark Catering, Kantine & Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6107225,
+          50.9470184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2294664179",
+      "properties": {
+        "@id": "node/2294664179",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Restaurant im Saalepark",
+        "opening_hours": "Mo-Fr 11:30-13:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6100459,
+          50.9469991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2332844807",
+      "properties": {
+        "@id": "node/2332844807",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5963966,
+          50.9330847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2422404658",
+      "properties": {
+        "@id": "node/2422404658",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "07745",
+        "addr:street": "Magdelstieg",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Roma",
+        "url": "http://www.pizzaroma-jena.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5725896,
+          50.9239343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2457975292",
+      "properties": {
+        "@id": "node/2457975292",
+        "amenity": "restaurant",
+        "name": "Ristorante il Ponte Pizzeria",
+        "wheelchair": "limited",
+        "wheelchair:description": "Stufen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5862334,
+          50.9267531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2498627904",
+      "properties": {
+        "@id": "node/2498627904",
+        "amenity": "restaurant",
+        "name": "Zur Sonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877755,
+          50.9277221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511163940",
+      "properties": {
+        "@id": "node/2511163940",
+        "addr:city": "Jena",
+        "addr:housenumber": "1 - 3",
+        "addr:postcode": "07745",
+        "addr:street": "Friedrich-Zucker-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Bella Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5727553,
+          50.9025529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2520894095",
+      "properties": {
+        "@id": "node/2520894095",
+        "addr:city": "Jena",
+        "addr:housename": "Pension und Restaurant Burgblick",
+        "addr:housenumber": "20a",
+        "addr:postcode": "07751",
+        "addr:street": "Alte Dorfstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+493641336716",
+        "contact:website": "http://www.pensionburgblick.de",
+        "cuisine": "regional",
+        "name": "Pension und Restaurant Burgblick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6317193,
+          50.8878308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610144582",
+      "properties": {
+        "@id": "node/2610144582",
+        "amenity": "restaurant",
+        "name": "Globus-Gastronomie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.509631,
+          50.9580051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2650767613",
+      "properties": {
+        "@id": "node/2650767613",
+        "addr:city": "Jena",
+        "addr:housenumber": "6",
+        "addr:postcode": "07747",
+        "addr:street": "Ernst-Thälmann-Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Schwarzer Adler",
+        "opening_hours": "Mo-Sa 16:30+; Su 11:30+; We off",
+        "wikipedia": "de:Lobeda#Gasthof .E2.80.9ESchwarzer Adler.E2.80.9C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6062479,
+          50.8938349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2754803104",
+      "properties": {
+        "@id": "node/2754803104",
+        "amenity": "restaurant",
+        "name": "Deutsche Eiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6613465,
+          50.932041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2900399379",
+      "properties": {
+        "@id": "node/2900399379",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "07743",
+        "addr:street": "Grietgasse",
+        "amenity": "restaurant",
+        "contact:fax": "+49 3641 823588",
+        "contact:phone": "+49 3641 823588",
+        "contact:website": "http://shanghai-jena.de",
+        "cuisine": "asian",
+        "name": "Shanghai",
+        "opening_hours": "Mo 11:00-15:00; Tu-Su 11:00-15:00,17:30-22:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5883833,
+          50.9264058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2992969634",
+      "properties": {
+        "@id": "node/2992969634",
+        "addr:city": "Jena",
+        "addr:housenumber": "95",
+        "addr:postcode": "07749",
+        "addr:street": "Wöllnitzer Straße",
+        "amenity": "restaurant",
+        "contact:website": "http://aussicht-jena.de/",
+        "cuisine": "regional",
+        "name": "Schöne Aussicht",
+        "opening_hours": "Tu-Fr 11:00-14:00,17:00+;Sa 11:00+;Su,PH 10:00-20:00",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965294,
+          50.9039088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3190517689",
+      "properties": {
+        "@id": "node/3190517689",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/burgerstore.room01",
+        "contact:google_plus": "https://plus.google.com/103303858612561515684/",
+        "contact:phone": "+49 3641 6390895",
+        "contact:website": "http://www.burgerstore-room01.de",
+        "cuisine": "burger",
+        "name": "Burgerstore Room N° 01",
+        "opening_hours": "Mo-Sa 11:30-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5808925,
+          50.9294682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23715132",
+      "properties": {
+        "@id": "way/23715132",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07751",
+        "addr:street": "Alter Handelsweg",
+        "addr:suburb": "Maua",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:website": "http://goldenes-schiff-maua.de/",
+        "name": "Goldenes Schiff"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5980518,
+              50.8675688
+            ],
+            [
+              11.5980678,
+              50.867393
+            ],
+            [
+              11.5984683,
+              50.8674075
+            ],
+            [
+              11.5984483,
+              50.8675072
+            ],
+            [
+              11.5982156,
+              50.8674942
+            ],
+            [
+              11.5982083,
+              50.8675745
+            ],
+            [
+              11.5980518,
+              50.8675688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27505219",
+      "properties": {
+        "@id": "way/27505219",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Lutherplatz",
+        "amenity": "restaurant",
+        "building": "hotel",
+        "contact:email": "hotel@schwarzer-baer-jena.de",
+        "contact:fax": "03641/406113",
+        "contact:phone": "03641/4060-0",
+        "cuisine": "fine_dining",
+        "historic": "yes",
+        "name": "Hotel Schwarzer Bär",
+        "tourism": "hotel",
+        "url": "http://www.schwarzer-baer-jena.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5905529,
+              50.9301324
+            ],
+            [
+              11.5901592,
+              50.9302221
+            ],
+            [
+              11.590189,
+              50.9303126
+            ],
+            [
+              11.5901961,
+              50.9303344
+            ],
+            [
+              11.5901253,
+              50.9304824
+            ],
+            [
+              11.5900885,
+              50.9304815
+            ],
+            [
+              11.5901016,
+              50.9305535
+            ],
+            [
+              11.5900575,
+              50.9305572
+            ],
+            [
+              11.5900838,
+              50.9306557
+            ],
+            [
+              11.5902397,
+              50.9306479
+            ],
+            [
+              11.5902264,
+              50.9305519
+            ],
+            [
+              11.5902684,
+              50.930551
+            ],
+            [
+              11.5906333,
+              50.9306255
+            ],
+            [
+              11.5907108,
+              50.9304369
+            ],
+            [
+              11.5906821,
+              50.9303671
+            ],
+            [
+              11.5905529,
+              50.9301324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35957988",
+      "properties": {
+        "@id": "way/35957988",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Karl-Liebknecht-Straße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "german",
+        "historic": "building",
+        "name": "Grüne Tanne",
+        "url": "http://www.gasthaus-gruene-tanne.de",
+        "wikipedia:de": "Grüne_Tanne"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5967386,
+              50.9285358
+            ],
+            [
+              11.5969239,
+              50.9285067
+            ],
+            [
+              11.5969792,
+              50.9286474
+            ],
+            [
+              11.5967939,
+              50.9286765
+            ],
+            [
+              11.5967386,
+              50.9285358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111978119",
+      "properties": {
+        "@id": "way/111978119",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Göschwitzer Straße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "info@pausenstube.de",
+        "contact:fax": "+49 3641 574943",
+        "contact:phone": "+49 3641 574943",
+        "contact:website": "http://pausenstube.de/",
+        "cuisine": "german",
+        "name": "Peggys Pausenstube",
+        "opening_hours": "Mo-Fr 07:00-15:00; PH off"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5932193,
+              50.8905931
+            ],
+            [
+              11.5934774,
+              50.8906138
+            ],
+            [
+              11.5934906,
+              50.8905486
+            ],
+            [
+              11.5932324,
+              50.8905279
+            ],
+            [
+              11.5932268,
+              50.8905557
+            ],
+            [
+              11.5932193,
+              50.8905931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120782726",
+      "properties": {
+        "@id": "way/120782726",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "111",
+        "addr:postcode": "07749",
+        "addr:street": "Löbstedter Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "info@bowlingroma.de",
+        "contact:fax": "+49 3641 429014",
+        "contact:phone": "+49 3641 42900",
+        "contact:website": "http://www.bowlingroma.de",
+        "cuisine": "italian",
+        "name": "Bowling Roma",
+        "opening_hours": "Mo-We 16:00-24:00;Th 15:00-24:00; Fr 16:00-24:00; Sa 00:00-01:00,15:00-24:00; Su 00:00-02:00,10:00-24:00",
+        "sport": "10pin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.612749,
+              50.9482371
+            ],
+            [
+              11.6124433,
+              50.9480719
+            ],
+            [
+              11.6128928,
+              50.9477417
+            ],
+            [
+              11.6131908,
+              50.9479027
+            ],
+            [
+              11.6131265,
+              50.94795
+            ],
+            [
+              11.6131644,
+              50.9479704
+            ],
+            [
+              11.6130899,
+              50.9480252
+            ],
+            [
+              11.6130597,
+              50.9480089
+            ],
+            [
+              11.6128583,
+              50.9481568
+            ],
+            [
+              11.612749,
+              50.9482371
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153589975",
+      "properties": {
+        "@id": "way/153589975",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "07749",
+        "addr:street": "Turmgasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "info@fuchsturmgaststaette.de",
+        "contact:facebook": "https://www.facebook.com/FuchsturmJena",
+        "contact:fax": "+49 3641 5312515",
+        "contact:phone": "+49 3641 360606",
+        "contact:website": "http://www.fuchsturmgaststaette.de/",
+        "name": "Fuchsturm Berggaststätte",
+        "opening_hours": "We-Fr 11:00-22:00; Sa 11:00-24:00; Su 10:00-20:00",
+        "tourism": "guest_house",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6217634,
+              50.9235315
+            ],
+            [
+              11.6218959,
+              50.9235111
+            ],
+            [
+              11.6218941,
+              50.9235065
+            ],
+            [
+              11.6219104,
+              50.9234897
+            ],
+            [
+              11.6219428,
+              50.9234847
+            ],
+            [
+              11.621969,
+              50.9234948
+            ],
+            [
+              11.6219703,
+              50.9234982
+            ],
+            [
+              11.6221317,
+              50.9234734
+            ],
+            [
+              11.6221665,
+              50.9235637
+            ],
+            [
+              11.6218489,
+              50.9236125
+            ],
+            [
+              11.621854,
+              50.9236259
+            ],
+            [
+              11.6217864,
+              50.9236363
+            ],
+            [
+              11.6217761,
+              50.9236095
+            ],
+            [
+              11.6217436,
+              50.9236035
+            ],
+            [
+              11.6217352,
+              50.9235814
+            ],
+            [
+              11.6217541,
+              50.9235617
+            ],
+            [
+              11.6217733,
+              50.9235588
+            ],
+            [
+              11.6217628,
+              50.9235315
+            ],
+            [
+              11.6217634,
+              50.9235315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161193132",
+      "properties": {
+        "@id": "way/161193132",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07749",
+        "addr:street": "Edelhofgasse",
+        "addr:suburb": "Ziegenhain",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/pages/Gaststätte-Zum-Ziegenhainer/134390596615865",
+        "cuisine": "german",
+        "email": "info@zum-ziegenhainer.de",
+        "fax": "03641 / 20 89 85",
+        "internet_access": "wlan",
+        "name": "Zum Ziegenhainer",
+        "phone": "03641 / 36 04 73",
+        "smoking": "separated",
+        "source": "Aerowest",
+        "website": "http://www.zum-ziegenhainer.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6240939,
+              50.919973
+            ],
+            [
+              11.6243483,
+              50.9199592
+            ],
+            [
+              11.6243364,
+              50.9198712
+            ],
+            [
+              11.6240819,
+              50.919885
+            ],
+            [
+              11.6240939,
+              50.919973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166577720",
+      "properties": {
+        "@id": "way/166577720",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "07749",
+        "addr:street": "Burgweg",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:website": "http://www.wilhelmshöhe-jena.de",
+        "name": "Wilhelmshöhe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6066496,
+              50.9249408
+            ],
+            [
+              11.6067972,
+              50.9251312
+            ],
+            [
+              11.6067334,
+              50.9251509
+            ],
+            [
+              11.6067902,
+              50.9252243
+            ],
+            [
+              11.6067011,
+              50.9252519
+            ],
+            [
+              11.6066349,
+              50.9251664
+            ],
+            [
+              11.6065916,
+              50.9251799
+            ],
+            [
+              11.60655,
+              50.9251262
+            ],
+            [
+              11.6064564,
+              50.9251551
+            ],
+            [
+              11.6063753,
+              50.9250505
+            ],
+            [
+              11.6065123,
+              50.9250081
+            ],
+            [
+              11.6064968,
+              50.9249881
+            ],
+            [
+              11.6066496,
+              50.9249408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199113173",
+      "properties": {
+        "@id": "way/199113173",
+        "addr:city": "Jena",
+        "addr:housenumber": "25",
+        "addr:postcode": "07747",
+        "addr:street": "Lobdeburgweg",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Lobdeburgklause",
+        "opening_hours": "We,Th 12:00-22:00; Fr,Sa 12:00-24:00; Su 09:00-20:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6184369,
+              50.890679
+            ],
+            [
+              11.6185982,
+              50.8906541
+            ],
+            [
+              11.618665,
+              50.8906438
+            ],
+            [
+              11.6186068,
+              50.8904938
+            ],
+            [
+              11.6183787,
+              50.890529
+            ],
+            [
+              11.6184369,
+              50.890679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208713876",
+      "properties": {
+        "@id": "way/208713876",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Talschänke"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6031682,
+              50.9059345
+            ],
+            [
+              11.6032613,
+              50.9059305
+            ],
+            [
+              11.6032553,
+              50.9058837
+            ],
+            [
+              11.6033282,
+              50.90588
+            ],
+            [
+              11.603324,
+              50.9058474
+            ],
+            [
+              11.6033227,
+              50.9058117
+            ],
+            [
+              11.6031557,
+              50.9058189
+            ],
+            [
+              11.6031682,
+              50.9059345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246389745",
+      "properties": {
+        "@id": "way/246389745",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07751",
+        "addr:street": "Am Goethepark",
+        "addr:suburb": "Drackendorf",
+        "amenity": "restaurant",
+        "biergarten": "yes",
+        "building": "yes",
+        "contact:email": "robro71@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/pages/Landgastst%C3%A4tte-am-Goethepark-Drackendorf/190013651019058",
+        "contact:fax": "03641-6359800",
+        "contact:phone": "03641-332745",
+        "contact:website": "http://www.landgaststaette-drackendorf.de",
+        "cuisine": "german",
+        "name": "Landgaststätte am Goethepark",
+        "opening_hours": "Tu-Sa 11:00-14:00,16:30-23:00; Su 11:00-22:00",
+        "start_date": "1894",
+        "wheelchair": "limited",
+        "wheelchair:description": "Zugang über den Hintereingang, Toilette nur für Fußgänger"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6311439,
+              50.8882878
+            ],
+            [
+              11.631285,
+              50.8881227
+            ],
+            [
+              11.6312051,
+              50.8880955
+            ],
+            [
+              11.631039,
+              50.888039
+            ],
+            [
+              11.6309616,
+              50.8881295
+            ],
+            [
+              11.6311064,
+              50.8881788
+            ],
+            [
+              11.6310427,
+              50.8882534
+            ],
+            [
+              11.6311439,
+              50.8882878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246838049",
+      "properties": {
+        "@id": "way/246838049",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "07743",
+        "addr:street": "Oberlauengasse",
+        "alt_name": "Haus im Sack",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:phone": "+493641229454",
+        "contact:website": "http://www.weinbauernhaus-im-sack.de",
+        "name": "Weinbauernhaus im Sack",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5893596,
+              50.9283138
+            ],
+            [
+              11.5892262,
+              50.9283147
+            ],
+            [
+              11.5892269,
+              50.9282604
+            ],
+            [
+              11.5893577,
+              50.9282558
+            ],
+            [
+              11.5893596,
+              50.9283138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246838050",
+      "properties": {
+        "@id": "way/246838050",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Oberlauengasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "zur.noll@t-online.de",
+        "contact:facebook": "https://www.facebook.com/Noll.Jena",
+        "contact:fax": "03641-597720",
+        "contact:phone": "03641-59770",
+        "contact:website": "http://www.zur-noll.de",
+        "cuisine": "german",
+        "name": "Zur Noll",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5891701,
+              50.9281567
+            ],
+            [
+              11.5894461,
+              50.9281398
+            ],
+            [
+              11.5894357,
+              50.9280919
+            ],
+            [
+              11.5894862,
+              50.9280876
+            ],
+            [
+              11.5894683,
+              50.9280174
+            ],
+            [
+              11.5893428,
+              50.9280186
+            ],
+            [
+              11.5891427,
+              50.928018
+            ],
+            [
+              11.5891701,
+              50.9281567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247013948",
+      "properties": {
+        "@id": "way/247013948",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Jenergasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/cafequirinus",
+        "drink:club-mate": "served",
+        "name": "Café Quirinus",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5859782,
+              50.9294251
+            ],
+            [
+              11.5861013,
+              50.9294244
+            ],
+            [
+              11.5860997,
+              50.9293081
+            ],
+            [
+              11.5859767,
+              50.9293088
+            ],
+            [
+              11.5859782,
+              50.9294251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249113585",
+      "properties": {
+        "@id": "way/249113585",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "07749",
+        "addr:street": "Fuchslöcherstraße",
+        "addr:suburb": "Ost",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6253983,
+              50.9308982
+            ],
+            [
+              11.6253966,
+              50.9309794
+            ],
+            [
+              11.625644,
+              50.9309782
+            ],
+            [
+              11.6256363,
+              50.9308971
+            ],
+            [
+              11.6253983,
+              50.9308982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256554010",
+      "properties": {
+        "@id": "way/256554010",
+        "addr:city": "Jena",
+        "addr:housenumber": "6",
+        "addr:postcode": "07749",
+        "addr:street": "Oskar-Zachau-Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Panoramagaststätte Schlegelsberg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6159532,
+              50.9307132
+            ],
+            [
+              11.6161717,
+              50.9305303
+            ],
+            [
+              11.6163342,
+              50.9306074
+            ],
+            [
+              11.6161157,
+              50.9307903
+            ],
+            [
+              11.6159532,
+              50.9307132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290662351",
+      "properties": {
+        "@id": "way/290662351",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07747",
+        "addr:street": "Salvador-Allende-Platz",
+        "addr:suburb": "Lobeda-Ost",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "1",
+        "contact:facebook": "https://www.facebook.com/pages/Tunnelblick/418921544906642",
+        "cuisine": "german",
+        "name": "Gaststätte „Tunnelblick“"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6186228,
+              50.8815211
+            ],
+            [
+              11.6186085,
+              50.8815142
+            ],
+            [
+              11.6187282,
+              50.8814151
+            ],
+            [
+              11.6188636,
+              50.8814802
+            ],
+            [
+              11.6188388,
+              50.8815007
+            ],
+            [
+              11.6188758,
+              50.8815185
+            ],
+            [
+              11.6188551,
+              50.8815355
+            ],
+            [
+              11.6187809,
+              50.881597
+            ],
+            [
+              11.6186228,
+              50.8815211
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

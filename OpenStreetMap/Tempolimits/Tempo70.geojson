@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:43:23.537Z",
+  "timestamp": "2014-12-16T10:45:48.875Z",
   "features": [
     {
       "type": "Feature",
@@ -63,8 +63,11 @@
       "properties": {
         "@id": "way/24021375",
         "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "2",
         "maxspeed": "70",
-        "ref": "L 1060"
+        "ref": "L 1060",
+        "turn:lanes:backward": "left|none"
       },
       "geometry": {
         "type": "LineString",
@@ -82,16 +85,8 @@
             50.9713372
           ],
           [
-            11.522643,
-            50.9716573
-          ],
-          [
-            11.5224572,
-            50.9719515
-          ],
-          [
-            11.5218905,
-            50.972895
+            11.5227675,
+            50.9714745
           ]
         ]
       }
@@ -102,6 +97,8 @@
       "properties": {
         "@id": "way/28279665",
         "highway": "secondary",
+        "lanes": "2",
+        "lanes:backward": "1",
         "maxspeed": "70",
         "ref": "L 1060"
       },
@@ -145,16 +142,8 @@
             50.9693333
           ],
           [
-            11.5230939,
-            50.9706035
-          ],
-          [
-            11.52305,
-            50.9707559
-          ],
-          [
-            11.5230447,
-            50.9708065
+            11.5231191,
+            50.9705688
           ]
         ]
       }
@@ -2269,8 +2258,8 @@
             50.8933831
           ],
           [
-            11.6021996,
-            50.8930225
+            11.6022015,
+            50.8930106
           ],
           [
             11.6022768,
@@ -2685,6 +2674,123 @@
           [
             11.5981602,
             50.9697182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317005330",
+      "properties": {
+        "@id": "way/317005330",
+        "access:lanes": "yes|no|yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5231046,
+            50.9706285
+          ],
+          [
+            11.5230669,
+            50.970734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317005331",
+      "properties": {
+        "@id": "way/317005331",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5230669,
+            50.970734
+          ],
+          [
+            11.5230447,
+            50.9708065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317005334",
+      "properties": {
+        "@id": "way/317005334",
+        "access:lanes": "yes|no|yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060",
+        "traffic_calming": "island"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5231191,
+            50.9705688
+          ],
+          [
+            11.5231108,
+            50.9706029
+          ],
+          [
+            11.5231046,
+            50.9706285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317005335",
+      "properties": {
+        "@id": "way/317005335",
+        "highway": "secondary",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "maxspeed": "70",
+        "ref": "L 1060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5227675,
+            50.9714745
+          ],
+          [
+            11.522643,
+            50.9716573
+          ],
+          [
+            11.5224572,
+            50.9719515
+          ],
+          [
+            11.5218905,
+            50.972895
           ]
         ]
       }

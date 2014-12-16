@@ -1,0 +1,94 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 340006114,
+      "lat": 50.9319421,
+      "lon": 11.5760336,
+      "tags": {
+        "amenity": "dentist",
+        "name": "Zahnarztpraxis Michael Rothammel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 628635490,
+      "lat": 50.9305449,
+      "lon": 11.5710423,
+      "tags": {
+        "amenity": "dentist",
+        "name": "Zahnarztpraxis Sandra Trinks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2182289996,
+      "lat": 50.9102583,
+      "lon": 11.5725517,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "69",
+        "addr:postcode": "07745",
+        "addr:street": "Hermann-Löns-Straße",
+        "amenity": "dentist",
+        "contact:phone": "+49 (0)3641 606590",
+        "contact:website": "http://www.zahn-fuchs.de/inh/0start.htm",
+        "name": "Praxis Dr. med. Gabriele Fuchs",
+        "opening_hours": "Mo,We 9:00-13:00,15:00-19:00;Tu 8:00-12:00,14:00-16:00;Tu 8:00-13:00;Fr 8:00-12:00,13:00-15:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153361170,
+      "nodes": [
+        1660695989,
+        1660695987,
+        1660695967,
+        1660695969,
+        1660695989
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "07749",
+        "addr:street": "Jenertal",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "Dr. med. Th. Egerer",
+        "source": "Aerowest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1660695967,
+      "lat": 50.9209192,
+      "lon": 11.5940271
+    },
+    {
+      "type": "node",
+      "id": 1660695969,
+      "lat": 50.9209279,
+      "lon": 11.594232
+    },
+    {
+      "type": "node",
+      "id": 1660695987,
+      "lat": 50.9210218,
+      "lon": 11.5940162
+    },
+    {
+      "type": "node",
+      "id": 1660695989,
+      "lat": 50.9210305,
+      "lon": 11.5942212
+    }
+  ]
+}

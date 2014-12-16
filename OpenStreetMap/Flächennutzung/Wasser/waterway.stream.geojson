@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:44:25.923Z",
+  "timestamp": "2014-12-16T10:48:23.610Z",
   "features": [
     {
       "type": "Feature",
@@ -1043,6 +1043,10 @@
           [
             11.6193401,
             50.9340174
+          ],
+          [
+            11.6188865,
+            50.9340407
           ],
           [
             11.6188144,
@@ -3095,8 +3099,8 @@
             50.9322053
           ],
           [
-            11.6388561,
-            50.9322014
+            11.6388752,
+            50.9322002
           ],
           [
             11.6387057,

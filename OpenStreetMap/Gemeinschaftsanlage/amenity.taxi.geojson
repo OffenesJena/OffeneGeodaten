@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:45.582Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/292149651",
+      "properties": {
+        "@id": "node/292149651",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.587422,
+          50.9246329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292149652",
+      "properties": {
+        "@id": "node/292149652",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5853462,
+          50.9275393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/411616924",
+      "properties": {
+        "@id": "node/411616924",
+        "amenity": "taxi",
+        "name": "Standplatz Westbahnhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781723,
+          50.9238268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/651808063",
+      "properties": {
+        "@id": "node/651808063",
+        "amenity": "taxi",
+        "capacity": "4",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6213785,
+          50.8860728
+        ]
+      }
+    }
+  ]
+}

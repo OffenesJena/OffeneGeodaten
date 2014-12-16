@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:55.278Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/571153806",
+      "properties": {
+        "@id": "node/571153806",
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Paradies (Volksbad)",
+        "operator": "teilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5858229,
+          50.9259689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571154955",
+      "properties": {
+        "@id": "node/571154955",
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Jahnstraße (Kegelbahn)",
+        "operator": "teilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5776261,
+          50.9286976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571155745",
+      "properties": {
+        "@id": "node/571155745",
+        "amenity": "car_sharing",
+        "capacity": "2",
+        "operator": "teilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5766208,
+          50.9307807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571159297",
+      "properties": {
+        "@id": "node/571159297",
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Nollendorfer Platz",
+        "operator": "teilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894814,
+          50.9354999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571163695",
+      "properties": {
+        "@id": "node/571163695",
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Karl-Liebknecht-Straße",
+        "operator": "teilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040311,
+          50.9307298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571166606",
+      "properties": {
+        "@id": "node/571166606",
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "name": "Max-Steenbeck-Straße",
+        "operator": "teilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774866,
+          50.9012077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/915732723",
+      "properties": {
+        "@id": "node/915732723",
+        "amenity": "car_sharing",
+        "contact:website": "http://www.teilauto.net/",
+        "name": "Car Sharing",
+        "operator": "TeilAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5924364,
+          50.9294708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2578083843",
+      "properties": {
+        "@id": "node/2578083843",
+        "amenity": "car_sharing",
+        "capacity": "2",
+        "name": "Paradiesbahnhof - Elektro",
+        "operator": "Flinkster",
+        "ref": "PBF-ELEKTRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5861703,
+          50.9256658
+        ]
+      }
+    }
+  ]
+}

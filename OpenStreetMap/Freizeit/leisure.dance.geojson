@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:44:05.202Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/631770611",
+      "properties": {
+        "@id": "node/631770611",
+        "dance:teaching": "yes",
+        "leisure": "dance",
+        "name": "Tanzschule Hartwig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5765082,
+          50.9305948
+        ]
+      }
+    }
+  ]
+}

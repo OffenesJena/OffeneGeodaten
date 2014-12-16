@@ -1,0 +1,552 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:47.570Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/344455533",
+      "properties": {
+        "@id": "node/344455533",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "Carl-Zeiß-Platz",
+        "amenity": "library",
+        "contact:website": "http://stadtbibliothek.jena.de",
+        "name": "Ernst Abbe Bücherei",
+        "ref:isil": "DE-J82",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5803443,
+          50.9269558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/639177865",
+      "properties": {
+        "@id": "node/639177865",
+        "amenity": "library",
+        "contact:website": "http://www.fh-jena.de/fhj/bib/de/Seiten/default.aspx",
+        "name": "Bibliothek der EAH Jena",
+        "operator": "Ernst-Abbe-Hochschule Jena",
+        "ref:isil": "DE-J59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5699007,
+          50.918378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733176",
+      "properties": {
+        "@id": "node/673733176",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Kinder- und Jugendmedizin 'Jussuf Ibrahim'",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5791099,
+          50.9251748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733261",
+      "properties": {
+        "@id": "node/673733261",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Sportwissenschaften"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5908174,
+          50.9193118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733263",
+      "properties": {
+        "@id": "node/673733263",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07745",
+        "addr:street": "Berggasse",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Geschichte der Medizin, Naturwissenschaft und Technik",
+        "ref:isil": "DE-27-47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5817972,
+          50.9245346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733273",
+      "properties": {
+        "@id": "node/673733273",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Rechts-, Wirtschafts- und Sozialwissenschaften",
+        "ref:isil": "DE-27-33;DE-27-142",
+        "wheelchair": "yes",
+        "wheelchair:description": "Die unterste Ebene der Bibliothek (Ebene -1) ist über der Fahrstuhl erreichbar, bedarf jedoch einer Schlüsselaktivierung eines netten THULB-Mitarbeiter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5813679,
+          50.9290485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733275",
+      "properties": {
+        "@id": "node/673733275",
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Ernst-Abbe-Platz",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Naturwissenschaften",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-50",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behindertengerechte Toiletten sind auf der Ebene des Instituts für Mathematik und Informatik im Haus vorhanden. Diese müssen jedoch von Institutsmitarbeitern aufgeschlossene werden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582544,
+          50.9278263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733350",
+      "properties": {
+        "@id": "node/673733350",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Hautkrankheiten",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5646654,
+          50.9346946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733352",
+      "properties": {
+        "@id": "node/673733352",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Hals-, Nasen- und Ohrenheilkunde",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5801233,
+          50.9332231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673733353",
+      "properties": {
+        "@id": "node/673733353",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Physik",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-16",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5836177,
+          50.9340684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/673837332",
+      "properties": {
+        "@id": "node/673837332",
+        "amenity": "library",
+        "name": "ThULB Zweigbibliothek Urologie",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-136",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5796625,
+          50.9334478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1687566862",
+      "properties": {
+        "@id": "node/1687566862",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "07745",
+        "addr:street": "Anna-Siemsen-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "library",
+        "contact:email": "info@bibliothek-winzerla.de",
+        "contact:fax": "03641/697236",
+        "contact:phone": "03641/697238",
+        "contact:website": "http://www.bibliothek-winzerla.de",
+        "name": "Ortsteilbibliothek Winzerla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757499,
+          50.8984934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49403588",
+      "properties": {
+        "@id": "way/49403588",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Humboldtstraße",
+        "amenity": "library",
+        "building": "yes",
+        "name": "ThULB Zweigbibliothek Chemie",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5759053,
+              50.9325362
+            ],
+            [
+              11.5758459,
+              50.9323843
+            ],
+            [
+              11.5753141,
+              50.9324668
+            ],
+            [
+              11.5752947,
+              50.9324171
+            ],
+            [
+              11.5750873,
+              50.9324493
+            ],
+            [
+              11.575166,
+              50.9326509
+            ],
+            [
+              11.5759053,
+              50.9325362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53238169",
+      "properties": {
+        "@id": "way/53238169",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Philosophenweg",
+        "amenity": "library",
+        "building": "yes",
+        "name": "ThULB Zweigbibliothek Psychiatrie",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27-6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5837159,
+              50.9322762
+            ],
+            [
+              11.5839713,
+              50.9322423
+            ],
+            [
+              11.58395,
+              50.9321783
+            ],
+            [
+              11.5836946,
+              50.9322121
+            ],
+            [
+              11.5837159,
+              50.9322762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173579109",
+      "properties": {
+        "@id": "way/173579109",
+        "amenity": "library",
+        "building": "hospital",
+        "name": "ThULB Teilbibliothek Medizin",
+        "ref:isil": "DE-27-43"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6191533,
+              50.885521
+            ],
+            [
+              11.6194005,
+              50.8853221
+            ],
+            [
+              11.6191165,
+              50.8851808
+            ],
+            [
+              11.6188939,
+              50.8853599
+            ],
+            [
+              11.6191095,
+              50.8854672
+            ],
+            [
+              11.619085,
+              50.885487
+            ],
+            [
+              11.6191533,
+              50.885521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201322986",
+      "properties": {
+        "@id": "way/201322986",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:postcode": "07743",
+        "addr:street": "Bibliotheksplatz",
+        "amenity": "library",
+        "building": "library",
+        "contact:website": "http://www.thulb.uni-jena.de/",
+        "name": "Thüringer Universitäts und Landesbibliothek (ThULB)",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref:isil": "DE-27",
+        "wheelchair": "yes",
+        "wikidata": "Q1255096",
+        "wikipedia": "de:Thüringer Universitäts- und Landesbibliothek",
+        "wikipedia:de": "Thüringer Universitäts- und Landesbibliothek"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5872739,
+              50.9309029
+            ],
+            [
+              11.587538,
+              50.9309096
+            ],
+            [
+              11.587538,
+              50.9308928
+            ],
+            [
+              11.5878545,
+              50.9308921
+            ],
+            [
+              11.5878342,
+              50.9308605
+            ],
+            [
+              11.5879208,
+              50.930853
+            ],
+            [
+              11.5879956,
+              50.9309043
+            ],
+            [
+              11.5881773,
+              50.9306287
+            ],
+            [
+              11.5881453,
+              50.930626
+            ],
+            [
+              11.5882212,
+              50.9303578
+            ],
+            [
+              11.5880907,
+              50.930349
+            ],
+            [
+              11.5880811,
+              50.9303612
+            ],
+            [
+              11.5880715,
+              50.9303564
+            ],
+            [
+              11.5880713,
+              50.9302232
+            ],
+            [
+              11.587855,
+              50.9302268
+            ],
+            [
+              11.5875855,
+              50.9302314
+            ],
+            [
+              11.5875027,
+              50.9302473
+            ],
+            [
+              11.5874322,
+              50.9302365
+            ],
+            [
+              11.5874119,
+              50.9302486
+            ],
+            [
+              11.5872964,
+              50.9302291
+            ],
+            [
+              11.5873434,
+              50.9306327
+            ],
+            [
+              11.5872739,
+              50.9309029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221127757",
+      "properties": {
+        "@id": "way/221127757",
+        "addr:city": "Jena",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Platanenstraße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "library",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Stadtteilbibliothek Lobeda-Ost",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6142495,
+              50.8867447
+            ],
+            [
+              11.6145257,
+              50.8865197
+            ],
+            [
+              11.6143755,
+              50.8864469
+            ],
+            [
+              11.6140992,
+              50.8866703
+            ],
+            [
+              11.6142495,
+              50.8867447
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

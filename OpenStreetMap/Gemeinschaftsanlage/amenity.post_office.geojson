@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:18.129Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/286653908",
+      "properties": {
+        "@id": "node/286653908",
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Engelplatz",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.10f",
+        "wheelchair": "no",
+        "wheelchair:description": "über Innenhof Zugang möglich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5832517,
+          50.9263943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/624260596",
+      "properties": {
+        "@id": "node/624260596",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "107",
+        "addr:postcode": "07743",
+        "addr:street": "Lutherstraße",
+        "amenity": "post_office",
+        "name": "Tip-Top-Blumen",
+        "operator": "Hermes",
+        "shop": "florist",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5712558,
+          50.9304552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632233365",
+      "properties": {
+        "@id": "node/632233365",
+        "amenity": "post_office",
+        "name": "Büromarkt Weinrich",
+        "operator": "DPD",
+        "shop": "stationery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5689498,
+          50.9193236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/941285676",
+      "properties": {
+        "@id": "node/941285676",
+        "amenity": "post_office",
+        "operator": "Deutsche Post AG",
+        "source": "OSB-Marker",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781147,
+          50.8995087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550554743",
+      "properties": {
+        "@id": "node/2550554743",
+        "amenity": "post_office",
+        "brand": "Hermes",
+        "name": "Hermes PaketShop",
+        "note:de": "Paketshop im Frechdaxx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006572,
+          50.929641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550554748",
+      "properties": {
+        "@id": "node/2550554748",
+        "amenity": "post_office",
+        "brand": "Deutsche Post AG",
+        "name": "Postshop Rosemann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6007572,
+          50.9296605
+        ]
+      }
+    }
+  ]
+}

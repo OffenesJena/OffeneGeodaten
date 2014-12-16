@@ -1,0 +1,132 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:39:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 132357021,
+      "nodes": [
+        1456114532,
+        2323645026,
+        1456114531,
+        3234656189,
+        3234656172,
+        3234656173,
+        3234653347,
+        1456114530,
+        3234653343,
+        3234653339,
+        3234653338,
+        3234656191,
+        1456114529,
+        3234653354,
+        1456114532
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "100",
+        "addr:postcode": "07745",
+        "addr:street": "Artur-Becker-Straße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "animal_shelter",
+        "contact:email": "kontakt@tierheim-jena.de",
+        "contact:fax": "+49 3641 225977",
+        "contact:google_plus": "https://plus.google.com/110309449155845505142/",
+        "contact:phone": "+49 3641 21092",
+        "contact:website": "http://www.tierheim-jena.de",
+        "landuse": "residential",
+        "name": "Tierheim Jena e. V."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456114529,
+      "lat": 50.8745229,
+      "lon": 11.590252
+    },
+    {
+      "type": "node",
+      "id": 2323645026,
+      "lat": 50.8739933,
+      "lon": 11.5891707
+    },
+    {
+      "type": "node",
+      "id": 1456114530,
+      "lat": 50.8732615,
+      "lon": 11.5911353
+    },
+    {
+      "type": "node",
+      "id": 1456114531,
+      "lat": 50.8729007,
+      "lon": 11.5898981
+    },
+    {
+      "type": "node",
+      "id": 3234653338,
+      "lat": 50.873742,
+      "lon": 11.5907986
+    },
+    {
+      "type": "node",
+      "id": 3234653339,
+      "lat": 50.8735536,
+      "lon": 11.5909304
+    },
+    {
+      "type": "node",
+      "id": 3234653343,
+      "lat": 50.8733359,
+      "lon": 11.5910828
+    },
+    {
+      "type": "node",
+      "id": 3234653347,
+      "lat": 50.8730412,
+      "lon": 11.590407
+    },
+    {
+      "type": "node",
+      "id": 3234656172,
+      "lat": 50.8729044,
+      "lon": 11.5899398
+    },
+    {
+      "type": "node",
+      "id": 3234656173,
+      "lat": 50.8730039,
+      "lon": 11.5902769
+    },
+    {
+      "type": "node",
+      "id": 3234656189,
+      "lat": 50.8729,
+      "lon": 11.5899182
+    },
+    {
+      "type": "node",
+      "id": 3234656191,
+      "lat": 50.8744812,
+      "lon": 11.5902812
+    },
+    {
+      "type": "node",
+      "id": 1456114532,
+      "lat": 50.8749648,
+      "lon": 11.5899341
+    },
+    {
+      "type": "node",
+      "id": 3234653354,
+      "lat": 50.8747256,
+      "lon": 11.5901051
+    }
+  ]
+}

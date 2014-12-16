@@ -1,0 +1,128 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 654075320,
+      "lat": 50.8817587,
+      "lon": 11.6228965,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Richard-Sorge-Straße",
+        "addr:suburb": "Lobeda-Ost",
+        "amenity": "police",
+        "name": "Polizeiwache Lobeda"
+      }
+    },
+    {
+      "type": "way",
+      "id": 50811809,
+      "nodes": [
+        648028963,
+        648028879,
+        2906955113,
+        648028965,
+        648028972,
+        2906955109,
+        2906955105,
+        648028973,
+        648028968,
+        2906955110,
+        648028970,
+        648028975,
+        648028963
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "07743",
+        "addr:street": "Am Anger",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Polizeiinspektion Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 648028879,
+      "lat": 50.9326708,
+      "lon": 11.5914308
+    },
+    {
+      "type": "node",
+      "id": 648028963,
+      "lat": 50.9326738,
+      "lon": 11.5922504
+    },
+    {
+      "type": "node",
+      "id": 648028965,
+      "lat": 50.9331243,
+      "lon": 11.5914267
+    },
+    {
+      "type": "node",
+      "id": 648028968,
+      "lat": 50.9330449,
+      "lon": 11.5916318
+    },
+    {
+      "type": "node",
+      "id": 648028970,
+      "lat": 50.9327964,
+      "lon": 11.5916341
+    },
+    {
+      "type": "node",
+      "id": 648028972,
+      "lat": 50.9331264,
+      "lon": 11.5923184
+    },
+    {
+      "type": "node",
+      "id": 648028973,
+      "lat": 50.9330462,
+      "lon": 11.5922463
+    },
+    {
+      "type": "node",
+      "id": 648028975,
+      "lat": 50.9327987,
+      "lon": 11.5922493
+    },
+    {
+      "type": "node",
+      "id": 2906955105,
+      "lat": 50.9328498,
+      "lon": 11.5923208
+    },
+    {
+      "type": "node",
+      "id": 2906955109,
+      "lat": 50.9328695,
+      "lon": 11.5924179
+    },
+    {
+      "type": "node",
+      "id": 2906955110,
+      "lat": 50.9328815,
+      "lon": 11.5916333
+    },
+    {
+      "type": "node",
+      "id": 2906955113,
+      "lat": 50.9328826,
+      "lon": 11.5914289
+    }
+  ]
+}

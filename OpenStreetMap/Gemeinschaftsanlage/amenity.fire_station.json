@@ -1,0 +1,354 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 315838258,
+      "lat": 50.960436,
+      "lon": 11.5733896,
+      "tags": {
+        "amenity": "fire_station",
+        "name": "FFW Closewitz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2924832621,
+      "lat": 50.9316066,
+      "lon": 11.590619,
+      "tags": {
+        "amenity": "fire_station",
+        "contact:website": "http://www.feuerwehr-jena-mitte.de",
+        "name": "Freiwillige Feuerwehr Jena Mitte"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38320835,
+      "nodes": [
+        452452358,
+        452452360,
+        452452361,
+        452452363,
+        2271757424,
+        452452364,
+        452452366,
+        2271757422,
+        2271757421,
+        2271757420,
+        2271757423,
+        452452358
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07745",
+        "addr:street": "Parkstraße",
+        "addr:suburb": "Göschwitz",
+        "alt_name": "Freiwillige Feuerwehr Göschwitz",
+        "amenity": "fire_station",
+        "name": "Feuerwache Süd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194827902,
+      "nodes": [
+        2053334233,
+        2053334281,
+        2053334283,
+        2053334285,
+        2053334233
+      ],
+      "tags": {
+        "amenity": "fire_station",
+        "building": "yes",
+        "historic": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258779047,
+      "nodes": [
+        2641024306,
+        2641024307,
+        2641024308,
+        2641024309,
+        2641024310,
+        2641024311,
+        2641024312,
+        2641024313,
+        2641024314,
+        2641024315,
+        2641024316,
+        2641024306
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Stadthof",
+        "addr:suburb": "Lobeda",
+        "amenity": "fire_station",
+        "building": "yes",
+        "contact:website": "http://www.feuerwehr-lobeda.de",
+        "name": "Feuerwehr Jena Lobeda"
+      }
+    },
+    {
+      "type": "way",
+      "id": 296339706,
+      "nodes": [
+        3001281516,
+        3001281517,
+        3001281518,
+        3001281519,
+        3001281516
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "2b",
+        "addr:postcode": "07749",
+        "addr:street": "Pennickental",
+        "addr:suburb": "Wöllnitz",
+        "amenity": "fire_station",
+        "building": "yes",
+        "contact:website": "http://www.feuerwehr-woellnitz.de",
+        "name": "Frewillige Feuerwehr Wöllnitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300933781,
+      "nodes": [
+        3050393156,
+        3050393152,
+        3050393151,
+        3050393158,
+        3050393156
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "15a",
+        "addr:postcode": "07743",
+        "addr:street": "Saalbahnhofstraße",
+        "amenity": "fire_station",
+        "contact:email": "feuerwehr@jena.de",
+        "contact:facebook": "https://www.facebook.com/pages/Berufsfeuerwehr-Jena/174729835920611",
+        "contact:phone": "+49 3641 49-9110",
+        "name": "Berufsfeuerwehr Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 452452358,
+      "lat": 50.8815024,
+      "lon": 11.5909926
+    },
+    {
+      "type": "node",
+      "id": 452452360,
+      "lat": 50.8816251,
+      "lon": 11.591476
+    },
+    {
+      "type": "node",
+      "id": 452452361,
+      "lat": 50.881686,
+      "lon": 11.5921737
+    },
+    {
+      "type": "node",
+      "id": 452452363,
+      "lat": 50.8819517,
+      "lon": 11.5921468
+    },
+    {
+      "type": "node",
+      "id": 452452364,
+      "lat": 50.8819849,
+      "lon": 11.5929558
+    },
+    {
+      "type": "node",
+      "id": 452452366,
+      "lat": 50.8813989,
+      "lon": 11.5931213
+    },
+    {
+      "type": "node",
+      "id": 2271757420,
+      "lat": 50.8811815,
+      "lon": 11.5914233
+    },
+    {
+      "type": "node",
+      "id": 2271757421,
+      "lat": 50.8812663,
+      "lon": 11.59268
+    },
+    {
+      "type": "node",
+      "id": 2271757422,
+      "lat": 50.881361,
+      "lon": 11.5926616
+    },
+    {
+      "type": "node",
+      "id": 2271757423,
+      "lat": 50.881386,
+      "lon": 11.5910176
+    },
+    {
+      "type": "node",
+      "id": 2271757424,
+      "lat": 50.881986,
+      "lon": 11.5926115
+    },
+    {
+      "type": "node",
+      "id": 2641024306,
+      "lat": 50.8929752,
+      "lon": 11.6071085
+    },
+    {
+      "type": "node",
+      "id": 2641024307,
+      "lat": 50.8929454,
+      "lon": 11.6070678
+    },
+    {
+      "type": "node",
+      "id": 2641024308,
+      "lat": 50.8928735,
+      "lon": 11.607076
+    },
+    {
+      "type": "node",
+      "id": 2641024309,
+      "lat": 50.8928818,
+      "lon": 11.6069262
+    },
+    {
+      "type": "node",
+      "id": 2641024310,
+      "lat": 50.8928027,
+      "lon": 11.6069115
+    },
+    {
+      "type": "node",
+      "id": 2641024311,
+      "lat": 50.8927955,
+      "lon": 11.6070857
+    },
+    {
+      "type": "node",
+      "id": 2641024312,
+      "lat": 50.8927986,
+      "lon": 11.6072242
+    },
+    {
+      "type": "node",
+      "id": 2641024313,
+      "lat": 50.8928253,
+      "lon": 11.6072193
+    },
+    {
+      "type": "node",
+      "id": 2641024314,
+      "lat": 50.8928253,
+      "lon": 11.6072535
+    },
+    {
+      "type": "node",
+      "id": 2641024315,
+      "lat": 50.8929352,
+      "lon": 11.6072437
+    },
+    {
+      "type": "node",
+      "id": 2641024316,
+      "lat": 50.8929763,
+      "lon": 11.6071786
+    },
+    {
+      "type": "node",
+      "id": 3001281516,
+      "lat": 50.9032116,
+      "lon": 11.5986752
+    },
+    {
+      "type": "node",
+      "id": 3001281517,
+      "lat": 50.9031512,
+      "lon": 11.5988518
+    },
+    {
+      "type": "node",
+      "id": 3001281518,
+      "lat": 50.903252,
+      "lon": 11.5989384
+    },
+    {
+      "type": "node",
+      "id": 3001281519,
+      "lat": 50.9033123,
+      "lon": 11.5987618
+    },
+    {
+      "type": "node",
+      "id": 3050393151,
+      "lat": 50.9316319,
+      "lon": 11.5911674
+    },
+    {
+      "type": "node",
+      "id": 3050393152,
+      "lat": 50.9316414,
+      "lon": 11.5904778
+    },
+    {
+      "type": "node",
+      "id": 3050393156,
+      "lat": 50.9321441,
+      "lon": 11.5904989
+    },
+    {
+      "type": "node",
+      "id": 3050393158,
+      "lat": 50.9321735,
+      "lon": 11.5911073
+    },
+    {
+      "type": "node",
+      "id": 2053334233,
+      "lat": 50.9457789,
+      "lon": 11.6559448
+    },
+    {
+      "type": "node",
+      "id": 2053334281,
+      "lat": 50.9458178,
+      "lon": 11.6561111
+    },
+    {
+      "type": "node",
+      "id": 2053334283,
+      "lat": 50.9457502,
+      "lon": 11.6561353
+    },
+    {
+      "type": "node",
+      "id": 2053334285,
+      "lat": 50.9457164,
+      "lon": 11.6559824
+    }
+  ]
+}

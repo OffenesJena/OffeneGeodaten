@@ -1,0 +1,119 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1449507380,
+      "lat": 50.9239787,
+      "lon": 11.5901713,
+      "tags": {
+        "amenity": "clock",
+        "display": "analog",
+        "support": "billboard",
+        "visibility": "area"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449539451,
+      "lat": 50.9304705,
+      "lon": 11.5924021,
+      "tags": {
+        "amenity": "clock",
+        "display": "analog",
+        "support": "pole",
+        "visibility": "street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449592434,
+      "lat": 50.9283237,
+      "lon": 11.5866131,
+      "tags": {
+        "amenity": "clock",
+        "date": "yes",
+        "display": "analog",
+        "support": "pole",
+        "thermometer": "yes",
+        "visibility": "street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1477852881,
+      "lat": 50.9255401,
+      "lon": 11.5821637,
+      "tags": {
+        "amenity": "clock",
+        "display": "analog",
+        "support": "pole",
+        "visibility": "street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2258454516,
+      "lat": 50.9263188,
+      "lon": 11.5864037,
+      "tags": {
+        "amenity": "clock",
+        "display": "analog",
+        "support": "billboard",
+        "visibility": "street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444305551,
+      "lat": 50.9279365,
+      "lon": 11.5874934,
+      "tags": {
+        "amenity": "clock",
+        "display": "analog",
+        "name": "Schnapphans",
+        "support": "wall_mounted",
+        "visibility": "area",
+        "wikipedia:de": "Schnapphans"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2651936547,
+      "lat": 50.8926127,
+      "lon": 11.6072698,
+      "tags": {
+        "amenity": "clock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2704179720,
+      "lat": 50.8886905,
+      "lon": 11.6136992,
+      "tags": {
+        "amenity": "clock",
+        "display": "sundial",
+        "name": "Sonnenuhr"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2956972295,
+      "lat": 50.8834753,
+      "lon": 11.5932289,
+      "tags": {
+        "amenity": "clock",
+        "display": "analog",
+        "support": "pole",
+        "visibility": "area"
+      }
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:43:29.467Z",
+  "timestamp": "2014-12-16T10:46:06.795Z",
   "features": [
     {
       "type": "Feature",
@@ -1146,6 +1146,42 @@
             [
               11.5635915,
               50.8797072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315737778",
+      "properties": {
+        "@id": "way/315737778",
+        "building": "yes",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6256211,
+              50.931709
+            ],
+            [
+              11.6256706,
+              50.9317277
+            ],
+            [
+              11.625701,
+              50.9316939
+            ],
+            [
+              11.6256518,
+              50.9316765
+            ],
+            [
+              11.6256211,
+              50.931709
             ]
           ]
         ]

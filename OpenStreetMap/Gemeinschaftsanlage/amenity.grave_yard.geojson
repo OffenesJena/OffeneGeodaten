@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:33.581Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1943233304",
+      "properties": {
+        "@id": "node/1943233304",
+        "amenity": "grave_yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.583053,
+          50.8925151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42135576",
+      "properties": {
+        "@id": "way/42135576",
+        "amenity": "grave_yard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5153275,
+              50.9288425
+            ],
+            [
+              11.5160135,
+              50.9290506
+            ],
+            [
+              11.5157664,
+              50.9285447
+            ],
+            [
+              11.5152271,
+              50.92865
+            ],
+            [
+              11.5153275,
+              50.9288425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198810828",
+      "properties": {
+        "@id": "way/198810828",
+        "amenity": "grave_yard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6286735,
+              50.9195017
+            ],
+            [
+              11.6287004,
+              50.9194104
+            ],
+            [
+              11.6291,
+              50.9195017
+            ],
+            [
+              11.6292314,
+              50.9196285
+            ],
+            [
+              11.6286735,
+              50.9195017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301502881",
+      "properties": {
+        "@id": "way/301502881",
+        "amenity": "grave_yard",
+        "name": "Friedhof Göschwitz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.588616,
+              50.8795497
+            ],
+            [
+              11.5888699,
+              50.8795712
+            ],
+            [
+              11.5890331,
+              50.8786385
+            ],
+            [
+              11.5887919,
+              50.878626
+            ],
+            [
+              11.588616,
+              50.8795497
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

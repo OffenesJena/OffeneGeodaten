@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:26.514Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2702640106",
+      "properties": {
+        "@id": "node/2702640106",
+        "amenity": "register_office",
+        "contact:email": "standesamt@jena.de",
+        "contact:fax": "03641 49-3473",
+        "contact:phone": "03641 49-3470",
+        "name": "Standesamt",
+        "office": "register",
+        "room": "administration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5873266,
+          50.9279218
+        ]
+      }
+    }
+  ]
+}

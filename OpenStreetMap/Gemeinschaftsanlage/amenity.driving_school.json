@@ -1,0 +1,31 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1690170472,
+      "lat": 50.8980687,
+      "lon": 11.5741292,
+      "tags": {
+        "amenity": "driving_school",
+        "name": "CITY"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2965876579,
+      "lat": 50.8842577,
+      "lon": 11.5945881,
+      "tags": {
+        "amenity": "driving_school",
+        "name": "Fahrschule Voigt"
+      }
+    }
+  ]
+}

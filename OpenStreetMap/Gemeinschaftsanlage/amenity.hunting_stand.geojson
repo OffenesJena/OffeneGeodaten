@@ -1,0 +1,939 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:43.017Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/447905822",
+      "properties": {
+        "@id": "node/447905822",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132002,
+          50.9665093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506308998",
+      "properties": {
+        "@id": "node/506308998",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6490054,
+          50.9476847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550280175",
+      "properties": {
+        "@id": "node/550280175",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5283229,
+          50.9233495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550280182",
+      "properties": {
+        "@id": "node/550280182",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5300169,
+          50.9246394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550280195",
+      "properties": {
+        "@id": "node/550280195",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.530918,
+          50.9248806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550420975",
+      "properties": {
+        "@id": "node/550420975",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6229124,
+          50.9117776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550427432",
+      "properties": {
+        "@id": "node/550427432",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296587,
+          50.9085954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550438871",
+      "properties": {
+        "@id": "node/550438871",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6249552,
+          50.8998648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550442148",
+      "properties": {
+        "@id": "node/550442148",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6201057,
+          50.9011802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573453475",
+      "properties": {
+        "@id": "node/573453475",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5173292,
+          50.9502843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573453510",
+      "properties": {
+        "@id": "node/573453510",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5376171,
+          50.9487442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/574804783",
+      "properties": {
+        "@id": "node/574804783",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6631928,
+          50.955362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/579926455",
+      "properties": {
+        "@id": "node/579926455",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5960088,
+          50.9702862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/639048735",
+      "properties": {
+        "@id": "node/639048735",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56085,
+          50.9424003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/639048736",
+      "properties": {
+        "@id": "node/639048736",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5644845,
+          50.9430266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/766718421",
+      "properties": {
+        "@id": "node/766718421",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.615497,
+          50.965019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/790321624",
+      "properties": {
+        "@id": "node/790321624",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5528218,
+          50.9281138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/973782645",
+      "properties": {
+        "@id": "node/973782645",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287412,
+          50.9122242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1025472446",
+      "properties": {
+        "@id": "node/1025472446",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6390245,
+          50.8993302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1025472449",
+      "properties": {
+        "@id": "node/1025472449",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6376591,
+          50.8980937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1107416786",
+      "properties": {
+        "@id": "node/1107416786",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296741,
+          50.9031011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1107416937",
+      "properties": {
+        "@id": "node/1107416937",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287571,
+          50.9029263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1107416988",
+      "properties": {
+        "@id": "node/1107416988",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6288637,
+          50.902608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1304993365",
+      "properties": {
+        "@id": "node/1304993365",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6038208,
+          50.9132206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1409826874",
+      "properties": {
+        "@id": "node/1409826874",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6504381,
+          50.9131597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1409826875",
+      "properties": {
+        "@id": "node/1409826875",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6534421,
+          50.910792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1409826902",
+      "properties": {
+        "@id": "node/1409826902",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6360507,
+          50.9086814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1412264470",
+      "properties": {
+        "@id": "node/1412264470",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6583701,
+          50.9235471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643164597",
+      "properties": {
+        "@id": "node/1643164597",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5238112,
+          50.9510767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1664484952",
+      "properties": {
+        "@id": "node/1664484952",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5117586,
+          50.9509815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1736494035",
+      "properties": {
+        "@id": "node/1736494035",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6498499,
+          50.9047228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1746359936",
+      "properties": {
+        "@id": "node/1746359936",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040088,
+          50.914561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1747506782",
+      "properties": {
+        "@id": "node/1747506782",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6518189,
+          50.9097378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1747508487",
+      "properties": {
+        "@id": "node/1747508487",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6473128,
+          50.908973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1755156968",
+      "properties": {
+        "@id": "node/1755156968",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6579719,
+          50.9161793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1755156975",
+      "properties": {
+        "@id": "node/1755156975",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6559774,
+          50.915976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1755156991",
+      "properties": {
+        "@id": "node/1755156991",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.652071,
+          50.9160575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1755159395",
+      "properties": {
+        "@id": "node/1755159395",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6487891,
+          50.9182284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1757549380",
+      "properties": {
+        "@id": "node/1757549380",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299531,
+          50.9106451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1860605489",
+      "properties": {
+        "@id": "node/1860605489",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5480647,
+          50.9316391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1923796131",
+      "properties": {
+        "@id": "node/1923796131",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6256425,
+          50.898627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1923796132",
+      "properties": {
+        "@id": "node/1923796132",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6319188,
+          50.8989112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2098178290",
+      "properties": {
+        "@id": "node/2098178290",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6289864,
+          50.9240148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2160201996",
+      "properties": {
+        "@id": "node/2160201996",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6480833,
+          50.9474798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2207294731",
+      "properties": {
+        "@id": "node/2207294731",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5386684,
+          50.9499819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2276047624",
+      "properties": {
+        "@id": "node/2276047624",
+        "amenity": "hunting_stand",
+        "height": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6640385,
+          50.9480723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524576392",
+      "properties": {
+        "@id": "node/2524576392",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5859479,
+          50.8811218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524576399",
+      "properties": {
+        "@id": "node/2524576399",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5869188,
+          50.8821135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2529724398",
+      "properties": {
+        "@id": "node/2529724398",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5700089,
+          50.8857239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2529724405",
+      "properties": {
+        "@id": "node/2529724405",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5724792,
+          50.8863992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2529724408",
+      "properties": {
+        "@id": "node/2529724408",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5732463,
+          50.8862723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2554661880",
+      "properties": {
+        "@id": "node/2554661880",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5768804,
+          50.8851444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2554661885",
+      "properties": {
+        "@id": "node/2554661885",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5758947,
+          50.8839783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2554661898",
+      "properties": {
+        "@id": "node/2554661898",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5759926,
+          50.883679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2596535393",
+      "properties": {
+        "@id": "node/2596535393",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5798511,
+          50.9438467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2596577950",
+      "properties": {
+        "@id": "node/2596577950",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5869294,
+          50.9539636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2597360815",
+      "properties": {
+        "@id": "node/2597360815",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5895213,
+          50.9531801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598400012",
+      "properties": {
+        "@id": "node/2598400012",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6243151,
+          50.9140947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598415353",
+      "properties": {
+        "@id": "node/2598415353",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6151474,
+          50.9145344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598455535",
+      "properties": {
+        "@id": "node/2598455535",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6188547,
+          50.9127046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2598455586",
+      "properties": {
+        "@id": "node/2598455586",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6155069,
+          50.9127519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2726242150",
+      "properties": {
+        "@id": "node/2726242150",
+        "amenity": "hunting_stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6016489,
+          50.9123411
+        ]
+      }
+    }
+  ]
+}

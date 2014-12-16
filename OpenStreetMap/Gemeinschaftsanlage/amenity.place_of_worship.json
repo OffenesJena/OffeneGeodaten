@@ -1,0 +1,2720 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 983128054,
+      "lat": 50.9316092,
+      "lon": 11.5750317,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "ESG",
+        "official_name": "Evangelische Studenten Gemeinde",
+        "religion": "christian",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24427109,
+      "nodes": [
+        265482764,
+        2535202025,
+        2535202023,
+        265481406,
+        2535202022,
+        2535202021,
+        2535202020,
+        2614772352,
+        265482751,
+        2535537531,
+        265482753,
+        265482754,
+        265482755,
+        265482756,
+        2501536514,
+        265482757,
+        265482758,
+        265482759,
+        265482760,
+        265482761,
+        265482762,
+        265482763,
+        2535202029,
+        265482764
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Kirchplatz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Michael",
+        "religion": "christian",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25842368,
+      "nodes": [
+        281871310,
+        281871318,
+        281871319,
+        281871317,
+        281871310
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32818701,
+      "nodes": [
+        369787616,
+        369787617,
+        369787619,
+        369787622,
+        369787616
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Sankt Martin",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33822312,
+      "nodes": [
+        387459805,
+        387459806,
+        387459807,
+        387459808,
+        387459805
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Stifterstraße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Adventgemeinde",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35061045,
+      "nodes": [
+        411195881,
+        2505907240,
+        2505907242,
+        2505907244,
+        1298725103,
+        2505907245,
+        2505907247,
+        2505907246,
+        1298725247,
+        2505907243,
+        2505907241,
+        2505907239,
+        1298725081,
+        2505907238,
+        2505907237,
+        2505907236,
+        2505907234,
+        1298725091,
+        1298725263,
+        2505907231,
+        2505907200,
+        411195631,
+        411195632,
+        411195633,
+        2505907166,
+        411195634,
+        411195635,
+        1298725120,
+        2505907172,
+        2505907171,
+        2505907168,
+        2505907169,
+        2505907170,
+        2505907173,
+        2505907174,
+        2505907176,
+        2505907177,
+        411195636,
+        1298724979,
+        1298724973,
+        1298725015,
+        411195637,
+        1298725023,
+        1298725277,
+        411195638,
+        2505907248,
+        411195639,
+        411195881
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:email": "post@stjohann-jena.de",
+        "contact:fax": "+49 3641 5225-10",
+        "contact:phone": "+49 3641 5225-0",
+        "contact:website": "http://www.stjohann-jena.de",
+        "denomination": "roman_catholic",
+        "historic": "yes",
+        "name": "St. Johann Baptist",
+        "religion": "christian",
+        "wikidata": "Q2319284",
+        "wikipedia": "de:St. Johannes Baptist (Jena)",
+        "wikipedia:de": "St. Johannes Baptist (Jena)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49185098,
+      "nodes": [
+        623930250,
+        623930253,
+        1298725174,
+        1298725045,
+        1298725000,
+        1298725140,
+        1298724976,
+        1298725017,
+        623930258,
+        623930262,
+        623930250
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Friedenskirche",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 50073653,
+      "nodes": [
+        635893150,
+        635893153,
+        635893154,
+        635893152,
+        635893150
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "07743",
+        "addr:street": "Humboldtstraße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "methodist",
+        "name": "Ev.-meth. Kirche",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116525440,
+      "nodes": [
+        1313380269,
+        1313380366,
+        1313380246,
+        1313380411,
+        1313380269
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Nikolaus",
+        "religion": "christian",
+        "wikipedia:de": "St._Nikolaus_(Leutra)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123459264,
+      "nodes": [
+        1376713613,
+        1376713610,
+        1376713611,
+        1376713617,
+        1376713616,
+        1376713615,
+        1376713614,
+        1376713612,
+        1376713613
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Dorfkirche",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125520729,
+      "nodes": [
+        1393916461,
+        1393916459,
+        1393916474,
+        1393916476,
+        1393916485,
+        1393916495,
+        1393916466,
+        1393916456,
+        1393916461
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 149698896,
+      "nodes": [
+        1626458987,
+        1626458992,
+        1626458982,
+        1626458981,
+        1626458980,
+        1626458979,
+        1626458987
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "6a",
+        "addr:postcode": "07749",
+        "addr:street": "Hügelstraße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "http://www.lutherhaus-jena.de",
+        "denomination": "protestant",
+        "name": "Lutherhaus",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156119017,
+      "nodes": [
+        1684080758,
+        1684080722,
+        1684080700,
+        1684080681,
+        1684080679,
+        1684080620,
+        1684080630,
+        1684080592,
+        1684080605,
+        1684080631,
+        1684080635,
+        1684080617,
+        1684080618,
+        1684080636,
+        1684080642,
+        1684080637,
+        1684080638,
+        1684080621,
+        1684080632,
+        1684080641,
+        1684080643,
+        1684080644,
+        1684080639,
+        1684080640,
+        1684080646,
+        1684080649,
+        1684080645,
+        1684080648,
+        1684080650,
+        1684080669,
+        1684080667,
+        1684080671,
+        1684080672,
+        1684080683,
+        1684080688,
+        1684080711,
+        1684080706,
+        1684080741,
+        1684080746,
+        1684080749,
+        1684080744,
+        1684080729,
+        1684080762,
+        1684080758
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "32",
+        "addr:postcode": "07749",
+        "addr:street": "Schlippenstraße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Schillerkirche „Unserer Lieben Frau“",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161190490,
+      "nodes": [
+        1731852934,
+        1731852937,
+        1731852935,
+        1731852933,
+        1731852930,
+        1731852923,
+        1731852920,
+        1731852918,
+        1731852917,
+        1731852914,
+        1731852913,
+        1731852921,
+        1731852925,
+        1731852936,
+        1731852938,
+        1731852934
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Marienkirche",
+        "religion": "christian",
+        "website": "http://www.kirche-ziegenhain.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194837535,
+      "nodes": [
+        2053479911,
+        2053480091,
+        2053479864,
+        2053479867,
+        2053479911
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "07751",
+        "addr:street": "Dorfstraße",
+        "addr:suburb": "Jenaprießnitz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Kirche Jenaprießnitz",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 198810827,
+      "nodes": [
+        2088969899,
+        2088969920,
+        2088969896,
+        2088969905,
+        2088969899
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203747938,
+      "nodes": [
+        2137443777,
+        2137443780,
+        2137443808,
+        2137443776,
+        2137443806,
+        2137443802,
+        2137443777
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "07743",
+        "addr:street": "Merseburger Straße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Gemeindehaus \"Simon Petrus\"",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204111899,
+      "nodes": [
+        2141277444,
+        2141277434,
+        2141277439,
+        2141277428,
+        2141277447,
+        2141277446,
+        2141277436,
+        2141277442,
+        2141277433,
+        2141277440,
+        2141277444
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "83",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "new_apostolic",
+        "name": "Neuapostolische Kirche",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204913799,
+      "nodes": [
+        2148927339,
+        2154560884,
+        2148927343,
+        2148927342,
+        2148927340,
+        2148927339
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "St. Maria Magdalena",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205110015,
+      "nodes": [
+        2150802440,
+        2150802429,
+        2150802428,
+        2150802424,
+        2150802421,
+        2150802422,
+        2150802420,
+        2150802427,
+        2150802423,
+        2150802425,
+        2150802430,
+        2150802432,
+        2150802433,
+        2150802434,
+        2150802438,
+        2150802440
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07751",
+        "addr:street": "Am Goethepark",
+        "addr:suburb": "Drackendorf",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Auferstehungskirche",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206153454,
+      "nodes": [
+        2161547711,
+        2161547717,
+        2161547727,
+        2161547703,
+        2161547701,
+        2161547721,
+        2161547715,
+        2161547698,
+        2161547725,
+        2161547719,
+        2161547723,
+        2161547696,
+        2161547712,
+        2161547693,
+        2161547711
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "St. Marien",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247607004,
+      "nodes": [
+        2544972395,
+        2544972403,
+        2544972409,
+        2544972400,
+        2544972353,
+        2544972359,
+        2544972369,
+        2544972386,
+        2544972395
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07743",
+        "addr:street": "Am Saaleufer",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:email": "Jena@FeG.de",
+        "contact:website": "http://www.jena.feg.de",
+        "denomination": "evangelical",
+        "name": "Freie evangelische Gemeinde Jena",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253262144,
+      "nodes": [
+        2592148682,
+        2592148683,
+        2592148677,
+        2592148676,
+        2592148682
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Alte Hauptstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Dorfkirche Göschwitz",
+        "religion": "christian",
+        "wikipedia:de": "Dorfkirche_Göschwitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255697766,
+      "nodes": [
+        2613660265,
+        2613660173,
+        2613660193,
+        2613660294,
+        2613660265
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "69",
+        "addr:postcode": "07745",
+        "addr:street": "Geraer Straße",
+        "addr:suburb": "Burgau",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Dreifaltigkeitskirche",
+        "religion": "christian",
+        "wikipedia:de": "Dreifaltigkeitskirche_(Burgau)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255707639,
+      "nodes": [
+        2613789265,
+        2613789261,
+        2613789262,
+        2613789264,
+        2613789266,
+        2613789267,
+        2613789265
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Laurentius",
+        "religion": "christian",
+        "wikipedia:de": "St._Laurentius_(Maua)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256888965,
+      "nodes": [
+        2625121113,
+        2625121111,
+        2625121112,
+        2625121114,
+        2625121113
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07745",
+        "addr:street": "Waldstraße",
+        "addr:suburb": "Ammerbach",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "http://www.dietrich-bonhoeffer-gemeinde-jena.de",
+        "denomination": "lutheran",
+        "name": "Evangelische Kirche",
+        "operator": "Dietrich-Bonhoeffer-Gemeinde",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258777812,
+      "nodes": [
+        2641013834,
+        2641013835,
+        2641013836,
+        2641013837,
+        2641013838,
+        2641013839,
+        2641013840,
+        2641013841,
+        2641013842,
+        2641013843,
+        2641013834
+      ],
+      "tags": {
+        "alt_name": "Peterskirche",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:website": "http://www.kirchkreis-jena.de/region_lobeda/lobeda.html",
+        "denomination": "lutheran",
+        "name": "St. Peter",
+        "religion": "christian",
+        "wikipedia": "de:Peterskirche (Lobeda)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262422321,
+      "nodes": [
+        2680841594,
+        2680841588,
+        2680841586,
+        2680841592,
+        2680841595,
+        2680841604,
+        2680841605,
+        2680841598,
+        2680841594
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:colour": "brown",
+        "contact:website": "http://www.kirchkreis-jena.de/region_lobeda/woellnitz.html",
+        "denomination": "lutheran",
+        "image": "File:Kirche_Wöllnitz.jpg",
+        "name": "Kirche Wöllnitz",
+        "operator": "Evangelisch-Lutherischer Kirchenkreis Jena",
+        "religion": "christian",
+        "roof:colour": "black",
+        "start_date": "1740",
+        "wikipedia:de": "Dorfkirche_Wöllnitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262667675,
+      "nodes": [
+        2683361494,
+        2683361489,
+        2683361491,
+        2683361504,
+        2683361498,
+        2683361502,
+        2683361501,
+        2683361496,
+        2683361494
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07745",
+        "addr:street": "Teichgasse",
+        "addr:suburb": "Winzerla",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Winzerla",
+        "religion": "christian",
+        "wikipedia:de": "Dorfkirche_Winzerla"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315691678,
+      "nodes": [
+        3218227178,
+        3218227177,
+        3218227179,
+        3218227183,
+        3218227181,
+        3218227184,
+        3218227182,
+        3218227180,
+        3218227178
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "Dorfkirche Closewitz",
+        "religion": "christian",
+        "wikidata": "Q15109606",
+        "wikipedia": "de:Dorfkirche Closewitz",
+        "wikipedia:de": "Dorfkirche Closewitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315691683,
+      "nodes": [
+        3218227165,
+        3218227164,
+        3218227167,
+        3218227166,
+        3218227163,
+        3218227162,
+        3218223958,
+        3218223960,
+        3218223956,
+        3218223957,
+        3218223959,
+        3218227161,
+        3218227165
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "lutheran",
+        "name": "St. Nikolaus",
+        "religion": "christian",
+        "wikidata": "Q15129692",
+        "wikipedia": "de:St. Nikolaus (Lützeroda)",
+        "wikipedia:de": "St. Nikolaus (Lützeroda)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1376713610,
+      "lat": 50.9298678,
+      "lon": 11.5124751
+    },
+    {
+      "type": "node",
+      "id": 1376713611,
+      "lat": 50.929869,
+      "lon": 11.5122864
+    },
+    {
+      "type": "node",
+      "id": 1376713612,
+      "lat": 50.929883,
+      "lon": 11.512535
+    },
+    {
+      "type": "node",
+      "id": 1376713613,
+      "lat": 50.9298835,
+      "lon": 11.5124753
+    },
+    {
+      "type": "node",
+      "id": 1376713614,
+      "lat": 50.92995,
+      "lon": 11.5125362
+    },
+    {
+      "type": "node",
+      "id": 1376713615,
+      "lat": 50.9299504,
+      "lon": 11.5124764
+    },
+    {
+      "type": "node",
+      "id": 1376713616,
+      "lat": 50.9299604,
+      "lon": 11.5124766
+    },
+    {
+      "type": "node",
+      "id": 1376713617,
+      "lat": 50.9299616,
+      "lon": 11.5122879
+    },
+    {
+      "type": "node",
+      "id": 1313380246,
+      "lat": 50.869853,
+      "lon": 11.5655575
+    },
+    {
+      "type": "node",
+      "id": 1313380269,
+      "lat": 50.8697699,
+      "lon": 11.5652656
+    },
+    {
+      "type": "node",
+      "id": 1313380366,
+      "lat": 50.8697768,
+      "lon": 11.5655619
+    },
+    {
+      "type": "node",
+      "id": 1313380411,
+      "lat": 50.8698461,
+      "lon": 11.5652611
+    },
+    {
+      "type": "node",
+      "id": 2613789261,
+      "lat": 50.8677918,
+      "lon": 11.6002128
+    },
+    {
+      "type": "node",
+      "id": 2613789262,
+      "lat": 50.8678089,
+      "lon": 11.6005213
+    },
+    {
+      "type": "node",
+      "id": 2613789264,
+      "lat": 50.8678333,
+      "lon": 11.6005554
+    },
+    {
+      "type": "node",
+      "id": 2613789265,
+      "lat": 50.8678648,
+      "lon": 11.6001992
+    },
+    {
+      "type": "node",
+      "id": 2613789266,
+      "lat": 50.8678662,
+      "lon": 11.6005463
+    },
+    {
+      "type": "node",
+      "id": 2613789267,
+      "lat": 50.8678834,
+      "lon": 11.6005077
+    },
+    {
+      "type": "node",
+      "id": 2683361489,
+      "lat": 50.8907461,
+      "lon": 11.5823415
+    },
+    {
+      "type": "node",
+      "id": 2683361491,
+      "lat": 50.8908174,
+      "lon": 11.5826357
+    },
+    {
+      "type": "node",
+      "id": 2683361494,
+      "lat": 50.8908278,
+      "lon": 11.5822917
+    },
+    {
+      "type": "node",
+      "id": 2683361496,
+      "lat": 50.8908443,
+      "lon": 11.5823598
+    },
+    {
+      "type": "node",
+      "id": 2683361498,
+      "lat": 50.8908553,
+      "lon": 11.5823999
+    },
+    {
+      "type": "node",
+      "id": 2683361501,
+      "lat": 50.8908652,
+      "lon": 11.582347
+    },
+    {
+      "type": "node",
+      "id": 2683361502,
+      "lat": 50.8908751,
+      "lon": 11.5823878
+    },
+    {
+      "type": "node",
+      "id": 2683361504,
+      "lat": 50.8909002,
+      "lon": 11.5825852
+    },
+    {
+      "type": "node",
+      "id": 2625121111,
+      "lat": 50.9046049,
+      "lon": 11.5571585
+    },
+    {
+      "type": "node",
+      "id": 2625121112,
+      "lat": 50.9046271,
+      "lon": 11.557425
+    },
+    {
+      "type": "node",
+      "id": 2625121113,
+      "lat": 50.9046884,
+      "lon": 11.557141
+    },
+    {
+      "type": "node",
+      "id": 2625121114,
+      "lat": 50.9047106,
+      "lon": 11.5574075
+    },
+    {
+      "type": "node",
+      "id": 2592148676,
+      "lat": 50.8786006,
+      "lon": 11.5925249
+    },
+    {
+      "type": "node",
+      "id": 2592148677,
+      "lat": 50.8786165,
+      "lon": 11.5927701
+    },
+    {
+      "type": "node",
+      "id": 2592148682,
+      "lat": 50.8786701,
+      "lon": 11.5925136
+    },
+    {
+      "type": "node",
+      "id": 2592148683,
+      "lat": 50.878686,
+      "lon": 11.5927588
+    },
+    {
+      "type": "node",
+      "id": 2613660173,
+      "lat": 50.8967637,
+      "lon": 11.592688
+    },
+    {
+      "type": "node",
+      "id": 2613660193,
+      "lat": 50.8967945,
+      "lon": 11.5930708
+    },
+    {
+      "type": "node",
+      "id": 2613660265,
+      "lat": 50.8968716,
+      "lon": 11.5926661
+    },
+    {
+      "type": "node",
+      "id": 2613660294,
+      "lat": 50.8969024,
+      "lon": 11.593049
+    },
+    {
+      "type": "node",
+      "id": 281871310,
+      "lat": 50.8906813,
+      "lon": 11.6084525
+    },
+    {
+      "type": "node",
+      "id": 281871317,
+      "lat": 50.8906941,
+      "lon": 11.6085506
+    },
+    {
+      "type": "node",
+      "id": 281871318,
+      "lat": 50.8907435,
+      "lon": 11.6084322
+    },
+    {
+      "type": "node",
+      "id": 281871319,
+      "lat": 50.8907563,
+      "lon": 11.6085304
+    },
+    {
+      "type": "node",
+      "id": 2641013834,
+      "lat": 50.8930887,
+      "lon": 11.6057031
+    },
+    {
+      "type": "node",
+      "id": 2641013835,
+      "lat": 50.893047,
+      "lon": 11.6052869
+    },
+    {
+      "type": "node",
+      "id": 2641013836,
+      "lat": 50.8929285,
+      "lon": 11.6053146
+    },
+    {
+      "type": "node",
+      "id": 2641013837,
+      "lat": 50.8929534,
+      "lon": 11.6055291
+    },
+    {
+      "type": "node",
+      "id": 2641013838,
+      "lat": 50.8929098,
+      "lon": 11.60554
+    },
+    {
+      "type": "node",
+      "id": 2641013839,
+      "lat": 50.8929235,
+      "lon": 11.6056409
+    },
+    {
+      "type": "node",
+      "id": 2641013840,
+      "lat": 50.8929647,
+      "lon": 11.605626
+    },
+    {
+      "type": "node",
+      "id": 2641013841,
+      "lat": 50.8929778,
+      "lon": 11.6057269
+    },
+    {
+      "type": "node",
+      "id": 2641013842,
+      "lat": 50.8930158,
+      "lon": 11.6057605
+    },
+    {
+      "type": "node",
+      "id": 2641013843,
+      "lat": 50.8930651,
+      "lon": 11.6057486
+    },
+    {
+      "type": "node",
+      "id": 2150802420,
+      "lat": 50.8880439,
+      "lon": 11.6295312
+    },
+    {
+      "type": "node",
+      "id": 2150802421,
+      "lat": 50.888045,
+      "lon": 11.6294741
+    },
+    {
+      "type": "node",
+      "id": 2150802422,
+      "lat": 50.8880604,
+      "lon": 11.6295159
+    },
+    {
+      "type": "node",
+      "id": 2150802423,
+      "lat": 50.8880636,
+      "lon": 11.6297096
+    },
+    {
+      "type": "node",
+      "id": 2150802424,
+      "lat": 50.888093,
+      "lon": 11.6294295
+    },
+    {
+      "type": "node",
+      "id": 2150802425,
+      "lat": 50.8880932,
+      "lon": 11.6297896
+    },
+    {
+      "type": "node",
+      "id": 2150802427,
+      "lat": 50.8880981,
+      "lon": 11.6296776
+    },
+    {
+      "type": "node",
+      "id": 2150802428,
+      "lat": 50.8881105,
+      "lon": 11.6294767
+    },
+    {
+      "type": "node",
+      "id": 2150802429,
+      "lat": 50.8881239,
+      "lon": 11.6294642
+    },
+    {
+      "type": "node",
+      "id": 2150802430,
+      "lat": 50.8881293,
+      "lon": 11.6297561
+    },
+    {
+      "type": "node",
+      "id": 2150802432,
+      "lat": 50.8881451,
+      "lon": 11.6297989
+    },
+    {
+      "type": "node",
+      "id": 2150802433,
+      "lat": 50.8881708,
+      "lon": 11.6298064
+    },
+    {
+      "type": "node",
+      "id": 2150802434,
+      "lat": 50.8881981,
+      "lon": 11.6297953
+    },
+    {
+      "type": "node",
+      "id": 2150802438,
+      "lat": 50.8882141,
+      "lon": 11.6297624
+    },
+    {
+      "type": "node",
+      "id": 2150802440,
+      "lat": 50.8882214,
+      "lon": 11.629728
+    },
+    {
+      "type": "node",
+      "id": 2680841586,
+      "lat": 50.9047224,
+      "lon": 11.5932152
+    },
+    {
+      "type": "node",
+      "id": 2680841588,
+      "lat": 50.9047273,
+      "lon": 11.5931662
+    },
+    {
+      "type": "node",
+      "id": 2680841594,
+      "lat": 50.9047813,
+      "lon": 11.5931297
+    },
+    {
+      "type": "node",
+      "id": 2680841598,
+      "lat": 50.9048092,
+      "lon": 11.5931603
+    },
+    {
+      "type": "node",
+      "id": 2680841592,
+      "lat": 50.9047673,
+      "lon": 11.5933843
+    },
+    {
+      "type": "node",
+      "id": 2680841595,
+      "lat": 50.9047919,
+      "lon": 11.5934066
+    },
+    {
+      "type": "node",
+      "id": 2680841604,
+      "lat": 50.9048458,
+      "lon": 11.5933701
+    },
+    {
+      "type": "node",
+      "id": 2680841605,
+      "lat": 50.904849,
+      "lon": 11.593326
+    },
+    {
+      "type": "node",
+      "id": 1626458979,
+      "lat": 50.9242526,
+      "lon": 11.5924577
+    },
+    {
+      "type": "node",
+      "id": 1626458980,
+      "lat": 50.9242801,
+      "lon": 11.5923442
+    },
+    {
+      "type": "node",
+      "id": 1626458981,
+      "lat": 50.9242997,
+      "lon": 11.5923561
+    },
+    {
+      "type": "node",
+      "id": 1626458982,
+      "lat": 50.9243503,
+      "lon": 11.592147
+    },
+    {
+      "type": "node",
+      "id": 1626458987,
+      "lat": 50.9244635,
+      "lon": 11.5925855
+    },
+    {
+      "type": "node",
+      "id": 1626458992,
+      "lat": 50.9245416,
+      "lon": 11.5922629
+    },
+    {
+      "type": "node",
+      "id": 1731852913,
+      "lat": 50.9196589,
+      "lon": 11.6248336
+    },
+    {
+      "type": "node",
+      "id": 1731852914,
+      "lat": 50.919672,
+      "lon": 11.6249472
+    },
+    {
+      "type": "node",
+      "id": 1731852917,
+      "lat": 50.9196906,
+      "lon": 11.6249417
+    },
+    {
+      "type": "node",
+      "id": 1731852918,
+      "lat": 50.9196921,
+      "lon": 11.6249548
+    },
+    {
+      "type": "node",
+      "id": 1731852920,
+      "lat": 50.9197111,
+      "lon": 11.6250863
+    },
+    {
+      "type": "node",
+      "id": 1731852921,
+      "lat": 50.9197308,
+      "lon": 11.6248121
+    },
+    {
+      "type": "node",
+      "id": 1731852923,
+      "lat": 50.9197443,
+      "lon": 11.6250744
+    },
+    {
+      "type": "node",
+      "id": 1731852925,
+      "lat": 50.9197448,
+      "lon": 11.6249258
+    },
+    {
+      "type": "node",
+      "id": 1731852930,
+      "lat": 50.9197868,
+      "lon": 11.6253373
+    },
+    {
+      "type": "node",
+      "id": 1731852933,
+      "lat": 50.9198197,
+      "lon": 11.6253687
+    },
+    {
+      "type": "node",
+      "id": 1731852934,
+      "lat": 50.9198303,
+      "lon": 11.6250381
+    },
+    {
+      "type": "node",
+      "id": 1731852935,
+      "lat": 50.9198578,
+      "lon": 11.6253553
+    },
+    {
+      "type": "node",
+      "id": 1731852936,
+      "lat": 50.9198724,
+      "lon": 11.6248806
+    },
+    {
+      "type": "node",
+      "id": 1731852937,
+      "lat": 50.9198757,
+      "lon": 11.6253033
+    },
+    {
+      "type": "node",
+      "id": 1731852938,
+      "lat": 50.9198929,
+      "lon": 11.6250113
+    },
+    {
+      "type": "node",
+      "id": 2088969896,
+      "lat": 50.9192616,
+      "lon": 11.6255836
+    },
+    {
+      "type": "node",
+      "id": 2088969899,
+      "lat": 50.9193816,
+      "lon": 11.6253959
+    },
+    {
+      "type": "node",
+      "id": 2088969905,
+      "lat": 50.9192886,
+      "lon": 11.6253664
+    },
+    {
+      "type": "node",
+      "id": 2088969920,
+      "lat": 50.9193512,
+      "lon": 11.6256158
+    },
+    {
+      "type": "node",
+      "id": 635893150,
+      "lat": 50.9332188,
+      "lon": 11.5712321
+    },
+    {
+      "type": "node",
+      "id": 635893152,
+      "lat": 50.9332732,
+      "lon": 11.5713579
+    },
+    {
+      "type": "node",
+      "id": 635893153,
+      "lat": 50.9333136,
+      "lon": 11.5711291
+    },
+    {
+      "type": "node",
+      "id": 635893154,
+      "lat": 50.9333679,
+      "lon": 11.5712548
+    },
+    {
+      "type": "node",
+      "id": 623930250,
+      "lat": 50.9307703,
+      "lon": 11.5824933
+    },
+    {
+      "type": "node",
+      "id": 623930253,
+      "lat": 50.9307471,
+      "lon": 11.5828447
+    },
+    {
+      "type": "node",
+      "id": 623930258,
+      "lat": 50.9305857,
+      "lon": 11.5828218
+    },
+    {
+      "type": "node",
+      "id": 623930262,
+      "lat": 50.9306092,
+      "lon": 11.5824665
+    },
+    {
+      "type": "node",
+      "id": 1298724976,
+      "lat": 50.9306225,
+      "lon": 11.5828964
+    },
+    {
+      "type": "node",
+      "id": 1298725000,
+      "lat": 50.9306711,
+      "lon": 11.5829292
+    },
+    {
+      "type": "node",
+      "id": 1298725017,
+      "lat": 50.930627,
+      "lon": 11.5828286
+    },
+    {
+      "type": "node",
+      "id": 1298725045,
+      "lat": 50.9306932,
+      "lon": 11.5829081
+    },
+    {
+      "type": "node",
+      "id": 1298725140,
+      "lat": 50.9306397,
+      "lon": 11.5829258
+    },
+    {
+      "type": "node",
+      "id": 1298725174,
+      "lat": 50.930698,
+      "lon": 11.5828365
+    },
+    {
+      "type": "node",
+      "id": 411195636,
+      "lat": 50.9301418,
+      "lon": 11.5826116
+    },
+    {
+      "type": "node",
+      "id": 411195637,
+      "lat": 50.9302359,
+      "lon": 11.5824534
+    },
+    {
+      "type": "node",
+      "id": 1298724973,
+      "lat": 50.9301968,
+      "lon": 11.5825958
+    },
+    {
+      "type": "node",
+      "id": 1298724979,
+      "lat": 50.9301967,
+      "lon": 11.5826123
+    },
+    {
+      "type": "node",
+      "id": 1298725015,
+      "lat": 50.9302352,
+      "lon": 11.5825963
+    },
+    {
+      "type": "node",
+      "id": 1298725081,
+      "lat": 50.930217,
+      "lon": 11.5821685
+    },
+    {
+      "type": "node",
+      "id": 1298725103,
+      "lat": 50.9302254,
+      "lon": 11.5821951
+    },
+    {
+      "type": "node",
+      "id": 1298725247,
+      "lat": 50.9302256,
+      "lon": 11.5821763
+    },
+    {
+      "type": "node",
+      "id": 2505907168,
+      "lat": 50.9301288,
+      "lon": 11.5825266
+    },
+    {
+      "type": "node",
+      "id": 2505907169,
+      "lat": 50.930129,
+      "lon": 11.5825303
+    },
+    {
+      "type": "node",
+      "id": 2505907170,
+      "lat": 50.9301301,
+      "lon": 11.5825356
+    },
+    {
+      "type": "node",
+      "id": 2505907171,
+      "lat": 50.9301304,
+      "lon": 11.5825218
+    },
+    {
+      "type": "node",
+      "id": 2505907173,
+      "lat": 50.9301334,
+      "lon": 11.5825394
+    },
+    {
+      "type": "node",
+      "id": 2505907174,
+      "lat": 50.9301369,
+      "lon": 11.5825405
+    },
+    {
+      "type": "node",
+      "id": 2505907176,
+      "lat": 50.930139,
+      "lon": 11.5825403
+    },
+    {
+      "type": "node",
+      "id": 2505907177,
+      "lat": 50.9301422,
+      "lon": 11.5825379
+    },
+    {
+      "type": "node",
+      "id": 2505907200,
+      "lat": 50.930159,
+      "lon": 11.5820688
+    },
+    {
+      "type": "node",
+      "id": 2505907231,
+      "lat": 50.9301961,
+      "lon": 11.5820677
+    },
+    {
+      "type": "node",
+      "id": 2505907234,
+      "lat": 50.9302089,
+      "lon": 11.5821738
+    },
+    {
+      "type": "node",
+      "id": 2505907236,
+      "lat": 50.9302107,
+      "lon": 11.5821714
+    },
+    {
+      "type": "node",
+      "id": 2505907237,
+      "lat": 50.9302126,
+      "lon": 11.5821698
+    },
+    {
+      "type": "node",
+      "id": 2505907238,
+      "lat": 50.9302143,
+      "lon": 11.5821689
+    },
+    {
+      "type": "node",
+      "id": 2505907239,
+      "lat": 50.9302192,
+      "lon": 11.582169
+    },
+    {
+      "type": "node",
+      "id": 2505907240,
+      "lat": 50.9302195,
+      "lon": 11.5822017
+    },
+    {
+      "type": "node",
+      "id": 2505907241,
+      "lat": 50.9302214,
+      "lon": 11.5821703
+    },
+    {
+      "type": "node",
+      "id": 2505907242,
+      "lat": 50.9302221,
+      "lon": 11.5822
+    },
+    {
+      "type": "node",
+      "id": 2505907243,
+      "lat": 50.9302236,
+      "lon": 11.5821726
+    },
+    {
+      "type": "node",
+      "id": 2505907244,
+      "lat": 50.930224,
+      "lon": 11.5821977
+    },
+    {
+      "type": "node",
+      "id": 2505907245,
+      "lat": 50.9302266,
+      "lon": 11.5821915
+    },
+    {
+      "type": "node",
+      "id": 2505907246,
+      "lat": 50.9302269,
+      "lon": 11.5821811
+    },
+    {
+      "type": "node",
+      "id": 2505907247,
+      "lat": 50.9302273,
+      "lon": 11.5821861
+    },
+    {
+      "type": "node",
+      "id": 411195631,
+      "lat": 50.9301367,
+      "lon": 11.5821054
+    },
+    {
+      "type": "node",
+      "id": 411195632,
+      "lat": 50.9301372,
+      "lon": 11.5822035
+    },
+    {
+      "type": "node",
+      "id": 411195633,
+      "lat": 50.9301017,
+      "lon": 11.5822041
+    },
+    {
+      "type": "node",
+      "id": 411195634,
+      "lat": 50.9301025,
+      "lon": 11.5823347
+    },
+    {
+      "type": "node",
+      "id": 411195635,
+      "lat": 50.9301281,
+      "lon": 11.5823343
+    },
+    {
+      "type": "node",
+      "id": 411195638,
+      "lat": 50.9302406,
+      "lon": 11.5823325
+    },
+    {
+      "type": "node",
+      "id": 411195639,
+      "lat": 50.9302398,
+      "lon": 11.5822019
+    },
+    {
+      "type": "node",
+      "id": 411195881,
+      "lat": 50.9302165,
+      "lon": 11.5822023
+    },
+    {
+      "type": "node",
+      "id": 1298725023,
+      "lat": 50.9302095,
+      "lon": 11.5824531
+    },
+    {
+      "type": "node",
+      "id": 1298725091,
+      "lat": 50.9302081,
+      "lon": 11.5821804
+    },
+    {
+      "type": "node",
+      "id": 1298725120,
+      "lat": 50.930129,
+      "lon": 11.5825189
+    },
+    {
+      "type": "node",
+      "id": 1298725263,
+      "lat": 50.9302077,
+      "lon": 11.5821045
+    },
+    {
+      "type": "node",
+      "id": 1298725277,
+      "lat": 50.9302089,
+      "lon": 11.582333
+    },
+    {
+      "type": "node",
+      "id": 2505907166,
+      "lat": 50.9301021,
+      "lon": 11.5822673
+    },
+    {
+      "type": "node",
+      "id": 2505907172,
+      "lat": 50.930133,
+      "lon": 11.5825188
+    },
+    {
+      "type": "node",
+      "id": 2505907248,
+      "lat": 50.9302402,
+      "lon": 11.5822658
+    },
+    {
+      "type": "node",
+      "id": 3218223956,
+      "lat": 50.9595768,
+      "lon": 11.5534733
+    },
+    {
+      "type": "node",
+      "id": 3218223957,
+      "lat": 50.9595864,
+      "lon": 11.5534124
+    },
+    {
+      "type": "node",
+      "id": 3218223958,
+      "lat": 50.9595945,
+      "lon": 11.5535561
+    },
+    {
+      "type": "node",
+      "id": 3218223959,
+      "lat": 50.9596012,
+      "lon": 11.5534183
+    },
+    {
+      "type": "node",
+      "id": 3218223960,
+      "lat": 50.9596057,
+      "lon": 11.5534848
+    },
+    {
+      "type": "node",
+      "id": 3218227161,
+      "lat": 50.9596105,
+      "lon": 11.5533596
+    },
+    {
+      "type": "node",
+      "id": 3218227162,
+      "lat": 50.9596474,
+      "lon": 11.5535772
+    },
+    {
+      "type": "node",
+      "id": 3218227163,
+      "lat": 50.9596627,
+      "lon": 11.5534802
+    },
+    {
+      "type": "node",
+      "id": 3218227164,
+      "lat": 50.9596662,
+      "lon": 11.5534222
+    },
+    {
+      "type": "node",
+      "id": 3218227165,
+      "lat": 50.9596722,
+      "lon": 11.5533842
+    },
+    {
+      "type": "node",
+      "id": 3218227166,
+      "lat": 50.9596813,
+      "lon": 11.5534876
+    },
+    {
+      "type": "node",
+      "id": 3218227167,
+      "lat": 50.9596902,
+      "lon": 11.5534317
+    },
+    {
+      "type": "node",
+      "id": 1393916456,
+      "lat": 50.972855,
+      "lon": 11.5362203
+    },
+    {
+      "type": "node",
+      "id": 1393916459,
+      "lat": 50.972858,
+      "lon": 11.536141
+    },
+    {
+      "type": "node",
+      "id": 1393916461,
+      "lat": 50.9728681,
+      "lon": 11.5362158
+    },
+    {
+      "type": "node",
+      "id": 1393916466,
+      "lat": 50.9728949,
+      "lon": 11.5365154
+    },
+    {
+      "type": "node",
+      "id": 1393916474,
+      "lat": 50.9729351,
+      "lon": 11.5361148
+    },
+    {
+      "type": "node",
+      "id": 1393916476,
+      "lat": 50.9729427,
+      "lon": 11.5361707
+    },
+    {
+      "type": "node",
+      "id": 1393916485,
+      "lat": 50.9729855,
+      "lon": 11.5361562
+    },
+    {
+      "type": "node",
+      "id": 1393916495,
+      "lat": 50.973028,
+      "lon": 11.5364703
+    },
+    {
+      "type": "node",
+      "id": 3218227177,
+      "lat": 50.9599839,
+      "lon": 11.5714087
+    },
+    {
+      "type": "node",
+      "id": 3218227178,
+      "lat": 50.9600384,
+      "lon": 11.5713754
+    },
+    {
+      "type": "node",
+      "id": 3218227179,
+      "lat": 50.9600439,
+      "lon": 11.5716565
+    },
+    {
+      "type": "node",
+      "id": 3218227180,
+      "lat": 50.9600639,
+      "lon": 11.5714806
+    },
+    {
+      "type": "node",
+      "id": 3218227181,
+      "lat": 50.960078,
+      "lon": 11.5715513
+    },
+    {
+      "type": "node",
+      "id": 3218227182,
+      "lat": 50.9600954,
+      "lon": 11.5714613
+    },
+    {
+      "type": "node",
+      "id": 3218227183,
+      "lat": 50.9600958,
+      "lon": 11.5716248
+    },
+    {
+      "type": "node",
+      "id": 3218227184,
+      "lat": 50.9601122,
+      "lon": 11.5715304
+    },
+    {
+      "type": "node",
+      "id": 265482756,
+      "lat": 50.9291183,
+      "lon": 11.5884048
+    },
+    {
+      "type": "node",
+      "id": 265481406,
+      "lat": 50.9289641,
+      "lon": 11.58753
+    },
+    {
+      "type": "node",
+      "id": 265482751,
+      "lat": 50.9289593,
+      "lon": 11.588311
+    },
+    {
+      "type": "node",
+      "id": 265482753,
+      "lat": 50.928981,
+      "lon": 11.5883918
+    },
+    {
+      "type": "node",
+      "id": 265482754,
+      "lat": 50.9290191,
+      "lon": 11.5884484
+    },
+    {
+      "type": "node",
+      "id": 265482755,
+      "lat": 50.9290795,
+      "lon": 11.5884504
+    },
+    {
+      "type": "node",
+      "id": 265482757,
+      "lat": 50.9291205,
+      "lon": 11.588318
+    },
+    {
+      "type": "node",
+      "id": 265482758,
+      "lat": 50.9291531,
+      "lon": 11.5883193
+    },
+    {
+      "type": "node",
+      "id": 265482759,
+      "lat": 50.9291602,
+      "lon": 11.5880702
+    },
+    {
+      "type": "node",
+      "id": 265482760,
+      "lat": 50.9291592,
+      "lon": 11.5877136
+    },
+    {
+      "type": "node",
+      "id": 265482761,
+      "lat": 50.9291331,
+      "lon": 11.5877136
+    },
+    {
+      "type": "node",
+      "id": 265482762,
+      "lat": 50.929133,
+      "lon": 11.5877009
+    },
+    {
+      "type": "node",
+      "id": 265482763,
+      "lat": 50.9290766,
+      "lon": 11.5877011
+    },
+    {
+      "type": "node",
+      "id": 265482764,
+      "lat": 50.9290768,
+      "lon": 11.5875304
+    },
+    {
+      "type": "node",
+      "id": 2501536514,
+      "lat": 50.9291191,
+      "lon": 11.5883668
+    },
+    {
+      "type": "node",
+      "id": 2535202020,
+      "lat": 50.9289638,
+      "lon": 11.5877151
+    },
+    {
+      "type": "node",
+      "id": 2535202021,
+      "lat": 50.9289639,
+      "lon": 11.5876612
+    },
+    {
+      "type": "node",
+      "id": 2535202022,
+      "lat": 50.928964,
+      "lon": 11.5875798
+    },
+    {
+      "type": "node",
+      "id": 2535202023,
+      "lat": 50.9289975,
+      "lon": 11.5875301
+    },
+    {
+      "type": "node",
+      "id": 2535202025,
+      "lat": 50.9290408,
+      "lon": 11.58753
+    },
+    {
+      "type": "node",
+      "id": 2535202029,
+      "lat": 50.9290767,
+      "lon": 11.587579
+    },
+    {
+      "type": "node",
+      "id": 2535537531,
+      "lat": 50.9289818,
+      "lon": 11.5883116
+    },
+    {
+      "type": "node",
+      "id": 2614772352,
+      "lat": 50.9289609,
+      "lon": 11.5880942
+    },
+    {
+      "type": "node",
+      "id": 2544972353,
+      "lat": 50.9291576,
+      "lon": 11.5948157
+    },
+    {
+      "type": "node",
+      "id": 2544972359,
+      "lat": 50.9291795,
+      "lon": 11.5949781
+    },
+    {
+      "type": "node",
+      "id": 2544972369,
+      "lat": 50.9292075,
+      "lon": 11.5950237
+    },
+    {
+      "type": "node",
+      "id": 2544972386,
+      "lat": 50.9292541,
+      "lon": 11.5950878
+    },
+    {
+      "type": "node",
+      "id": 2544972395,
+      "lat": 50.9292619,
+      "lon": 11.5949709
+    },
+    {
+      "type": "node",
+      "id": 2544972400,
+      "lat": 50.9292756,
+      "lon": 11.5947875
+    },
+    {
+      "type": "node",
+      "id": 2544972403,
+      "lat": 50.929279,
+      "lon": 11.5949769
+    },
+    {
+      "type": "node",
+      "id": 2544972409,
+      "lat": 50.9292921,
+      "lon": 11.5949325
+    },
+    {
+      "type": "node",
+      "id": 1684080592,
+      "lat": 50.9323887,
+      "lon": 11.6002433
+    },
+    {
+      "type": "node",
+      "id": 1684080605,
+      "lat": 50.9323968,
+      "lon": 11.6003407
+    },
+    {
+      "type": "node",
+      "id": 1684080617,
+      "lat": 50.9324063,
+      "lon": 11.6003796
+    },
+    {
+      "type": "node",
+      "id": 1684080618,
+      "lat": 50.9324075,
+      "lon": 11.600394
+    },
+    {
+      "type": "node",
+      "id": 1684080620,
+      "lat": 50.932411,
+      "lon": 11.6002318
+    },
+    {
+      "type": "node",
+      "id": 1684080621,
+      "lat": 50.9324114,
+      "lon": 11.6004453
+    },
+    {
+      "type": "node",
+      "id": 1684080630,
+      "lat": 50.9324116,
+      "lon": 11.6002385
+    },
+    {
+      "type": "node",
+      "id": 1684080631,
+      "lat": 50.9324116,
+      "lon": 11.6003377
+    },
+    {
+      "type": "node",
+      "id": 1684080632,
+      "lat": 50.9324126,
+      "lon": 11.6004593
+    },
+    {
+      "type": "node",
+      "id": 1684080635,
+      "lat": 50.9324149,
+      "lon": 11.6003778
+    },
+    {
+      "type": "node",
+      "id": 1684080636,
+      "lat": 50.9324158,
+      "lon": 11.6003923
+    },
+    {
+      "type": "node",
+      "id": 1684080637,
+      "lat": 50.932416,
+      "lon": 11.6004381
+    },
+    {
+      "type": "node",
+      "id": 1684080638,
+      "lat": 50.9324165,
+      "lon": 11.6004442
+    },
+    {
+      "type": "node",
+      "id": 1684080639,
+      "lat": 50.9324169,
+      "lon": 11.6005105
+    },
+    {
+      "type": "node",
+      "id": 1684080640,
+      "lat": 50.9324179,
+      "lon": 11.6005224
+    },
+    {
+      "type": "node",
+      "id": 1684080641,
+      "lat": 50.9324182,
+      "lon": 11.6004582
+    },
+    {
+      "type": "node",
+      "id": 1684080642,
+      "lat": 50.9324196,
+      "lon": 11.6004374
+    },
+    {
+      "type": "node",
+      "id": 1684080643,
+      "lat": 50.9324198,
+      "lon": 11.6004778
+    },
+    {
+      "type": "node",
+      "id": 1684080644,
+      "lat": 50.9324225,
+      "lon": 11.6005093
+    },
+    {
+      "type": "node",
+      "id": 1684080645,
+      "lat": 50.9324238,
+      "lon": 11.6005794
+    },
+    {
+      "type": "node",
+      "id": 1684080646,
+      "lat": 50.9324242,
+      "lon": 11.6005211
+    },
+    {
+      "type": "node",
+      "id": 1684080648,
+      "lat": 50.9324282,
+      "lon": 11.6005907
+    },
+    {
+      "type": "node",
+      "id": 1684080649,
+      "lat": 50.9324287,
+      "lon": 11.6005758
+    },
+    {
+      "type": "node",
+      "id": 1684080650,
+      "lat": 50.9324316,
+      "lon": 11.6005864
+    },
+    {
+      "type": "node",
+      "id": 1684080667,
+      "lat": 50.9324558,
+      "lon": 11.6006324
+    },
+    {
+      "type": "node",
+      "id": 1684080669,
+      "lat": 50.9324583,
+      "lon": 11.6006227
+    },
+    {
+      "type": "node",
+      "id": 1684080671,
+      "lat": 50.9324633,
+      "lon": 11.6006385
+    },
+    {
+      "type": "node",
+      "id": 1684080672,
+      "lat": 50.9324659,
+      "lon": 11.6006304
+    },
+    {
+      "type": "node",
+      "id": 1684080679,
+      "lat": 50.9324962,
+      "lon": 11.6002139
+    },
+    {
+      "type": "node",
+      "id": 1684080681,
+      "lat": 50.9324996,
+      "lon": 11.6002554
+    },
+    {
+      "type": "node",
+      "id": 1684080683,
+      "lat": 50.9325026,
+      "lon": 11.6006259
+    },
+    {
+      "type": "node",
+      "id": 1684080688,
+      "lat": 50.9325046,
+      "lon": 11.6006322
+    },
+    {
+      "type": "node",
+      "id": 1684080700,
+      "lat": 50.9325048,
+      "lon": 11.6002544
+    },
+    {
+      "type": "node",
+      "id": 1684080706,
+      "lat": 50.9325091,
+      "lon": 11.6006216
+    },
+    {
+      "type": "node",
+      "id": 1684080711,
+      "lat": 50.932512,
+      "lon": 11.6006263
+    },
+    {
+      "type": "node",
+      "id": 1684080722,
+      "lat": 50.9325184,
+      "lon": 11.6004176
+    },
+    {
+      "type": "node",
+      "id": 1684080729,
+      "lat": 50.9325281,
+      "lon": 11.6005145
+    },
+    {
+      "type": "node",
+      "id": 1684080741,
+      "lat": 50.932531,
+      "lon": 11.6005712
+    },
+    {
+      "type": "node",
+      "id": 1684080744,
+      "lat": 50.9325333,
+      "lon": 11.6005601
+    },
+    {
+      "type": "node",
+      "id": 1684080746,
+      "lat": 50.932536,
+      "lon": 11.6005741
+    },
+    {
+      "type": "node",
+      "id": 1684080749,
+      "lat": 50.9325387,
+      "lon": 11.6005624
+    },
+    {
+      "type": "node",
+      "id": 1684080758,
+      "lat": 50.9325628,
+      "lon": 11.6004083
+    },
+    {
+      "type": "node",
+      "id": 1684080762,
+      "lat": 50.932571,
+      "lon": 11.6005055
+    },
+    {
+      "type": "node",
+      "id": 387459805,
+      "lat": 50.9505041,
+      "lon": 11.6052007
+    },
+    {
+      "type": "node",
+      "id": 387459806,
+      "lat": 50.9504137,
+      "lon": 11.6050929
+    },
+    {
+      "type": "node",
+      "id": 387459807,
+      "lat": 50.9503233,
+      "lon": 11.6052829
+    },
+    {
+      "type": "node",
+      "id": 387459808,
+      "lat": 50.9504137,
+      "lon": 11.6053907
+    },
+    {
+      "type": "node",
+      "id": 2137443776,
+      "lat": 50.949049,
+      "lon": 11.6043679
+    },
+    {
+      "type": "node",
+      "id": 2137443777,
+      "lat": 50.9489715,
+      "lon": 11.6045799
+    },
+    {
+      "type": "node",
+      "id": 2137443780,
+      "lat": 50.9488783,
+      "lon": 11.6044322
+    },
+    {
+      "type": "node",
+      "id": 2137443802,
+      "lat": 50.94912,
+      "lon": 11.6043437
+    },
+    {
+      "type": "node",
+      "id": 2137443806,
+      "lat": 50.949092,
+      "lon": 11.6042995
+    },
+    {
+      "type": "node",
+      "id": 2137443808,
+      "lat": 50.9489816,
+      "lon": 11.6042607
+    },
+    {
+      "type": "node",
+      "id": 2141277428,
+      "lat": 50.9463336,
+      "lon": 11.6043734
+    },
+    {
+      "type": "node",
+      "id": 2141277433,
+      "lat": 50.9465089,
+      "lon": 11.6041424
+    },
+    {
+      "type": "node",
+      "id": 2141277434,
+      "lat": 50.9463471,
+      "lon": 11.6042956
+    },
+    {
+      "type": "node",
+      "id": 2141277436,
+      "lat": 50.9464772,
+      "lon": 11.6044458
+    },
+    {
+      "type": "node",
+      "id": 2141277439,
+      "lat": 50.9463336,
+      "lon": 11.6043197
+    },
+    {
+      "type": "node",
+      "id": 2141277440,
+      "lat": 50.9464352,
+      "lon": 11.6042603
+    },
+    {
+      "type": "node",
+      "id": 2141277442,
+      "lat": 50.9465871,
+      "lon": 11.6042688
+    },
+    {
+      "type": "node",
+      "id": 2141277444,
+      "lat": 50.9463995,
+      "lon": 11.6042017
+    },
+    {
+      "type": "node",
+      "id": 2141277446,
+      "lat": 50.946462,
+      "lon": 11.6044243
+    },
+    {
+      "type": "node",
+      "id": 2141277447,
+      "lat": 50.9464143,
+      "lon": 11.6045072
+    },
+    {
+      "type": "node",
+      "id": 2161547693,
+      "lat": 50.9594074,
+      "lon": 11.612841
+    },
+    {
+      "type": "node",
+      "id": 2161547696,
+      "lat": 50.9594205,
+      "lon": 11.6127416
+    },
+    {
+      "type": "node",
+      "id": 2161547712,
+      "lat": 50.9594223,
+      "lon": 11.6128405
+    },
+    {
+      "type": "node",
+      "id": 2161547719,
+      "lat": 50.9594746,
+      "lon": 11.6128409
+    },
+    {
+      "type": "node",
+      "id": 2161547723,
+      "lat": 50.9594743,
+      "lon": 11.6127339
+    },
+    {
+      "type": "node",
+      "id": 2161547725,
+      "lat": 50.9594979,
+      "lon": 11.6128411
+    },
+    {
+      "type": "node",
+      "id": 2148927339,
+      "lat": 50.9521614,
+      "lon": 11.6149901
+    },
+    {
+      "type": "node",
+      "id": 2148927340,
+      "lat": 50.9521922,
+      "lon": 11.6152043
+    },
+    {
+      "type": "node",
+      "id": 2148927342,
+      "lat": 50.9522425,
+      "lon": 11.6152584
+    },
+    {
+      "type": "node",
+      "id": 2148927343,
+      "lat": 50.952275,
+      "lon": 11.6151721
+    },
+    {
+      "type": "node",
+      "id": 2154560884,
+      "lat": 50.9522438,
+      "lon": 11.6149547
+    },
+    {
+      "type": "node",
+      "id": 2161547698,
+      "lat": 50.959503,
+      "lon": 11.6131416
+    },
+    {
+      "type": "node",
+      "id": 2161547701,
+      "lat": 50.9594202,
+      "lon": 11.613155
+    },
+    {
+      "type": "node",
+      "id": 2161547703,
+      "lat": 50.9594185,
+      "lon": 11.6131255
+    },
+    {
+      "type": "node",
+      "id": 2161547711,
+      "lat": 50.9594117,
+      "lon": 11.6129887
+    },
+    {
+      "type": "node",
+      "id": 2161547715,
+      "lat": 50.959481,
+      "lon": 11.6131791
+    },
+    {
+      "type": "node",
+      "id": 2161547717,
+      "lat": 50.9593766,
+      "lon": 11.6129938
+    },
+    {
+      "type": "node",
+      "id": 2161547721,
+      "lat": 50.9594405,
+      "lon": 11.6131818
+    },
+    {
+      "type": "node",
+      "id": 2161547727,
+      "lat": 50.95938,
+      "lon": 11.6131279
+    },
+    {
+      "type": "node",
+      "id": 369787616,
+      "lat": 50.9554639,
+      "lon": 11.6352622
+    },
+    {
+      "type": "node",
+      "id": 369787617,
+      "lat": 50.9554976,
+      "lon": 11.6356217
+    },
+    {
+      "type": "node",
+      "id": 369787619,
+      "lat": 50.9554182,
+      "lon": 11.6356405
+    },
+    {
+      "type": "node",
+      "id": 369787622,
+      "lat": 50.9553844,
+      "lon": 11.635281
+    },
+    {
+      "type": "node",
+      "id": 2053479864,
+      "lat": 50.9275375,
+      "lon": 11.6509333
+    },
+    {
+      "type": "node",
+      "id": 2053479867,
+      "lat": 50.9275057,
+      "lon": 11.6507206
+    },
+    {
+      "type": "node",
+      "id": 2053479911,
+      "lat": 50.9274225,
+      "lon": 11.6507519
+    },
+    {
+      "type": "node",
+      "id": 2053480091,
+      "lat": 50.9274543,
+      "lon": 11.6509646
+    }
+  ]
+}

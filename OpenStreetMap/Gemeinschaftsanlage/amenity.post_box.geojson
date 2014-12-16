@@ -1,0 +1,1147 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:16.299Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/265616096",
+      "properties": {
+        "@id": "node/265616096",
+        "amenity": "post_box",
+        "operator": "fix me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.587241,
+          50.9268133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269480431",
+      "properties": {
+        "@id": "node/269480431",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5847286,
+          50.9369768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269483117",
+      "properties": {
+        "@id": "node/269483117",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5840239,
+          50.9324709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273943240",
+      "properties": {
+        "@id": "node/273943240",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5918041,
+          50.9235513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279785774",
+      "properties": {
+        "@id": "node/279785774",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6287963,
+          50.8826006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287503244",
+      "properties": {
+        "@id": "node/287503244",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6021943,
+          50.9252848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292099865",
+      "properties": {
+        "@id": "node/292099865",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5796757,
+          50.8933903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292255622",
+      "properties": {
+        "@id": "node/292255622",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565618,
+          50.9346525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295404325",
+      "properties": {
+        "@id": "node/295404325",
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5832591,
+          50.9242326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299452718",
+      "properties": {
+        "@id": "node/299452718",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5716047,
+          50.931024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/301787525",
+      "properties": {
+        "@id": "node/301787525",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5919334,
+          50.8785742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302270567",
+      "properties": {
+        "@id": "node/302270567",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5817342,
+          50.9267181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302918339",
+      "properties": {
+        "@id": "node/302918339",
+        "amenity": "post_box",
+        "brand": "Deutsche Post AG",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034014,
+          50.9306962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302933721",
+      "properties": {
+        "@id": "node/302933721",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5983754,
+          50.932813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303917658",
+      "properties": {
+        "@id": "node/303917658",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6014015,
+          50.9507677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/304349402",
+      "properties": {
+        "@id": "node/304349402",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6201448,
+          50.9328071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307857646",
+      "properties": {
+        "@id": "node/307857646",
+        "amenity": "post_box",
+        "collection_times": "Mo-Sa 09:00; Su off",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.621771,
+          50.923625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320143040",
+      "properties": {
+        "@id": "node/320143040",
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5725606,
+          50.9600713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344972141",
+      "properties": {
+        "@id": "node/344972141",
+        "amenity": "post_box",
+        "operator": "Citipost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6168952,
+          50.9570333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344972142",
+      "properties": {
+        "@id": "node/344972142",
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6166392,
+          50.9568926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354702695",
+      "properties": {
+        "@id": "node/354702695",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6328175,
+          50.8815508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/356036586",
+      "properties": {
+        "@id": "node/356036586",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781043,
+          50.9162039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/356040287",
+      "properties": {
+        "@id": "node/356040287",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578045,
+          50.9039365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369021169",
+      "properties": {
+        "@id": "node/369021169",
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365904,
+          50.9546047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415795319",
+      "properties": {
+        "@id": "node/415795319",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6108853,
+          50.9467445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/459158523",
+      "properties": {
+        "@id": "node/459158523",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6041897,
+          50.9216879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478557889",
+      "properties": {
+        "@id": "node/478557889",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6196327,
+          50.8833842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/494244262",
+      "properties": {
+        "@id": "node/494244262",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.615123,
+          50.8882808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528051943",
+      "properties": {
+        "@id": "node/528051943",
+        "amenity": "post_box",
+        "operator": "Deutsche Post AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5783072,
+          50.9231721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/533733522",
+      "properties": {
+        "@id": "node/533733522",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5701341,
+          50.9214096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/575766523",
+      "properties": {
+        "@id": "node/575766523",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5962688,
+          50.9219984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/592639759",
+      "properties": {
+        "@id": "node/592639759",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072532,
+          50.8930632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/634380614",
+      "properties": {
+        "@id": "node/634380614",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5790499,
+          50.9294775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/702902505",
+      "properties": {
+        "@id": "node/702902505",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5722535,
+          50.9099166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/884715119",
+      "properties": {
+        "@id": "node/884715119",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5511625,
+          50.9754836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/884715120",
+      "properties": {
+        "@id": "node/884715120",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5365013,
+          50.9733659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/930136866",
+      "properties": {
+        "@id": "node/930136866",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5220675,
+          50.9608232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1448222957",
+      "properties": {
+        "@id": "node/1448222957",
+        "amenity": "post_box",
+        "collection_times": "Mo- Fr 14:00, 15:30; Sa 12:45",
+        "operator": "Deutsche Post",
+        "ref:operator": "Kirchplatz 6, 07743 Jena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876823,
+          50.9288546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455830300",
+      "properties": {
+        "@id": "node/1455830300",
+        "amenity": "post_box",
+        "operator": "Deutsche Post",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731558,
+          50.9024149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455946379",
+      "properties": {
+        "@id": "node/1455946379",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5563492,
+          50.9052247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455951323",
+      "properties": {
+        "@id": "node/1455951323",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5626098,
+          50.9140938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455951324",
+      "properties": {
+        "@id": "node/1455951324",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5663324,
+          50.9155344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455959693",
+      "properties": {
+        "@id": "node/1455959693",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5811097,
+          50.9296403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455965514",
+      "properties": {
+        "@id": "node/1455965514",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5652809,
+          50.9322516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455970754",
+      "properties": {
+        "@id": "node/1455970754",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5583555,
+          50.9370665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455975061",
+      "properties": {
+        "@id": "node/1455975061",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932833,
+          50.9406936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455976844",
+      "properties": {
+        "@id": "node/1455976844",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600316,
+          50.9479201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455980917",
+      "properties": {
+        "@id": "node/1455980917",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6044198,
+          50.9540539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455990984",
+      "properties": {
+        "@id": "node/1455990984",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6180529,
+          50.9323268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456006095",
+      "properties": {
+        "@id": "node/1456006095",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6253507,
+          50.9341042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456010199",
+      "properties": {
+        "@id": "node/1456010199",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261197,
+          50.9309862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456018176",
+      "properties": {
+        "@id": "node/1456018176",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6255653,
+          50.9196598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456020146",
+      "properties": {
+        "@id": "node/1456020146",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6249843,
+          50.9211157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456034753",
+      "properties": {
+        "@id": "node/1456034753",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977025,
+          50.9038199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456035637",
+      "properties": {
+        "@id": "node/1456035637",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5920537,
+          50.9003945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456060740",
+      "properties": {
+        "@id": "node/1456060740",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30,17:30; Sa 10:00",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5934056,
+          50.8994709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456075533",
+      "properties": {
+        "@id": "node/1456075533",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6065967,
+          50.8839904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456079481",
+      "properties": {
+        "@id": "node/1456079481",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603555,
+          50.8811827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456082306",
+      "properties": {
+        "@id": "node/1456082306",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5940571,
+          50.8823895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456085757",
+      "properties": {
+        "@id": "node/1456085757",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6209894,
+          50.8840155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456087528",
+      "properties": {
+        "@id": "node/1456087528",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6284569,
+          50.879924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456097925",
+      "properties": {
+        "@id": "node/1456097925",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6292184,
+          50.8857449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456099043",
+      "properties": {
+        "@id": "node/1456099043",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6315159,
+          50.8879165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456105485",
+      "properties": {
+        "@id": "node/1456105485",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6519678,
+          50.887686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1732644485",
+      "properties": {
+        "@id": "node/1732644485",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6040783,
+          50.8814463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939931366",
+      "properties": {
+        "@id": "node/1939931366",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733839,
+          50.9349529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550554765",
+      "properties": {
+        "@id": "node/2550554765",
+        "amenity": "post_box",
+        "operator": "Citykurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5996727,
+          50.9289832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2608126374",
+      "properties": {
+        "@id": "node/2608126374",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933253,
+          50.8981413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2608256244",
+      "properties": {
+        "@id": "node/2608256244",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6065895,
+          50.8839862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2783739912",
+      "properties": {
+        "@id": "node/2783739912",
+        "amenity": "post_box",
+        "operator": "Citykurier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933989,
+          50.8994583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2783739917",
+      "properties": {
+        "@id": "node/2783739917",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30,17:30; Sa 10:00",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5934058,
+          50.899467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3207374437",
+      "properties": {
+        "@id": "node/3207374437",
+        "amenity": "post_box",
+        "operator": "Deutsche Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5974944,
+          50.9218127
+        ]
+      }
+    }
+  ]
+}

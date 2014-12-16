@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:44:17.135Z",
+  "timestamp": "2014-12-16T10:48:07.494Z",
   "features": [
     {
       "type": "Feature",
@@ -4107,6 +4107,60 @@
             [
               11.6155115,
               50.8916353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316314481",
+      "properties": {
+        "@id": "way/316314481",
+        "landuse": "meadow",
+        "leisure": "pitch",
+        "meadow": "pasture",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6311071,
+              50.9319027
+            ],
+            [
+              11.6313869,
+              50.9318756
+            ],
+            [
+              11.6313727,
+              50.9318539
+            ],
+            [
+              11.6314236,
+              50.9318486
+            ],
+            [
+              11.6314391,
+              50.9318706
+            ],
+            [
+              11.6324992,
+              50.931781
+            ],
+            [
+              11.6325474,
+              50.9320227
+            ],
+            [
+              11.63115,
+              50.9321495
+            ],
+            [
+              11.6311071,
+              50.9319027
             ]
           ]
         ]

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:43:58.926Z",
+  "timestamp": "2014-12-16T10:47:20.483Z",
   "features": [
     {
       "type": "Feature",
@@ -10313,6 +10313,126 @@
         "coordinates": [
           11.5535301,
           50.9594684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124099",
+      "properties": {
+        "@id": "node/3220124099",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6297714,
+          50.9300273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124101",
+      "properties": {
+        "@id": "node/3220124101",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299408,
+          50.9300289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124126",
+      "properties": {
+        "@id": "node/3220124126",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6322774,
+          50.9300631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124127",
+      "properties": {
+        "@id": "node/3220124127",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6324468,
+          50.9300647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124317",
+      "properties": {
+        "@id": "node/3220124317",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6324184,
+          50.9306232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124318",
+      "properties": {
+        "@id": "node/3220124318",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6325878,
+          50.9306248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124453",
+      "properties": {
+        "@id": "node/3220124453",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6327686,
+          50.9312278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220124458",
+      "properties": {
+        "@id": "node/3220124458",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6325957,
+          50.9312371
         ]
       }
     }

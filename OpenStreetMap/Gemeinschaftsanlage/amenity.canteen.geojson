@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:50.285Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/32556252",
+      "properties": {
+        "@id": "way/32556252",
+        "Cafeteria": "yes",
+        "addr:city": "Jena",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Philosophenweg",
+        "amenity": "canteen",
+        "building": "yes",
+        "cafeteria": "yes",
+        "cuisine": "canteen",
+        "historic": "Bauhaus",
+        "name": "Mensa Philosophenweg",
+        "operator": "Studentenwerk Thüringen",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5842674,
+              50.9327386
+            ],
+            [
+              11.5841988,
+              50.9324086
+            ],
+            [
+              11.5841816,
+              50.9323275
+            ],
+            [
+              11.5845279,
+              50.9323015
+            ],
+            [
+              11.5846047,
+              50.9323058
+            ],
+            [
+              11.5846165,
+              50.9323413
+            ],
+            [
+              11.5846466,
+              50.932562
+            ],
+            [
+              11.5851601,
+              50.9325276
+            ],
+            [
+              11.5851772,
+              50.9328738
+            ],
+            [
+              11.585026,
+              50.9328809
+            ],
+            [
+              11.5850206,
+              50.932722
+            ],
+            [
+              11.5847567,
+              50.9327278
+            ],
+            [
+              11.5847653,
+              50.9327548
+            ],
+            [
+              11.5846537,
+              50.9327656
+            ],
+            [
+              11.5846365,
+              50.9327007
+            ],
+            [
+              11.5842674,
+              50.9327386
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

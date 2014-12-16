@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:03.533Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1449507380",
+      "properties": {
+        "@id": "node/1449507380",
+        "amenity": "clock",
+        "display": "analog",
+        "support": "billboard",
+        "visibility": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5901713,
+          50.9239787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449539451",
+      "properties": {
+        "@id": "node/1449539451",
+        "amenity": "clock",
+        "display": "analog",
+        "support": "pole",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5924021,
+          50.9304705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449592434",
+      "properties": {
+        "@id": "node/1449592434",
+        "amenity": "clock",
+        "date": "yes",
+        "display": "analog",
+        "support": "pole",
+        "thermometer": "yes",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5866131,
+          50.9283237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1477852881",
+      "properties": {
+        "@id": "node/1477852881",
+        "amenity": "clock",
+        "display": "analog",
+        "support": "pole",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5821637,
+          50.9255401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2258454516",
+      "properties": {
+        "@id": "node/2258454516",
+        "amenity": "clock",
+        "display": "analog",
+        "support": "billboard",
+        "visibility": "street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5864037,
+          50.9263188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444305551",
+      "properties": {
+        "@id": "node/2444305551",
+        "amenity": "clock",
+        "display": "analog",
+        "name": "Schnapphans",
+        "support": "wall_mounted",
+        "visibility": "area",
+        "wikipedia:de": "Schnapphans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5874934,
+          50.9279365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2651936547",
+      "properties": {
+        "@id": "node/2651936547",
+        "amenity": "clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6072698,
+          50.8926127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2704179720",
+      "properties": {
+        "@id": "node/2704179720",
+        "amenity": "clock",
+        "display": "sundial",
+        "name": "Sonnenuhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6136992,
+          50.8886905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2956972295",
+      "properties": {
+        "@id": "node/2956972295",
+        "amenity": "clock",
+        "display": "analog",
+        "support": "pole",
+        "visibility": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932289,
+          50.8834753
+        ]
+      }
+    }
+  ]
+}

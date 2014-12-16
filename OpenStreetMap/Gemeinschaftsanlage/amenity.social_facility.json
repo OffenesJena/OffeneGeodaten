@@ -1,0 +1,457 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1683829594,
+      "lat": 50.9008195,
+      "lon": 11.5763384,
+      "tags": {
+        "amenity": "social_facility",
+        "name": "Volkssolidarität",
+        "operator": "VOLKSSOLIDATITÄT Regionalverband Ostthüringen e.V.",
+        "social_facility": "ambulatory_care",
+        "social_facility:for": "disabled"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444575565,
+      "lat": 50.9246789,
+      "lon": 11.5843964,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "social_facility",
+        "name": "Betreuerbüro Klingberg",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2726165185,
+      "lat": 50.882021,
+      "lon": 11.6118758,
+      "tags": {
+        "amenity": "social_facility",
+        "contact:email": "tafelhaus@jenaertafel.de",
+        "contact:fax": "03641 - 33 69 21",
+        "contact:phone": "03641 - 33 69 20",
+        "contact:website": "http://jenaertafel.de",
+        "name": "Jenaer Tafel",
+        "opening_hours": "Mo-Fr 07:30-18:00",
+        "operator": "Jenaer Tafel",
+        "shop": "supermarket",
+        "social_facility": "food_bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2727274061,
+      "lat": 50.9016911,
+      "lon": 11.5764559,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7-13",
+        "addr:postcode": "07745",
+        "addr:street": "Max-Steenbeck-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "social_facility",
+        "contact:website": "http://advita.de/standorte/jena/",
+        "name": "Advita",
+        "social_facility": "ambulatory_care"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3049343158,
+      "lat": 50.9247048,
+      "lon": 11.5844174,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "social_facility",
+        "club": "social",
+        "contact:email": "kontakt@tausendtaten.de",
+        "contact:facebook": "https://www.facebook.com/tausendtaten",
+        "contact:fax": "+49 3641 3096186",
+        "contact:phone": "+49 3641 9264171",
+        "contact:website": "http://www.tausendtaten.de",
+        "name": "Tausend Taten e.V.",
+        "office": "club",
+        "social_facility": "outreach",
+        "social_facility:for": "child;juvenile;senior",
+        "wheelchair": "limited",
+        "wheelchair:description": "Es muss eine kleine Stufe überwunden werden und auf einem kleinen Podest um 90% gewendet werden, um den Versammlungsraum zu erreichen. Weitere Büroräume nur über Treppen zu erreichen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255128357,
+      "nodes": [
+        2608703384,
+        2608703410,
+        2608703419,
+        2608703434,
+        2608703437,
+        2608703440,
+        2608703443,
+        2608703452,
+        2608703431,
+        2608703428,
+        2608703424,
+        2608703455,
+        2608703461,
+        2608703446,
+        2608703470,
+        2608703477,
+        2608703473,
+        2608703467,
+        2608703458,
+        2608703464,
+        2608703449,
+        2608703422,
+        2608703413,
+        2608703401,
+        2608703415,
+        2608703406,
+        2608703403,
+        2608703394,
+        2608703397,
+        2608703379,
+        2608703382,
+        2608703378,
+        2608703380,
+        2608703383,
+        2608703384
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "07743",
+        "addr:street": "Am Flutgraben",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Saale Betreuungswerk der Lebenshilfe Jena gGmbH",
+        "operator": "Saale Betreuungswerk der Lebenshilfe Jena gGmbH",
+        "social_facility": "workshop",
+        "social_facility:for": "disabled person",
+        "website": "http://www.sbw-jena.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256807143,
+      "nodes": [
+        1289948097,
+        3224162853,
+        1289948101,
+        1289948098,
+        1289948100,
+        1289948097
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "11",
+        "addr:postcode": "07745",
+        "addr:street": "Am Herrenberge",
+        "amenity": "social_facility",
+        "building": "apartments",
+        "name": "Gästehaus Am Herrenberge 11",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "social_facility": "group_home"
+      }
+    },
+    {
+      "type": "way",
+      "id": 312674880,
+      "nodes": [
+        3185420307,
+        3185420308,
+        3185420309,
+        3185420310,
+        3185420307
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "32",
+        "addr:postcode": "07745",
+        "addr:street": "Emma-Heintz-Straße",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Häusliche Krankenpflege Martina Blech",
+        "website": "http://www.seniorenhaus-jena.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1289948097,
+      "lat": 50.913992,
+      "lon": 11.5585109
+    },
+    {
+      "type": "node",
+      "id": 1289948098,
+      "lat": 50.9138231,
+      "lon": 11.5591506
+    },
+    {
+      "type": "node",
+      "id": 1289948100,
+      "lat": 50.9138496,
+      "lon": 11.5584964
+    },
+    {
+      "type": "node",
+      "id": 1289948101,
+      "lat": 50.9139655,
+      "lon": 11.5591651
+    },
+    {
+      "type": "node",
+      "id": 3224162853,
+      "lat": 50.9139788,
+      "lon": 11.558838
+    },
+    {
+      "type": "node",
+      "id": 3185420307,
+      "lat": 50.9109754,
+      "lon": 11.5708816
+    },
+    {
+      "type": "node",
+      "id": 3185420308,
+      "lat": 50.911016,
+      "lon": 11.5707032
+    },
+    {
+      "type": "node",
+      "id": 3185420309,
+      "lat": 50.9111825,
+      "lon": 11.5707984
+    },
+    {
+      "type": "node",
+      "id": 3185420310,
+      "lat": 50.911142,
+      "lon": 11.5709768
+    },
+    {
+      "type": "node",
+      "id": 2608703378,
+      "lat": 50.9593461,
+      "lon": 11.6269813
+    },
+    {
+      "type": "node",
+      "id": 2608703379,
+      "lat": 50.9593806,
+      "lon": 11.6270717
+    },
+    {
+      "type": "node",
+      "id": 2608703380,
+      "lat": 50.9593844,
+      "lon": 11.6268706
+    },
+    {
+      "type": "node",
+      "id": 2608703382,
+      "lat": 50.9593966,
+      "lon": 11.6270254
+    },
+    {
+      "type": "node",
+      "id": 2608703383,
+      "lat": 50.9594036,
+      "lon": 11.6268873
+    },
+    {
+      "type": "node",
+      "id": 2608703384,
+      "lat": 50.9594672,
+      "lon": 11.6267033
+    },
+    {
+      "type": "node",
+      "id": 2608703394,
+      "lat": 50.9594935,
+      "lon": 11.6271865
+    },
+    {
+      "type": "node",
+      "id": 2608703397,
+      "lat": 50.9594978,
+      "lon": 11.6271739
+    },
+    {
+      "type": "node",
+      "id": 2608703401,
+      "lat": 50.959656,
+      "lon": 11.6276181
+    },
+    {
+      "type": "node",
+      "id": 2608703403,
+      "lat": 50.9596867,
+      "lon": 11.6273549
+    },
+    {
+      "type": "node",
+      "id": 2608703406,
+      "lat": 50.9597389,
+      "lon": 11.6272037
+    },
+    {
+      "type": "node",
+      "id": 2608703410,
+      "lat": 50.959739,
+      "lon": 11.6269401
+    },
+    {
+      "type": "node",
+      "id": 2608703413,
+      "lat": 50.9597776,
+      "lon": 11.627724
+    },
+    {
+      "type": "node",
+      "id": 2608703415,
+      "lat": 50.9597854,
+      "lon": 11.6272441
+    },
+    {
+      "type": "node",
+      "id": 2608703419,
+      "lat": 50.9598949,
+      "lon": 11.6264893
+    },
+    {
+      "type": "node",
+      "id": 2608703422,
+      "lat": 50.9599046,
+      "lon": 11.6273567
+    },
+    {
+      "type": "node",
+      "id": 2608703424,
+      "lat": 50.959981,
+      "lon": 11.6271521
+    },
+    {
+      "type": "node",
+      "id": 2608703428,
+      "lat": 50.9600052,
+      "lon": 11.6270821
+    },
+    {
+      "type": "node",
+      "id": 2608703431,
+      "lat": 50.9600774,
+      "lon": 11.627145
+    },
+    {
+      "type": "node",
+      "id": 2608703434,
+      "lat": 50.9601194,
+      "lon": 11.626685
+    },
+    {
+      "type": "node",
+      "id": 2608703437,
+      "lat": 50.9601416,
+      "lon": 11.6266207
+    },
+    {
+      "type": "node",
+      "id": 2608703440,
+      "lat": 50.9601597,
+      "lon": 11.6266364
+    },
+    {
+      "type": "node",
+      "id": 2608703443,
+      "lat": 50.9601809,
+      "lon": 11.6265752
+    },
+    {
+      "type": "node",
+      "id": 2608703446,
+      "lat": 50.9602039,
+      "lon": 11.6272223
+    },
+    {
+      "type": "node",
+      "id": 2608703449,
+      "lat": 50.9602267,
+      "lon": 11.6276375
+    },
+    {
+      "type": "node",
+      "id": 2608703452,
+      "lat": 50.9602528,
+      "lon": 11.6266378
+    },
+    {
+      "type": "node",
+      "id": 2608703455,
+      "lat": 50.9602528,
+      "lon": 11.627389
+    },
+    {
+      "type": "node",
+      "id": 2608703458,
+      "lat": 50.960276,
+      "lon": 11.6274186
+    },
+    {
+      "type": "node",
+      "id": 2608703461,
+      "lat": 50.9602858,
+      "lon": 11.6272937
+    },
+    {
+      "type": "node",
+      "id": 2608703464,
+      "lat": 50.9602963,
+      "lon": 11.6274362
+    },
+    {
+      "type": "node",
+      "id": 2608703467,
+      "lat": 50.9603101,
+      "lon": 11.6273202
+    },
+    {
+      "type": "node",
+      "id": 2608703470,
+      "lat": 50.9603256,
+      "lon": 11.6268702
+    },
+    {
+      "type": "node",
+      "id": 2608703473,
+      "lat": 50.9603328,
+      "lon": 11.62734
+    },
+    {
+      "type": "node",
+      "id": 2608703477,
+      "lat": 50.960456,
+      "lon": 11.6269839
+    }
+  ]
+}

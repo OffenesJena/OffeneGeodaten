@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:51.952Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/296083939",
+      "properties": {
+        "@id": "way/296083939",
+        "amenity": "motorcycle_parking",
+        "fee": "no",
+        "note:de": "Motorrad",
+        "parking": "surface",
+        "supervised": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6128741,
+              50.8893958
+            ],
+            [
+              11.6128955,
+              50.8893586
+            ],
+            [
+              11.6129652,
+              50.8893848
+            ],
+            [
+              11.6129411,
+              50.8894204
+            ],
+            [
+              11.6128741,
+              50.8893958
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

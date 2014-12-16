@@ -1,0 +1,659 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 292149657,
+      "lat": 50.9277435,
+      "lon": 11.5889348,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07743",
+        "addr:street": "Unterm Markt",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Literaten-Cafe",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292149662,
+      "lat": 50.9268853,
+      "lon": 11.5859373,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Holzmarkt",
+        "amenity": "cafe",
+        "name": "Eiscafe RIVA",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292149663,
+      "lat": 50.9266006,
+      "lon": 11.5839626,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Engelplatz",
+        "amenity": "cafe",
+        "name": "Eiscafé Teatro",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299808733,
+      "lat": 50.9293799,
+      "lon": 11.583393,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "name": "Kaffeehaus Gräfe",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299809598,
+      "lat": 50.9282506,
+      "lon": 11.5884397,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "cafe",
+        "contact:website": "http://www.markt11.de",
+        "drink:club-mate": "served",
+        "food": "yes",
+        "name": "markt 11 - Kaffeerösterei",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299812007,
+      "lat": 50.9287486,
+      "lon": 11.5834055,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bagels&Beans",
+        "wheelchair": "yes",
+        "wifi": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299812522,
+      "lat": 50.926761,
+      "lon": 11.5855853,
+      "tags": {
+        "addr:street": "Holzmarkt",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Black Bean",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 10:00-20:00; Su 13:00-20:00",
+        "wheelchair": "yes",
+        "wifi": "free, but registration required"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300652788,
+      "lat": 50.9298469,
+      "lon": 11.5822229,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "cafe",
+        "contact:email": "buero@fairtradekontor.com",
+        "contact:fax": "+49 (0) 3641 20 76 916",
+        "contact:phone": "+49 (0) 3641 20 76 915",
+        "contact:website": "http://www.fairtradekontor.com",
+        "name": "Fairtrade Kontor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300653069,
+      "lat": 50.9299353,
+      "lon": 11.5820291,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "cafe",
+        "name": "Cafe-Bar Rossini"
+      }
+    },
+    {
+      "type": "node",
+      "id": 315602921,
+      "lat": 50.9277276,
+      "lon": 11.5875899,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "cafe",
+        "name": "Café Central",
+        "smoking": "separated",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444859483,
+      "lat": 50.9292425,
+      "lon": 11.5826244,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "cafe",
+        "contact:phone": "+49 (0) 3641 228853",
+        "cuisine": "Cafe",
+        "drink:club-mate": "yes",
+        "name": "Herr Rossi",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469086849,
+      "lat": 50.9218675,
+      "lon": 11.6038213,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "85",
+        "addr:postcode": "07749",
+        "addr:street": "Friedrich-Engels-Straße",
+        "amenity": "cafe",
+        "name": "Gasthaus Bienenstich"
+      }
+    },
+    {
+      "type": "node",
+      "id": 593243564,
+      "lat": 50.893103,
+      "lon": 11.6069152,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "16",
+        "addr:postcode": "07747",
+        "addr:street": "Susanne-Bohl-Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "cafe",
+        "name": "Café am Kirchberg",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621214272,
+      "lat": 50.9272543,
+      "lon": 11.5844211,
+      "tags": {
+        "addr:housename": "Bäckerei Schäfers",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Teichgraben",
+        "amenity": "cafe",
+        "contact:email": "kundenbetreuung@schaefers-brot.de",
+        "contact:website": "https://www.schaefers-brot.de",
+        "cuisine": "coffee_shop",
+        "name": "Bäckerei Schäfers",
+        "opening_hours": "07:00-18:00",
+        "operator": "Schäfer’s Brot- und Kuchen-Spezialitäten GmbH",
+        "ref:schaefers": "58245",
+        "source": "GPS-Tracklog",
+        "wheelchair": "no",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621215801,
+      "lat": 50.9275267,
+      "lon": 11.5825984,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Eiscafe",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 627730968,
+      "lat": 50.9292887,
+      "lon": 11.5852132,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "17",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisstraße",
+        "amenity": "cafe",
+        "name": "Milchmix",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 634380617,
+      "lat": 50.9337491,
+      "lon": 11.5909483,
+      "tags": {
+        "amenity": "cafe",
+        "contact:google_plus": "https://plus.google.com/100143657768088679837",
+        "name": "Eiscafé Melange",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638453944,
+      "lat": 50.928524,
+      "lon": 11.5881999,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Philisterium",
+        "opening_hours": "Tu,We,Fr 11:00-17:00; Th 14:00-22:00;Sa,Su 11:00-17:30",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1400258527,
+      "lat": 50.9306991,
+      "lon": 11.6009161,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "21",
+        "addr:postcode": "07749",
+        "addr:street": "Schenkstraße",
+        "amenity": "cafe",
+        "contact:website": "http://www.lecker-lenz.de",
+        "name": "Café Lenz",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1771900613,
+      "lat": 50.9311758,
+      "lon": 11.59891,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housename": "Schillerhof",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Helmboldstraße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "cafe",
+        "contact:website": "http://schillerhof-jena.de",
+        "name": "Schillerhof"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952474892,
+      "lat": 50.929769,
+      "lon": 11.5867411,
+      "tags": {
+        "amenity": "cafe",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952526956,
+      "lat": 50.9282381,
+      "lon": 11.5832606,
+      "tags": {
+        "amenity": "cafe",
+        "name": "McCafe",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444567565,
+      "lat": 50.9260052,
+      "lon": 11.5847933,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "37",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "cafe",
+        "contact:phone": "+49 3641 2789899",
+        "contact:website": "http://www.cafefau.de/",
+        "name": "Café [fau]",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2891382527,
+      "lat": 50.9285833,
+      "lon": 11.5908502,
+      "tags": {
+        "amenity": "cafe",
+        "contact:email": "kundenbetreuung@schaefers-brot.de",
+        "contact:website": "https://www.schaefers-brot.de",
+        "name": "Schäfer’s",
+        "opening_hours": "Mo-Sa 07:00-20:00;Su 07:00-10:00",
+        "operator": "Schäfer’s Brot- und Kuchen-Spezialitäten GmbH",
+        "ref:schaefers": "58262",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32812097,
+      "nodes": [
+        369739821,
+        2149293526,
+        2149293522,
+        2149293521,
+        369739824,
+        369739826,
+        2149293524,
+        2149293523,
+        369739821
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Werksverkauf Stadtbäckerei",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 07:00-12:00; Su 12:00-17:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153814518,
+      "nodes": [
+        1664530117,
+        1664530113,
+        1664530111,
+        1664530115,
+        1664530117
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Café"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192995396,
+      "nodes": [
+        2035256686,
+        2035256690,
+        2035256688,
+        2035256683,
+        2035256679,
+        2035256675,
+        2035256671,
+        2035256666,
+        2035256669,
+        2035256673,
+        2035256677,
+        2035256681,
+        2035256685,
+        2035256686
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Vor dem Neutor",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Paradies-Café",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247013949,
+      "nodes": [
+        2539596266,
+        2539596262,
+        2539596261,
+        2539596263,
+        2539596264,
+        2539596265,
+        2539596266
+      ],
+      "tags": {
+        "addr:street": "Johannisstraße",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Food box, veggy burger",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1664530111,
+      "lat": 50.9116117,
+      "lon": 11.5809538
+    },
+    {
+      "type": "node",
+      "id": 1664530113,
+      "lat": 50.9116221,
+      "lon": 11.5810234
+    },
+    {
+      "type": "node",
+      "id": 1664530115,
+      "lat": 50.9117561,
+      "lon": 11.5809
+    },
+    {
+      "type": "node",
+      "id": 1664530117,
+      "lat": 50.9117664,
+      "lon": 11.5809696
+    },
+    {
+      "type": "node",
+      "id": 2035256666,
+      "lat": 50.9221108,
+      "lon": 11.5848142
+    },
+    {
+      "type": "node",
+      "id": 2035256669,
+      "lat": 50.9221219,
+      "lon": 11.5847534
+    },
+    {
+      "type": "node",
+      "id": 2035256671,
+      "lat": 50.9221224,
+      "lon": 11.5848728
+    },
+    {
+      "type": "node",
+      "id": 2035256673,
+      "lat": 50.9221471,
+      "lon": 11.5847171
+    },
+    {
+      "type": "node",
+      "id": 2035256675,
+      "lat": 50.9221614,
+      "lon": 11.5849167
+    },
+    {
+      "type": "node",
+      "id": 2035256677,
+      "lat": 50.9221877,
+      "lon": 11.5847056
+    },
+    {
+      "type": "node",
+      "id": 2035256679,
+      "lat": 50.9221954,
+      "lon": 11.584917
+    },
+    {
+      "type": "node",
+      "id": 2035256681,
+      "lat": 50.9222101,
+      "lon": 11.5847168
+    },
+    {
+      "type": "node",
+      "id": 2035256683,
+      "lat": 50.9222237,
+      "lon": 11.5848933
+    },
+    {
+      "type": "node",
+      "id": 2035256685,
+      "lat": 50.9222312,
+      "lon": 11.584744
+    },
+    {
+      "type": "node",
+      "id": 2035256686,
+      "lat": 50.9222401,
+      "lon": 11.5847659
+    },
+    {
+      "type": "node",
+      "id": 2035256688,
+      "lat": 50.9222412,
+      "lon": 11.5848551
+    },
+    {
+      "type": "node",
+      "id": 2035256690,
+      "lat": 50.9222467,
+      "lon": 11.5848077
+    },
+    {
+      "type": "node",
+      "id": 2539596261,
+      "lat": 50.9290945,
+      "lon": 11.5861447
+    },
+    {
+      "type": "node",
+      "id": 2539596262,
+      "lat": 50.9290973,
+      "lon": 11.5860924
+    },
+    {
+      "type": "node",
+      "id": 2539596263,
+      "lat": 50.9291063,
+      "lon": 11.5861518
+    },
+    {
+      "type": "node",
+      "id": 2539596264,
+      "lat": 50.929116,
+      "lon": 11.5861507
+    },
+    {
+      "type": "node",
+      "id": 2539596265,
+      "lat": 50.9291188,
+      "lon": 11.5861403
+    },
+    {
+      "type": "node",
+      "id": 2539596266,
+      "lat": 50.9291205,
+      "lon": 11.5860919
+    },
+    {
+      "type": "node",
+      "id": 369739821,
+      "lat": 50.9549141,
+      "lon": 11.6234765
+    },
+    {
+      "type": "node",
+      "id": 369739824,
+      "lat": 50.9546013,
+      "lon": 11.6233628
+    },
+    {
+      "type": "node",
+      "id": 369739826,
+      "lat": 50.9546453,
+      "lon": 11.6232317
+    },
+    {
+      "type": "node",
+      "id": 2149293521,
+      "lat": 50.9546899,
+      "lon": 11.6234379
+    },
+    {
+      "type": "node",
+      "id": 2149293522,
+      "lat": 50.9546996,
+      "lon": 11.623409
+    },
+    {
+      "type": "node",
+      "id": 2149293523,
+      "lat": 50.9547251,
+      "lon": 11.6233164
+    },
+    {
+      "type": "node",
+      "id": 2149293524,
+      "lat": 50.9547296,
+      "lon": 11.623303
+    },
+    {
+      "type": "node",
+      "id": 2149293526,
+      "lat": 50.9548842,
+      "lon": 11.6235654
+    }
+  ]
+}

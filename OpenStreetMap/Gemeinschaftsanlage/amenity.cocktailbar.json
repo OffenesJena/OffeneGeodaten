@@ -1,0 +1,24 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:39:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2313564757,
+      "lat": 50.9290116,
+      "lon": 11.5873188,
+      "tags": {
+        "amenity": "Cocktailbar",
+        "contact:phone": "+49 3641 79 58 399",
+        "contact:website": "die-perle.com",
+        "name": "Die Perle",
+        "opening_hours": "Mo-Sa 19:00+"
+      }
+    }
+  ]
+}

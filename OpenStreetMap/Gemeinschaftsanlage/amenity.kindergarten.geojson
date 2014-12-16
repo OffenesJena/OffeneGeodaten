@@ -1,0 +1,2812 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:45.402Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/636903322",
+      "properties": {
+        "@id": "node/636903322",
+        "amenity": "kindergarten",
+        "level": "0;1",
+        "name": "Katholische Kindertagesstätte \"Sankt Johannes\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5814321,
+          50.9313463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532074",
+      "properties": {
+        "@id": "node/667532074",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "amenity": "kindergarten",
+        "name": "Kinderschirm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5887635,
+          50.9376096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532075",
+      "properties": {
+        "@id": "node/667532075",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "07743",
+        "addr:street": "Von-Hase-Weg",
+        "amenity": "kindergarten",
+        "name": "Ecole maternelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5870898,
+          50.9385831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532078",
+      "properties": {
+        "@id": "node/667532078",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Closewitzer Straße",
+        "amenity": "kindergarten",
+        "contact:website": "http://waldkinder-jena.de",
+        "name": "Waldkindergarten Jena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5977543,
+          50.950778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532079",
+      "properties": {
+        "@id": "node/667532079",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "07743",
+        "addr:street": "Schützenhofstraße",
+        "amenity": "kindergarten",
+        "name": "Kinderland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5960423,
+          50.9483494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532083",
+      "properties": {
+        "@id": "node/667532083",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "07743",
+        "addr:street": "Leibnizstraße",
+        "amenity": "kindergarten",
+        "contact:phone": "03641/384291",
+        "contact:website": "http://kitafantasia.de",
+        "name": "Evangelische Kindertagesstätte \"Fantasia\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6219103,
+          50.959591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532084",
+      "properties": {
+        "@id": "node/667532084",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Max-Gräfe-Gasse",
+        "amenity": "kindergarten",
+        "contact:fax": "03641-207254",
+        "contact:phone": "03641-426136",
+        "contact:website": "http://www.kinderbude-jena.de",
+        "name": "Kinderbude"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6157918,
+          50.9578488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532085",
+      "properties": {
+        "@id": "node/667532085",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "07743",
+        "addr:street": "Carl-Orff-Straße",
+        "amenity": "kindergarten",
+        "name": "Kleine Forscher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6222804,
+          50.9644631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667532086",
+      "properties": {
+        "@id": "node/667532086",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Schreckenbachweg",
+        "amenity": "kindergarten",
+        "contact:website": "http://www.kita-loebstedt.de",
+        "name": "Kindertagesstätte \"Löbstedt\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6133433,
+          50.9540493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244287",
+      "properties": {
+        "@id": "node/668244287",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07745",
+        "addr:street": "Alte Hauptstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "kindergarten",
+        "contact:website": "http://www.waldorfschule-jena.de/kg.htm",
+        "name": "Waldorfschule Kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5899907,
+          50.8783878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244292",
+      "properties": {
+        "@id": "node/668244292",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07747",
+        "addr:street": "Fregestraße",
+        "amenity": "kindergarten",
+        "name": "Knirpsenland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008137,
+          50.8807651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244295",
+      "properties": {
+        "@id": "node/668244295",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07747",
+        "addr:street": "Fregestraße",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "kindergarten",
+        "name": "Regenbogen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008092,
+          50.8818522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244297",
+      "properties": {
+        "@id": "node/668244297",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07745",
+        "addr:street": "Hahnengrundweg",
+        "amenity": "kindergarten",
+        "contact:website": "http://www.kindergarten-ammerbach.de",
+        "name": "Kindergarten Ammerbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5594951,
+          50.9039968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244304",
+      "properties": {
+        "@id": "node/668244304",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "163",
+        "addr:postcode": "07745",
+        "addr:street": "Magdelstieg",
+        "amenity": "kindergarten",
+        "name": "Mädertal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5586514,
+          50.9201508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244305",
+      "properties": {
+        "@id": "node/668244305",
+        "amenity": "kindergarten",
+        "name": "Jenaplan-Kindergarten",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5691603,
+          50.9212157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244306",
+      "properties": {
+        "@id": "node/668244306",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "07745",
+        "addr:street": "Forstweg",
+        "amenity": "kindergarten",
+        "name": "Bummi",
+        "operator": "DRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5730128,
+          50.9266571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244307",
+      "properties": {
+        "@id": "node/668244307",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "07745",
+        "addr:street": "Forstweg",
+        "amenity": "kindergarten",
+        "name": "Dornröschen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5758533,
+          50.9260452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244308",
+      "properties": {
+        "@id": "node/668244308",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07745",
+        "addr:street": "Kreußlerstraße",
+        "amenity": "kindergarten",
+        "name": "Zwergenhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5758855,
+          50.9265135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244310",
+      "properties": {
+        "@id": "node/668244310",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07745",
+        "addr:street": "Forstweg",
+        "amenity": "kindergarten",
+        "name": "Freier Kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5779689,
+          50.9268028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244311",
+      "properties": {
+        "@id": "node/668244311",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07745",
+        "addr:street": "Sellierstraße",
+        "amenity": "kindergarten",
+        "name": "Zauberbaum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5814389,
+          50.9234625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244317",
+      "properties": {
+        "@id": "node/668244317",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07751",
+        "addr:street": "Burggartenweg",
+        "amenity": "kindergarten",
+        "fax": "+49 36425 20225",
+        "name": "Isserstedter Naturschwärmer",
+        "phone": "+49 36425 22292",
+        "website": "http://www.sozialakademie.info/naturschwaermer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5238837,
+          50.959315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244328",
+      "properties": {
+        "@id": "node/668244328",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "07749",
+        "addr:street": "Karl-Günther-Straße",
+        "amenity": "kindergarten",
+        "contact:fax": "03641 358773",
+        "contact:phone": "03641 443877",
+        "name": "Jenzigblick",
+        "operator": "AWO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.608081,
+          50.9339002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668244329",
+      "properties": {
+        "@id": "node/668244329",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "71a",
+        "addr:postcode": "07749",
+        "addr:street": "Löbichauer Straße",
+        "amenity": "kindergarten",
+        "name": "Himmelszelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6170032,
+          50.9331679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1683829582",
+      "properties": {
+        "@id": "node/1683829582",
+        "amenity": "kindergarten",
+        "name": "Kindergarten Wirbelwind",
+        "operator": "AWO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763397,
+          50.9006313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2149001564",
+      "properties": {
+        "@id": "node/2149001564",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.614632,
+          50.9516484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2789498902",
+      "properties": {
+        "@id": "node/2789498902",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733373,
+          50.9321717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33579087",
+      "properties": {
+        "@id": "way/33579087",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "95a",
+        "addr:postcode": "07751",
+        "addr:street": "Kunitzburgweg",
+        "amenity": "kindergarten",
+        "fax": "+49 3641 355821",
+        "name": "Kindertagesstätte Kunitz",
+        "phone": "+49 3641 355823",
+        "website": "http://www.kita-kunitz.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6392238,
+              50.9557281
+            ],
+            [
+              11.6394539,
+              50.9555242
+            ],
+            [
+              11.6393497,
+              50.9554177
+            ],
+            [
+              11.6392058,
+              50.9553702
+            ],
+            [
+              11.6389613,
+              50.9555197
+            ],
+            [
+              11.6387491,
+              50.9556941
+            ],
+            [
+              11.6392238,
+              50.9557281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39402946",
+      "properties": {
+        "@id": "way/39402946",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11a",
+        "addr:postcode": "07749",
+        "addr:street": "Burgweg",
+        "amenity": "kindergarten",
+        "name": "Löwenzahn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5988617,
+              50.9245415
+            ],
+            [
+              11.5987963,
+              50.924493
+            ],
+            [
+              11.5987497,
+              50.9244611
+            ],
+            [
+              11.5987135,
+              50.9244071
+            ],
+            [
+              11.5986622,
+              50.9242824
+            ],
+            [
+              11.5986397,
+              50.9242198
+            ],
+            [
+              11.5985996,
+              50.9241623
+            ],
+            [
+              11.5984841,
+              50.9241008
+            ],
+            [
+              11.5983687,
+              50.9240588
+            ],
+            [
+              11.5981502,
+              50.9240232
+            ],
+            [
+              11.5979328,
+              50.9246048
+            ],
+            [
+              11.5979207,
+              50.9248928
+            ],
+            [
+              11.5989298,
+              50.9246801
+            ],
+            [
+              11.5988617,
+              50.9245415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47072788",
+      "properties": {
+        "@id": "way/47072788",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "07745",
+        "addr:street": "Schrödingerstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Pusteblume"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5723624,
+              50.8975188
+            ],
+            [
+              11.5725203,
+              50.8975606
+            ],
+            [
+              11.5724543,
+              50.8976599
+            ],
+            [
+              11.572407,
+              50.8976474
+            ],
+            [
+              11.5722992,
+              50.8978094
+            ],
+            [
+              11.572161,
+              50.8977728
+            ],
+            [
+              11.5721351,
+              50.8978117
+            ],
+            [
+              11.5722399,
+              50.8978394
+            ],
+            [
+              11.5721499,
+              50.8979746
+            ],
+            [
+              11.5722333,
+              50.8979967
+            ],
+            [
+              11.5721678,
+              50.8980952
+            ],
+            [
+              11.5720314,
+              50.8980591
+            ],
+            [
+              11.572017,
+              50.8980553
+            ],
+            [
+              11.5720801,
+              50.8979604
+            ],
+            [
+              11.5719613,
+              50.897929
+            ],
+            [
+              11.5719857,
+              50.8978922
+            ],
+            [
+              11.5720544,
+              50.897789
+            ],
+            [
+              11.572101,
+              50.8978013
+            ],
+            [
+              11.5721296,
+              50.8977584
+            ],
+            [
+              11.5721967,
+              50.8976574
+            ],
+            [
+              11.5722284,
+              50.8976098
+            ],
+            [
+              11.5722909,
+              50.8976263
+            ],
+            [
+              11.5723624,
+              50.8975188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49353697",
+      "properties": {
+        "@id": "way/49353697",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Stoystraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:website": "http://www.kita-fuchs-und-elster.de",
+        "name": "Kita \"Fuchs und Elster\""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.577166,
+              50.9318377
+            ],
+            [
+              11.5771129,
+              50.9317215
+            ],
+            [
+              11.5768682,
+              50.9317658
+            ],
+            [
+              11.5769213,
+              50.9318821
+            ],
+            [
+              11.577166,
+              50.9318377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56079634",
+      "properties": {
+        "@id": "way/56079634",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Schützenhofstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Montessori-Kita Munketal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5932098,
+              50.9443268
+            ],
+            [
+              11.5933529,
+              50.9444922
+            ],
+            [
+              11.5931168,
+              50.9445733
+            ],
+            [
+              11.5931855,
+              50.9446527
+            ],
+            [
+              11.5933431,
+              50.9445986
+            ],
+            [
+              11.593317,
+              50.9445684
+            ],
+            [
+              11.5933942,
+              50.9445419
+            ],
+            [
+              11.5934457,
+              50.9446015
+            ],
+            [
+              11.5935891,
+              50.9445523
+            ],
+            [
+              11.5933519,
+              50.944278
+            ],
+            [
+              11.5932098,
+              50.9443268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87532141",
+      "properties": {
+        "@id": "way/87532141",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11a",
+        "addr:postcode": "07747",
+        "addr:street": "Kastanienstraße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Schatzinsel",
+        "operator": "AWO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.615944,
+              50.8845458
+            ],
+            [
+              11.6160979,
+              50.884618
+            ],
+            [
+              11.6158804,
+              50.8848037
+            ],
+            [
+              11.6161244,
+              50.884918
+            ],
+            [
+              11.6163387,
+              50.8847351
+            ],
+            [
+              11.6164891,
+              50.8848057
+            ],
+            [
+              11.6163829,
+              50.8848963
+            ],
+            [
+              11.6163184,
+              50.884866
+            ],
+            [
+              11.6162212,
+              50.884949
+            ],
+            [
+              11.6163551,
+              50.8850118
+            ],
+            [
+              11.6162523,
+              50.8850995
+            ],
+            [
+              11.6160443,
+              50.885002
+            ],
+            [
+              11.616022,
+              50.8850211
+            ],
+            [
+              11.6157375,
+              50.8848877
+            ],
+            [
+              11.6157676,
+              50.884862
+            ],
+            [
+              11.6155668,
+              50.8847679
+            ],
+            [
+              11.6156664,
+              50.8846828
+            ],
+            [
+              11.6158029,
+              50.8847468
+            ],
+            [
+              11.6159029,
+              50.8846613
+            ],
+            [
+              11.615842,
+              50.8846328
+            ],
+            [
+              11.615944,
+              50.8845458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153569753",
+      "properties": {
+        "@id": "way/153569753",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07749",
+        "addr:street": "Kernbergstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kernbergzwerge",
+        "source": "Aerowest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5979327,
+              50.9229496
+            ],
+            [
+              11.5981342,
+              50.9228303
+            ],
+            [
+              11.5979936,
+              50.9227354
+            ],
+            [
+              11.5979366,
+              50.9227691
+            ],
+            [
+              11.5979688,
+              50.9227909
+            ],
+            [
+              11.5978765,
+              50.9228455
+            ],
+            [
+              11.5978453,
+              50.9228244
+            ],
+            [
+              11.597793,
+              50.9228554
+            ],
+            [
+              11.5979327,
+              50.9229496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155342888",
+      "properties": {
+        "@id": "way/155342888",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Scharnhorststraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Weltentdecker"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5924024,
+              50.9416415
+            ],
+            [
+              11.5924596,
+              50.9416206
+            ],
+            [
+              11.5924178,
+              50.9415748
+            ],
+            [
+              11.5925108,
+              50.9415409
+            ],
+            [
+              11.5924511,
+              50.9414755
+            ],
+            [
+              11.5925115,
+              50.9414535
+            ],
+            [
+              11.5924794,
+              50.9414183
+            ],
+            [
+              11.5924278,
+              50.9414371
+            ],
+            [
+              11.5923893,
+              50.9413949
+            ],
+            [
+              11.5924416,
+              50.9413759
+            ],
+            [
+              11.5924114,
+              50.9413427
+            ],
+            [
+              11.592359,
+              50.9413618
+            ],
+            [
+              11.5923349,
+              50.9413354
+            ],
+            [
+              11.5922758,
+              50.9413569
+            ],
+            [
+              11.5920525,
+              50.9414382
+            ],
+            [
+              11.5920745,
+              50.9414623
+            ],
+            [
+              11.5921252,
+              50.9414439
+            ],
+            [
+              11.5921491,
+              50.9414701
+            ],
+            [
+              11.5920976,
+              50.9414888
+            ],
+            [
+              11.5921784,
+              50.9415774
+            ],
+            [
+              11.5921338,
+              50.9415936
+            ],
+            [
+              11.5921664,
+              50.9416294
+            ],
+            [
+              11.5923352,
+              50.9415679
+            ],
+            [
+              11.5924024,
+              50.9416415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156118791",
+      "properties": {
+        "@id": "way/156118791",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "07749",
+        "addr:street": "Magnus-Poser-Straße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Fröbelhaus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5974516,
+              50.9309333
+            ],
+            [
+              11.5974118,
+              50.9308892
+            ],
+            [
+              11.597513,
+              50.9308512
+            ],
+            [
+              11.5974761,
+              50.9308108
+            ],
+            [
+              11.597373,
+              50.9308526
+            ],
+            [
+              11.5972837,
+              50.930757
+            ],
+            [
+              11.5975116,
+              50.9306742
+            ],
+            [
+              11.5975009,
+              50.9306643
+            ],
+            [
+              11.5976365,
+              50.9306109
+            ],
+            [
+              11.5977237,
+              50.9307164
+            ],
+            [
+              11.5977806,
+              50.9306993
+            ],
+            [
+              11.597829,
+              50.9307675
+            ],
+            [
+              11.5975481,
+              50.9308692
+            ],
+            [
+              11.5975781,
+              50.9309046
+            ],
+            [
+              11.5974516,
+              50.9309333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156118999",
+      "properties": {
+        "@id": "way/156118999",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "30a",
+        "addr:postcode": "07749",
+        "addr:street": "Tümplingstraße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kindergarten Spatzennest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5976197,
+              50.9329046
+            ],
+            [
+              11.5976953,
+              50.9328801
+            ],
+            [
+              11.5976922,
+              50.9328937
+            ],
+            [
+              11.5977803,
+              50.9329002
+            ],
+            [
+              11.5977671,
+              50.9329558
+            ],
+            [
+              11.5979051,
+              50.9329662
+            ],
+            [
+              11.5979093,
+              50.932926
+            ],
+            [
+              11.5979299,
+              50.9329285
+            ],
+            [
+              11.5979512,
+              50.9328358
+            ],
+            [
+              11.5979258,
+              50.9328326
+            ],
+            [
+              11.5979583,
+              50.9326972
+            ],
+            [
+              11.5978184,
+              50.9326887
+            ],
+            [
+              11.5977877,
+              50.9328408
+            ],
+            [
+              11.5977064,
+              50.9328362
+            ],
+            [
+              11.597662,
+              50.9327704
+            ],
+            [
+              11.597551,
+              50.9328115
+            ],
+            [
+              11.5976197,
+              50.9329046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156119002",
+      "properties": {
+        "@id": "way/156119002",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "07749",
+        "addr:street": "Dammstraße",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kindertagesstätte Pinocchio"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5974319,
+              50.9332889
+            ],
+            [
+              11.5977681,
+              50.9333217
+            ],
+            [
+              11.5977481,
+              50.9334029
+            ],
+            [
+              11.5978944,
+              50.9334172
+            ],
+            [
+              11.5979014,
+              50.9333887
+            ],
+            [
+              11.5979732,
+              50.9333958
+            ],
+            [
+              11.5979869,
+              50.9333402
+            ],
+            [
+              11.5979149,
+              50.9333331
+            ],
+            [
+              11.5979735,
+              50.9330952
+            ],
+            [
+              11.5978313,
+              50.9330813
+            ],
+            [
+              11.5977872,
+              50.9332602
+            ],
+            [
+              11.5977142,
+              50.9332531
+            ],
+            [
+              11.5977213,
+              50.9332241
+            ],
+            [
+              11.5974543,
+              50.9331979
+            ],
+            [
+              11.5974319,
+              50.9332889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166330595",
+      "properties": {
+        "@id": "way/166330595",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07749",
+        "addr:street": "Seidelstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Seidelhaus",
+        "operator": "Studentenwerk Thüringen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5905617,
+              50.9226994
+            ],
+            [
+              11.5907579,
+              50.9227126
+            ],
+            [
+              11.5907883,
+              50.9225314
+            ],
+            [
+              11.5905921,
+              50.9225183
+            ],
+            [
+              11.5905617,
+              50.9226994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173604537",
+      "properties": {
+        "@id": "way/173604537",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07747",
+        "addr:street": "Carolinenstraße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Buratino"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6310588,
+              50.8815945
+            ],
+            [
+              11.6310174,
+              50.8814845
+            ],
+            [
+              11.6311872,
+              50.8814589
+            ],
+            [
+              11.6311963,
+              50.8814833
+            ],
+            [
+              11.6314675,
+              50.8814425
+            ],
+            [
+              11.6314771,
+              50.8814683
+            ],
+            [
+              11.6318037,
+              50.8814192
+            ],
+            [
+              11.6317818,
+              50.881361
+            ],
+            [
+              11.6319521,
+              50.8813354
+            ],
+            [
+              11.6319946,
+              50.8814485
+            ],
+            [
+              11.6318229,
+              50.8814743
+            ],
+            [
+              11.6318438,
+              50.8815298
+            ],
+            [
+              11.6315902,
+              50.881568
+            ],
+            [
+              11.6315808,
+              50.8815429
+            ],
+            [
+              11.6312404,
+              50.881594
+            ],
+            [
+              11.6312308,
+              50.8815686
+            ],
+            [
+              11.6310588,
+              50.8815945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173604540",
+      "properties": {
+        "@id": "way/173604540",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12a",
+        "addr:postcode": "07747",
+        "addr:street": "Drackendorfer Straße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:website": "http://www.frechdachs-jena.de",
+        "name": "Frechdachs",
+        "source": "http://www.jena.de/de/wissenschaft_bildung/bildungslandschaft/kitas/220978#/?page=1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6258039,
+              50.8838253
+            ],
+            [
+              11.6257613,
+              50.8837137
+            ],
+            [
+              11.6259329,
+              50.8836875
+            ],
+            [
+              11.6259423,
+              50.883712
+            ],
+            [
+              11.6261945,
+              50.8836736
+            ],
+            [
+              11.6262054,
+              50.8837023
+            ],
+            [
+              11.6265509,
+              50.8836496
+            ],
+            [
+              11.6265321,
+              50.8836002
+            ],
+            [
+              11.6267116,
+              50.8835729
+            ],
+            [
+              11.6267523,
+              50.8836797
+            ],
+            [
+              11.6265786,
+              50.8837062
+            ],
+            [
+              11.6265979,
+              50.8837567
+            ],
+            [
+              11.6263405,
+              50.883796
+            ],
+            [
+              11.6263296,
+              50.8837675
+            ],
+            [
+              11.6259893,
+              50.8838194
+            ],
+            [
+              11.6259812,
+              50.8837982
+            ],
+            [
+              11.6258039,
+              50.8838253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174790691",
+      "properties": {
+        "@id": "way/174790691",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07745",
+        "addr:street": "Distelweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:website": "http://kindertagesstaette.querwege.de",
+        "name": "Schwabenhaus",
+        "operator": "QuerWege e.V.",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5781395,
+              50.903626
+            ],
+            [
+              11.5780989,
+              50.9035427
+            ],
+            [
+              11.578174,
+              50.9035281
+            ],
+            [
+              11.5781663,
+              50.9035016
+            ],
+            [
+              11.5781527,
+              50.9035016
+            ],
+            [
+              11.5781533,
+              50.9034746
+            ],
+            [
+              11.5781658,
+              50.9034744
+            ],
+            [
+              11.578178,
+              50.9034127
+            ],
+            [
+              11.5779512,
+              50.9033959
+            ],
+            [
+              11.5779681,
+              50.9033052
+            ],
+            [
+              11.5783817,
+              50.9033359
+            ],
+            [
+              11.5783647,
+              50.9034266
+            ],
+            [
+              11.5782559,
+              50.9034185
+            ],
+            [
+              11.5782415,
+              50.903515
+            ],
+            [
+              11.5782575,
+              50.9035119
+            ],
+            [
+              11.5782981,
+              50.9035952
+            ],
+            [
+              11.5781395,
+              50.903626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177730521",
+      "properties": {
+        "@id": "way/177730521",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Albert-Einstein-Straße",
+        "amenity": "kindergarten",
+        "name": "Kindertagestätte am Beutenberg",
+        "operator": "Studentenwerk Thüringen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.570164,
+              50.9085904
+            ],
+            [
+              11.5705062,
+              50.9083273
+            ],
+            [
+              11.5704601,
+              50.9082599
+            ],
+            [
+              11.570268,
+              50.9082405
+            ],
+            [
+              11.5702693,
+              50.9082273
+            ],
+            [
+              11.5702776,
+              50.9081412
+            ],
+            [
+              11.5697541,
+              50.9080222
+            ],
+            [
+              11.5696468,
+              50.9081891
+            ],
+            [
+              11.5695641,
+              50.9083179
+            ],
+            [
+              11.570164,
+              50.9085904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192108506",
+      "properties": {
+        "@id": "way/192108506",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Göschwitzer Straße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:email": "info@saaleknirpse.de",
+        "contact:phone": "+49 36 41 237698",
+        "contact:website": "http://www.saaleknirpse.de/",
+        "name": "Saaleknirpse",
+        "opening_hours": "Mo-Fr 06:00-20:00",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5955412,
+              50.8916072
+            ],
+            [
+              11.5957765,
+              50.8916347
+            ],
+            [
+              11.5958948,
+              50.8913198
+            ],
+            [
+              11.5959791,
+              50.891331
+            ],
+            [
+              11.5960077,
+              50.8912461
+            ],
+            [
+              11.5957901,
+              50.8912383
+            ],
+            [
+              11.5957833,
+              50.8912564
+            ],
+            [
+              11.5956772,
+              50.8912435
+            ],
+            [
+              11.595684,
+              50.8911405
+            ],
+            [
+              11.5955956,
+              50.8911405
+            ],
+            [
+              11.5955412,
+              50.8916072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194103039",
+      "properties": {
+        "@id": "way/194103039",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Wildstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kunterbunt",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5737398,
+              50.9338655
+            ],
+            [
+              11.573983,
+              50.9338248
+            ],
+            [
+              11.5739277,
+              50.9336928
+            ],
+            [
+              11.5736845,
+              50.9337334
+            ],
+            [
+              11.5737398,
+              50.9338655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217890254",
+      "properties": {
+        "@id": "way/217890254",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "07749",
+        "addr:street": "Fuchsturmweg",
+        "amenity": "kindergarten",
+        "building": "house",
+        "name": "Fuchsturmweg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6018273,
+              50.9279566
+            ],
+            [
+              11.6019894,
+              50.9278983
+            ],
+            [
+              11.6018765,
+              50.9277735
+            ],
+            [
+              11.6017144,
+              50.9278317
+            ],
+            [
+              11.6018273,
+              50.9279566
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225419872",
+      "properties": {
+        "@id": "way/225419872",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Landgrafenstieg",
+        "amenity": "kindergarten",
+        "name": "Kindertagesstätte Landgrafenstieg",
+        "operator": "Studentenwerk Thüringen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5837817,
+              50.9347059
+            ],
+            [
+              11.584175,
+              50.9348503
+            ],
+            [
+              11.5845781,
+              50.9344432
+            ],
+            [
+              11.5845264,
+              50.9341197
+            ],
+            [
+              11.5843098,
+              50.934129
+            ],
+            [
+              11.5840294,
+              50.9344514
+            ],
+            [
+              11.5837817,
+              50.9347059
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233081294",
+      "properties": {
+        "@id": "way/233081294",
+        "addr:city": "Jena",
+        "addr:housenumber": "4",
+        "addr:street": "Kochstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Integrativer Kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5791658,
+              50.9257945
+            ],
+            [
+              11.579268,
+              50.9256178
+            ],
+            [
+              11.5794829,
+              50.9256673
+            ],
+            [
+              11.5793807,
+              50.9258439
+            ],
+            [
+              11.5791658,
+              50.9257945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233100131",
+      "properties": {
+        "@id": "way/233100131",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "07745",
+        "addr:street": "Forstweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Johanniter Kindertagesstätte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.57797,
+              50.9262281
+            ],
+            [
+              11.5782028,
+              50.9262697
+            ],
+            [
+              11.5782529,
+              50.9261582
+            ],
+            [
+              11.5780201,
+              50.9261166
+            ],
+            [
+              11.57797,
+              50.9262281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235207162",
+      "properties": {
+        "@id": "way/235207162",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "108",
+        "addr:postcode": "07743",
+        "addr:street": "Freiligrathstraße",
+        "addr:suburb": "Nord II",
+        "amenity": "kindergarten",
+        "name": "Integrativer Kindergarten \"Abenteuerland\"",
+        "operator": "AWO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5994696,
+              50.9507486
+            ],
+            [
+              11.5995639,
+              50.9508265
+            ],
+            [
+              11.599739,
+              50.9509568
+            ],
+            [
+              11.6000445,
+              50.951146
+            ],
+            [
+              11.6002415,
+              50.9511392
+            ],
+            [
+              11.6003045,
+              50.951032
+            ],
+            [
+              11.6004319,
+              50.9507305
+            ],
+            [
+              11.600208,
+              50.950598
+            ],
+            [
+              11.5999038,
+              50.9503734
+            ],
+            [
+              11.5997282,
+              50.9504367
+            ],
+            [
+              11.599599,
+              50.9504477
+            ],
+            [
+              11.5994631,
+              50.9505131
+            ],
+            [
+              11.5996028,
+              50.9506284
+            ],
+            [
+              11.5995505,
+              50.9506535
+            ],
+            [
+              11.5995935,
+              50.950689
+            ],
+            [
+              11.5994696,
+              50.9507486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237989565",
+      "properties": {
+        "@id": "way/237989565",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Dualingo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5985808,
+              50.9359407
+            ],
+            [
+              11.5984634,
+              50.9358736
+            ],
+            [
+              11.5984539,
+              50.9358796
+            ],
+            [
+              11.5982815,
+              50.9357846
+            ],
+            [
+              11.5983545,
+              50.9357348
+            ],
+            [
+              11.5984132,
+              50.9357665
+            ],
+            [
+              11.5984838,
+              50.9357152
+            ],
+            [
+              11.5985353,
+              50.9357439
+            ],
+            [
+              11.5986095,
+              50.9356918
+            ],
+            [
+              11.5986622,
+              50.9357205
+            ],
+            [
+              11.5987364,
+              50.9356707
+            ],
+            [
+              11.598819,
+              50.935719
+            ],
+            [
+              11.5988405,
+              50.9357054
+            ],
+            [
+              11.5989724,
+              50.9357816
+            ],
+            [
+              11.5988179,
+              50.9358888
+            ],
+            [
+              11.5987795,
+              50.9358653
+            ],
+            [
+              11.5987088,
+              50.9359174
+            ],
+            [
+              11.5986526,
+              50.9358864
+            ],
+            [
+              11.5985808,
+              50.9359407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247072672",
+      "properties": {
+        "@id": "way/247072672",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Bibliotheksweg",
+        "amenity": "kindergarten",
+        "name": "Janusz Korczak",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5882444,
+              50.9310138
+            ],
+            [
+              11.5886249,
+              50.93117
+            ],
+            [
+              11.5886508,
+              50.9311806
+            ],
+            [
+              11.5891964,
+              50.931406
+            ],
+            [
+              11.5893566,
+              50.9313533
+            ],
+            [
+              11.5894587,
+              50.9313035
+            ],
+            [
+              11.5893659,
+              50.9311821
+            ],
+            [
+              11.5893728,
+              50.9311382
+            ],
+            [
+              11.5894657,
+              50.9311104
+            ],
+            [
+              11.5893264,
+              50.9309523
+            ],
+            [
+              11.5893003,
+              50.9309522
+            ],
+            [
+              11.5891733,
+              50.9309646
+            ],
+            [
+              11.5888736,
+              50.9309743
+            ],
+            [
+              11.5882375,
+              50.9309801
+            ],
+            [
+              11.5882444,
+              50.9310138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256301290",
+      "properties": {
+        "@id": "way/256301290",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07743",
+        "addr:street": "Am Steiger",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kleine Bergsteiger"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5756105,
+              50.9351111
+            ],
+            [
+              11.575902,
+              50.9350732
+            ],
+            [
+              11.5758638,
+              50.9349563
+            ],
+            [
+              11.5755723,
+              50.9349942
+            ],
+            [
+              11.5756105,
+              50.9351111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267253644",
+      "properties": {
+        "@id": "way/267253644",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "16a",
+        "addr:postcode": "07745",
+        "addr:street": "Bertolt-Brecht-Straße",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "contact:website": "http://waldkinder-jena.de",
+        "name": "Waldkinder"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5802724,
+              50.8944602
+            ],
+            [
+              11.5803757,
+              50.894379
+            ],
+            [
+              11.5802431,
+              50.8943118
+            ],
+            [
+              11.5801949,
+              50.8943497
+            ],
+            [
+              11.5799365,
+              50.8942188
+            ],
+            [
+              11.5799754,
+              50.8941883
+            ],
+            [
+              11.579757,
+              50.8940777
+            ],
+            [
+              11.5797888,
+              50.8940528
+            ],
+            [
+              11.5796629,
+              50.893989
+            ],
+            [
+              11.5795509,
+              50.894077
+            ],
+            [
+              11.5796659,
+              50.8941353
+            ],
+            [
+              11.5796314,
+              50.8941624
+            ],
+            [
+              11.5799313,
+              50.8943143
+            ],
+            [
+              11.579894,
+              50.8943436
+            ],
+            [
+              11.5800809,
+              50.8944383
+            ],
+            [
+              11.5801391,
+              50.8943926
+            ],
+            [
+              11.5802724,
+              50.8944602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267832572",
+      "properties": {
+        "@id": "way/267832572",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07751",
+        "addr:state": "Thüringen",
+        "addr:street": "Am alten Weinberg",
+        "addr:suburb": "Maua",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:website": "http://www.waldorfschule-jena.de/",
+        "name": "Zum Leutratal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5893307,
+              50.8678501
+            ],
+            [
+              11.5893043,
+              50.8677761
+            ],
+            [
+              11.5896013,
+              50.8677338
+            ],
+            [
+              11.5896278,
+              50.8678078
+            ],
+            [
+              11.5893307,
+              50.8678501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271004973",
+      "properties": {
+        "@id": "way/271004973",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "07745",
+        "addr:street": "Ammerbacher Straße",
+        "addr:suburb": "Ringwiese",
+        "amenity": "kindergarten",
+        "building": "school",
+        "contact:website": "http://bl-kindertagesstaette.querwege.de/",
+        "name": "Bilinguale Integrative Kindertagesstätte BILLY",
+        "operator": "QuerWege e.V."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5705764,
+              50.9044719
+            ],
+            [
+              11.5705714,
+              50.9043596
+            ],
+            [
+              11.5707214,
+              50.9043569
+            ],
+            [
+              11.5707183,
+              50.9042879
+            ],
+            [
+              11.5708126,
+              50.9042862
+            ],
+            [
+              11.5708152,
+              50.9043431
+            ],
+            [
+              11.5710885,
+              50.9043383
+            ],
+            [
+              11.5710955,
+              50.904494
+            ],
+            [
+              11.5709454,
+              50.9044967
+            ],
+            [
+              11.5709467,
+              50.9045271
+            ],
+            [
+              11.5706516,
+              50.9045324
+            ],
+            [
+              11.5706488,
+              50.9044706
+            ],
+            [
+              11.5705764,
+              50.9044719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293036072",
+      "properties": {
+        "@id": "way/293036072",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07747",
+        "addr:street": "Felix-Auerbach-Straße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Integrative Kindertagesstätte \"Tausendfüßler\"",
+        "operator": "Arbeiter Samariter Bund",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6067856,
+              50.8821916
+            ],
+            [
+              11.6068824,
+              50.8821056
+            ],
+            [
+              11.6065313,
+              50.8819483
+            ],
+            [
+              11.6064345,
+              50.8820343
+            ],
+            [
+              11.6067856,
+              50.8821916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296066138",
+      "properties": {
+        "@id": "way/296066138",
+        "addr:city": "Jena",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Martin-Niemöller-Straße",
+        "amenity": "kindergarten",
+        "name": "Anne Frank"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6094183,
+              50.8909943
+            ],
+            [
+              11.6106923,
+              50.8906542
+            ],
+            [
+              11.6112636,
+              50.8905155
+            ],
+            [
+              11.6109766,
+              50.8901044
+            ],
+            [
+              11.6107299,
+              50.8897237
+            ],
+            [
+              11.6100888,
+              50.8899081
+            ],
+            [
+              11.6098984,
+              50.8900011
+            ],
+            [
+              11.6098233,
+              50.8900976
+            ],
+            [
+              11.6094183,
+              50.8909943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315731215",
+      "properties": {
+        "@id": "way/315731215",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7a",
+        "addr:postcode": "07745",
+        "addr:street": "Felsenkellerstraße",
+        "amenity": "kindergarten",
+        "contact:website": "http://kita-felsenkellerstrasse.querwege.de/",
+        "name": "Kita Felsenkellerstraße",
+        "operator": "QuerWege e.V.",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.578639,
+              50.9202411
+            ],
+            [
+              11.5786476,
+              50.9203831
+            ],
+            [
+              11.578405,
+              50.9203913
+            ],
+            [
+              11.578587,
+              50.9205921
+            ],
+            [
+              11.5787624,
+              50.9207546
+            ],
+            [
+              11.5788296,
+              50.9207833
+            ],
+            [
+              11.5789141,
+              50.9207614
+            ],
+            [
+              11.5789639,
+              50.9207122
+            ],
+            [
+              11.5790267,
+              50.9206317
+            ],
+            [
+              11.5791091,
+              50.9205019
+            ],
+            [
+              11.5791307,
+              50.9204132
+            ],
+            [
+              11.5791394,
+              50.9203244
+            ],
+            [
+              11.5791264,
+              50.9202247
+            ],
+            [
+              11.578639,
+              50.9202411
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

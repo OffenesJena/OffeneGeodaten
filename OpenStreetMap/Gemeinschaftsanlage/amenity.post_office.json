@@ -1,0 +1,93 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 286653908,
+      "lat": 50.9263943,
+      "lon": 11.5832517,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Engelplatz",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.10f",
+        "wheelchair": "no",
+        "wheelchair:description": "über Innenhof Zugang möglich"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624260596,
+      "lat": 50.9304552,
+      "lon": 11.5712558,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "107",
+        "addr:postcode": "07743",
+        "addr:street": "Lutherstraße",
+        "amenity": "post_office",
+        "name": "Tip-Top-Blumen",
+        "operator": "Hermes",
+        "shop": "florist",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 632233365,
+      "lat": 50.9193236,
+      "lon": 11.5689498,
+      "tags": {
+        "amenity": "post_office",
+        "name": "Büromarkt Weinrich",
+        "operator": "DPD",
+        "shop": "stationery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 941285676,
+      "lat": 50.8995087,
+      "lon": 11.5781147,
+      "tags": {
+        "amenity": "post_office",
+        "operator": "Deutsche Post AG",
+        "source": "OSB-Marker",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550554743,
+      "lat": 50.929641,
+      "lon": 11.6006572,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "Hermes",
+        "name": "Hermes PaketShop",
+        "note:de": "Paketshop im Frechdaxx"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550554748,
+      "lat": 50.9296605,
+      "lon": 11.6007572,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "Deutsche Post AG",
+        "name": "Postshop Rosemann"
+      }
+    }
+  ]
+}

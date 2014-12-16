@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:27.044Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/255682102",
+      "properties": {
+        "@id": "node/255682102",
+        "amenity": "arts_centre",
+        "contact:website": "http://www.jenaonline.de/volkshaus/",
+        "name": "Volkshaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.579932,
+          50.927373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/707801979",
+      "properties": {
+        "@id": "node/707801979",
+        "amenity": "arts_centre",
+        "name": "Künstlerische Abendschule Jena e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888554,
+          50.9328244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461729159",
+      "properties": {
+        "@id": "node/2461729159",
+        "addr:city": "Jena",
+        "addr:housenumber": "14",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisstraße",
+        "amenity": "arts_centre",
+        "name": "Gewerkschaftshaus",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5824921,
+          50.9294853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2930688377",
+      "properties": {
+        "@id": "node/2930688377",
+        "amenity": "arts_centre",
+        "name": "AWO Seniorentreff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5995181,
+          50.945632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30064685",
+      "properties": {
+        "@id": "way/30064685",
+        "addr:housenumber": "13a",
+        "addr:postcode": "07745",
+        "addr:street": "Felsenkellerstraße",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "contact:website": "http://www.kassablanca.de/",
+        "drink:club-mate": "yes",
+        "name": "Kassablanca"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5777825,
+              50.9210318
+            ],
+            [
+              11.577895,
+              50.92103
+            ],
+            [
+              11.5779919,
+              50.9210285
+            ],
+            [
+              11.577984,
+              50.9207229
+            ],
+            [
+              11.577778,
+              50.9207218
+            ],
+            [
+              11.5777825,
+              50.9210318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59114551",
+      "properties": {
+        "@id": "way/59114551",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07747",
+        "addr:street": "Theobald-Renner-Straße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "contact:email": "kubus@jenalobeda.de",
+        "contact:fax": "+49 3641 531657",
+        "contact:phone": "+49 3641 531655",
+        "contact:website": "http://www.kubus.jena.de/",
+        "name": "KuBuS",
+        "operator": "Multifunktionales Zentrum KuBuS des KOMME e.V."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6071862,
+              50.8858792
+            ],
+            [
+              11.6071176,
+              50.8858491
+            ],
+            [
+              11.6071035,
+              50.8858594
+            ],
+            [
+              11.6070656,
+              50.8858628
+            ],
+            [
+              11.606935,
+              50.8858055
+            ],
+            [
+              11.6069301,
+              50.8857805
+            ],
+            [
+              11.6069405,
+              50.8857699
+            ],
+            [
+              11.6068781,
+              50.8857425
+            ],
+            [
+              11.6069995,
+              50.8856324
+            ],
+            [
+              11.6072164,
+              50.8857276
+            ],
+            [
+              11.6072335,
+              50.8857122
+            ],
+            [
+              11.6073023,
+              50.8857424
+            ],
+            [
+              11.6072837,
+              50.8857592
+            ],
+            [
+              11.6073094,
+              50.8857705
+            ],
+            [
+              11.6072557,
+              50.8858191
+            ],
+            [
+              11.6072796,
+              50.8858296
+            ],
+            [
+              11.6072603,
+              50.8858472
+            ],
+            [
+              11.6072342,
+              50.8858357
+            ],
+            [
+              11.6071862,
+              50.8858792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247013951",
+      "properties": {
+        "@id": "way/247013951",
+        "addr:city": "Jena",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "alt_name": "Internationales Centrum",
+        "amenity": "arts_centre",
+        "building": "university",
+        "historic": "yes",
+        "name": "Haus auf der Mauer",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5841535,
+              50.9297811
+            ],
+            [
+              11.5840914,
+              50.9297878
+            ],
+            [
+              11.5840522,
+              50.9297921
+            ],
+            [
+              11.584029,
+              50.9297386
+            ],
+            [
+              11.5840127,
+              50.9297008
+            ],
+            [
+              11.5839953,
+              50.9296606
+            ],
+            [
+              11.5841047,
+              50.9296408
+            ],
+            [
+              11.5841535,
+              50.9297811
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 255680284,
+      "lat": 50.9269552,
+      "lon": 11.5835494,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Schillerstraße",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse Jena-Saale-Holzland",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339948970,
+      "lat": 50.93195,
+      "lon": 11.5725372,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse Jena",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 344456709,
+      "lat": 50.9263634,
+      "lon": 11.583206,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Postbank",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 344456932,
+      "lat": 50.9268177,
+      "lon": 11.5832883,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "HypoVereinsbank",
+        "source": "survey",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411193752,
+      "lat": 50.9272153,
+      "lon": 11.5964755,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "07749",
+        "addr:street": "Camsdorfer Ufer",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse Jena",
+        "operator": "Sparkasse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418361027,
+      "lat": 50.947218,
+      "lon": 11.6047369,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 423811360,
+      "lat": 50.9283424,
+      "lon": 11.5884603,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Markt",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Merkur Bank",
+        "operator": "Merkur Bank",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 452432033,
+      "lat": 50.9214136,
+      "lon": 11.5703192,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Sparkasse",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469126972,
+      "lat": 50.9268725,
+      "lon": 11.5900891,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Fischergasse",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Commerzbank",
+        "operator": "Commerzbank",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469127240,
+      "lat": 50.9288851,
+      "lon": 11.5893238,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Deutsche Bank",
+        "operator": "Deutsche Bank",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624228265,
+      "lat": 50.9432511,
+      "lon": 11.5942325,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Sparkasse",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 637039069,
+      "lat": 50.927294,
+      "lon": 11.5835425,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparda-Bank",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638453938,
+      "lat": 50.9271765,
+      "lon": 11.584633,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Targobank",
+        "operator": "Targobank",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1652876520,
+      "lat": 50.9262226,
+      "lon": 11.5857396,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "22",
+        "addr:postcode": "07743",
+        "addr:street": "Grietgasse",
+        "amenity": "bank",
+        "atm": "yes",
+        "contact:website": "http://www.santander.de",
+        "name": "Santander Consumer Bank",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425769842,
+      "lat": 50.8824842,
+      "lon": 11.6179006,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "07747",
+        "addr:street": "Salvador-Allende-Platz",
+        "addr:suburb": "Lobeda-Ost",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2501585842,
+      "lat": 50.9271754,
+      "lon": 11.5866531,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2539596421,
+      "lat": 50.9292247,
+      "lon": 11.5832811,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Volksbank",
+        "contact:website": "http://www.vb-saaletal.de/",
+        "name": "Volksbank",
+        "operator": "Volksbank Saaletal eG",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598026423,
+      "lat": 50.8822281,
+      "lon": 11.6058625,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612991845,
+      "lat": 50.9294028,
+      "lon": 11.5843651,
+      "tags": {
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sparkasse Jena-Saale-Holzland",
+        "operator": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3058165581,
+      "lat": 50.9220671,
+      "lon": 11.5763575,
+      "tags": {
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:place": "Jena",
+        "addr:postcode": "07745",
+        "addr:street": "Otto-Schott-Straße",
+        "amenity": "bank",
+        "brand": "Degussa Bank",
+        "contact:fax": "+49 3641 6815814",
+        "contact:phone": "+49 3641 6815810",
+        "name": "Degussa Bank Schott Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3058165582,
+      "lat": 50.888661,
+      "lon": 11.5983037,
+      "tags": {
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:place": "Jena",
+        "addr:postcode": "07745",
+        "addr:street": "Prüssingstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "bank",
+        "brand": "Degussa Bank",
+        "contact:fax": "+49 3641 6343627",
+        "contact:phone": "+49 3641 6343625",
+        "name": "Degussa Bank ZS Technologiepark Jena-Göschwitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 47615695,
+      "nodes": [
+        605953221,
+        605953226,
+        605953233,
+        605953204,
+        605953221
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "07745",
+        "addr:street": "Wanderslebstraße",
+        "addr:suburb": "Winzerla",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Sparkasse Jena",
+        "operator": "Sparkasse",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251162457,
+      "nodes": [
+        2414415514,
+        3159116561,
+        2574378747,
+        2574378748,
+        2574378749,
+        2574378746,
+        2574378745,
+        2414415456,
+        2414415514
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Flessabank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 605953204,
+      "lat": 50.8985691,
+      "lon": 11.5774805
+    },
+    {
+      "type": "node",
+      "id": 605953221,
+      "lat": 50.8986854,
+      "lon": 11.5773977
+    },
+    {
+      "type": "node",
+      "id": 605953226,
+      "lat": 50.8987148,
+      "lon": 11.5775016
+    },
+    {
+      "type": "node",
+      "id": 605953233,
+      "lat": 50.8985985,
+      "lon": 11.5775844
+    },
+    {
+      "type": "node",
+      "id": 2414415456,
+      "lat": 50.9242683,
+      "lon": 11.5842922
+    },
+    {
+      "type": "node",
+      "id": 2414415514,
+      "lat": 50.9243458,
+      "lon": 11.584393
+    },
+    {
+      "type": "node",
+      "id": 2574378747,
+      "lat": 50.9243666,
+      "lon": 11.5843509
+    },
+    {
+      "type": "node",
+      "id": 2574378748,
+      "lat": 50.9244157,
+      "lon": 11.5843808
+    },
+    {
+      "type": "node",
+      "id": 2574378749,
+      "lat": 50.9244512,
+      "lon": 11.584212
+    },
+    {
+      "type": "node",
+      "id": 2574378745,
+      "lat": 50.9243223,
+      "lon": 11.5841502
+    },
+    {
+      "type": "node",
+      "id": 2574378746,
+      "lat": 50.9243355,
+      "lon": 11.5841565
+    },
+    {
+      "type": "node",
+      "id": 3159116561,
+      "lat": 50.9243541,
+      "lon": 11.5843762
+    }
+  ]
+}

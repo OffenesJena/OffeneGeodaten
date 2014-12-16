@@ -1,0 +1,205 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 339951153,
+      "lat": 50.9279954,
+      "lon": 11.5530042,
+      "tags": {
+        "amenity": "shelter",
+        "tourism": "picnic_site"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550280241,
+      "lat": 50.9213557,
+      "lon": 11.5544951,
+      "tags": {
+        "amenity": "shelter",
+        "name": "Hexe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 573453499,
+      "lat": 50.9408462,
+      "lon": 11.5471796,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 656969174,
+      "lat": 50.9577634,
+      "lon": 11.5701115,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 668986373,
+      "lat": 50.9609566,
+      "lon": 11.5920707,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 718587175,
+      "lat": 50.9340994,
+      "lon": 11.5950543,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 827181813,
+      "lat": 50.9565984,
+      "lon": 11.6346518,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 936934676,
+      "lat": 50.8957682,
+      "lon": 11.5999168,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "way",
+      "id": 294569153,
+      "nodes": [
+        2981676761,
+        2981676762,
+        2981676763,
+        2981676764,
+        2981676761
+      ],
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "public_transport",
+        "source": "bing2012"
+      }
+    },
+    {
+      "type": "way",
+      "id": 294569154,
+      "nodes": [
+        2981676765,
+        2981676766,
+        2981676767,
+        2981676768,
+        2981676765
+      ],
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "public_transport",
+        "source": "bing2012"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305385081,
+      "nodes": [
+        3100085447,
+        3100085448,
+        3100085450,
+        3100085449,
+        3100085447
+      ],
+      "tags": {
+        "amenity": "shelter",
+        "fireplace": "no",
+        "shelter_type": "public_transport"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3100085447,
+      "lat": 50.9238124,
+      "lon": 11.5847082
+    },
+    {
+      "type": "node",
+      "id": 3100085448,
+      "lat": 50.9238284,
+      "lon": 11.5846864
+    },
+    {
+      "type": "node",
+      "id": 3100085449,
+      "lat": 50.9238383,
+      "lon": 11.5847558
+    },
+    {
+      "type": "node",
+      "id": 3100085450,
+      "lat": 50.9238542,
+      "lon": 11.5847341
+    },
+    {
+      "type": "node",
+      "id": 2981676761,
+      "lat": 50.8795896,
+      "lon": 11.6349434
+    },
+    {
+      "type": "node",
+      "id": 2981676762,
+      "lat": 50.879572,
+      "lon": 11.6350588
+    },
+    {
+      "type": "node",
+      "id": 2981676763,
+      "lat": 50.8795561,
+      "lon": 11.6350527
+    },
+    {
+      "type": "node",
+      "id": 2981676764,
+      "lat": 50.8795736,
+      "lon": 11.6349373
+    },
+    {
+      "type": "node",
+      "id": 2981676765,
+      "lat": 50.8796264,
+      "lon": 11.6349777
+    },
+    {
+      "type": "node",
+      "id": 2981676766,
+      "lat": 50.879635,
+      "lon": 11.6349187
+    },
+    {
+      "type": "node",
+      "id": 2981676767,
+      "lat": 50.8796507,
+      "lon": 11.6349244
+    },
+    {
+      "type": "node",
+      "id": 2981676768,
+      "lat": 50.8796421,
+      "lon": 11.6349834
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:58.340Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/620090298",
+      "properties": {
+        "@id": "node/620090298",
+        "access": "public",
+        "amenity": "observatory",
+        "landuse": "observatory",
+        "man_made": "telescope",
+        "name": "Forststernwarte",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5532151,
+          50.9233501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192073170",
+      "properties": {
+        "@id": "way/192073170",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2-3",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "observatory",
+        "building": "yes",
+        "contact:website": "http://www.astro.uni-jena.de/",
+        "man_made": "telescope",
+        "name": "Astrophysikalisches Institut und Universitäts-Sternwarte Jena",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "ref": "AIU",
+        "telescope:type": "optical",
+        "wikipedia:de": "Astrophysikalisches Institut und Universitäts-Sternwarte Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5826393,
+              50.9252926
+            ],
+            [
+              11.5826361,
+              50.9252396
+            ],
+            [
+              11.5826921,
+              50.9252404
+            ],
+            [
+              11.5827309,
+              50.9252184
+            ],
+            [
+              11.5828333,
+              50.9252196
+            ],
+            [
+              11.5828575,
+              50.9252356
+            ],
+            [
+              11.5829262,
+              50.9252364
+            ],
+            [
+              11.5829287,
+              50.9252188
+            ],
+            [
+              11.5830489,
+              50.9252188
+            ],
+            [
+              11.5830388,
+              50.9253118
+            ],
+            [
+              11.5829211,
+              50.9253118
+            ],
+            [
+              11.5829217,
+              50.9252938
+            ],
+            [
+              11.5828447,
+              50.9252906
+            ],
+            [
+              11.5828276,
+              50.925313
+            ],
+            [
+              11.5827296,
+              50.925313
+            ],
+            [
+              11.5826965,
+              50.9252954
+            ],
+            [
+              11.5826393,
+              50.9252926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192073177",
+      "properties": {
+        "@id": "way/192073177",
+        "access": "public",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "observatory",
+        "building": "yes",
+        "contact:phone": "03641-587785",
+        "contact:website": "http://www.urania-sternwarte.de",
+        "description": "Volkssternwarte Urania",
+        "man_made": "telescope",
+        "name": "Volkssternwarte Urania",
+        "telescope:type": "optical",
+        "tourism": "attraction",
+        "wikidata": "Q2532219",
+        "wikipedia": "de:Volkssternwarte Urania Jena",
+        "wikipedia:de": "Volkssternwarte Urania Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5828593,
+              50.9250417
+            ],
+            [
+              11.5827928,
+              50.9249962
+            ],
+            [
+              11.5828588,
+              50.9249579
+            ],
+            [
+              11.5829253,
+              50.9250033
+            ],
+            [
+              11.5828593,
+              50.9250417
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

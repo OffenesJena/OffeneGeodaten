@@ -1,0 +1,138 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 32556252,
+      "nodes": [
+        366165553,
+        366165806,
+        366165554,
+        366165556,
+        366165557,
+        366165558,
+        366165559,
+        366165561,
+        366165562,
+        366165563,
+        366165564,
+        366165565,
+        366165567,
+        366165568,
+        366165569,
+        366165553
+      ],
+      "tags": {
+        "Cafeteria": "yes",
+        "addr:city": "Jena",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Philosophenweg",
+        "amenity": "canteen",
+        "building": "yes",
+        "cafeteria": "yes",
+        "cuisine": "canteen",
+        "historic": "Bauhaus",
+        "name": "Mensa Philosophenweg",
+        "operator": "Studentenwerk Thüringen",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 366165553,
+      "lat": 50.9327386,
+      "lon": 11.5842674
+    },
+    {
+      "type": "node",
+      "id": 366165554,
+      "lat": 50.9323275,
+      "lon": 11.5841816
+    },
+    {
+      "type": "node",
+      "id": 366165561,
+      "lat": 50.9325276,
+      "lon": 11.5851601
+    },
+    {
+      "type": "node",
+      "id": 366165562,
+      "lat": 50.9328738,
+      "lon": 11.5851772
+    },
+    {
+      "type": "node",
+      "id": 366165563,
+      "lat": 50.9328809,
+      "lon": 11.585026
+    },
+    {
+      "type": "node",
+      "id": 366165564,
+      "lat": 50.932722,
+      "lon": 11.5850206
+    },
+    {
+      "type": "node",
+      "id": 366165565,
+      "lat": 50.9327278,
+      "lon": 11.5847567
+    },
+    {
+      "type": "node",
+      "id": 366165567,
+      "lat": 50.9327548,
+      "lon": 11.5847653
+    },
+    {
+      "type": "node",
+      "id": 366165568,
+      "lat": 50.9327656,
+      "lon": 11.5846537
+    },
+    {
+      "type": "node",
+      "id": 366165569,
+      "lat": 50.9327007,
+      "lon": 11.5846365
+    },
+    {
+      "type": "node",
+      "id": 366165806,
+      "lat": 50.9324086,
+      "lon": 11.5841988
+    },
+    {
+      "type": "node",
+      "id": 366165556,
+      "lat": 50.9323015,
+      "lon": 11.5845279
+    },
+    {
+      "type": "node",
+      "id": 366165557,
+      "lat": 50.9323058,
+      "lon": 11.5846047
+    },
+    {
+      "type": "node",
+      "id": 366165558,
+      "lat": 50.9323413,
+      "lon": 11.5846165
+    },
+    {
+      "type": "node",
+      "id": 366165559,
+      "lat": 50.932562,
+      "lon": 11.5846466
+    }
+  ]
+}

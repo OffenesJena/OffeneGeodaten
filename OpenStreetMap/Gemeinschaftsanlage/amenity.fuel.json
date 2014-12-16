@@ -1,0 +1,800 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 252102128,
+      "lat": 50.8771562,
+      "lon": 11.6219143,
+      "tags": {
+        "addr:city": "Jena-Lobeda",
+        "addr:country": "DE",
+        "addr:housenumber": "102",
+        "addr:postcode": "07747",
+        "addr:street": "Stadtrodaer Straße",
+        "amenity": "fuel",
+        "brand": "ARAL",
+        "contact:email": "thomas.oberroeder@tankstelle.de",
+        "contact:fax": "+49 3641 396452",
+        "contact:phone": "+49 3641 334142",
+        "currency:EUR": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:adblue": "yes",
+        "fuel:octane_102": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ARAL Tankstelle",
+        "opening_hours": "24/7",
+        "operator": "Thomas Oberröder",
+        "parking:hgv": "no",
+        "payment:american_express": "yes",
+        "payment:aral_cardkomfort": "yes",
+        "payment:diners_club": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:routex": "yes",
+        "payment:uta": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:westfalen_card": "yes",
+        "ref": "27009600",
+        "shop": "convenience",
+        "vending": "toll",
+        "web": "http://www.aral.de/tankstelle/27009600.html",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279231497,
+      "lat": 50.9521913,
+      "lon": 11.6105636,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kaufland-Tankstelle",
+        "operator": "Total",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732717067,
+      "lat": 50.8775,
+      "lon": 11.6296,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:postcode": "07747",
+        "amenity": "fuel",
+        "fuel:cng": "no",
+        "fuel:lpg": "yes",
+        "name": "Auto-Scholz GmbH&CoKG",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-12:00",
+        "source": "http://www.gas-tankstellen.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2159577051,
+      "lat": 50.9466506,
+      "lon": 11.6053667,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:1_25": "no",
+        "fuel:1_50": "no",
+        "fuel:GTL_diesel": "no",
+        "fuel:HGV_diesel": "no",
+        "fuel:biodiesel": "no",
+        "fuel:biogas": "no",
+        "fuel:cng": "no",
+        "fuel:diesel": "no",
+        "fuel:e10": "no",
+        "fuel:e85": "no",
+        "fuel:electricity": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_95": "no",
+        "fuel:octane_98": "no",
+        "name": "LPG Gastankstelle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38320770,
+      "nodes": [
+        452451017,
+        452451018,
+        2441591525,
+        2441591522,
+        452451019,
+        452451020,
+        2441591527,
+        2441591538,
+        2441591536,
+        2441591532,
+        2727209554,
+        2441591518,
+        2727209532,
+        2727209529,
+        452451022,
+        452451017
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "60",
+        "addr:postcode": "07745",
+        "addr:street": "Rudolstädter Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Shell Station Koschny",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49402704,
+      "nodes": [
+        627354267,
+        627354271,
+        627354278,
+        627354289,
+        627354301,
+        627354325,
+        627354335,
+        627354342,
+        627354267
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "31",
+        "addr:postcode": "07743",
+        "addr:street": "August-Bebel-Straße",
+        "amenity": "fuel",
+        "building": "yes",
+        "contact:fax": "03641-229881",
+        "contact:phone": "03641-820879",
+        "drink:club-mate": "retail",
+        "name": "Total",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133089113,
+      "nodes": [
+        1464408730,
+        1464408738,
+        1464408736,
+        1464408729,
+        1464408730
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "66d",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "fuel",
+        "brand": "JET",
+        "name": "JET",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148100386,
+      "nodes": [
+        541996362,
+        304780157,
+        304780311,
+        541996365,
+        1612040764,
+        541996362
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "operator": "Globus"
+      }
+    },
+    {
+      "type": "way",
+      "id": 174775791,
+      "nodes": [
+        1854398188,
+        1854398184,
+        1854398145,
+        1854398174,
+        1854398188
+      ],
+      "tags": {
+        "access": "private",
+        "amenity": "fuel",
+        "operator": "Jenaer Nahverkehrsgesellschaft",
+        "shop": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 182728969,
+      "nodes": [
+        1930861353,
+        1930861356,
+        1930861358,
+        1930861363,
+        1930861361,
+        1930861353
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247607012,
+      "nodes": [
+        2544972572,
+        2544972569,
+        2544972554,
+        2544972565,
+        2544972584,
+        2544972578,
+        2544972573,
+        2544972572
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07749",
+        "addr:street": "Wiesenstraße",
+        "amenity": "fuel",
+        "brand": "Total",
+        "drink:club-mate": "retail",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255697948,
+      "nodes": [
+        2613660613,
+        2613660612,
+        2613660569,
+        2613660571,
+        2613660599,
+        2613660613
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Göschwitzer Straße",
+        "addr:suburb": "Burgau",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Total",
+        "operator": "Total",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262422342,
+      "nodes": [
+        2680841897,
+        2680841882,
+        2680841875,
+        2680841862,
+        2680841889,
+        2680841890,
+        2680841897
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07749",
+        "addr:street": "Stadtrodaer Straße",
+        "amenity": "fuel",
+        "brand": "ARAL",
+        "building": "yes",
+        "contact:email": "simone.hoffmann@tankstelle.de",
+        "contact:fax": "0049 (0) 3641-336831",
+        "contact:phone": "0049 (0) 3641-394893",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "no",
+        "fuel:adblue": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_102": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "no",
+        "opening_hours": "24/7",
+        "operator": "Simone Hoffmann",
+        "parking:hgv": "no",
+        "payment:american_express": "yes",
+        "payment:aral_cardkomfort": "yes",
+        "payment:diners_club": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:routex": "yes",
+        "payment:uta": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:westfalen_card": "yes",
+        "ref": "28736300",
+        "shop": "convenience",
+        "web": "http://www.aral.de/tankstelle/28736300.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266319096,
+      "nodes": [
+        2718933030,
+        2718933015,
+        2718933010,
+        2718933009,
+        2718933019,
+        2718933027,
+        2718933030
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "64",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "fuel",
+        "brand": "ARAL",
+        "contact:email": "thomas.oberroeder@tankstelle.de",
+        "contact:fax": "0049 (0) 3641-890961",
+        "contact:phone": "0049 (0) 3641-424000",
+        "currency:EUR": "yes",
+        "drink:club-mate": "retail",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "no",
+        "fuel:adblue": "no",
+        "fuel:octane_102": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "no",
+        "name": "Aral",
+        "opening_hours": "24/7",
+        "operator": "Thomas Oberröder",
+        "parking:hgv": "no",
+        "payment:american_express": "yes",
+        "payment:aral_cardkomfort": "yes",
+        "payment:diners_club": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:routex": "yes",
+        "payment:uta": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:westfalen_card": "yes",
+        "ref": "27005100",
+        "shop": "convenience",
+        "web": "http://www.aral.de/tankstelle/27005100.html",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304780157,
+      "lat": 50.9594573,
+      "lon": 11.5109561
+    },
+    {
+      "type": "node",
+      "id": 304780311,
+      "lat": 50.9597499,
+      "lon": 11.5109529
+    },
+    {
+      "type": "node",
+      "id": 541996362,
+      "lat": 50.9594533,
+      "lon": 11.5098907
+    },
+    {
+      "type": "node",
+      "id": 541996365,
+      "lat": 50.9597482,
+      "lon": 11.5098892
+    },
+    {
+      "type": "node",
+      "id": 1612040764,
+      "lat": 50.9597073,
+      "lon": 11.5098894
+    },
+    {
+      "type": "node",
+      "id": 452451017,
+      "lat": 50.8975451,
+      "lon": 11.5806076
+    },
+    {
+      "type": "node",
+      "id": 452451018,
+      "lat": 50.8977223,
+      "lon": 11.5809347
+    },
+    {
+      "type": "node",
+      "id": 452451019,
+      "lat": 50.8973231,
+      "lon": 11.5816401
+    },
+    {
+      "type": "node",
+      "id": 452451020,
+      "lat": 50.8970465,
+      "lon": 11.5819855
+    },
+    {
+      "type": "node",
+      "id": 452451022,
+      "lat": 50.8968595,
+      "lon": 11.5812861
+    },
+    {
+      "type": "node",
+      "id": 2441591518,
+      "lat": 50.8969543,
+      "lon": 11.5815221
+    },
+    {
+      "type": "node",
+      "id": 2441591522,
+      "lat": 50.8975362,
+      "lon": 11.581262
+    },
+    {
+      "type": "node",
+      "id": 2441591525,
+      "lat": 50.8976546,
+      "lon": 11.5810662
+    },
+    {
+      "type": "node",
+      "id": 2441591527,
+      "lat": 50.8970253,
+      "lon": 11.5819198
+    },
+    {
+      "type": "node",
+      "id": 2441591532,
+      "lat": 50.8970313,
+      "lon": 11.5817085
+    },
+    {
+      "type": "node",
+      "id": 2441591536,
+      "lat": 50.8969695,
+      "lon": 11.5817635
+    },
+    {
+      "type": "node",
+      "id": 2441591538,
+      "lat": 50.8970076,
+      "lon": 11.5818701
+    },
+    {
+      "type": "node",
+      "id": 2727209529,
+      "lat": 50.8968702,
+      "lon": 11.5813128
+    },
+    {
+      "type": "node",
+      "id": 2727209532,
+      "lat": 50.8968955,
+      "lon": 11.5813657
+    },
+    {
+      "type": "node",
+      "id": 2727209554,
+      "lat": 50.8970183,
+      "lon": 11.5816865
+    },
+    {
+      "type": "node",
+      "id": 2613660571,
+      "lat": 50.8979486,
+      "lon": 11.5932545
+    },
+    {
+      "type": "node",
+      "id": 2613660599,
+      "lat": 50.8980619,
+      "lon": 11.5932575
+    },
+    {
+      "type": "node",
+      "id": 2613660613,
+      "lat": 50.8981234,
+      "lon": 11.5932591
+    },
+    {
+      "type": "node",
+      "id": 2613660569,
+      "lat": 50.8979466,
+      "lon": 11.5934371
+    },
+    {
+      "type": "node",
+      "id": 2613660612,
+      "lat": 50.8981215,
+      "lon": 11.5934417
+    },
+    {
+      "type": "node",
+      "id": 1854398145,
+      "lat": 50.9015075,
+      "lon": 11.5911366
+    },
+    {
+      "type": "node",
+      "id": 1854398174,
+      "lat": 50.9015883,
+      "lon": 11.5914037
+    },
+    {
+      "type": "node",
+      "id": 1854398184,
+      "lat": 50.9016684,
+      "lon": 11.5910114
+    },
+    {
+      "type": "node",
+      "id": 1854398188,
+      "lat": 50.9017493,
+      "lon": 11.5912835
+    },
+    {
+      "type": "node",
+      "id": 2680841862,
+      "lat": 50.9062105,
+      "lon": 11.5900239
+    },
+    {
+      "type": "node",
+      "id": 2680841875,
+      "lat": 50.9062273,
+      "lon": 11.5899977
+    },
+    {
+      "type": "node",
+      "id": 2680841882,
+      "lat": 50.9062744,
+      "lon": 11.5899244
+    },
+    {
+      "type": "node",
+      "id": 2680841889,
+      "lat": 50.9062953,
+      "lon": 11.5901609
+    },
+    {
+      "type": "node",
+      "id": 2680841890,
+      "lat": 50.9063071,
+      "lon": 11.5901799
+    },
+    {
+      "type": "node",
+      "id": 2680841897,
+      "lat": 50.906371,
+      "lon": 11.5900804
+    },
+    {
+      "type": "node",
+      "id": 627354267,
+      "lat": 50.9321238,
+      "lon": 11.5719381
+    },
+    {
+      "type": "node",
+      "id": 627354271,
+      "lat": 50.9320433,
+      "lon": 11.5721934
+    },
+    {
+      "type": "node",
+      "id": 627354278,
+      "lat": 50.9318898,
+      "lon": 11.5720716
+    },
+    {
+      "type": "node",
+      "id": 627354289,
+      "lat": 50.9319669,
+      "lon": 11.571827
+    },
+    {
+      "type": "node",
+      "id": 627354301,
+      "lat": 50.9320487,
+      "lon": 11.571892
+    },
+    {
+      "type": "node",
+      "id": 627354325,
+      "lat": 50.9320798,
+      "lon": 11.5717932
+    },
+    {
+      "type": "node",
+      "id": 627354335,
+      "lat": 50.9321724,
+      "lon": 11.5718667
+    },
+    {
+      "type": "node",
+      "id": 627354342,
+      "lat": 50.9321447,
+      "lon": 11.5719547
+    },
+    {
+      "type": "node",
+      "id": 2544972554,
+      "lat": 50.9325583,
+      "lon": 11.5932514
+    },
+    {
+      "type": "node",
+      "id": 2544972569,
+      "lat": 50.9328078,
+      "lon": 11.5931174
+    },
+    {
+      "type": "node",
+      "id": 2544972572,
+      "lat": 50.9328416,
+      "lon": 11.593138
+    },
+    {
+      "type": "node",
+      "id": 2544972573,
+      "lat": 50.932865,
+      "lon": 11.593204
+    },
+    {
+      "type": "node",
+      "id": 2544972565,
+      "lat": 50.932735,
+      "lon": 11.5941732
+    },
+    {
+      "type": "node",
+      "id": 2544972578,
+      "lat": 50.9329144,
+      "lon": 11.593437
+    },
+    {
+      "type": "node",
+      "id": 2544972584,
+      "lat": 50.9330261,
+      "lon": 11.5940309
+    },
+    {
+      "type": "node",
+      "id": 2718933009,
+      "lat": 50.9422407,
+      "lon": 11.5977116
+    },
+    {
+      "type": "node",
+      "id": 2718933010,
+      "lat": 50.9423166,
+      "lon": 11.5974136
+    },
+    {
+      "type": "node",
+      "id": 2718933015,
+      "lat": 50.9425084,
+      "lon": 11.5969761
+    },
+    {
+      "type": "node",
+      "id": 2718933019,
+      "lat": 50.9426482,
+      "lon": 11.5983985
+    },
+    {
+      "type": "node",
+      "id": 2718933027,
+      "lat": 50.9427787,
+      "lon": 11.5982865
+    },
+    {
+      "type": "node",
+      "id": 2718933030,
+      "lat": 50.9430211,
+      "lon": 11.5978723
+    },
+    {
+      "type": "node",
+      "id": 1464408729,
+      "lat": 50.9464643,
+      "lon": 11.6049892
+    },
+    {
+      "type": "node",
+      "id": 1464408730,
+      "lat": 50.9461922,
+      "lon": 11.6045627
+    },
+    {
+      "type": "node",
+      "id": 1464408736,
+      "lat": 50.9462412,
+      "lon": 11.6052839
+    },
+    {
+      "type": "node",
+      "id": 1464408738,
+      "lat": 50.9460486,
+      "lon": 11.6047612
+    },
+    {
+      "type": "node",
+      "id": 1930861353,
+      "lat": 50.9331312,
+      "lon": 11.6519962
+    },
+    {
+      "type": "node",
+      "id": 1930861361,
+      "lat": 50.9328817,
+      "lon": 11.6519913
+    },
+    {
+      "type": "node",
+      "id": 1930861356,
+      "lat": 50.9331116,
+      "lon": 11.6530428
+    },
+    {
+      "type": "node",
+      "id": 1930861358,
+      "lat": 50.9330372,
+      "lon": 11.6533432
+    },
+    {
+      "type": "node",
+      "id": 1930861363,
+      "lat": 50.9328614,
+      "lon": 11.6533539
+    }
+  ]
+}

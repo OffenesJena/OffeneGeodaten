@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:54.061Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/911666034",
+      "properties": {
+        "@id": "node/911666034",
+        "addr:city": "Jena",
+        "addr:housenumber": "13",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisstraße",
+        "amenity": "nightclub",
+        "contact:website": "http://www.rosenkeller.org/",
+        "drink:club-mate": "served",
+        "name": "Rosenkeller",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5846863,
+          50.929354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2457972176",
+      "properties": {
+        "@id": "node/2457972176",
+        "addr:city": "Jena",
+        "addr:housenumber": "3",
+        "addr:postcode": "07743",
+        "addr:street": "Knebelstraße",
+        "amenity": "nightclub",
+        "contact:website": "http://www.villa-am-paradies.de",
+        "name": "Villa am Paradies",
+        "wheelchair": "limited",
+        "wheelchair:description": "einzelne Zimmer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880065,
+          50.9255514
+        ]
+      }
+    }
+  ]
+}

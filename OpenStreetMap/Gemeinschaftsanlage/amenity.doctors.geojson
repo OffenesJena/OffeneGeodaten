@@ -1,0 +1,172 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:18.142Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/565552591",
+      "properties": {
+        "@id": "node/565552591",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "07743",
+        "addr:street": "Engelplatz",
+        "amenity": "doctors",
+        "name": "Ringelmann Wendenburg Kinderarzt",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5832075,
+          50.9262331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/626491110",
+      "properties": {
+        "@id": "node/626491110",
+        "amenity": "doctors",
+        "name": "Dr. Gneist",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5753658,
+          50.9312852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/637041636",
+      "properties": {
+        "@id": "node/637041636",
+        "amenity": "doctors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5766975,
+          50.9232431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/637041846",
+      "properties": {
+        "@id": "node/637041846",
+        "amenity": "doctors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5736398,
+          50.9220291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/637042837",
+      "properties": {
+        "@id": "node/637042837",
+        "amenity": "doctors",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570228,
+          50.9213359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1442220314",
+      "properties": {
+        "@id": "node/1442220314",
+        "amenity": "doctors",
+        "emergency": "no",
+        "name": "Kinderarztpraxis",
+        "office": "physician",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604588,
+          50.9471375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2609389738",
+      "properties": {
+        "@id": "node/2609389738",
+        "amenity": "doctors",
+        "name": "Kassenärztlicher Notdienst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6192143,
+          50.8864702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130997084",
+      "properties": {
+        "@id": "way/130997084",
+        "addr:city": "Jena",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Zeitzer Straße",
+        "amenity": "doctors",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:website": "http://www.nuklearmedizin-jena.de",
+        "name": "Radiologische Praxis Jena Nord",
+        "office": "physician"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6052833,
+              50.9479999
+            ],
+            [
+              11.6054746,
+              50.9478808
+            ],
+            [
+              11.6050159,
+              50.9475928
+            ],
+            [
+              11.6048361,
+              50.9477166
+            ],
+            [
+              11.6052833,
+              50.9479999
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

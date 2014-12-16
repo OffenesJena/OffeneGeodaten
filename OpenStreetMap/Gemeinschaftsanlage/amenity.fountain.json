@@ -1,0 +1,259 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 268084311,
+      "lat": 50.9232162,
+      "lon": 11.5886549,
+      "tags": {
+        "amenity": "fountain",
+        "drinkable": "no",
+        "name": "Märchenbrunnen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299809236,
+      "lat": 50.9278632,
+      "lon": 11.5880076,
+      "tags": {
+        "amenity": "fountain",
+        "name": "Bismarckbrunnen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304763671,
+      "lat": 50.9227755,
+      "lon": 11.586332,
+      "tags": {
+        "amenity": "fountain",
+        "created_by": "Potlatch 0.10e",
+        "drinkable": "no",
+        "name": "Märchenbrunnen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1667260740,
+      "lat": 50.9216293,
+      "lon": 11.600801,
+      "tags": {
+        "amenity": "fountain",
+        "source": "Aerowest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2225828312,
+      "lat": 50.9279702,
+      "lon": 11.5844932,
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444294741,
+      "lat": 50.927717,
+      "lon": 11.5804704,
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2538233693,
+      "lat": 50.9286887,
+      "lon": 11.5890442,
+      "tags": {
+        "amenity": "fountain",
+        "historic": "yes",
+        "man_made": "water_well",
+        "name": "Löwenbrunnen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2651936617,
+      "lat": 50.8924248,
+      "lon": 11.6071451,
+      "tags": {
+        "amenity": "fountain",
+        "historic": "yes",
+        "name": "Marktbrunnen",
+        "start_date": "1847"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2789494973,
+      "lat": 50.9294348,
+      "lon": 11.5842217,
+      "tags": {
+        "amenity": "fountain",
+        "name": "Philisterbrunnen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221552573,
+      "nodes": [
+        2305814852,
+        2305814869,
+        2305814868,
+        2305814847,
+        2305814852
+      ],
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221552581,
+      "nodes": [
+        2305814856,
+        2305814835,
+        2305814827,
+        2305814857,
+        2305814856
+      ],
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221653869,
+      "nodes": [
+        2306875994,
+        2306876032,
+        2306876023,
+        2306875997,
+        2306875994
+      ],
+      "tags": {
+        "amenity": "fountain",
+        "disused": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221653871,
+      "nodes": [
+        2306876037,
+        2306875989,
+        2306876015,
+        2306875991,
+        2306876037
+      ],
+      "tags": {
+        "amenity": "fountain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305814847,
+      "lat": 50.8822249,
+      "lon": 11.6031294
+    },
+    {
+      "type": "node",
+      "id": 2305814852,
+      "lat": 50.8823382,
+      "lon": 11.6030435
+    },
+    {
+      "type": "node",
+      "id": 2305814868,
+      "lat": 50.8822793,
+      "lon": 11.6033012
+    },
+    {
+      "type": "node",
+      "id": 2305814869,
+      "lat": 50.8823891,
+      "lon": 11.6032208
+    },
+    {
+      "type": "node",
+      "id": 2305814857,
+      "lat": 50.8854376,
+      "lon": 11.610271
+    },
+    {
+      "type": "node",
+      "id": 2306875994,
+      "lat": 50.8847614,
+      "lon": 11.6064328
+    },
+    {
+      "type": "node",
+      "id": 2306875997,
+      "lat": 50.8847138,
+      "lon": 11.6064884
+    },
+    {
+      "type": "node",
+      "id": 2306876023,
+      "lat": 50.8847499,
+      "lon": 11.6065659
+    },
+    {
+      "type": "node",
+      "id": 2306876032,
+      "lat": 50.8847975,
+      "lon": 11.6065103
+    },
+    {
+      "type": "node",
+      "id": 2305814827,
+      "lat": 50.8854722,
+      "lon": 11.6103499
+    },
+    {
+      "type": "node",
+      "id": 2305814835,
+      "lat": 50.8855229,
+      "lon": 11.6102936
+    },
+    {
+      "type": "node",
+      "id": 2305814856,
+      "lat": 50.8854875,
+      "lon": 11.6102139
+    },
+    {
+      "type": "node",
+      "id": 2306875989,
+      "lat": 50.8840475,
+      "lon": 11.6182557
+    },
+    {
+      "type": "node",
+      "id": 2306875991,
+      "lat": 50.8840219,
+      "lon": 11.6181116
+    },
+    {
+      "type": "node",
+      "id": 2306876015,
+      "lat": 50.8840755,
+      "lon": 11.6182213
+    },
+    {
+      "type": "node",
+      "id": 2306876037,
+      "lat": 50.8839939,
+      "lon": 11.6181459
+    }
+  ]
+}

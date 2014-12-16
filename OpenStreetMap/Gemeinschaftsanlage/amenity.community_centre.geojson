@@ -1,0 +1,375 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:07.700Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1683829576",
+      "properties": {
+        "@id": "node/1683829576",
+        "amenity": "community_centre",
+        "contact:website": "http://www.dietrich-bonhoeffer-gemeinde-jena.de/",
+        "denomination": "lutheran",
+        "name": "Gemeindezentrum der Bonhoeffer-Gemeinde",
+        "operator": "Bonhoeffer-Gemeinde",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763484,
+          50.9008907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1875593753",
+      "properties": {
+        "@id": "node/1875593753",
+        "addr:city": "Jena",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Krautgasse",
+        "amenity": "community_centre",
+        "building:level": "1",
+        "club": "it",
+        "contact:phone": "0162/6318746",
+        "contact:website": "https://www.krautspace.de",
+        "drink:club-mate": "yes",
+        "leisure": "hackerspace",
+        "name": "Krautspace",
+        "office": "club",
+        "operator": "Hackspace Jena e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5824008,
+          50.9292604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56080827",
+      "properties": {
+        "@id": "way/56080827",
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Closewitzer Straße",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Begegnungszentrum Closewitzer Straße 2",
+        "operator": "Begegnungszentrum Jena e.V."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5976377,
+              50.9507213
+            ],
+            [
+              11.597878,
+              50.950922
+            ],
+            [
+              11.5979793,
+              50.9508739
+            ],
+            [
+              11.5977389,
+              50.9506732
+            ],
+            [
+              11.5976377,
+              50.9507213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153576891",
+      "properties": {
+        "@id": "way/153576891",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Knebelstraße",
+        "amenity": "community_centre",
+        "building": "yes",
+        "contact:phone": "+49 3641 498000",
+        "contact:website": "http://www.volksbad-jena.de",
+        "name": "Volksbad",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q2531618",
+        "wikipedia": "de:Volksbad Jena",
+        "wikipedia:de": "Volksbad Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5868098,
+              50.9254469
+            ],
+            [
+              11.5868106,
+              50.925208
+            ],
+            [
+              11.5860995,
+              50.9250465
+            ],
+            [
+              11.5860551,
+              50.9251487
+            ],
+            [
+              11.5860689,
+              50.925227
+            ],
+            [
+              11.5864488,
+              50.9253141
+            ],
+            [
+              11.5864463,
+              50.9254456
+            ],
+            [
+              11.5868098,
+              50.9254469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259740175",
+      "properties": {
+        "@id": "way/259740175",
+        "addr:city": "Jena",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Martin-Niemöller-Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "community_centre",
+        "building": "yes",
+        "denomination": "lutheran",
+        "name": "Martin- Niemöller- Haus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6091719,
+              50.8906264
+            ],
+            [
+              11.6089089,
+              50.8906339
+            ],
+            [
+              11.608816,
+              50.890604
+            ],
+            [
+              11.6087398,
+              50.8906052
+            ],
+            [
+              11.6086528,
+              50.8905753
+            ],
+            [
+              11.6085579,
+              50.8905859
+            ],
+            [
+              11.6084136,
+              50.8905397
+            ],
+            [
+              11.6084462,
+              50.8904499
+            ],
+            [
+              11.6086084,
+              50.8904406
+            ],
+            [
+              11.60873,
+              50.8904923
+            ],
+            [
+              11.6087616,
+              50.8904905
+            ],
+            [
+              11.6087972,
+              50.8905011
+            ],
+            [
+              11.6089573,
+              50.8904948
+            ],
+            [
+              11.6090572,
+              50.8905341
+            ],
+            [
+              11.6091017,
+              50.8905322
+            ],
+            [
+              11.6091906,
+              50.8905628
+            ],
+            [
+              11.6091719,
+              50.8906264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266824858",
+      "properties": {
+        "@id": "way/266824858",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "29/30",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "community_centre",
+        "denomination": "roman_catholic",
+        "name": "Gemeindehaus Gabriel Henry",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.580838,
+              50.930768
+            ],
+            [
+              11.5807232,
+              50.9306605
+            ],
+            [
+              11.5808612,
+              50.9306019
+            ],
+            [
+              11.581027,
+              50.9305316
+            ],
+            [
+              11.5810557,
+              50.9305194
+            ],
+            [
+              11.5811718,
+              50.9304701
+            ],
+            [
+              11.5812866,
+              50.9305777
+            ],
+            [
+              11.5811787,
+              50.9306234
+            ],
+            [
+              11.58115,
+              50.9306356
+            ],
+            [
+              11.5809925,
+              50.9307025
+            ],
+            [
+              11.580838,
+              50.930768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266824867",
+      "properties": {
+        "@id": "way/266824867",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "07743",
+        "addr:street": "Wagnergasse",
+        "amenity": "community_centre",
+        "building": "yes",
+        "contact:website": "http://lkg-jena.de/",
+        "denomination": "lutheran",
+        "name": "Landeskirchliche Gemeinschaft Jena",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5806231,
+              50.9308592
+            ],
+            [
+              11.580602,
+              50.9308395
+            ],
+            [
+              11.5805073,
+              50.9307509
+            ],
+            [
+              11.5804993,
+              50.9307434
+            ],
+            [
+              11.5807143,
+              50.9306522
+            ],
+            [
+              11.5807232,
+              50.9306605
+            ],
+            [
+              11.580838,
+              50.930768
+            ],
+            [
+              11.5806231,
+              50.9308592
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

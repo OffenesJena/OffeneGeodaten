@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:16.262Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/340006114",
+      "properties": {
+        "@id": "node/340006114",
+        "amenity": "dentist",
+        "name": "Zahnarztpraxis Michael Rothammel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5760336,
+          50.9319421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/628635490",
+      "properties": {
+        "@id": "node/628635490",
+        "amenity": "dentist",
+        "name": "Zahnarztpraxis Sandra Trinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5710423,
+          50.9305449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2182289996",
+      "properties": {
+        "@id": "node/2182289996",
+        "addr:city": "Jena",
+        "addr:housenumber": "69",
+        "addr:postcode": "07745",
+        "addr:street": "Hermann-Löns-Straße",
+        "amenity": "dentist",
+        "contact:phone": "+49 (0)3641 606590",
+        "contact:website": "http://www.zahn-fuchs.de/inh/0start.htm",
+        "name": "Praxis Dr. med. Gabriele Fuchs",
+        "opening_hours": "Mo,We 9:00-13:00,15:00-19:00;Tu 8:00-12:00,14:00-16:00;Tu 8:00-13:00;Fr 8:00-12:00,13:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5725517,
+          50.9102583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153361170",
+      "properties": {
+        "@id": "way/153361170",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "07749",
+        "addr:street": "Jenertal",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "Dr. med. Th. Egerer",
+        "source": "Aerowest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5942212,
+              50.9210305
+            ],
+            [
+              11.5940162,
+              50.9210218
+            ],
+            [
+              11.5940271,
+              50.9209192
+            ],
+            [
+              11.594232,
+              50.9209279
+            ],
+            [
+              11.5942212,
+              50.9210305
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

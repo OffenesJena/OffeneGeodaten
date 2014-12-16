@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:34.898Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/339951153",
+      "properties": {
+        "@id": "node/339951153",
+        "amenity": "shelter",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5530042,
+          50.9279954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550280241",
+      "properties": {
+        "@id": "node/550280241",
+        "amenity": "shelter",
+        "name": "Hexe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5544951,
+          50.9213557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573453499",
+      "properties": {
+        "@id": "node/573453499",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5471796,
+          50.9408462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/656969174",
+      "properties": {
+        "@id": "node/656969174",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5701115,
+          50.9577634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668986373",
+      "properties": {
+        "@id": "node/668986373",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5920707,
+          50.9609566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/718587175",
+      "properties": {
+        "@id": "node/718587175",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5950543,
+          50.9340994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/827181813",
+      "properties": {
+        "@id": "node/827181813",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6346518,
+          50.9565984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936934676",
+      "properties": {
+        "@id": "node/936934676",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5999168,
+          50.8957682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294569153",
+      "properties": {
+        "@id": "way/294569153",
+        "amenity": "shelter",
+        "shelter_type": "public_transport",
+        "source": "bing2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6349434,
+              50.8795896
+            ],
+            [
+              11.6350588,
+              50.879572
+            ],
+            [
+              11.6350527,
+              50.8795561
+            ],
+            [
+              11.6349373,
+              50.8795736
+            ],
+            [
+              11.6349434,
+              50.8795896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294569154",
+      "properties": {
+        "@id": "way/294569154",
+        "amenity": "shelter",
+        "shelter_type": "public_transport",
+        "source": "bing2012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6349777,
+              50.8796264
+            ],
+            [
+              11.6349187,
+              50.879635
+            ],
+            [
+              11.6349244,
+              50.8796507
+            ],
+            [
+              11.6349834,
+              50.8796421
+            ],
+            [
+              11.6349777,
+              50.8796264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305385081",
+      "properties": {
+        "@id": "way/305385081",
+        "amenity": "shelter",
+        "fireplace": "no",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5847082,
+              50.9238124
+            ],
+            [
+              11.5846864,
+              50.9238284
+            ],
+            [
+              11.5847341,
+              50.9238542
+            ],
+            [
+              11.5847558,
+              50.9238383
+            ],
+            [
+              11.5847082,
+              50.9238124
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

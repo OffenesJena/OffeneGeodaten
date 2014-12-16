@@ -1,0 +1,55 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 305886920,
+      "lat": 50.882911,
+      "lon": 11.6054917,
+      "tags": {
+        "amenity": "parking_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2544972587,
+      "lat": 50.9324523,
+      "lon": 11.5932421,
+      "tags": {
+        "access": "yes",
+        "amenity": "parking_entrance",
+        "covered": "yes",
+        "fee": "yes",
+        "name": "Schillerpassage",
+        "parking": "multi-storey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2675757673,
+      "lat": 50.9282975,
+      "lon": 11.5813867,
+      "tags": {
+        "access": "private",
+        "amenity": "parking_entrance",
+        "parking": "underground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3224164063,
+      "lat": 50.9186504,
+      "lon": 11.5793033,
+      "tags": {
+        "amenity": "parking_entrance",
+        "parking": "multi-storey"
+      }
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:43.461Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/196197259",
+      "properties": {
+        "@id": "node/196197259",
+        "amenity": "biergarten",
+        "name": "Biergarten Saaleterrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6000326,
+          50.8805997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1780242287",
+      "properties": {
+        "@id": "node/1780242287",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6066697,
+          50.9252845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2189741158",
+      "properties": {
+        "@id": "node/2189741158",
+        "amenity": "biergarten",
+        "name": "Biergarten am Teich",
+        "operator": "Zur schönen Aussicht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5982094,
+          50.9036653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2189843706",
+      "properties": {
+        "@id": "node/2189843706",
+        "amenity": "biergarten",
+        "operator": "Talschänke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034191,
+          50.9057767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153590816",
+      "properties": {
+        "@id": "way/153590816",
+        "amenity": "biergarten",
+        "barrier": "wall",
+        "castle_type": "defensive",
+        "historic": "castle",
+        "name": "Burg Kirchberg",
+        "opening_hours": "Mo off; Tu-Fr 11:00-22:00; Sa 11:00-24:00; Su 10:00-20:00",
+        "ruins": "yes",
+        "wheelchair": "no",
+        "wikipedia:de": "Hausberg_(Jena)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6221317,
+              50.9234734
+            ],
+            [
+              11.6222445,
+              50.9234575
+            ],
+            [
+              11.6223065,
+              50.9234671
+            ],
+            [
+              11.6225308,
+              50.9235647
+            ],
+            [
+              11.6225369,
+              50.9236498
+            ],
+            [
+              11.6225716,
+              50.9236535
+            ],
+            [
+              11.6225701,
+              50.9236603
+            ],
+            [
+              11.6225683,
+              50.9236672
+            ],
+            [
+              11.6225102,
+              50.923663
+            ],
+            [
+              11.6225057,
+              50.9236904
+            ],
+            [
+              11.6223698,
+              50.9236943
+            ],
+            [
+              11.6223074,
+              50.9236763
+            ],
+            [
+              11.6221205,
+              50.923679
+            ],
+            [
+              11.6220097,
+              50.9237032
+            ],
+            [
+              11.62202,
+              50.9237589
+            ],
+            [
+              11.621885,
+              50.9237689
+            ],
+            [
+              11.6218765,
+              50.9237227
+            ],
+            [
+              11.621841,
+              50.9237299
+            ],
+            [
+              11.6218083,
+              50.9236683
+            ],
+            [
+              11.6218202,
+              50.9236658
+            ],
+            [
+              11.6218039,
+              50.9236487
+            ],
+            [
+              11.6217864,
+              50.9236363
+            ],
+            [
+              11.6217761,
+              50.9236095
+            ],
+            [
+              11.6217436,
+              50.9236035
+            ],
+            [
+              11.6217352,
+              50.9235814
+            ],
+            [
+              11.6217541,
+              50.9235617
+            ],
+            [
+              11.6217733,
+              50.9235588
+            ],
+            [
+              11.6217628,
+              50.9235315
+            ],
+            [
+              11.6218959,
+              50.9235111
+            ],
+            [
+              11.6218941,
+              50.9235065
+            ],
+            [
+              11.6219104,
+              50.9234897
+            ],
+            [
+              11.6219428,
+              50.9234847
+            ],
+            [
+              11.621969,
+              50.9234948
+            ],
+            [
+              11.6219703,
+              50.9234982
+            ],
+            [
+              11.6221317,
+              50.9234734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224522967",
+      "properties": {
+        "@id": "way/224522967",
+        "amenity": "biergarten",
+        "name": "Strandschleicher"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5783974,
+              50.9133076
+            ],
+            [
+              11.5783513,
+              50.9132508
+            ],
+            [
+              11.5782449,
+              50.9132797
+            ],
+            [
+              11.5780857,
+              50.9131482
+            ],
+            [
+              11.5772071,
+              50.9132778
+            ],
+            [
+              11.5772532,
+              50.9133186
+            ],
+            [
+              11.5774903,
+              50.9134749
+            ],
+            [
+              11.5777126,
+              50.9135027
+            ],
+            [
+              11.5779016,
+              50.9135845
+            ],
+            [
+              11.5781299,
+              50.9134521
+            ],
+            [
+              11.5783974,
+              50.9133076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268191973",
+      "properties": {
+        "@id": "way/268191973",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "62",
+        "addr:postcode": "07745",
+        "addr:street": "Rudolstädter Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "biergarten",
+        "building": "yes",
+        "name": "Snackbar Grand Canyon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5826017,
+              50.8955885
+            ],
+            [
+              11.5826589,
+              50.895535
+            ],
+            [
+              11.5825801,
+              50.8955015
+            ],
+            [
+              11.5825229,
+              50.895555
+            ],
+            [
+              11.5826017,
+              50.8955885
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

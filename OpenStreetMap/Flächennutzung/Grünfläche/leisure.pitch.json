@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-04T01:43:02.000Z",
-    "timestamp_areas_base": "2014-12-03T17:46:02.000Z",
+    "timestamp_osm_base": "2014-12-16T09:46:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1683,6 +1683,27 @@
       "tags": {
         "leisure": "pitch",
         "sport": "volleyball"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316314481,
+      "nodes": [
+        3224237004,
+        3224237005,
+        3224237006,
+        3224237007,
+        3224237008,
+        3224237009,
+        3224237010,
+        3224237011,
+        3224237004
+      ],
+      "tags": {
+        "landuse": "meadow",
+        "leisure": "pitch",
+        "meadow": "pasture",
+        "sport": "equestrian"
       }
     },
     {
@@ -4461,6 +4482,54 @@
       "id": 2464795883,
       "lat": 50.94935,
       "lon": 11.6028428
+    },
+    {
+      "type": "node",
+      "id": 3224237004,
+      "lat": 50.9319027,
+      "lon": 11.6311071
+    },
+    {
+      "type": "node",
+      "id": 3224237005,
+      "lat": 50.9318756,
+      "lon": 11.6313869
+    },
+    {
+      "type": "node",
+      "id": 3224237006,
+      "lat": 50.9318539,
+      "lon": 11.6313727
+    },
+    {
+      "type": "node",
+      "id": 3224237007,
+      "lat": 50.9318486,
+      "lon": 11.6314236
+    },
+    {
+      "type": "node",
+      "id": 3224237008,
+      "lat": 50.9318706,
+      "lon": 11.6314391
+    },
+    {
+      "type": "node",
+      "id": 3224237009,
+      "lat": 50.931781,
+      "lon": 11.6324992
+    },
+    {
+      "type": "node",
+      "id": 3224237010,
+      "lat": 50.9320227,
+      "lon": 11.6325474
+    },
+    {
+      "type": "node",
+      "id": 3224237011,
+      "lat": 50.9321495,
+      "lon": 11.63115
     },
     {
       "type": "node",

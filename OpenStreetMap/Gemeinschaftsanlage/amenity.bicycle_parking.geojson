@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:41.551Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/411195865",
+      "properties": {
+        "@id": "node/411195865",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5821769,
+          50.9302558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418361024",
+      "properties": {
+        "@id": "node/418361024",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6028611,
+          50.949173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668587537",
+      "properties": {
+        "@id": "node/668587537",
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5869638,
+          50.928006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669118535",
+      "properties": {
+        "@id": "node/669118535",
+        "amenity": "bicycle_parking",
+        "capacity": "24",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5862054,
+          50.9275882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669118540",
+      "properties": {
+        "@id": "node/669118540",
+        "amenity": "bicycle_parking",
+        "capacity": "7",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5866206,
+          50.9276885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670199030",
+      "properties": {
+        "@id": "node/670199030",
+        "amenity": "bicycle_parking",
+        "capacity": "19",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5851786,
+          50.9284017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674169910",
+      "properties": {
+        "@id": "node/674169910",
+        "amenity": "bicycle_parking",
+        "capacity": "40",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5852529,
+          50.9286976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674169911",
+      "properties": {
+        "@id": "node/674169911",
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5853893,
+          50.9289742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728048",
+      "properties": {
+        "@id": "node/674728048",
+        "amenity": "bicycle_parking",
+        "capacity": "6",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5863576,
+          50.9265818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728049",
+      "properties": {
+        "@id": "node/674728049",
+        "amenity": "bicycle_parking",
+        "capacity": "7",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5872359,
+          50.926222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728050",
+      "properties": {
+        "@id": "node/674728050",
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5864403,
+          50.9267979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728051",
+      "properties": {
+        "@id": "node/674728051",
+        "amenity": "bicycle_parking",
+        "capacity": "12",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5871388,
+          50.9266834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728052",
+      "properties": {
+        "@id": "node/674728052",
+        "amenity": "bicycle_parking",
+        "capacity": "28",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5838081,
+          50.9289951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728053",
+      "properties": {
+        "@id": "node/674728053",
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5858751,
+          50.9291445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674728054",
+      "properties": {
+        "@id": "node/674728054",
+        "amenity": "bicycle_parking",
+        "capacity": "8",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5865789,
+          50.9291798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/678128976",
+      "properties": {
+        "@id": "node/678128976",
+        "amenity": "bicycle_parking",
+        "capacity": "48",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5772501,
+          50.9236349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/681392572",
+      "properties": {
+        "@id": "node/681392572",
+        "amenity": "bicycle_parking",
+        "capacity": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5862358,
+          50.9257285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/681392584",
+      "properties": {
+        "@id": "node/681392584",
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "12",
+        "covered": "yes",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5870574,
+          50.9246328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/681392589",
+      "properties": {
+        "@id": "node/681392589",
+        "amenity": "bicycle_parking",
+        "capacity": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5864582,
+          50.9250507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/681392591",
+      "properties": {
+        "@id": "node/681392591",
+        "amenity": "bicycle_parking",
+        "capacity": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586768,
+          50.924828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/681392592",
+      "properties": {
+        "@id": "node/681392592",
+        "amenity": "bicycle_parking",
+        "capacity": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5867887,
+          50.9251732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/693593224",
+      "properties": {
+        "@id": "node/693593224",
+        "amenity": "bicycle_parking",
+        "capacity": "50",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5783789,
+          50.9229735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/705482478",
+      "properties": {
+        "@id": "node/705482478",
+        "amenity": "bicycle_parking",
+        "capacity": "40",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5780257,
+          50.9228889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/716748763",
+      "properties": {
+        "@id": "node/716748763",
+        "amenity": "bicycle_parking",
+        "capacity": "35",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5784076,
+          50.9228594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1023154198",
+      "properties": {
+        "@id": "node/1023154198",
+        "amenity": "bicycle_parking",
+        "capacity": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5880442,
+          50.9258946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2436612422",
+      "properties": {
+        "@id": "node/2436612422",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5838548,
+          50.9240597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2612991842",
+      "properties": {
+        "@id": "node/2612991842",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5892932,
+          50.9301156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2956972294",
+      "properties": {
+        "@id": "node/2956972294",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5933482,
+          50.8834659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3048180631",
+      "properties": {
+        "@id": "node/3048180631",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881431,
+          50.9277858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3192205365",
+      "properties": {
+        "@id": "node/3192205365",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5829689,
+          50.9269964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49707429",
+      "properties": {
+        "@id": "way/49707429",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5681236,
+              50.919027
+            ],
+            [
+              11.5686466,
+              50.9190456
+            ],
+            [
+              11.5687083,
+              50.91912
+            ],
+            [
+              11.5684347,
+              50.9191048
+            ],
+            [
+              11.5682228,
+              50.919076
+            ],
+            [
+              11.5681236,
+              50.919027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49707437",
+      "properties": {
+        "@id": "way/49707437",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5685796,
+              50.918934
+            ],
+            [
+              11.5684803,
+              50.9188596
+            ],
+            [
+              11.5683945,
+              50.9187919
+            ],
+            [
+              11.5683462,
+              50.9187378
+            ],
+            [
+              11.5684615,
+              50.9187311
+            ],
+            [
+              11.5686359,
+              50.9189272
+            ],
+            [
+              11.5685796,
+              50.918934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49707502",
+      "properties": {
+        "@id": "way/49707502",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5673913,
+              50.9174257
+            ],
+            [
+              11.567555,
+              50.9174189
+            ],
+            [
+              11.5676864,
+              50.9173851
+            ],
+            [
+              11.5677534,
+              50.9174138
+            ],
+            [
+              11.5676381,
+              50.9174527
+            ],
+            [
+              11.5674745,
+              50.9174544
+            ],
+            [
+              11.5673913,
+              50.9174257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153814527",
+      "properties": {
+        "@id": "way/153814527",
+        "amenity": "bicycle_parking",
+        "barrier": "fence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5794531,
+              50.9139903
+            ],
+            [
+              11.5792056,
+              50.9140866
+            ],
+            [
+              11.5792453,
+              50.9141163
+            ],
+            [
+              11.5793011,
+              50.9141433
+            ],
+            [
+              11.5793568,
+              50.914168
+            ],
+            [
+              11.5794161,
+              50.9141841
+            ],
+            [
+              11.5794616,
+              50.9141994
+            ],
+            [
+              11.5795178,
+              50.9141765
+            ],
+            [
+              11.5795935,
+              50.9141405
+            ],
+            [
+              11.5794531,
+              50.9139903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266302697",
+      "properties": {
+        "@id": "way/266302697",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5838953,
+              50.9382769
+            ],
+            [
+              11.5838572,
+              50.9382913
+            ],
+            [
+              11.5837614,
+              50.9381861
+            ],
+            [
+              11.5837967,
+              50.9381742
+            ],
+            [
+              11.5838953,
+              50.9382769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267292156",
+      "properties": {
+        "@id": "way/267292156",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5821367,
+              50.9287264
+            ],
+            [
+              11.5819615,
+              50.9283963
+            ],
+            [
+              11.5819767,
+              50.9283931
+            ],
+            [
+              11.5821519,
+              50.9287232
+            ],
+            [
+              11.5821367,
+              50.9287264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310492730",
+      "properties": {
+        "@id": "way/310492730",
+        "amenity": "bicycle_parking",
+        "fee": "no",
+        "supervised": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5837224,
+              50.9247997
+            ],
+            [
+              11.5837872,
+              50.9247919
+            ],
+            [
+              11.583761,
+              50.9247055
+            ],
+            [
+              11.5836962,
+              50.9247133
+            ],
+            [
+              11.5837224,
+              50.9247997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310492731",
+      "properties": {
+        "@id": "way/310492731",
+        "amenity": "bicycle_parking",
+        "fee": "no",
+        "supervised": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.583098,
+              50.9246633
+            ],
+            [
+              11.5832189,
+              50.9246423
+            ],
+            [
+              11.5832039,
+              50.924608
+            ],
+            [
+              11.583083,
+              50.9246289
+            ],
+            [
+              11.583098,
+              50.9246633
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

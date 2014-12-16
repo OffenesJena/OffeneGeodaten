@@ -1,0 +1,716 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:30.819Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/252102128",
+      "properties": {
+        "@id": "node/252102128",
+        "addr:city": "Jena-Lobeda",
+        "addr:country": "DE",
+        "addr:housenumber": "102",
+        "addr:postcode": "07747",
+        "addr:street": "Stadtrodaer Straße",
+        "amenity": "fuel",
+        "brand": "ARAL",
+        "contact:email": "thomas.oberroeder@tankstelle.de",
+        "contact:fax": "+49 3641 396452",
+        "contact:phone": "+49 3641 334142",
+        "currency:EUR": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:adblue": "yes",
+        "fuel:octane_102": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ARAL Tankstelle",
+        "opening_hours": "24/7",
+        "operator": "Thomas Oberröder",
+        "parking:hgv": "no",
+        "payment:american_express": "yes",
+        "payment:aral_cardkomfort": "yes",
+        "payment:diners_club": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:routex": "yes",
+        "payment:uta": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:westfalen_card": "yes",
+        "ref": "27009600",
+        "shop": "convenience",
+        "vending": "toll",
+        "web": "http://www.aral.de/tankstelle/27009600.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6219143,
+          50.8771562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279231497",
+      "properties": {
+        "@id": "node/279231497",
+        "amenity": "fuel",
+        "name": "Kaufland-Tankstelle",
+        "operator": "Total",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6105636,
+          50.9521913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732717067",
+      "properties": {
+        "@id": "node/732717067",
+        "addr:city": "Jena",
+        "addr:postcode": "07747",
+        "amenity": "fuel",
+        "fuel:cng": "no",
+        "fuel:lpg": "yes",
+        "name": "Auto-Scholz GmbH&CoKG",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-12:00",
+        "source": "http://www.gas-tankstellen.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6296,
+          50.8775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2159577051",
+      "properties": {
+        "@id": "node/2159577051",
+        "amenity": "fuel",
+        "fuel:1_25": "no",
+        "fuel:1_50": "no",
+        "fuel:GTL_diesel": "no",
+        "fuel:HGV_diesel": "no",
+        "fuel:biodiesel": "no",
+        "fuel:biogas": "no",
+        "fuel:cng": "no",
+        "fuel:diesel": "no",
+        "fuel:e10": "no",
+        "fuel:e85": "no",
+        "fuel:electricity": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_95": "no",
+        "fuel:octane_98": "no",
+        "name": "LPG Gastankstelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6053667,
+          50.9466506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38320770",
+      "properties": {
+        "@id": "way/38320770",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "60",
+        "addr:postcode": "07745",
+        "addr:street": "Rudolstädter Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Shell Station Koschny",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5806076,
+              50.8975451
+            ],
+            [
+              11.5809347,
+              50.8977223
+            ],
+            [
+              11.5810662,
+              50.8976546
+            ],
+            [
+              11.581262,
+              50.8975362
+            ],
+            [
+              11.5816401,
+              50.8973231
+            ],
+            [
+              11.5819855,
+              50.8970465
+            ],
+            [
+              11.5819198,
+              50.8970253
+            ],
+            [
+              11.5818701,
+              50.8970076
+            ],
+            [
+              11.5817635,
+              50.8969695
+            ],
+            [
+              11.5817085,
+              50.8970313
+            ],
+            [
+              11.5816865,
+              50.8970183
+            ],
+            [
+              11.5815221,
+              50.8969543
+            ],
+            [
+              11.5813657,
+              50.8968955
+            ],
+            [
+              11.5813128,
+              50.8968702
+            ],
+            [
+              11.5812861,
+              50.8968595
+            ],
+            [
+              11.5806076,
+              50.8975451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49402704",
+      "properties": {
+        "@id": "way/49402704",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "31",
+        "addr:postcode": "07743",
+        "addr:street": "August-Bebel-Straße",
+        "amenity": "fuel",
+        "building": "yes",
+        "contact:fax": "03641-229881",
+        "contact:phone": "03641-820879",
+        "drink:club-mate": "retail",
+        "name": "Total",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5719381,
+              50.9321238
+            ],
+            [
+              11.5721934,
+              50.9320433
+            ],
+            [
+              11.5720716,
+              50.9318898
+            ],
+            [
+              11.571827,
+              50.9319669
+            ],
+            [
+              11.571892,
+              50.9320487
+            ],
+            [
+              11.5717932,
+              50.9320798
+            ],
+            [
+              11.5718667,
+              50.9321724
+            ],
+            [
+              11.5719547,
+              50.9321447
+            ],
+            [
+              11.5719381,
+              50.9321238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133089113",
+      "properties": {
+        "@id": "way/133089113",
+        "addr:city": "Jena",
+        "addr:housenumber": "66d",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "fuel",
+        "brand": "JET",
+        "name": "JET",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6045627,
+              50.9461922
+            ],
+            [
+              11.6047612,
+              50.9460486
+            ],
+            [
+              11.6052839,
+              50.9462412
+            ],
+            [
+              11.6049892,
+              50.9464643
+            ],
+            [
+              11.6045627,
+              50.9461922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148100386",
+      "properties": {
+        "@id": "way/148100386",
+        "amenity": "fuel",
+        "operator": "Globus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5098907,
+              50.9594533
+            ],
+            [
+              11.5109561,
+              50.9594573
+            ],
+            [
+              11.5109529,
+              50.9597499
+            ],
+            [
+              11.5098892,
+              50.9597482
+            ],
+            [
+              11.5098894,
+              50.9597073
+            ],
+            [
+              11.5098907,
+              50.9594533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174775791",
+      "properties": {
+        "@id": "way/174775791",
+        "access": "private",
+        "amenity": "fuel",
+        "operator": "Jenaer Nahverkehrsgesellschaft",
+        "shop": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5912835,
+              50.9017493
+            ],
+            [
+              11.5910114,
+              50.9016684
+            ],
+            [
+              11.5911366,
+              50.9015075
+            ],
+            [
+              11.5914037,
+              50.9015883
+            ],
+            [
+              11.5912835,
+              50.9017493
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182728969",
+      "properties": {
+        "@id": "way/182728969",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6519962,
+              50.9331312
+            ],
+            [
+              11.6530428,
+              50.9331116
+            ],
+            [
+              11.6533432,
+              50.9330372
+            ],
+            [
+              11.6533539,
+              50.9328614
+            ],
+            [
+              11.6519913,
+              50.9328817
+            ],
+            [
+              11.6519962,
+              50.9331312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247607012",
+      "properties": {
+        "@id": "way/247607012",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07749",
+        "addr:street": "Wiesenstraße",
+        "amenity": "fuel",
+        "brand": "Total",
+        "drink:club-mate": "retail",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.593138,
+              50.9328416
+            ],
+            [
+              11.5931174,
+              50.9328078
+            ],
+            [
+              11.5932514,
+              50.9325583
+            ],
+            [
+              11.5941732,
+              50.932735
+            ],
+            [
+              11.5940309,
+              50.9330261
+            ],
+            [
+              11.593437,
+              50.9329144
+            ],
+            [
+              11.593204,
+              50.932865
+            ],
+            [
+              11.593138,
+              50.9328416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255697948",
+      "properties": {
+        "@id": "way/255697948",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Göschwitzer Straße",
+        "addr:suburb": "Burgau",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Total",
+        "operator": "Total",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5932591,
+              50.8981234
+            ],
+            [
+              11.5934417,
+              50.8981215
+            ],
+            [
+              11.5934371,
+              50.8979466
+            ],
+            [
+              11.5932545,
+              50.8979486
+            ],
+            [
+              11.5932575,
+              50.8980619
+            ],
+            [
+              11.5932591,
+              50.8981234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262422342",
+      "properties": {
+        "@id": "way/262422342",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "07749",
+        "addr:street": "Stadtrodaer Straße",
+        "amenity": "fuel",
+        "brand": "ARAL",
+        "building": "yes",
+        "contact:email": "simone.hoffmann@tankstelle.de",
+        "contact:fax": "0049 (0) 3641-336831",
+        "contact:phone": "0049 (0) 3641-394893",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "no",
+        "fuel:adblue": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_102": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "no",
+        "opening_hours": "24/7",
+        "operator": "Simone Hoffmann",
+        "parking:hgv": "no",
+        "payment:american_express": "yes",
+        "payment:aral_cardkomfort": "yes",
+        "payment:diners_club": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:routex": "yes",
+        "payment:uta": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:westfalen_card": "yes",
+        "ref": "28736300",
+        "shop": "convenience",
+        "web": "http://www.aral.de/tankstelle/28736300.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5900804,
+              50.906371
+            ],
+            [
+              11.5899244,
+              50.9062744
+            ],
+            [
+              11.5899977,
+              50.9062273
+            ],
+            [
+              11.5900239,
+              50.9062105
+            ],
+            [
+              11.5901609,
+              50.9062953
+            ],
+            [
+              11.5901799,
+              50.9063071
+            ],
+            [
+              11.5900804,
+              50.906371
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266319096",
+      "properties": {
+        "@id": "way/266319096",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "64",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "fuel",
+        "brand": "ARAL",
+        "contact:email": "thomas.oberroeder@tankstelle.de",
+        "contact:fax": "0049 (0) 3641-890961",
+        "contact:phone": "0049 (0) 3641-424000",
+        "currency:EUR": "yes",
+        "drink:club-mate": "retail",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "no",
+        "fuel:adblue": "no",
+        "fuel:octane_102": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "no",
+        "name": "Aral",
+        "opening_hours": "24/7",
+        "operator": "Thomas Oberröder",
+        "parking:hgv": "no",
+        "payment:american_express": "yes",
+        "payment:aral_cardkomfort": "yes",
+        "payment:diners_club": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:routex": "yes",
+        "payment:uta": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:westfalen_card": "yes",
+        "ref": "27005100",
+        "shop": "convenience",
+        "web": "http://www.aral.de/tankstelle/27005100.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5978723,
+              50.9430211
+            ],
+            [
+              11.5969761,
+              50.9425084
+            ],
+            [
+              11.5974136,
+              50.9423166
+            ],
+            [
+              11.5977116,
+              50.9422407
+            ],
+            [
+              11.5983985,
+              50.9426482
+            ],
+            [
+              11.5982865,
+              50.9427787
+            ],
+            [
+              11.5978723,
+              50.9430211
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

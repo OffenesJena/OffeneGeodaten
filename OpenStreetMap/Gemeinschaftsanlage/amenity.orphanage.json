@@ -1,0 +1,87 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 49345422,
+      "nodes": [
+        626772073,
+        626772091,
+        626772098,
+        626772109,
+        626772125,
+        626772144,
+        626772163,
+        626772179,
+        626772073
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "07745",
+        "addr:street": "Am Friedensberg",
+        "amenity": "orphanage",
+        "building": "yes",
+        "name": "Kinder- und Jugendheim \"Am Friedensberg\"",
+        "operator": "Trägerwerk Soziale Dienste in Thüringen GmbH",
+        "social_facility": "group_home",
+        "social_facility:for": "child"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626772073,
+      "lat": 50.9269634,
+      "lon": 11.5693608
+    },
+    {
+      "type": "node",
+      "id": 626772091,
+      "lat": 50.9268855,
+      "lon": 11.5691373
+    },
+    {
+      "type": "node",
+      "id": 626772098,
+      "lat": 50.926767,
+      "lon": 11.5692413
+    },
+    {
+      "type": "node",
+      "id": 626772109,
+      "lat": 50.9267911,
+      "lon": 11.5693102
+    },
+    {
+      "type": "node",
+      "id": 626772125,
+      "lat": 50.9267398,
+      "lon": 11.5693552
+    },
+    {
+      "type": "node",
+      "id": 626772144,
+      "lat": 50.926724,
+      "lon": 11.5693099
+    },
+    {
+      "type": "node",
+      "id": 626772163,
+      "lat": 50.9266753,
+      "lon": 11.5693527
+    },
+    {
+      "type": "node",
+      "id": 626772179,
+      "lat": 50.926745,
+      "lon": 11.5695526
+    }
+  ]
+}

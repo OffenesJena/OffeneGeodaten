@@ -1,0 +1,136 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 565552591,
+      "lat": 50.9262331,
+      "lon": 11.5832075,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "07743",
+        "addr:street": "Engelplatz",
+        "amenity": "doctors",
+        "name": "Ringelmann Wendenburg Kinderarzt",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626491110,
+      "lat": 50.9312852,
+      "lon": 11.5753658,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr. Gneist",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 637041636,
+      "lat": 50.9232431,
+      "lon": 11.5766975,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 637041846,
+      "lat": 50.9220291,
+      "lon": 11.5736398,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 637042837,
+      "lat": 50.9213359,
+      "lon": 11.570228,
+      "tags": {
+        "amenity": "doctors",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1442220314,
+      "lat": 50.9471375,
+      "lon": 11.604588,
+      "tags": {
+        "amenity": "doctors",
+        "emergency": "no",
+        "name": "Kinderarztpraxis",
+        "office": "physician",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2609389738,
+      "lat": 50.8864702,
+      "lon": 11.6192143,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Kassenärztlicher Notdienst"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130997084,
+      "nodes": [
+        1442223184,
+        1442223186,
+        1442223185,
+        1442223187,
+        1442223184
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "20",
+        "addr:postcode": "07743",
+        "addr:street": "Zeitzer Straße",
+        "amenity": "doctors",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:website": "http://www.nuklearmedizin-jena.de",
+        "name": "Radiologische Praxis Jena Nord",
+        "office": "physician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1442223186,
+      "lat": 50.9478808,
+      "lon": 11.6054746
+    },
+    {
+      "type": "node",
+      "id": 1442223184,
+      "lat": 50.9479999,
+      "lon": 11.6052833
+    },
+    {
+      "type": "node",
+      "id": 1442223185,
+      "lat": 50.9475928,
+      "lon": 11.6050159
+    },
+    {
+      "type": "node",
+      "id": 1442223187,
+      "lat": 50.9477166,
+      "lon": 11.6048361
+    }
+  ]
+}

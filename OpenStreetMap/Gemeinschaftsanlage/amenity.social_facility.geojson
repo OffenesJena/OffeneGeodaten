@@ -1,0 +1,382 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:37.467Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1683829594",
+      "properties": {
+        "@id": "node/1683829594",
+        "amenity": "social_facility",
+        "name": "Volkssolidarität",
+        "operator": "VOLKSSOLIDATITÄT Regionalverband Ostthüringen e.V.",
+        "social_facility": "ambulatory_care",
+        "social_facility:for": "disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763384,
+          50.9008195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444575565",
+      "properties": {
+        "@id": "node/2444575565",
+        "addr:city": "Jena",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "social_facility",
+        "name": "Betreuerbüro Klingberg",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5843964,
+          50.9246789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2726165185",
+      "properties": {
+        "@id": "node/2726165185",
+        "amenity": "social_facility",
+        "contact:email": "tafelhaus@jenaertafel.de",
+        "contact:fax": "03641 - 33 69 21",
+        "contact:phone": "03641 - 33 69 20",
+        "contact:website": "http://jenaertafel.de",
+        "name": "Jenaer Tafel",
+        "opening_hours": "Mo-Fr 07:30-18:00",
+        "operator": "Jenaer Tafel",
+        "shop": "supermarket",
+        "social_facility": "food_bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6118758,
+          50.882021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727274061",
+      "properties": {
+        "@id": "node/2727274061",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7-13",
+        "addr:postcode": "07745",
+        "addr:street": "Max-Steenbeck-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "social_facility",
+        "contact:website": "http://advita.de/standorte/jena/",
+        "name": "Advita",
+        "social_facility": "ambulatory_care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5764559,
+          50.9016911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3049343158",
+      "properties": {
+        "@id": "node/3049343158",
+        "addr:city": "Jena",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Neugasse",
+        "amenity": "social_facility",
+        "club": "social",
+        "contact:email": "kontakt@tausendtaten.de",
+        "contact:facebook": "https://www.facebook.com/tausendtaten",
+        "contact:fax": "+49 3641 3096186",
+        "contact:phone": "+49 3641 9264171",
+        "contact:website": "http://www.tausendtaten.de",
+        "name": "Tausend Taten e.V.",
+        "office": "club",
+        "social_facility": "outreach",
+        "social_facility:for": "child;juvenile;senior",
+        "wheelchair": "limited",
+        "wheelchair:description": "Es muss eine kleine Stufe überwunden werden und auf einem kleinen Podest um 90% gewendet werden, um den Versammlungsraum zu erreichen. Weitere Büroräume nur über Treppen zu erreichen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5844174,
+          50.9247048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255128357",
+      "properties": {
+        "@id": "way/255128357",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "07743",
+        "addr:street": "Am Flutgraben",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Saale Betreuungswerk der Lebenshilfe Jena gGmbH",
+        "operator": "Saale Betreuungswerk der Lebenshilfe Jena gGmbH",
+        "social_facility": "workshop",
+        "social_facility:for": "disabled person",
+        "website": "http://www.sbw-jena.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6267033,
+              50.9594672
+            ],
+            [
+              11.6269401,
+              50.959739
+            ],
+            [
+              11.6264893,
+              50.9598949
+            ],
+            [
+              11.626685,
+              50.9601194
+            ],
+            [
+              11.6266207,
+              50.9601416
+            ],
+            [
+              11.6266364,
+              50.9601597
+            ],
+            [
+              11.6265752,
+              50.9601809
+            ],
+            [
+              11.6266378,
+              50.9602528
+            ],
+            [
+              11.627145,
+              50.9600774
+            ],
+            [
+              11.6270821,
+              50.9600052
+            ],
+            [
+              11.6271521,
+              50.959981
+            ],
+            [
+              11.627389,
+              50.9602528
+            ],
+            [
+              11.6272937,
+              50.9602858
+            ],
+            [
+              11.6272223,
+              50.9602039
+            ],
+            [
+              11.6268702,
+              50.9603256
+            ],
+            [
+              11.6269839,
+              50.960456
+            ],
+            [
+              11.62734,
+              50.9603328
+            ],
+            [
+              11.6273202,
+              50.9603101
+            ],
+            [
+              11.6274186,
+              50.960276
+            ],
+            [
+              11.6274362,
+              50.9602963
+            ],
+            [
+              11.6276375,
+              50.9602267
+            ],
+            [
+              11.6273567,
+              50.9599046
+            ],
+            [
+              11.627724,
+              50.9597776
+            ],
+            [
+              11.6276181,
+              50.959656
+            ],
+            [
+              11.6272441,
+              50.9597854
+            ],
+            [
+              11.6272037,
+              50.9597389
+            ],
+            [
+              11.6273549,
+              50.9596867
+            ],
+            [
+              11.6271865,
+              50.9594935
+            ],
+            [
+              11.6271739,
+              50.9594978
+            ],
+            [
+              11.6270717,
+              50.9593806
+            ],
+            [
+              11.6270254,
+              50.9593966
+            ],
+            [
+              11.6269813,
+              50.9593461
+            ],
+            [
+              11.6268706,
+              50.9593844
+            ],
+            [
+              11.6268873,
+              50.9594036
+            ],
+            [
+              11.6267033,
+              50.9594672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256807143",
+      "properties": {
+        "@id": "way/256807143",
+        "addr:city": "Jena",
+        "addr:housenumber": "11",
+        "addr:postcode": "07745",
+        "addr:street": "Am Herrenberge",
+        "amenity": "social_facility",
+        "building": "apartments",
+        "name": "Gästehaus Am Herrenberge 11",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "social_facility": "group_home"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5585109,
+              50.913992
+            ],
+            [
+              11.558838,
+              50.9139788
+            ],
+            [
+              11.5591651,
+              50.9139655
+            ],
+            [
+              11.5591506,
+              50.9138231
+            ],
+            [
+              11.5584964,
+              50.9138496
+            ],
+            [
+              11.5585109,
+              50.913992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312674880",
+      "properties": {
+        "@id": "way/312674880",
+        "addr:city": "Jena",
+        "addr:housenumber": "32",
+        "addr:postcode": "07745",
+        "addr:street": "Emma-Heintz-Straße",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Häusliche Krankenpflege Martina Blech",
+        "website": "http://www.seniorenhaus-jena.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5708816,
+              50.9109754
+            ],
+            [
+              11.5707032,
+              50.911016
+            ],
+            [
+              11.5707984,
+              50.9111825
+            ],
+            [
+              11.5709768,
+              50.911142
+            ],
+            [
+              11.5708816,
+              50.9109754
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

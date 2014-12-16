@@ -1,0 +1,3049 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:32.556Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/442559680",
+      "properties": {
+        "@id": "node/442559680",
+        "amenity": "school",
+        "name": "Schullandheim \"Stern\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5558473,
+          50.9302873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/655146742",
+      "properties": {
+        "@id": "node/655146742",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "07749",
+        "addr:street": "Jenzigweg",
+        "amenity": "school",
+        "contact:phone": "03641 880050",
+        "contact:website": "http://www.leonardo-jena.de",
+        "name": "Freie Ganztagsschule Leonardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6057231,
+          50.9347088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1151738389",
+      "properties": {
+        "@id": "node/1151738389",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07745",
+        "addr:street": "Döbereinerstraße",
+        "amenity": "school",
+        "contact:website": "http://www.suedschule.jena.de/",
+        "name": "Südschule"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5679498,
+          50.9214152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727044011",
+      "properties": {
+        "@id": "node/2727044011",
+        "amenity": "school",
+        "contact:website": "http://www.jenaplan-schule-jena.de",
+        "name": "Jenaplan-Schule"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5689529,
+          50.9217086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26253582",
+      "properties": {
+        "@id": "way/26253582",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "31",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "alt_name": "4. Staatliche Grundschule \"Nordschule Jena\"",
+        "amenity": "school",
+        "contact:email": "nordschule-jena@t-online.de",
+        "contact:phone": "+49 3641 425007",
+        "contact:website": "http://www.nordschule.jena.de",
+        "name": "Nordschule",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5885657,
+              50.9382826
+            ],
+            [
+              11.5884205,
+              50.9383631
+            ],
+            [
+              11.5881145,
+              50.9385939
+            ],
+            [
+              11.5880111,
+              50.9388491
+            ],
+            [
+              11.5880499,
+              50.9391098
+            ],
+            [
+              11.5882266,
+              50.9393514
+            ],
+            [
+              11.5885497,
+              50.9396311
+            ],
+            [
+              11.5896286,
+              50.9392145
+            ],
+            [
+              11.5891691,
+              50.9387135
+            ],
+            [
+              11.5888386,
+              50.9383409
+            ],
+            [
+              11.5887145,
+              50.938213
+            ],
+            [
+              11.5885657,
+              50.9382826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26380481",
+      "properties": {
+        "@id": "way/26380481",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "contact:fax": "+49 3641 3379-33",
+        "contact:phone": "+49 3641 3379-0",
+        "contact:website": "http://www.osg.jena.de",
+        "name": "Otto Schott-Gymnasium",
+        "ref": "OSG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6032658,
+              50.8830072
+            ],
+            [
+              11.601726,
+              50.8822871
+            ],
+            [
+              11.6016665,
+              50.8823358
+            ],
+            [
+              11.6015371,
+              50.882337
+            ],
+            [
+              11.6014364,
+              50.8823061
+            ],
+            [
+              11.6011572,
+              50.8826112
+            ],
+            [
+              11.6028156,
+              50.8833951
+            ],
+            [
+              11.6032658,
+              50.8830072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26585769",
+      "properties": {
+        "@id": "way/26585769",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "August-Bebel-Straße",
+        "amenity": "school",
+        "contact:website": "http://www.igsjena.de",
+        "name": "Grete-Unrein-Schule",
+        "ref": "IGS",
+        "wheelchair": "yes",
+        "wheelchair:description": "Fahrstuhl vorhanden",
+        "wikipedia:de": "Integrierte Gesamtschule „Grete Unrein“ Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5790016,
+              50.9311723
+            ],
+            [
+              11.5794306,
+              50.9310681
+            ],
+            [
+              11.5796783,
+              50.9310031
+            ],
+            [
+              11.5794266,
+              50.9306441
+            ],
+            [
+              11.5790174,
+              50.929947
+            ],
+            [
+              11.5784763,
+              50.9300621
+            ],
+            [
+              11.5787169,
+              50.9305029
+            ],
+            [
+              11.5782926,
+              50.9305872
+            ],
+            [
+              11.5785033,
+              50.9309941
+            ],
+            [
+              11.5788509,
+              50.9309355
+            ],
+            [
+              11.5790016,
+              50.9311723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27282366",
+      "properties": {
+        "@id": "way/27282366",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Erich-Kuithan-Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "spezi@cz.j.th.schule.de",
+        "contact:fax": "+49 3641 426127",
+        "contact:phone": "+49 3641 424244",
+        "contact:website": "http://carl-zeiss-gymnasium.de",
+        "name": "Carl-Zeiss-Gymnasium",
+        "name:fr": "Lycée Carl-Zeiss",
+        "wikidata": "Q315430",
+        "wikipedia": "de:Carl-Zeiss-Gymnasium Jena",
+        "wikipedia:de": "Carl-Zeiss-Gymnasium Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6086243,
+              50.9520851
+            ],
+            [
+              11.6088722,
+              50.9519535
+            ],
+            [
+              11.6088784,
+              50.9519581
+            ],
+            [
+              11.6089001,
+              50.9519466
+            ],
+            [
+              11.6088872,
+              50.951937
+            ],
+            [
+              11.6090288,
+              50.9518618
+            ],
+            [
+              11.6098103,
+              50.9524462
+            ],
+            [
+              11.6091733,
+              50.9527843
+            ],
+            [
+              11.6090601,
+              50.9526996
+            ],
+            [
+              11.6093412,
+              50.9525504
+            ],
+            [
+              11.6093608,
+              50.952565
+            ],
+            [
+              11.6095718,
+              50.952453
+            ],
+            [
+              11.6093614,
+              50.9522956
+            ],
+            [
+              11.6093345,
+              50.9523099
+            ],
+            [
+              11.6091707,
+              50.9521874
+            ],
+            [
+              11.6092057,
+              50.9521689
+            ],
+            [
+              11.6090422,
+              50.9520466
+            ],
+            [
+              11.6087661,
+              50.9521932
+            ],
+            [
+              11.6087338,
+              50.952169
+            ],
+            [
+              11.6087074,
+              50.9521831
+            ],
+            [
+              11.6087394,
+              50.952207
+            ],
+            [
+              11.6085675,
+              50.9522982
+            ],
+            [
+              11.608204,
+              50.9520265
+            ],
+            [
+              11.6082118,
+              50.9520223
+            ],
+            [
+              11.6081352,
+              50.9519651
+            ],
+            [
+              11.6083013,
+              50.9518769
+            ],
+            [
+              11.608616,
+              50.9521122
+            ],
+            [
+              11.6086421,
+              50.9520984
+            ],
+            [
+              11.6086243,
+              50.9520851
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30742328",
+      "properties": {
+        "@id": "way/30742328",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "07743",
+        "addr:street": "August-Bebel-Straße",
+        "alt_name": "7. Staatliche Grundschule \"Westschule\"",
+        "amenity": "school",
+        "contact:website": "http://www.westschule.jena.de",
+        "name": "Westschule",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5732527,
+              50.9315866
+            ],
+            [
+              11.5741968,
+              50.9312999
+            ],
+            [
+              11.5740252,
+              50.9310403
+            ],
+            [
+              11.5730724,
+              50.9313324
+            ],
+            [
+              11.5732527,
+              50.9315866
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31526020",
+      "properties": {
+        "@id": "way/31526020",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "87",
+        "addr:postcode": "07749",
+        "addr:street": "Karl-Liebknecht-Straße",
+        "amenity": "school",
+        "name": "Angergymnasium",
+        "wikipedia:de": "Angergymnasium (Jena)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6058328,
+              50.9327809
+            ],
+            [
+              11.6051519,
+              50.9329956
+            ],
+            [
+              11.6057632,
+              50.933809
+            ],
+            [
+              11.6061892,
+              50.9338868
+            ],
+            [
+              11.6067024,
+              50.9338553
+            ],
+            [
+              11.6062431,
+              50.9332993
+            ],
+            [
+              11.6058328,
+              50.9327809
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37394386",
+      "properties": {
+        "@id": "way/37394386",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "07743",
+        "addr:street": "Grietgasse",
+        "amenity": "school",
+        "building": "school",
+        "contact:phone": "+49 3641 498200",
+        "contact:website": "http://www.vhs-jena.de/",
+        "name": "Volkshochschule",
+        "opening_hours": "Mo 09:00-16:00; Tu 09:00-18:00;We 09:00-16:00; Th 09:00-18:00; Fr 09:00-12:00",
+        "ref": "VHS",
+        "wikipedia:de": "Volkshochschule Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5858817,
+              50.9257677
+            ],
+            [
+              11.5858553,
+              50.9256526
+            ],
+            [
+              11.5859571,
+              50.9256433
+            ],
+            [
+              11.5859527,
+              50.9256242
+            ],
+            [
+              11.5860734,
+              50.9256132
+            ],
+            [
+              11.5861041,
+              50.9257473
+            ],
+            [
+              11.5858817,
+              50.9257677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45404272",
+      "properties": {
+        "@id": "way/45404272",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Hugo-Schrade-Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:website": "http://www.eag.jena.de",
+        "name": "Ernst-Abbe-Gymnasium",
+        "ref": "EAG",
+        "wheelchair": "no",
+        "wikipedia:de": "Ernst-Abbe-Gymnasium Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5742642,
+              50.8964566
+            ],
+            [
+              11.5739802,
+              50.8969474
+            ],
+            [
+              11.5738695,
+              50.8969219
+            ],
+            [
+              11.5740033,
+              50.8966906
+            ],
+            [
+              11.5738448,
+              50.8966541
+            ],
+            [
+              11.5737863,
+              50.8967553
+            ],
+            [
+              11.5735996,
+              50.8967123
+            ],
+            [
+              11.5737444,
+              50.896462
+            ],
+            [
+              11.5739352,
+              50.8965059
+            ],
+            [
+              11.5738871,
+              50.896589
+            ],
+            [
+              11.5740494,
+              50.8966264
+            ],
+            [
+              11.5741613,
+              50.8964329
+            ],
+            [
+              11.5742642,
+              50.8964566
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47072047",
+      "properties": {
+        "@id": "way/47072047",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07745",
+        "addr:street": "Hugo-Schrade-Straße",
+        "alt_name": "Europaschule \"Friedrich Schiller\"",
+        "amenity": "school",
+        "building": "school",
+        "contact:fax": "0 36 41 / 67 30 03",
+        "contact:phone": "0 36 41 / 60 82 32",
+        "contact:website": "http://www.schillerschule-jena.de",
+        "name": "Staatliche Grundschule \"Friedrich Schiller\"",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5737649,
+              50.8970985
+            ],
+            [
+              11.573478,
+              50.8975912
+            ],
+            [
+              11.5733539,
+              50.8975625
+            ],
+            [
+              11.5734854,
+              50.8973367
+            ],
+            [
+              11.5733328,
+              50.8973013
+            ],
+            [
+              11.5732812,
+              50.8973899
+            ],
+            [
+              11.5730952,
+              50.8973468
+            ],
+            [
+              11.5732431,
+              50.8970928
+            ],
+            [
+              11.5734306,
+              50.8971363
+            ],
+            [
+              11.573378,
+              50.8972266
+            ],
+            [
+              11.5735276,
+              50.8972612
+            ],
+            [
+              11.5736393,
+              50.8970694
+            ],
+            [
+              11.5737649,
+              50.8970985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49996714",
+      "properties": {
+        "@id": "way/49996714",
+        "addr:city": "Jena",
+        "addr:housenumber": "40",
+        "addr:postcode": "07749",
+        "addr:street": "Wöllnitzer Straße",
+        "amenity": "school",
+        "name": "GutsMuths Sportgymnasium Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5886485,
+              50.9145223
+            ],
+            [
+              11.5875542,
+              50.9148706
+            ],
+            [
+              11.5893492,
+              50.9172272
+            ],
+            [
+              11.5905095,
+              50.9169619
+            ],
+            [
+              11.5919033,
+              50.9167282
+            ],
+            [
+              11.5918833,
+              50.9166564
+            ],
+            [
+              11.5914326,
+              50.9160983
+            ],
+            [
+              11.5909219,
+              50.9155084
+            ],
+            [
+              11.5905153,
+              50.9152359
+            ],
+            [
+              11.5897697,
+              50.9148673
+            ],
+            [
+              11.5894481,
+              50.9145894
+            ],
+            [
+              11.5893778,
+              50.914518
+            ],
+            [
+              11.5887933,
+              50.9147083
+            ],
+            [
+              11.5886485,
+              50.9145223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51196510",
+      "properties": {
+        "@id": "way/51196510",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Unter der Lobdeburg",
+        "addr:suburb": "Lobeda",
+        "amenity": "school",
+        "contact:email": "sekretariat@lobdeburgschule.de",
+        "contact:facebook": "https://www.facebook.com/Lobdeburgschule",
+        "contact:fax": "+49 3641 380026",
+        "contact:foursquare": "https://de.foursquare.com/v/lobdeburgschule/536b21ad498ef79e61eb1ab7",
+        "contact:google_plus": "https://plus.google.com/117902680412349784667",
+        "contact:phone": "+49 3641 331148",
+        "contact:website": "http://www.lobdeburgschule.de",
+        "name": "Lobdeburgschule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6127053,
+              50.8917445
+            ],
+            [
+              11.6134036,
+              50.8916291
+            ],
+            [
+              11.6141288,
+              50.8915093
+            ],
+            [
+              11.613863,
+              50.8907842
+            ],
+            [
+              11.6139229,
+              50.8907864
+            ],
+            [
+              11.6140051,
+              50.8907818
+            ],
+            [
+              11.6152346,
+              50.8902209
+            ],
+            [
+              11.6148475,
+              50.8898031
+            ],
+            [
+              11.6144729,
+              50.8899785
+            ],
+            [
+              11.6139708,
+              50.8901683
+            ],
+            [
+              11.6136752,
+              50.890251
+            ],
+            [
+              11.6136296,
+              50.8902079
+            ],
+            [
+              11.6128316,
+              50.8904628
+            ],
+            [
+              11.6123436,
+              50.8906187
+            ],
+            [
+              11.6122786,
+              50.8906395
+            ],
+            [
+              11.6124843,
+              50.891218
+            ],
+            [
+              11.6127053,
+              50.8917445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51203237",
+      "properties": {
+        "@id": "way/51203237",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "amenity": "school",
+        "contact:email": "kastanienschule@t-online.de",
+        "contact:fax": "+49 3641 334017",
+        "contact:phone": "+49 3641 331547",
+        "contact:website": "http://www.kastanienschule.de/",
+        "name": "Kastanienschule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6024289,
+              50.8837399
+            ],
+            [
+              11.6028156,
+              50.8833951
+            ],
+            [
+              11.6011572,
+              50.8826112
+            ],
+            [
+              11.6009944,
+              50.8827847
+            ],
+            [
+              11.6021033,
+              50.8837093
+            ],
+            [
+              11.6022137,
+              50.8836238
+            ],
+            [
+              11.6024289,
+              50.8837399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51337806",
+      "properties": {
+        "@id": "way/51337806",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Friedrich-Wolf-Straße",
+        "amenity": "school",
+        "contact:fax": "03641 489793",
+        "contact:phone": "03641 424323",
+        "contact:website": "http://www.montessorischule.jena.de",
+        "name": "Ganztagsschule \"Maria Montessori\"",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5981972,
+              50.9451087
+            ],
+            [
+              11.5982831,
+              50.9451932
+            ],
+            [
+              11.5985057,
+              50.9453994
+            ],
+            [
+              11.5991567,
+              50.9456584
+            ],
+            [
+              11.5997336,
+              50.9454006
+            ],
+            [
+              11.6001697,
+              50.9452027
+            ],
+            [
+              11.6012535,
+              50.9447325
+            ],
+            [
+              11.6006463,
+              50.9445333
+            ],
+            [
+              11.5997699,
+              50.9442459
+            ],
+            [
+              11.5992182,
+              50.9446761
+            ],
+            [
+              11.5987069,
+              50.9444181
+            ],
+            [
+              11.5988334,
+              50.944319
+            ],
+            [
+              11.5989975,
+              50.9441866
+            ],
+            [
+              11.5988483,
+              50.9441106
+            ],
+            [
+              11.5985392,
+              50.9443529
+            ],
+            [
+              11.5983242,
+              50.9442532
+            ],
+            [
+              11.5978915,
+              50.9445494
+            ],
+            [
+              11.5976983,
+              50.9446964
+            ],
+            [
+              11.5981972,
+              50.9451087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51337807",
+      "properties": {
+        "@id": "way/51337807",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Friedrich-Wolf-Straße",
+        "amenity": "school",
+        "contact:email": "schule-regen@versanet.de",
+        "contact:fax": "+49-3641-336838",
+        "contact:phone": "+49-3641-331950",
+        "contact:website": "http://www.regenbogenschule.jena.de",
+        "name": "Regenbogenschule",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5984136,
+              50.9441828
+            ],
+            [
+              11.5983242,
+              50.9442532
+            ],
+            [
+              11.5985392,
+              50.9443529
+            ],
+            [
+              11.5988483,
+              50.9441106
+            ],
+            [
+              11.5989975,
+              50.9441866
+            ],
+            [
+              11.5988334,
+              50.944319
+            ],
+            [
+              11.5987069,
+              50.9444181
+            ],
+            [
+              11.5992182,
+              50.9446761
+            ],
+            [
+              11.5997699,
+              50.9442459
+            ],
+            [
+              11.5995862,
+              50.9441824
+            ],
+            [
+              11.598811,
+              50.94387
+            ],
+            [
+              11.5984136,
+              50.9441828
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55242153",
+      "properties": {
+        "@id": "way/55242153",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5555371,
+              50.9304777
+            ],
+            [
+              11.5555485,
+              50.9305624
+            ],
+            [
+              11.5555562,
+              50.9306226
+            ],
+            [
+              11.5557122,
+              50.9306095
+            ],
+            [
+              11.5560748,
+              50.9305929
+            ],
+            [
+              11.5561243,
+              50.9305752
+            ],
+            [
+              11.5561295,
+              50.9304939
+            ],
+            [
+              11.5561291,
+              50.9304311
+            ],
+            [
+              11.5560363,
+              50.9304401
+            ],
+            [
+              11.5560272,
+              50.9304786
+            ],
+            [
+              11.5556926,
+              50.9305042
+            ],
+            [
+              11.555681,
+              50.9304628
+            ],
+            [
+              11.5555371,
+              50.9304777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56068763",
+      "properties": {
+        "@id": "way/56068763",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:postcode": "07749",
+        "addr:street": "Dammstraße",
+        "amenity": "school",
+        "contact:email": "info@dualingo.de",
+        "contact:fax": "03641-221047",
+        "contact:phone": "03641-219945",
+        "contact:website": "http://www.dualingo.de",
+        "name": "Bilinguale Ganztagsgrundschule Dualingo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5987562,
+              50.9362662
+            ],
+            [
+              11.5988815,
+              50.9361545
+            ],
+            [
+              11.5991599,
+              50.9360116
+            ],
+            [
+              11.5992646,
+              50.9359734
+            ],
+            [
+              11.5993444,
+              50.935925
+            ],
+            [
+              11.5993589,
+              50.935888
+            ],
+            [
+              11.5993311,
+              50.9358488
+            ],
+            [
+              11.5992364,
+              50.9357883
+            ],
+            [
+              11.5990058,
+              50.9357155
+            ],
+            [
+              11.5985685,
+              50.9356121
+            ],
+            [
+              11.5984012,
+              50.9355503
+            ],
+            [
+              11.5982173,
+              50.9354582
+            ],
+            [
+              11.5980503,
+              50.9354555
+            ],
+            [
+              11.597952,
+              50.9354366
+            ],
+            [
+              11.5978812,
+              50.9354439
+            ],
+            [
+              11.597842,
+              50.9354733
+            ],
+            [
+              11.5978369,
+              50.9355175
+            ],
+            [
+              11.5981141,
+              50.9358312
+            ],
+            [
+              11.5985129,
+              50.9361523
+            ],
+            [
+              11.5987562,
+              50.9362662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56455717",
+      "properties": {
+        "@id": "way/56455717",
+        "amenity": "school",
+        "building": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6057376,
+              50.9349838
+            ],
+            [
+              11.6056179,
+              50.9349238
+            ],
+            [
+              11.6057892,
+              50.9347935
+            ],
+            [
+              11.6058001,
+              50.9348122
+            ],
+            [
+              11.6059215,
+              50.934774
+            ],
+            [
+              11.6058737,
+              50.9347163
+            ],
+            [
+              11.6059303,
+              50.9346951
+            ],
+            [
+              11.6058552,
+              50.9345987
+            ],
+            [
+              11.6053937,
+              50.9347431
+            ],
+            [
+              11.605316,
+              50.9346362
+            ],
+            [
+              11.6051188,
+              50.9346935
+            ],
+            [
+              11.6052629,
+              50.9348879
+            ],
+            [
+              11.6052736,
+              50.9348859
+            ],
+            [
+              11.6053311,
+              50.9349453
+            ],
+            [
+              11.6053248,
+              50.9349509
+            ],
+            [
+              11.6055966,
+              50.9350879
+            ],
+            [
+              11.6057376,
+              50.9349838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139266096",
+      "properties": {
+        "@id": "way/139266096",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "95",
+        "addr:postcode": "07745",
+        "addr:street": "Rudolstädter Straße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "school",
+        "contact:email": "schulleiter@sbsz-jena.de",
+        "contact:facebook": "https://www.facebook.com/SBSZJena",
+        "contact:fax": "+49 3641 294688",
+        "contact:google_plus": "https://plus.google.com/108565239143698399490/",
+        "contact:phone": "+49 3641 294612",
+        "contact:website": "http://www.sbsz-jena.de/",
+        "name": "Staatliches Berufsbildendes Schulzentrum Jena-Göschwitz",
+        "short_name": "SBSZ Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5889696,
+              50.884013
+            ],
+            [
+              11.5896417,
+              50.882935
+            ],
+            [
+              11.5901964,
+              50.8827249
+            ],
+            [
+              11.5906985,
+              50.882273
+            ],
+            [
+              11.5912849,
+              50.8819177
+            ],
+            [
+              11.5928126,
+              50.8820569
+            ],
+            [
+              11.5923218,
+              50.8842967
+            ],
+            [
+              11.5908399,
+              50.8841847
+            ],
+            [
+              11.589643,
+              50.8840943
+            ],
+            [
+              11.5889696,
+              50.884013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153576878",
+      "properties": {
+        "@id": "way/153576878",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Paradiesschule",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Paradiesstraße",
+        "alt_name": "SBSZ Wirtschaft & Verwaltung Karl-Volkmar-Stoy",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "mail@stoyschule.de",
+        "contact:fax": "+49 3641 453610",
+        "contact:google_plus": "https://plus.google.com/113431006197049695032/",
+        "contact:phone": "+49 3641 45360",
+        "contact:website": "http://www.stoyschule.de",
+        "name": "Karl-Volkmar-Stoy-Schule",
+        "reg_name": "Paradiesschule",
+        "type": "multipolygon",
+        "wheelchair": "no",
+        "wikipedia": "de:Karl-Volkmar-Stoy-Schule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5900114,
+              50.9258141
+            ],
+            [
+              11.5900112,
+              50.9258215
+            ],
+            [
+              11.5900088,
+              50.9258913
+            ],
+            [
+              11.5900768,
+              50.9258922
+            ],
+            [
+              11.5900754,
+              50.925933
+            ],
+            [
+              11.5901663,
+              50.9259342
+            ],
+            [
+              11.5901639,
+              50.9260045
+            ],
+            [
+              11.5899991,
+              50.9260023
+            ],
+            [
+              11.589997,
+              50.9260645
+            ],
+            [
+              11.5900269,
+              50.9260649
+            ],
+            [
+              11.5900264,
+              50.926078
+            ],
+            [
+              11.5901343,
+              50.9260794
+            ],
+            [
+              11.590135,
+              50.92606
+            ],
+            [
+              11.5902573,
+              50.9260616
+            ],
+            [
+              11.5902498,
+              50.926286
+            ],
+            [
+              11.5901107,
+              50.9262841
+            ],
+            [
+              11.5901116,
+              50.9262599
+            ],
+            [
+              11.5900627,
+              50.9262592
+            ],
+            [
+              11.5900219,
+              50.9262587
+            ],
+            [
+              11.5900213,
+              50.9262759
+            ],
+            [
+              11.5896679,
+              50.9262711
+            ],
+            [
+              11.5896683,
+              50.9262596
+            ],
+            [
+              11.5896184,
+              50.9262589
+            ],
+            [
+              11.5895715,
+              50.9262583
+            ],
+            [
+              11.5895708,
+              50.9262795
+            ],
+            [
+              11.589434,
+              50.9262776
+            ],
+            [
+              11.5894415,
+              50.9260546
+            ],
+            [
+              11.5895667,
+              50.9260563
+            ],
+            [
+              11.589566,
+              50.9260781
+            ],
+            [
+              11.589666,
+              50.9260794
+            ],
+            [
+              11.5896676,
+              50.9260317
+            ],
+            [
+              11.5896688,
+              50.9259973
+            ],
+            [
+              11.5894292,
+              50.9259941
+            ],
+            [
+              11.5894315,
+              50.9259254
+            ],
+            [
+              11.5895948,
+              50.9259276
+            ],
+            [
+              11.5895961,
+              50.9258868
+            ],
+            [
+              11.5896848,
+              50.925888
+            ],
+            [
+              11.5896875,
+              50.9258098
+            ],
+            [
+              11.5899842,
+              50.9258137
+            ],
+            [
+              11.5900114,
+              50.9258141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156118994",
+      "properties": {
+        "@id": "way/156118994",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "07749",
+        "addr:street": "Dammstraße",
+        "addr:suburb": "Wenigenjena",
+        "alt_name": "Staatliche Grundschule \"Heinrich Heine\" Jena",
+        "amenity": "school",
+        "building": "school",
+        "name": "Heinrich-Heine Grundschule",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5975126,
+              50.9345267
+            ],
+            [
+              11.5975304,
+              50.9344274
+            ],
+            [
+              11.5975515,
+              50.9344289
+            ],
+            [
+              11.5975721,
+              50.9343134
+            ],
+            [
+              11.597243,
+              50.93429
+            ],
+            [
+              11.5972315,
+              50.9343544
+            ],
+            [
+              11.5971152,
+              50.9343461
+            ],
+            [
+              11.5972022,
+              50.933859
+            ],
+            [
+              11.5973301,
+              50.9338681
+            ],
+            [
+              11.5973188,
+              50.9339314
+            ],
+            [
+              11.597648,
+              50.9339549
+            ],
+            [
+              11.597664,
+              50.9338654
+            ],
+            [
+              11.5977816,
+              50.9338738
+            ],
+            [
+              11.5977236,
+              50.9341986
+            ],
+            [
+              11.5977756,
+              50.9342024
+            ],
+            [
+              11.5977655,
+              50.9342593
+            ],
+            [
+              11.5977131,
+              50.9342555
+            ],
+            [
+              11.5976803,
+              50.9344392
+            ],
+            [
+              11.5977418,
+              50.9344436
+            ],
+            [
+              11.5977242,
+              50.9345418
+            ],
+            [
+              11.5975126,
+              50.9345267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162829770",
+      "properties": {
+        "@id": "way/162829770",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "07749",
+        "addr:street": "Ziegenhainer Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "mks@jena.de",
+        "contact:fax": "03641-3666-88",
+        "contact:phone": "03641-3666-10",
+        "contact:website": "www.mks.jena.de",
+        "name": "Musik- und Kunstschule",
+        "ref": "MKS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6044593,
+              50.9214133
+            ],
+            [
+              11.6053204,
+              50.9213519
+            ],
+            [
+              11.6053389,
+              50.9214558
+            ],
+            [
+              11.6044778,
+              50.9215171
+            ],
+            [
+              11.6044593,
+              50.9214133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162829771",
+      "properties": {
+        "@id": "way/162829771",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "07749",
+        "addr:street": "Ziegenhainer Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "talschule@t-online.de",
+        "contact:fax": "(03641) 394795",
+        "contact:phone": "(03641) 394787",
+        "contact:website": "http://www.talschule-jena.de",
+        "name": "Talschule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6044603,
+              50.9213407
+            ],
+            [
+              11.6047189,
+              50.9213256
+            ],
+            [
+              11.6046818,
+              50.9210734
+            ],
+            [
+              11.6044232,
+              50.9210886
+            ],
+            [
+              11.6044603,
+              50.9213407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173604560",
+      "properties": {
+        "@id": "way/173604560",
+        "addr:city": "Jena",
+        "addr:housenumber": "56/58",
+        "addr:postcode": "07747",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "school",
+        "contact:website": "http://www.mefa.jena.de",
+        "name": "Staatliche Berufsbildende Schule für Gesundheit und Soziales Jena",
+        "ref": "SBBS für Gesundheit und Soziales Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.629373,
+              50.8797058
+            ],
+            [
+              11.6296386,
+              50.8803456
+            ],
+            [
+              11.6326339,
+              50.8798811
+            ],
+            [
+              11.6322293,
+              50.879091
+            ],
+            [
+              11.6307258,
+              50.8791566
+            ],
+            [
+              11.6302197,
+              50.8795861
+            ],
+            [
+              11.629373,
+              50.8797058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173622068",
+      "properties": {
+        "@id": "way/173622068",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6239221,
+              50.8805941
+            ],
+            [
+              11.6229292,
+              50.8807306
+            ],
+            [
+              11.6227364,
+              50.8806737
+            ],
+            [
+              11.622539,
+              50.8802083
+            ],
+            [
+              11.6229549,
+              50.879943
+            ],
+            [
+              11.6235945,
+              50.8797372
+            ],
+            [
+              11.6239221,
+              50.8805941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173622071",
+      "properties": {
+        "@id": "way/173622071",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "school",
+        "contact:website": "http://www.kastanienschule.de/",
+        "name": "Kastanienschule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6235945,
+              50.8797372
+            ],
+            [
+              11.6239221,
+              50.8805941
+            ],
+            [
+              11.6250272,
+              50.8804365
+            ],
+            [
+              11.6251785,
+              50.879889
+            ],
+            [
+              11.6250117,
+              50.8794751
+            ],
+            [
+              11.6235945,
+              50.8797372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200857416",
+      "properties": {
+        "@id": "way/200857416",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "contact:email": "saaletalschule@jena.de",
+        "contact:fax": "+49 3641 331973",
+        "contact:phone": "+49 3641 331946",
+        "contact:website": "http://www.rodatalschule.jena.de",
+        "name": "Staatliche Grundschule \"Saaletal\""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6040505,
+              50.8845595
+            ],
+            [
+              11.6049722,
+              50.883792
+            ],
+            [
+              11.6065315,
+              50.8844918
+            ],
+            [
+              11.605582,
+              50.885299
+            ],
+            [
+              11.6040505,
+              50.8845595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204921171",
+      "properties": {
+        "@id": "way/204921171",
+        "addr:housenumber": "3",
+        "addr:postcode": "07743",
+        "addr:street": "Schreckenbachweg",
+        "amenity": "school",
+        "building": "school",
+        "name": "Staatliche Grundschule \"Schule am Rautal\""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6131034,
+              50.9538241
+            ],
+            [
+              11.6126439,
+              50.9533944
+            ],
+            [
+              11.6127742,
+              50.9533328
+            ],
+            [
+              11.6132447,
+              50.953768
+            ],
+            [
+              11.6131034,
+              50.9538241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219822648",
+      "properties": {
+        "@id": "way/219822648",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "07749",
+        "addr:street": "Ziegenhainer Straße",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6043682,
+              50.921686
+            ],
+            [
+              11.6043369,
+              50.9214709
+            ],
+            [
+              11.6043244,
+              50.9212539
+            ],
+            [
+              11.6043744,
+              50.9210724
+            ],
+            [
+              11.6045059,
+              50.9209678
+            ],
+            [
+              11.6046405,
+              50.9209067
+            ],
+            [
+              11.6049003,
+              50.9208317
+            ],
+            [
+              11.6051694,
+              50.920806
+            ],
+            [
+              11.6056139,
+              50.92081
+            ],
+            [
+              11.6058079,
+              50.9208159
+            ],
+            [
+              11.6058204,
+              50.9214986
+            ],
+            [
+              11.6053854,
+              50.9215676
+            ],
+            [
+              11.6050912,
+              50.921613
+            ],
+            [
+              11.6043682,
+              50.921686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232604752",
+      "properties": {
+        "@id": "way/232604752",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Grundschule an der Trießnitz",
+        "addr:housenumber": "34",
+        "addr:postcode": "07745",
+        "addr:street": "Buchenweg",
+        "amenity": "school",
+        "building": "school",
+        "contact:website": "http://www.integrative-grundschule.jena.de/",
+        "name": "Grundschule an der Trießnitz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5734857,
+              50.9037331
+            ],
+            [
+              11.5734173,
+              50.903483
+            ],
+            [
+              11.5735085,
+              50.9034731
+            ],
+            [
+              11.5734682,
+              50.903326
+            ],
+            [
+              11.5734045,
+              50.9033329
+            ],
+            [
+              11.5733628,
+              50.9031805
+            ],
+            [
+              11.5737397,
+              50.9031395
+            ],
+            [
+              11.5737836,
+              50.9032998
+            ],
+            [
+              11.5735672,
+              50.9033234
+            ],
+            [
+              11.5736053,
+              50.9034625
+            ],
+            [
+              11.573669,
+              50.9034556
+            ],
+            [
+              11.5737375,
+              50.9037057
+            ],
+            [
+              11.5734857,
+              50.9037331
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233729762",
+      "properties": {
+        "@id": "way/233729762",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "building": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6025213,
+              50.8829875
+            ],
+            [
+              11.6023863,
+              50.8829286
+            ],
+            [
+              11.6022832,
+              50.8828824
+            ],
+            [
+              11.6021186,
+              50.8828069
+            ],
+            [
+              11.6019141,
+              50.8829844
+            ],
+            [
+              11.6020891,
+              50.8830647
+            ],
+            [
+              11.6021768,
+              50.883104
+            ],
+            [
+              11.6023235,
+              50.883168
+            ],
+            [
+              11.6025213,
+              50.8829875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233729764",
+      "properties": {
+        "@id": "way/233729764",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "building": "school",
+        "old_name": "POS Theodor Neubauer 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6021563,
+              50.8826311
+            ],
+            [
+              11.6020806,
+              50.8826949
+            ],
+            [
+              11.6023531,
+              50.8828235
+            ],
+            [
+              11.6022832,
+              50.8828824
+            ],
+            [
+              11.6023863,
+              50.8829286
+            ],
+            [
+              11.602482,
+              50.8828481
+            ],
+            [
+              11.602749,
+              50.8829741
+            ],
+            [
+              11.6027971,
+              50.8829335
+            ],
+            [
+              11.6021563,
+              50.8826311
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233729766",
+      "properties": {
+        "@id": "way/233729766",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "building": "school",
+        "old_name": "POS Theodor Neubauer 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6016485,
+              50.8830542
+            ],
+            [
+              11.601717,
+              50.8829949
+            ],
+            [
+              11.6020128,
+              50.8831308
+            ],
+            [
+              11.6020891,
+              50.8830647
+            ],
+            [
+              11.6021768,
+              50.883104
+            ],
+            [
+              11.6021066,
+              50.8831649
+            ],
+            [
+              11.6023992,
+              50.8832994
+            ],
+            [
+              11.6023239,
+              50.8833647
+            ],
+            [
+              11.6016485,
+              50.8830542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235781566",
+      "properties": {
+        "@id": "way/235781566",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07745",
+        "addr:street": "Burgauer Weg",
+        "amenity": "school",
+        "contact:website": "http://gesamtschule.querwege.de/",
+        "name": "UniverSaale Jena Freie Gesamtschule",
+        "operator": "QuerWege e.V."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5812766,
+              50.9197354
+            ],
+            [
+              11.5826538,
+              50.9193428
+            ],
+            [
+              11.5825686,
+              50.9192423
+            ],
+            [
+              11.58125,
+              50.9188768
+            ],
+            [
+              11.5809347,
+              50.9187924
+            ],
+            [
+              11.5807502,
+              50.9188844
+            ],
+            [
+              11.5809,
+              50.9192843
+            ],
+            [
+              11.5811295,
+              50.9196411
+            ],
+            [
+              11.5812179,
+              50.9197365
+            ],
+            [
+              11.5812766,
+              50.9197354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237989566",
+      "properties": {
+        "@id": "way/237989566",
+        "amenity": "school",
+        "building": "school",
+        "name": "Dualingo Bilinguale Ganztagesschule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5985448,
+              50.9360939
+            ],
+            [
+              11.5986095,
+              50.9361278
+            ],
+            [
+              11.5985915,
+              50.9361399
+            ],
+            [
+              11.5986681,
+              50.9361829
+            ],
+            [
+              11.598795,
+              50.9360939
+            ],
+            [
+              11.5988166,
+              50.9361052
+            ],
+            [
+              11.598965,
+              50.9360034
+            ],
+            [
+              11.5989746,
+              50.9360094
+            ],
+            [
+              11.5991458,
+              50.9358895
+            ],
+            [
+              11.5990799,
+              50.9358502
+            ],
+            [
+              11.5991458,
+              50.9358065
+            ],
+            [
+              11.5990356,
+              50.9357378
+            ],
+            [
+              11.5989724,
+              50.9357816
+            ],
+            [
+              11.5988179,
+              50.9358888
+            ],
+            [
+              11.5986657,
+              50.9359943
+            ],
+            [
+              11.5986801,
+              50.9360034
+            ],
+            [
+              11.5985448,
+              50.9360939
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238679919",
+      "properties": {
+        "@id": "way/238679919",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Altenburger Straße",
+        "amenity": "school",
+        "contact:email": "mail@c-g-j.de",
+        "contact:fax": "+49 3641 520-159",
+        "contact:phone": "+49 3641 520-130",
+        "contact:website": "http://www.christlichesgymnasium.jena.de/",
+        "name": "Christliches Gymnasium Jena",
+        "short_name": "CGJ",
+        "wikidata": "Q1084131",
+        "wikipedia": "de:Christliches Gymnasium Jena",
+        "wikipedia:de": "Christliches Gymnasium Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6023633,
+              50.9491444
+            ],
+            [
+              11.602382,
+              50.9491176
+            ],
+            [
+              11.6025654,
+              50.9490063
+            ],
+            [
+              11.6031821,
+              50.9487313
+            ],
+            [
+              11.6032976,
+              50.9486853
+            ],
+            [
+              11.6033401,
+              50.9486853
+            ],
+            [
+              11.6033541,
+              50.9487012
+            ],
+            [
+              11.6035892,
+              50.9488597
+            ],
+            [
+              11.603957,
+              50.9490874
+            ],
+            [
+              11.6040108,
+              50.9491339
+            ],
+            [
+              11.6036021,
+              50.949382
+            ],
+            [
+              11.6032681,
+              50.9495991
+            ],
+            [
+              11.6028414,
+              50.9493937
+            ],
+            [
+              11.6025101,
+              50.949212
+            ],
+            [
+              11.6023633,
+              50.9491444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253262271",
+      "properties": {
+        "@id": "way/253262271",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07745",
+        "addr:street": "Alte Hauptstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "school",
+        "contact:website": "http://www.waldorfschule-jena.de",
+        "name": "Waldorfschule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5905512,
+              50.8788125
+            ],
+            [
+              11.5897264,
+              50.8787321
+            ],
+            [
+              11.589823,
+              50.8782901
+            ],
+            [
+              11.5906639,
+              50.8783515
+            ],
+            [
+              11.5905512,
+              50.8788125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267138372",
+      "properties": {
+        "@id": "way/267138372",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Wöllnitzer Straße",
+        "alt_name": "KGS Jena",
+        "amenity": "school",
+        "contact:email": "sekretariat@kgs.jena.de",
+        "contact:fax": "+49 3641 394840",
+        "contact:phone": "+49 3641 394841",
+        "contact:website": "http://www.kgs.jena.de/",
+        "name": "Kooperative Gesamtschule „Adolf Reichwein“ Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5919546,
+              50.9237633
+            ],
+            [
+              11.5918467,
+              50.9237005
+            ],
+            [
+              11.5917886,
+              50.9235893
+            ],
+            [
+              11.5917678,
+              50.9233015
+            ],
+            [
+              11.5917358,
+              50.9230583
+            ],
+            [
+              11.5917358,
+              50.9227492
+            ],
+            [
+              11.5923925,
+              50.9227612
+            ],
+            [
+              11.592544,
+              50.9229221
+            ],
+            [
+              11.593186,
+              50.9231245
+            ],
+            [
+              11.5933603,
+              50.9233913
+            ],
+            [
+              11.5933355,
+              50.9233978
+            ],
+            [
+              11.592967,
+              50.9234954
+            ],
+            [
+              11.5919546,
+              50.9237633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267234883",
+      "properties": {
+        "@id": "way/267234883",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5688564,
+              50.9223712
+            ],
+            [
+              11.5675454,
+              50.9219108
+            ],
+            [
+              11.5676845,
+              50.9216763
+            ],
+            [
+              11.5678062,
+              50.9208433
+            ],
+            [
+              11.569524,
+              50.9209617
+            ],
+            [
+              11.5695719,
+              50.9209613
+            ],
+            [
+              11.5695499,
+              50.9210855
+            ],
+            [
+              11.5694816,
+              50.9212753
+            ],
+            [
+              11.5694266,
+              50.9214422
+            ],
+            [
+              11.5693583,
+              50.9216038
+            ],
+            [
+              11.5692296,
+              50.9218628
+            ],
+            [
+              11.5689537,
+              50.9222988
+            ],
+            [
+              11.5688564,
+              50.9223712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267253546",
+      "properties": {
+        "@id": "way/267253546",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "07745",
+        "addr:street": "Ammerbacher Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:website": "http://www.eag.jena.de",
+        "name": "Ernst-Abbe-Gymnasium",
+        "note:de": "Gymnasium temporär in der Hugo-Schrade-Straße 1",
+        "ref": "EAG",
+        "wikipedia:de": "Ernst-Abbe-Gymnasium Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5730862,
+              50.9048885
+            ],
+            [
+              11.5730413,
+              50.9046556
+            ],
+            [
+              11.5732942,
+              50.9046363
+            ],
+            [
+              11.5733183,
+              50.9047612
+            ],
+            [
+              11.5735575,
+              50.9047429
+            ],
+            [
+              11.5735507,
+              50.9047077
+            ],
+            [
+              11.573976,
+              50.9046752
+            ],
+            [
+              11.5740081,
+              50.904842
+            ],
+            [
+              11.5735828,
+              50.9048745
+            ],
+            [
+              11.5735706,
+              50.9048113
+            ],
+            [
+              11.5733315,
+              50.9048296
+            ],
+            [
+              11.5733391,
+              50.9048692
+            ],
+            [
+              11.5730862,
+              50.9048885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267253601",
+      "properties": {
+        "@id": "way/267253601",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "07745",
+        "addr:street": "Oßmaritzer Straße",
+        "amenity": "school",
+        "contact:website": "http://www.gms-winzerla.jena.de",
+        "name": "Gemeinschaftsschule \"Galileo\" Winzerla",
+        "ref": "GMS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5810651,
+              50.8935206
+            ],
+            [
+              11.5805592,
+              50.8934707
+            ],
+            [
+              11.5806124,
+              50.8930002
+            ],
+            [
+              11.5808751,
+              50.8928298
+            ],
+            [
+              11.5812671,
+              50.8928058
+            ],
+            [
+              11.5818456,
+              50.8928874
+            ],
+            [
+              11.58215,
+              50.8930362
+            ],
+            [
+              11.5822908,
+              50.8932667
+            ],
+            [
+              11.5820092,
+              50.893634
+            ],
+            [
+              11.5818187,
+              50.8937051
+            ],
+            [
+              11.5810651,
+              50.8935206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271004974",
+      "properties": {
+        "@id": "way/271004974",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Susanne-Bohl-Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "school",
+        "contact:website": "http://ganztagsgrundschule.querwege.de/",
+        "name": "Freie Ganztagsgrundschule \"STEINMALEINS\"",
+        "operator": "QuerWege e.V."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6046611,
+              50.893401
+            ],
+            [
+              11.6047654,
+              50.8932694
+            ],
+            [
+              11.6049088,
+              50.8932352
+            ],
+            [
+              11.6052022,
+              50.8932256
+            ],
+            [
+              11.605348,
+              50.8932331
+            ],
+            [
+              11.6052826,
+              50.8937698
+            ],
+            [
+              11.6048914,
+              50.8937341
+            ],
+            [
+              11.6048697,
+              50.8934846
+            ],
+            [
+              11.6046611,
+              50.893401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

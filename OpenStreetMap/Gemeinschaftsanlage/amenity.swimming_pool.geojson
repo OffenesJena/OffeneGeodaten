@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:43.463Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/59855898",
+      "properties": {
+        "@id": "way/59855898",
+        "amenity": "swimming_pool",
+        "covered": "no",
+        "landuse": "basin",
+        "note:de": "Schwimmbecken",
+        "source": "survey",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6055531,
+              50.9376708
+            ],
+            [
+              11.6062129,
+              50.9378197
+            ],
+            [
+              11.6063094,
+              50.9376498
+            ],
+            [
+              11.606373,
+              50.9375379
+            ],
+            [
+              11.6060215,
+              50.9374586
+            ],
+            [
+              11.6057131,
+              50.9373891
+            ],
+            [
+              11.6056719,
+              50.9374617
+            ],
+            [
+              11.6055531,
+              50.9376708
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 292149651,
+      "lat": 50.9246329,
+      "lon": 11.587422,
+      "tags": {
+        "amenity": "taxi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292149652,
+      "lat": 50.9275393,
+      "lon": 11.5853462,
+      "tags": {
+        "amenity": "taxi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411616924,
+      "lat": 50.9238268,
+      "lon": 11.5781723,
+      "tags": {
+        "amenity": "taxi",
+        "name": "Standplatz Westbahnhof"
+      }
+    },
+    {
+      "type": "node",
+      "id": 651808063,
+      "lat": 50.8860728,
+      "lon": 11.6213785,
+      "tags": {
+        "amenity": "taxi",
+        "capacity": "4",
+        "source": "survey"
+      }
+    }
+  ]
+}

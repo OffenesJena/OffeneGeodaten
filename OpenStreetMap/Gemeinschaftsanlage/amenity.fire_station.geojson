@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:26.146Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/315838258",
+      "properties": {
+        "@id": "node/315838258",
+        "amenity": "fire_station",
+        "name": "FFW Closewitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5733896,
+          50.960436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2924832621",
+      "properties": {
+        "@id": "node/2924832621",
+        "amenity": "fire_station",
+        "contact:website": "http://www.feuerwehr-jena-mitte.de",
+        "name": "Freiwillige Feuerwehr Jena Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.590619,
+          50.9316066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38320835",
+      "properties": {
+        "@id": "way/38320835",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07745",
+        "addr:street": "Parkstraße",
+        "addr:suburb": "Göschwitz",
+        "alt_name": "Freiwillige Feuerwehr Göschwitz",
+        "amenity": "fire_station",
+        "name": "Feuerwache Süd"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5909926,
+              50.8815024
+            ],
+            [
+              11.591476,
+              50.8816251
+            ],
+            [
+              11.5921737,
+              50.881686
+            ],
+            [
+              11.5921468,
+              50.8819517
+            ],
+            [
+              11.5926115,
+              50.881986
+            ],
+            [
+              11.5929558,
+              50.8819849
+            ],
+            [
+              11.5931213,
+              50.8813989
+            ],
+            [
+              11.5926616,
+              50.881361
+            ],
+            [
+              11.59268,
+              50.8812663
+            ],
+            [
+              11.5914233,
+              50.8811815
+            ],
+            [
+              11.5910176,
+              50.881386
+            ],
+            [
+              11.5909926,
+              50.8815024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194827902",
+      "properties": {
+        "@id": "way/194827902",
+        "amenity": "fire_station",
+        "building": "yes",
+        "historic": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6559448,
+              50.9457789
+            ],
+            [
+              11.6561111,
+              50.9458178
+            ],
+            [
+              11.6561353,
+              50.9457502
+            ],
+            [
+              11.6559824,
+              50.9457164
+            ],
+            [
+              11.6559448,
+              50.9457789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258779047",
+      "properties": {
+        "@id": "way/258779047",
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Stadthof",
+        "addr:suburb": "Lobeda",
+        "amenity": "fire_station",
+        "building": "yes",
+        "contact:website": "http://www.feuerwehr-lobeda.de",
+        "name": "Feuerwehr Jena Lobeda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6071085,
+              50.8929752
+            ],
+            [
+              11.6070678,
+              50.8929454
+            ],
+            [
+              11.607076,
+              50.8928735
+            ],
+            [
+              11.6069262,
+              50.8928818
+            ],
+            [
+              11.6069115,
+              50.8928027
+            ],
+            [
+              11.6070857,
+              50.8927955
+            ],
+            [
+              11.6072242,
+              50.8927986
+            ],
+            [
+              11.6072193,
+              50.8928253
+            ],
+            [
+              11.6072535,
+              50.8928253
+            ],
+            [
+              11.6072437,
+              50.8929352
+            ],
+            [
+              11.6071786,
+              50.8929763
+            ],
+            [
+              11.6071085,
+              50.8929752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296339706",
+      "properties": {
+        "@id": "way/296339706",
+        "addr:city": "Jena",
+        "addr:housenumber": "2b",
+        "addr:postcode": "07749",
+        "addr:street": "Pennickental",
+        "addr:suburb": "Wöllnitz",
+        "amenity": "fire_station",
+        "building": "yes",
+        "contact:website": "http://www.feuerwehr-woellnitz.de",
+        "name": "Frewillige Feuerwehr Wöllnitz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5986752,
+              50.9032116
+            ],
+            [
+              11.5988518,
+              50.9031512
+            ],
+            [
+              11.5989384,
+              50.903252
+            ],
+            [
+              11.5987618,
+              50.9033123
+            ],
+            [
+              11.5986752,
+              50.9032116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300933781",
+      "properties": {
+        "@id": "way/300933781",
+        "addr:city": "Jena",
+        "addr:housenumber": "15a",
+        "addr:postcode": "07743",
+        "addr:street": "Saalbahnhofstraße",
+        "amenity": "fire_station",
+        "contact:email": "feuerwehr@jena.de",
+        "contact:facebook": "https://www.facebook.com/pages/Berufsfeuerwehr-Jena/174729835920611",
+        "contact:phone": "+49 3641 49-9110",
+        "name": "Berufsfeuerwehr Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5904989,
+              50.9321441
+            ],
+            [
+              11.5904778,
+              50.9316414
+            ],
+            [
+              11.5911674,
+              50.9316319
+            ],
+            [
+              11.5911073,
+              50.9321735
+            ],
+            [
+              11.5904989,
+              50.9321441
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

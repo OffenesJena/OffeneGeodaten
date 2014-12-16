@@ -1,0 +1,3925 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:42:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 442559680,
+      "lat": 50.9302873,
+      "lon": 11.5558473,
+      "tags": {
+        "amenity": "school",
+        "name": "Schullandheim \"Stern\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 655146742,
+      "lat": 50.9347088,
+      "lon": 11.6057231,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "07749",
+        "addr:street": "Jenzigweg",
+        "amenity": "school",
+        "contact:phone": "03641 880050",
+        "contact:website": "http://www.leonardo-jena.de",
+        "name": "Freie Ganztagsschule Leonardo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1151738389,
+      "lat": 50.9214152,
+      "lon": 11.5679498,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07745",
+        "addr:street": "Döbereinerstraße",
+        "amenity": "school",
+        "contact:website": "http://www.suedschule.jena.de/",
+        "name": "Südschule"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2727044011,
+      "lat": 50.9217086,
+      "lon": 11.5689529,
+      "tags": {
+        "amenity": "school",
+        "contact:website": "http://www.jenaplan-schule-jena.de",
+        "name": "Jenaplan-Schule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26253582,
+      "nodes": [
+        287519398,
+        287519399,
+        287519400,
+        287519401,
+        287519402,
+        287519406,
+        287519411,
+        287519412,
+        287519413,
+        287519414,
+        287519415,
+        287519398
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "31",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "alt_name": "4. Staatliche Grundschule \"Nordschule Jena\"",
+        "amenity": "school",
+        "contact:email": "nordschule-jena@t-online.de",
+        "contact:phone": "+49 3641 425007",
+        "contact:website": "http://www.nordschule.jena.de",
+        "name": "Nordschule",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26380481,
+      "nodes": [
+        289005543,
+        2308576492,
+        2308576495,
+        2308576498,
+        289005544,
+        289005546,
+        289005547,
+        289005543
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "contact:fax": "+49 3641 3379-33",
+        "contact:phone": "+49 3641 3379-0",
+        "contact:website": "http://www.osg.jena.de",
+        "name": "Otto Schott-Gymnasium",
+        "ref": "OSG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26585769,
+      "nodes": [
+        291555212,
+        291555214,
+        291555216,
+        291555218,
+        291555219,
+        626795070,
+        291555221,
+        291555225,
+        291555227,
+        291555228,
+        291555212
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "August-Bebel-Straße",
+        "amenity": "school",
+        "contact:website": "http://www.igsjena.de",
+        "name": "Grete-Unrein-Schule",
+        "ref": "IGS",
+        "wheelchair": "yes",
+        "wheelchair:description": "Fahrstuhl vorhanden",
+        "wikipedia:de": "Integrierte Gesamtschule „Grete Unrein“ Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27282366,
+      "nodes": [
+        299475418,
+        2742192018,
+        2742192019,
+        2742192017,
+        2742192016,
+        299474487,
+        299474488,
+        299474489,
+        299474490,
+        2742192057,
+        2742192059,
+        299474491,
+        2742192041,
+        2742192043,
+        2742192032,
+        2742192028,
+        299475165,
+        2742192033,
+        2742192029,
+        2742192030,
+        2742192036,
+        299475166,
+        299475183,
+        2742192021,
+        2742192020,
+        299475168,
+        2742192024,
+        2742192023,
+        299475418
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Erich-Kuithan-Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "spezi@cz.j.th.schule.de",
+        "contact:fax": "+49 3641 426127",
+        "contact:phone": "+49 3641 424244",
+        "contact:website": "http://carl-zeiss-gymnasium.de",
+        "name": "Carl-Zeiss-Gymnasium",
+        "name:fr": "Lycée Carl-Zeiss",
+        "wikidata": "Q315430",
+        "wikipedia": "de:Carl-Zeiss-Gymnasium Jena",
+        "wikipedia:de": "Carl-Zeiss-Gymnasium Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30742328,
+      "nodes": [
+        340007198,
+        340007200,
+        340007201,
+        340007202,
+        340007198
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "07743",
+        "addr:street": "August-Bebel-Straße",
+        "alt_name": "7. Staatliche Grundschule \"Westschule\"",
+        "amenity": "school",
+        "contact:website": "http://www.westschule.jena.de",
+        "name": "Westschule",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31526020,
+      "nodes": [
+        352808815,
+        352808817,
+        352808818,
+        2045933581,
+        352808816,
+        1830620019,
+        352808815
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "87",
+        "addr:postcode": "07749",
+        "addr:street": "Karl-Liebknecht-Straße",
+        "amenity": "school",
+        "name": "Angergymnasium",
+        "wikipedia:de": "Angergymnasium (Jena)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37394386,
+      "nodes": [
+        436671787,
+        436671788,
+        1662292237,
+        1662292236,
+        436671789,
+        436671790,
+        436671787
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "07743",
+        "addr:street": "Grietgasse",
+        "amenity": "school",
+        "building": "school",
+        "contact:phone": "+49 3641 498200",
+        "contact:website": "http://www.vhs-jena.de/",
+        "name": "Volkshochschule",
+        "opening_hours": "Mo 09:00-16:00; Tu 09:00-18:00;We 09:00-16:00; Th 09:00-18:00; Fr 09:00-12:00",
+        "ref": "VHS",
+        "wikipedia:de": "Volkshochschule Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45404272,
+      "nodes": [
+        577366163,
+        577366164,
+        577366165,
+        577366166,
+        577366167,
+        577366168,
+        577366169,
+        577366170,
+        577366171,
+        577366172,
+        577366173,
+        577366174,
+        577366163
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Hugo-Schrade-Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:website": "http://www.eag.jena.de",
+        "name": "Ernst-Abbe-Gymnasium",
+        "ref": "EAG",
+        "wheelchair": "no",
+        "wikipedia:de": "Ernst-Abbe-Gymnasium Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 47072047,
+      "nodes": [
+        600362453,
+        600362459,
+        600362454,
+        600362460,
+        1690265636,
+        600362455,
+        600362457,
+        600362451,
+        600362458,
+        1690265635,
+        600362452,
+        600362450,
+        600362453
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07745",
+        "addr:street": "Hugo-Schrade-Straße",
+        "alt_name": "Europaschule \"Friedrich Schiller\"",
+        "amenity": "school",
+        "building": "school",
+        "contact:fax": "0 36 41 / 67 30 03",
+        "contact:phone": "0 36 41 / 60 82 32",
+        "contact:website": "http://www.schillerschule-jena.de",
+        "name": "Staatliche Grundschule \"Friedrich Schiller\"",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49996714,
+      "nodes": [
+        635046846,
+        635046847,
+        635046848,
+        1777824907,
+        1777824906,
+        635046850,
+        635046852,
+        635046854,
+        635046857,
+        635046859,
+        635046860,
+        635046861,
+        635046863,
+        635046846
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "40",
+        "addr:postcode": "07749",
+        "addr:street": "Wöllnitzer Straße",
+        "amenity": "school",
+        "name": "GutsMuths Sportgymnasium Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51196510,
+      "nodes": [
+        653239539,
+        2141040981,
+        653239540,
+        2141013951,
+        2141018845,
+        653239541,
+        653239543,
+        2141013947,
+        2141013946,
+        2141013944,
+        2141013948,
+        653239545,
+        2468013034,
+        2468013032,
+        653239549,
+        2141013949,
+        653239539
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Unter der Lobdeburg",
+        "addr:suburb": "Lobeda",
+        "amenity": "school",
+        "contact:email": "sekretariat@lobdeburgschule.de",
+        "contact:facebook": "https://www.facebook.com/Lobdeburgschule",
+        "contact:fax": "+49 3641 380026",
+        "contact:foursquare": "https://de.foursquare.com/v/lobdeburgschule/536b21ad498ef79e61eb1ab7",
+        "contact:google_plus": "https://plus.google.com/117902680412349784667",
+        "contact:phone": "+49 3641 331148",
+        "contact:website": "http://www.lobdeburgschule.de",
+        "name": "Lobdeburgschule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51203237,
+      "nodes": [
+        653297666,
+        289005547,
+        289005546,
+        653297667,
+        2482102709,
+        732345575,
+        653297666
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "amenity": "school",
+        "contact:email": "kastanienschule@t-online.de",
+        "contact:fax": "+49 3641 334017",
+        "contact:phone": "+49 3641 331547",
+        "contact:website": "http://www.kastanienschule.de/",
+        "name": "Kastanienschule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51337806,
+      "nodes": [
+        655144496,
+        655144499,
+        655144501,
+        655144503,
+        655144504,
+        655144505,
+        655144508,
+        2222345617,
+        655144510,
+        655144511,
+        655144493,
+        655144492,
+        655144485,
+        655144484,
+        655144482,
+        655144513,
+        655144514,
+        655144515,
+        655144496
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Friedrich-Wolf-Straße",
+        "amenity": "school",
+        "contact:fax": "03641 489793",
+        "contact:phone": "03641 424323",
+        "contact:website": "http://www.montessorischule.jena.de",
+        "name": "Ganztagsschule \"Maria Montessori\"",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51337807,
+      "nodes": [
+        655144518,
+        655144513,
+        655144482,
+        655144484,
+        655144485,
+        655144492,
+        655144493,
+        655144511,
+        655144510,
+        655144519,
+        655144520,
+        655144518
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:street": "Friedrich-Wolf-Straße",
+        "amenity": "school",
+        "contact:email": "schule-regen@versanet.de",
+        "contact:fax": "+49-3641-336838",
+        "contact:phone": "+49-3641-331950",
+        "contact:website": "http://www.regenbogenschule.jena.de",
+        "name": "Regenbogenschule",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55242153,
+      "nodes": [
+        691593146,
+        691593151,
+        691593108,
+        1890033758,
+        691593120,
+        829906916,
+        691593126,
+        694274929,
+        694274928,
+        697179855,
+        691593132,
+        691593139,
+        691593146
+      ],
+      "tags": {
+        "amenity": "school",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 56068763,
+      "nodes": [
+        2458464339,
+        2458464336,
+        2458464329,
+        2458464323,
+        2458464321,
+        282231371,
+        2458464312,
+        282231349,
+        302932904,
+        304620432,
+        2458464296,
+        302932858,
+        2458464294,
+        2458464293,
+        267246494,
+        2458464295,
+        1684081804,
+        2458464311,
+        2458464335,
+        2458464339
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:postcode": "07749",
+        "addr:street": "Dammstraße",
+        "amenity": "school",
+        "contact:email": "info@dualingo.de",
+        "contact:fax": "03641-221047",
+        "contact:phone": "03641-219945",
+        "contact:website": "http://www.dualingo.de",
+        "name": "Bilinguale Ganztagsgrundschule Dualingo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 56455717,
+      "nodes": [
+        707736673,
+        2894479860,
+        2894479854,
+        2894479856,
+        2894479853,
+        707736676,
+        2894479852,
+        707736674,
+        707736671,
+        2894479850,
+        2894479851,
+        2894479858,
+        2894479857,
+        2894479861,
+        2894479862,
+        2894479873,
+        707736673
+      ],
+      "tags": {
+        "amenity": "school",
+        "building": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 139266096,
+      "nodes": [
+        1526697121,
+        1526696693,
+        1526696616,
+        1526696589,
+        1526696601,
+        1526696604,
+        3210697815,
+        1526697185,
+        1526697196,
+        1526697121
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "95",
+        "addr:postcode": "07745",
+        "addr:street": "Rudolstädter Straße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "school",
+        "contact:email": "schulleiter@sbsz-jena.de",
+        "contact:facebook": "https://www.facebook.com/SBSZJena",
+        "contact:fax": "+49 3641 294688",
+        "contact:google_plus": "https://plus.google.com/108565239143698399490/",
+        "contact:phone": "+49 3641 294612",
+        "contact:website": "http://www.sbsz-jena.de/",
+        "name": "Staatliches Berufsbildendes Schulzentrum Jena-Göschwitz",
+        "short_name": "SBSZ Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153576878,
+      "nodes": [
+        1662292243,
+        3237534533,
+        1662292259,
+        1662292261,
+        1662292271,
+        1662292272,
+        1662292285,
+        1662292284,
+        1662292296,
+        1662292297,
+        1662292302,
+        1662292305,
+        1662292294,
+        1662292295,
+        1662292363,
+        1662292361,
+        1662292352,
+        2272784316,
+        1662292349,
+        1662292357,
+        1662292354,
+        1662292350,
+        2272784315,
+        1662292347,
+        1662292359,
+        1662292358,
+        1662292292,
+        1662292293,
+        1662292303,
+        1662292304,
+        2272784314,
+        1662292283,
+        1662292282,
+        1662292269,
+        1662292270,
+        1662292257,
+        1662292258,
+        1662292242,
+        3237534538,
+        1662292243
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Paradiesschule",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Paradiesstraße",
+        "alt_name": "SBSZ Wirtschaft & Verwaltung Karl-Volkmar-Stoy",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "mail@stoyschule.de",
+        "contact:fax": "+49 3641 453610",
+        "contact:google_plus": "https://plus.google.com/113431006197049695032/",
+        "contact:phone": "+49 3641 45360",
+        "contact:website": "http://www.stoyschule.de",
+        "name": "Karl-Volkmar-Stoy-Schule",
+        "reg_name": "Paradiesschule",
+        "type": "multipolygon",
+        "wheelchair": "no",
+        "wikipedia": "de:Karl-Volkmar-Stoy-Schule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156118994,
+      "nodes": [
+        1684081436,
+        1684081394,
+        1684081397,
+        1684081338,
+        1684081334,
+        1684081357,
+        1684081353,
+        1684081124,
+        1684081136,
+        1684081156,
+        1684081176,
+        1684081135,
+        1684081140,
+        1684081282,
+        1684081285,
+        1684081327,
+        1684081323,
+        1684081402,
+        1684081404,
+        1684081440,
+        1684081436
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "07749",
+        "addr:street": "Dammstraße",
+        "addr:suburb": "Wenigenjena",
+        "alt_name": "Staatliche Grundschule \"Heinrich Heine\" Jena",
+        "amenity": "school",
+        "building": "school",
+        "name": "Heinrich-Heine Grundschule",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162829770,
+      "nodes": [
+        1746462437,
+        1746462436,
+        1746462438,
+        1746462439,
+        1746462437
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "07749",
+        "addr:street": "Ziegenhainer Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "mks@jena.de",
+        "contact:fax": "03641-3666-88",
+        "contact:phone": "03641-3666-10",
+        "contact:website": "www.mks.jena.de",
+        "name": "Musik- und Kunstschule",
+        "ref": "MKS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162829771,
+      "nodes": [
+        1746462435,
+        1746462434,
+        1746462432,
+        1746462433,
+        1746462435
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "07749",
+        "addr:street": "Ziegenhainer Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:email": "talschule@t-online.de",
+        "contact:fax": "(03641) 394795",
+        "contact:phone": "(03641) 394787",
+        "contact:website": "http://www.talschule-jena.de",
+        "name": "Talschule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173604560,
+      "nodes": [
+        1843879594,
+        1843879686,
+        1843879617,
+        1843879547,
+        1843879551,
+        1843879586,
+        1843879594
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "56/58",
+        "addr:postcode": "07747",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "school",
+        "contact:website": "http://www.mefa.jena.de",
+        "name": "Staatliche Berufsbildende Schule für Gesundheit und Soziales Jena",
+        "ref": "SBBS für Gesundheit und Soziales Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173622068,
+      "nodes": [
+        1844001945,
+        1844001960,
+        1844001952,
+        1844001883,
+        1844001853,
+        1844001838,
+        1844001945
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173622071,
+      "nodes": [
+        1844001838,
+        1844001945,
+        1844001918,
+        1844001845,
+        429424624,
+        1844001838
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "07747",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "school",
+        "contact:website": "http://www.kastanienschule.de/",
+        "name": "Kastanienschule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 200857416,
+      "nodes": [
+        2482073164,
+        2464833180,
+        2482073163,
+        2482073162,
+        2482073164
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "contact:email": "saaletalschule@jena.de",
+        "contact:fax": "+49 3641 331973",
+        "contact:phone": "+49 3641 331946",
+        "contact:website": "http://www.rodatalschule.jena.de",
+        "name": "Staatliche Grundschule \"Saaletal\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 204921171,
+      "nodes": [
+        2148997580,
+        2148997507,
+        2154563428,
+        2148997469,
+        2148997580
+      ],
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "07743",
+        "addr:street": "Schreckenbachweg",
+        "amenity": "school",
+        "building": "school",
+        "name": "Staatliche Grundschule \"Schule am Rautal\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 219822648,
+      "nodes": [
+        2289512456,
+        2289512451,
+        2289512446,
+        2289512443,
+        2289512441,
+        2289512440,
+        2289512439,
+        2289512435,
+        2289512436,
+        2289512438,
+        2289512452,
+        2289512453,
+        2289512455,
+        2289512456
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "07749",
+        "addr:street": "Ziegenhainer Straße",
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232604752,
+      "nodes": [
+        2409495182,
+        2409495172,
+        2409495174,
+        2409495178,
+        2409495183,
+        2409495176,
+        2409495179,
+        2409495180,
+        2409495175,
+        2409495173,
+        2409495177,
+        2409495181,
+        2409495182
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Grundschule an der Trießnitz",
+        "addr:housenumber": "34",
+        "addr:postcode": "07745",
+        "addr:street": "Buchenweg",
+        "amenity": "school",
+        "building": "school",
+        "contact:website": "http://www.integrative-grundschule.jena.de/",
+        "name": "Grundschule an der Trießnitz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233729762,
+      "nodes": [
+        2420702518,
+        2420702515,
+        2420702519,
+        2420702521,
+        2420702524,
+        2420702520,
+        2420702517,
+        2420702516,
+        2420702518
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "building": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233729764,
+      "nodes": [
+        2420702512,
+        2420702530,
+        2420702527,
+        2420702519,
+        2420702515,
+        2420702531,
+        2420702529,
+        2420702513,
+        2420702512
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "building": "school",
+        "old_name": "POS Theodor Neubauer 2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233729766,
+      "nodes": [
+        2420702523,
+        2420702525,
+        2420702528,
+        2420702520,
+        2420702517,
+        2420702514,
+        2420702522,
+        2420702526,
+        2420702523
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07747",
+        "addr:street": "Karl-Marx-Allee",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "school",
+        "building": "school",
+        "old_name": "POS Theodor Neubauer 1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 235781566,
+      "nodes": [
+        2438594994,
+        2438594997,
+        2438595000,
+        2438595004,
+        2438595006,
+        2438595007,
+        2438595009,
+        2438595010,
+        3218957319,
+        2438594994
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07745",
+        "addr:street": "Burgauer Weg",
+        "amenity": "school",
+        "contact:website": "http://gesamtschule.querwege.de/",
+        "name": "UniverSaale Jena Freie Gesamtschule",
+        "operator": "QuerWege e.V."
+      }
+    },
+    {
+      "type": "way",
+      "id": 237989566,
+      "nodes": [
+        2458464330,
+        2458464333,
+        2458464334,
+        2458464337,
+        2458464331,
+        2458464332,
+        2458464326,
+        2458464328,
+        2458464319,
+        2458464313,
+        2458464310,
+        2458464304,
+        2458464308,
+        2458464318,
+        2458464324,
+        2458464325,
+        2458464330
+      ],
+      "tags": {
+        "amenity": "school",
+        "building": "school",
+        "name": "Dualingo Bilinguale Ganztagesschule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238679919,
+      "nodes": [
+        2464795879,
+        2464795877,
+        2464795875,
+        2464795874,
+        2464795872,
+        2464795873,
+        536628861,
+        536628857,
+        536628854,
+        536628851,
+        536628872,
+        536628869,
+        1626459110,
+        1626459096,
+        2464795879
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "07743",
+        "addr:street": "Altenburger Straße",
+        "amenity": "school",
+        "contact:email": "mail@c-g-j.de",
+        "contact:fax": "+49 3641 520-159",
+        "contact:phone": "+49 3641 520-130",
+        "contact:website": "http://www.christlichesgymnasium.jena.de/",
+        "name": "Christliches Gymnasium Jena",
+        "short_name": "CGJ",
+        "wikidata": "Q1084131",
+        "wikipedia": "de:Christliches Gymnasium Jena",
+        "wikipedia:de": "Christliches Gymnasium Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253262271,
+      "nodes": [
+        2592148704,
+        2592148690,
+        2592148626,
+        2592148640,
+        2592148704
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07745",
+        "addr:street": "Alte Hauptstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "school",
+        "contact:website": "http://www.waldorfschule-jena.de",
+        "name": "Waldorfschule"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267138372,
+      "nodes": [
+        2726049050,
+        2726049049,
+        2726049048,
+        2726049035,
+        2726049027,
+        2726049024,
+        2726049025,
+        2726049026,
+        2726049029,
+        2726049039,
+        2726049040,
+        2726049047,
+        2726049050
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Wöllnitzer Straße",
+        "alt_name": "KGS Jena",
+        "amenity": "school",
+        "contact:email": "sekretariat@kgs.jena.de",
+        "contact:fax": "+49 3641 394840",
+        "contact:phone": "+49 3641 394841",
+        "contact:website": "http://www.kgs.jena.de/",
+        "name": "Kooperative Gesamtschule „Adolf Reichwein“ Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267234883,
+      "nodes": [
+        2727044154,
+        2727044137,
+        2727044097,
+        2727044018,
+        2727044024,
+        2727044021,
+        2727004670,
+        1830547982,
+        2727044069,
+        341023534,
+        86677540,
+        2727044152,
+        2727044154
+      ],
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267253546,
+      "nodes": [
+        2727209913,
+        2727209896,
+        2727209894,
+        2727209904,
+        2727209902,
+        2727209900,
+        2727209898,
+        2727209910,
+        2727209912,
+        2727209906,
+        2727209908,
+        2727209911,
+        2727209913
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "07745",
+        "addr:street": "Ammerbacher Straße",
+        "amenity": "school",
+        "building": "school",
+        "contact:website": "http://www.eag.jena.de",
+        "name": "Ernst-Abbe-Gymnasium",
+        "note:de": "Gymnasium temporär in der Hugo-Schrade-Straße 1",
+        "ref": "EAG",
+        "wikipedia:de": "Ernst-Abbe-Gymnasium Jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267253601,
+      "nodes": [
+        2202272657,
+        2727208456,
+        2727208415,
+        2727208401,
+        2727208399,
+        2727208403,
+        2727208417,
+        2727208447,
+        2727208466,
+        2202272663,
+        2202272657
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "07745",
+        "addr:street": "Oßmaritzer Straße",
+        "amenity": "school",
+        "contact:website": "http://www.gms-winzerla.jena.de",
+        "name": "Gemeinschaftsschule \"Galileo\" Winzerla",
+        "ref": "GMS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 271004974,
+      "nodes": [
+        2759529127,
+        2759529091,
+        2759529086,
+        2759529082,
+        2759529084,
+        2759529169,
+        2759529168,
+        2759529148,
+        2759529127
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Susanne-Bohl-Straße",
+        "addr:suburb": "Lobeda",
+        "amenity": "school",
+        "contact:website": "http://ganztagsgrundschule.querwege.de/",
+        "name": "Freie Ganztagsgrundschule \"STEINMALEINS\"",
+        "operator": "QuerWege e.V."
+      }
+    },
+    {
+      "type": "node",
+      "id": 577366169,
+      "lat": 50.8967123,
+      "lon": 11.5735996
+    },
+    {
+      "type": "node",
+      "id": 600362450,
+      "lat": 50.8970694,
+      "lon": 11.5736393
+    },
+    {
+      "type": "node",
+      "id": 600362451,
+      "lat": 50.8970928,
+      "lon": 11.5732431
+    },
+    {
+      "type": "node",
+      "id": 600362452,
+      "lat": 50.8972612,
+      "lon": 11.5735276
+    },
+    {
+      "type": "node",
+      "id": 600362454,
+      "lat": 50.8975625,
+      "lon": 11.5733539
+    },
+    {
+      "type": "node",
+      "id": 600362455,
+      "lat": 50.8973899,
+      "lon": 11.5732812
+    },
+    {
+      "type": "node",
+      "id": 600362457,
+      "lat": 50.8973468,
+      "lon": 11.5730952
+    },
+    {
+      "type": "node",
+      "id": 600362458,
+      "lat": 50.8971363,
+      "lon": 11.5734306
+    },
+    {
+      "type": "node",
+      "id": 600362459,
+      "lat": 50.8975912,
+      "lon": 11.573478
+    },
+    {
+      "type": "node",
+      "id": 600362460,
+      "lat": 50.8973367,
+      "lon": 11.5734854
+    },
+    {
+      "type": "node",
+      "id": 1690265635,
+      "lat": 50.8972266,
+      "lon": 11.573378
+    },
+    {
+      "type": "node",
+      "id": 1690265636,
+      "lat": 50.8973013,
+      "lon": 11.5733328
+    },
+    {
+      "type": "node",
+      "id": 577366163,
+      "lat": 50.8964566,
+      "lon": 11.5742642
+    },
+    {
+      "type": "node",
+      "id": 577366164,
+      "lat": 50.8969474,
+      "lon": 11.5739802
+    },
+    {
+      "type": "node",
+      "id": 577366165,
+      "lat": 50.8969219,
+      "lon": 11.5738695
+    },
+    {
+      "type": "node",
+      "id": 577366166,
+      "lat": 50.8966906,
+      "lon": 11.5740033
+    },
+    {
+      "type": "node",
+      "id": 577366167,
+      "lat": 50.8966541,
+      "lon": 11.5738448
+    },
+    {
+      "type": "node",
+      "id": 577366168,
+      "lat": 50.8967553,
+      "lon": 11.5737863
+    },
+    {
+      "type": "node",
+      "id": 577366170,
+      "lat": 50.896462,
+      "lon": 11.5737444
+    },
+    {
+      "type": "node",
+      "id": 577366171,
+      "lat": 50.8965059,
+      "lon": 11.5739352
+    },
+    {
+      "type": "node",
+      "id": 577366172,
+      "lat": 50.896589,
+      "lon": 11.5738871
+    },
+    {
+      "type": "node",
+      "id": 577366173,
+      "lat": 50.8966264,
+      "lon": 11.5740494
+    },
+    {
+      "type": "node",
+      "id": 577366174,
+      "lat": 50.8964329,
+      "lon": 11.5741613
+    },
+    {
+      "type": "node",
+      "id": 600362453,
+      "lat": 50.8970985,
+      "lon": 11.5737649
+    },
+    {
+      "type": "node",
+      "id": 2202272657,
+      "lat": 50.8935206,
+      "lon": 11.5810651
+    },
+    {
+      "type": "node",
+      "id": 2202272663,
+      "lat": 50.8937051,
+      "lon": 11.5818187
+    },
+    {
+      "type": "node",
+      "id": 2727208399,
+      "lat": 50.8928058,
+      "lon": 11.5812671
+    },
+    {
+      "type": "node",
+      "id": 2727208401,
+      "lat": 50.8928298,
+      "lon": 11.5808751
+    },
+    {
+      "type": "node",
+      "id": 2727208403,
+      "lat": 50.8928874,
+      "lon": 11.5818456
+    },
+    {
+      "type": "node",
+      "id": 2727208415,
+      "lat": 50.8930002,
+      "lon": 11.5806124
+    },
+    {
+      "type": "node",
+      "id": 2727208417,
+      "lat": 50.8930362,
+      "lon": 11.58215
+    },
+    {
+      "type": "node",
+      "id": 2727208447,
+      "lat": 50.8932667,
+      "lon": 11.5822908
+    },
+    {
+      "type": "node",
+      "id": 2727208456,
+      "lat": 50.8934707,
+      "lon": 11.5805592
+    },
+    {
+      "type": "node",
+      "id": 2727208466,
+      "lat": 50.893634,
+      "lon": 11.5820092
+    },
+    {
+      "type": "node",
+      "id": 2409495172,
+      "lat": 50.903483,
+      "lon": 11.5734173
+    },
+    {
+      "type": "node",
+      "id": 2409495173,
+      "lat": 50.9034625,
+      "lon": 11.5736053
+    },
+    {
+      "type": "node",
+      "id": 2409495174,
+      "lat": 50.9034731,
+      "lon": 11.5735085
+    },
+    {
+      "type": "node",
+      "id": 2409495175,
+      "lat": 50.9033234,
+      "lon": 11.5735672
+    },
+    {
+      "type": "node",
+      "id": 2409495176,
+      "lat": 50.9031805,
+      "lon": 11.5733628
+    },
+    {
+      "type": "node",
+      "id": 2409495178,
+      "lat": 50.903326,
+      "lon": 11.5734682
+    },
+    {
+      "type": "node",
+      "id": 2409495182,
+      "lat": 50.9037331,
+      "lon": 11.5734857
+    },
+    {
+      "type": "node",
+      "id": 2409495183,
+      "lat": 50.9033329,
+      "lon": 11.5734045
+    },
+    {
+      "type": "node",
+      "id": 2727209894,
+      "lat": 50.9046363,
+      "lon": 11.5732942
+    },
+    {
+      "type": "node",
+      "id": 2727209896,
+      "lat": 50.9046556,
+      "lon": 11.5730413
+    },
+    {
+      "type": "node",
+      "id": 2727209900,
+      "lat": 50.9047077,
+      "lon": 11.5735507
+    },
+    {
+      "type": "node",
+      "id": 2727209902,
+      "lat": 50.9047429,
+      "lon": 11.5735575
+    },
+    {
+      "type": "node",
+      "id": 2727209904,
+      "lat": 50.9047612,
+      "lon": 11.5733183
+    },
+    {
+      "type": "node",
+      "id": 2727209906,
+      "lat": 50.9048113,
+      "lon": 11.5735706
+    },
+    {
+      "type": "node",
+      "id": 2727209908,
+      "lat": 50.9048296,
+      "lon": 11.5733315
+    },
+    {
+      "type": "node",
+      "id": 2727209911,
+      "lat": 50.9048692,
+      "lon": 11.5733391
+    },
+    {
+      "type": "node",
+      "id": 2727209912,
+      "lat": 50.9048745,
+      "lon": 11.5735828
+    },
+    {
+      "type": "node",
+      "id": 2727209913,
+      "lat": 50.9048885,
+      "lon": 11.5730862
+    },
+    {
+      "type": "node",
+      "id": 2409495177,
+      "lat": 50.9034556,
+      "lon": 11.573669
+    },
+    {
+      "type": "node",
+      "id": 2409495179,
+      "lat": 50.9031395,
+      "lon": 11.5737397
+    },
+    {
+      "type": "node",
+      "id": 2409495180,
+      "lat": 50.9032998,
+      "lon": 11.5737836
+    },
+    {
+      "type": "node",
+      "id": 2409495181,
+      "lat": 50.9037057,
+      "lon": 11.5737375
+    },
+    {
+      "type": "node",
+      "id": 2727209898,
+      "lat": 50.9046752,
+      "lon": 11.573976
+    },
+    {
+      "type": "node",
+      "id": 2727209910,
+      "lat": 50.904842,
+      "lon": 11.5740081
+    },
+    {
+      "type": "node",
+      "id": 86677540,
+      "lat": 50.9218628,
+      "lon": 11.5692296
+    },
+    {
+      "type": "node",
+      "id": 341023534,
+      "lat": 50.9216038,
+      "lon": 11.5693583
+    },
+    {
+      "type": "node",
+      "id": 1830547982,
+      "lat": 50.9212753,
+      "lon": 11.5694816
+    },
+    {
+      "type": "node",
+      "id": 2727004670,
+      "lat": 50.9210855,
+      "lon": 11.5695499
+    },
+    {
+      "type": "node",
+      "id": 2727044018,
+      "lat": 50.9208433,
+      "lon": 11.5678062
+    },
+    {
+      "type": "node",
+      "id": 2727044021,
+      "lat": 50.9209613,
+      "lon": 11.5695719
+    },
+    {
+      "type": "node",
+      "id": 2727044024,
+      "lat": 50.9209617,
+      "lon": 11.569524
+    },
+    {
+      "type": "node",
+      "id": 2727044069,
+      "lat": 50.9214422,
+      "lon": 11.5694266
+    },
+    {
+      "type": "node",
+      "id": 2727044097,
+      "lat": 50.9216763,
+      "lon": 11.5676845
+    },
+    {
+      "type": "node",
+      "id": 2727044137,
+      "lat": 50.9219108,
+      "lon": 11.5675454
+    },
+    {
+      "type": "node",
+      "id": 2727044152,
+      "lat": 50.9222988,
+      "lon": 11.5689537
+    },
+    {
+      "type": "node",
+      "id": 2727044154,
+      "lat": 50.9223712,
+      "lon": 11.5688564
+    },
+    {
+      "type": "node",
+      "id": 2438594994,
+      "lat": 50.9197354,
+      "lon": 11.5812766
+    },
+    {
+      "type": "node",
+      "id": 2438594997,
+      "lat": 50.9193428,
+      "lon": 11.5826538
+    },
+    {
+      "type": "node",
+      "id": 2438595000,
+      "lat": 50.9192423,
+      "lon": 11.5825686
+    },
+    {
+      "type": "node",
+      "id": 2438595004,
+      "lat": 50.9188768,
+      "lon": 11.58125
+    },
+    {
+      "type": "node",
+      "id": 2438595006,
+      "lat": 50.9187924,
+      "lon": 11.5809347
+    },
+    {
+      "type": "node",
+      "id": 2438595007,
+      "lat": 50.9188844,
+      "lon": 11.5807502
+    },
+    {
+      "type": "node",
+      "id": 2438595009,
+      "lat": 50.9192843,
+      "lon": 11.5809
+    },
+    {
+      "type": "node",
+      "id": 2438595010,
+      "lat": 50.9196411,
+      "lon": 11.5811295
+    },
+    {
+      "type": "node",
+      "id": 3218957319,
+      "lat": 50.9197365,
+      "lon": 11.5812179
+    },
+    {
+      "type": "node",
+      "id": 2592148626,
+      "lat": 50.8782901,
+      "lon": 11.589823
+    },
+    {
+      "type": "node",
+      "id": 2592148640,
+      "lat": 50.8783515,
+      "lon": 11.5906639
+    },
+    {
+      "type": "node",
+      "id": 2592148690,
+      "lat": 50.8787321,
+      "lon": 11.5897264
+    },
+    {
+      "type": "node",
+      "id": 2592148704,
+      "lat": 50.8788125,
+      "lon": 11.5905512
+    },
+    {
+      "type": "node",
+      "id": 1526696589,
+      "lat": 50.882273,
+      "lon": 11.5906985
+    },
+    {
+      "type": "node",
+      "id": 1526696601,
+      "lat": 50.8819177,
+      "lon": 11.5912849
+    },
+    {
+      "type": "node",
+      "id": 1526696604,
+      "lat": 50.8820569,
+      "lon": 11.5928126
+    },
+    {
+      "type": "node",
+      "id": 1526696616,
+      "lat": 50.8827249,
+      "lon": 11.5901964
+    },
+    {
+      "type": "node",
+      "id": 1526696693,
+      "lat": 50.882935,
+      "lon": 11.5896417
+    },
+    {
+      "type": "node",
+      "id": 1526697121,
+      "lat": 50.884013,
+      "lon": 11.5889696
+    },
+    {
+      "type": "node",
+      "id": 1526697185,
+      "lat": 50.8841847,
+      "lon": 11.5908399
+    },
+    {
+      "type": "node",
+      "id": 1526697196,
+      "lat": 50.8840943,
+      "lon": 11.589643
+    },
+    {
+      "type": "node",
+      "id": 3210697815,
+      "lat": 50.8842967,
+      "lon": 11.5923218
+    },
+    {
+      "type": "node",
+      "id": 289005543,
+      "lat": 50.8830072,
+      "lon": 11.6032658
+    },
+    {
+      "type": "node",
+      "id": 289005544,
+      "lat": 50.8823061,
+      "lon": 11.6014364
+    },
+    {
+      "type": "node",
+      "id": 289005547,
+      "lat": 50.8833951,
+      "lon": 11.6028156
+    },
+    {
+      "type": "node",
+      "id": 653297666,
+      "lat": 50.8837399,
+      "lon": 11.6024289
+    },
+    {
+      "type": "node",
+      "id": 2308576492,
+      "lat": 50.8822871,
+      "lon": 11.601726
+    },
+    {
+      "type": "node",
+      "id": 2308576495,
+      "lat": 50.8823358,
+      "lon": 11.6016665
+    },
+    {
+      "type": "node",
+      "id": 2308576498,
+      "lat": 50.882337,
+      "lon": 11.6015371
+    },
+    {
+      "type": "node",
+      "id": 2420702512,
+      "lat": 50.8826311,
+      "lon": 11.6021563
+    },
+    {
+      "type": "node",
+      "id": 2420702513,
+      "lat": 50.8829335,
+      "lon": 11.6027971
+    },
+    {
+      "type": "node",
+      "id": 2420702514,
+      "lat": 50.8831649,
+      "lon": 11.6021066
+    },
+    {
+      "type": "node",
+      "id": 2420702515,
+      "lat": 50.8829286,
+      "lon": 11.6023863
+    },
+    {
+      "type": "node",
+      "id": 2420702516,
+      "lat": 50.883168,
+      "lon": 11.6023235
+    },
+    {
+      "type": "node",
+      "id": 2420702517,
+      "lat": 50.883104,
+      "lon": 11.6021768
+    },
+    {
+      "type": "node",
+      "id": 2420702518,
+      "lat": 50.8829875,
+      "lon": 11.6025213
+    },
+    {
+      "type": "node",
+      "id": 2420702519,
+      "lat": 50.8828824,
+      "lon": 11.6022832
+    },
+    {
+      "type": "node",
+      "id": 2420702520,
+      "lat": 50.8830647,
+      "lon": 11.6020891
+    },
+    {
+      "type": "node",
+      "id": 2420702521,
+      "lat": 50.8828069,
+      "lon": 11.6021186
+    },
+    {
+      "type": "node",
+      "id": 2420702522,
+      "lat": 50.8832994,
+      "lon": 11.6023992
+    },
+    {
+      "type": "node",
+      "id": 2420702523,
+      "lat": 50.8830542,
+      "lon": 11.6016485
+    },
+    {
+      "type": "node",
+      "id": 2420702524,
+      "lat": 50.8829844,
+      "lon": 11.6019141
+    },
+    {
+      "type": "node",
+      "id": 2420702525,
+      "lat": 50.8829949,
+      "lon": 11.601717
+    },
+    {
+      "type": "node",
+      "id": 2420702526,
+      "lat": 50.8833647,
+      "lon": 11.6023239
+    },
+    {
+      "type": "node",
+      "id": 2420702527,
+      "lat": 50.8828235,
+      "lon": 11.6023531
+    },
+    {
+      "type": "node",
+      "id": 2420702528,
+      "lat": 50.8831308,
+      "lon": 11.6020128
+    },
+    {
+      "type": "node",
+      "id": 2420702529,
+      "lat": 50.8829741,
+      "lon": 11.602749
+    },
+    {
+      "type": "node",
+      "id": 2420702530,
+      "lat": 50.8826949,
+      "lon": 11.6020806
+    },
+    {
+      "type": "node",
+      "id": 2420702531,
+      "lat": 50.8828481,
+      "lon": 11.602482
+    },
+    {
+      "type": "node",
+      "id": 289005546,
+      "lat": 50.8826112,
+      "lon": 11.6011572
+    },
+    {
+      "type": "node",
+      "id": 653297667,
+      "lat": 50.8827847,
+      "lon": 11.6009944
+    },
+    {
+      "type": "node",
+      "id": 732345575,
+      "lat": 50.8836238,
+      "lon": 11.6022137
+    },
+    {
+      "type": "node",
+      "id": 2464833180,
+      "lat": 50.883792,
+      "lon": 11.6049722
+    },
+    {
+      "type": "node",
+      "id": 2482073162,
+      "lat": 50.885299,
+      "lon": 11.605582
+    },
+    {
+      "type": "node",
+      "id": 2482073164,
+      "lat": 50.8845595,
+      "lon": 11.6040505
+    },
+    {
+      "type": "node",
+      "id": 2482102709,
+      "lat": 50.8837093,
+      "lon": 11.6021033
+    },
+    {
+      "type": "node",
+      "id": 2482073163,
+      "lat": 50.8844918,
+      "lon": 11.6065315
+    },
+    {
+      "type": "node",
+      "id": 653239539,
+      "lat": 50.8917445,
+      "lon": 11.6127053
+    },
+    {
+      "type": "node",
+      "id": 653239549,
+      "lat": 50.8906395,
+      "lon": 11.6122786
+    },
+    {
+      "type": "node",
+      "id": 2141013949,
+      "lat": 50.891218,
+      "lon": 11.6124843
+    },
+    {
+      "type": "node",
+      "id": 2468013032,
+      "lat": 50.8906187,
+      "lon": 11.6123436
+    },
+    {
+      "type": "node",
+      "id": 2468013034,
+      "lat": 50.8904628,
+      "lon": 11.6128316
+    },
+    {
+      "type": "node",
+      "id": 2759529082,
+      "lat": 50.8932256,
+      "lon": 11.6052022
+    },
+    {
+      "type": "node",
+      "id": 2759529084,
+      "lat": 50.8932331,
+      "lon": 11.605348
+    },
+    {
+      "type": "node",
+      "id": 2759529086,
+      "lat": 50.8932352,
+      "lon": 11.6049088
+    },
+    {
+      "type": "node",
+      "id": 2759529091,
+      "lat": 50.8932694,
+      "lon": 11.6047654
+    },
+    {
+      "type": "node",
+      "id": 2759529127,
+      "lat": 50.893401,
+      "lon": 11.6046611
+    },
+    {
+      "type": "node",
+      "id": 2759529148,
+      "lat": 50.8934846,
+      "lon": 11.6048697
+    },
+    {
+      "type": "node",
+      "id": 2759529168,
+      "lat": 50.8937341,
+      "lon": 11.6048914
+    },
+    {
+      "type": "node",
+      "id": 2759529169,
+      "lat": 50.8937698,
+      "lon": 11.6052826
+    },
+    {
+      "type": "node",
+      "id": 1844001838,
+      "lat": 50.8797372,
+      "lon": 11.6235945
+    },
+    {
+      "type": "node",
+      "id": 1844001845,
+      "lat": 50.879889,
+      "lon": 11.6251785
+    },
+    {
+      "type": "node",
+      "id": 1844001853,
+      "lat": 50.879943,
+      "lon": 11.6229549
+    },
+    {
+      "type": "node",
+      "id": 1844001883,
+      "lat": 50.8802083,
+      "lon": 11.622539
+    },
+    {
+      "type": "node",
+      "id": 1844001918,
+      "lat": 50.8804365,
+      "lon": 11.6250272
+    },
+    {
+      "type": "node",
+      "id": 1844001945,
+      "lat": 50.8805941,
+      "lon": 11.6239221
+    },
+    {
+      "type": "node",
+      "id": 1844001952,
+      "lat": 50.8806737,
+      "lon": 11.6227364
+    },
+    {
+      "type": "node",
+      "id": 1844001960,
+      "lat": 50.8807306,
+      "lon": 11.6229292
+    },
+    {
+      "type": "node",
+      "id": 429424624,
+      "lat": 50.8794751,
+      "lon": 11.6250117
+    },
+    {
+      "type": "node",
+      "id": 1843879547,
+      "lat": 50.879091,
+      "lon": 11.6322293
+    },
+    {
+      "type": "node",
+      "id": 1843879551,
+      "lat": 50.8791566,
+      "lon": 11.6307258
+    },
+    {
+      "type": "node",
+      "id": 1843879586,
+      "lat": 50.8795861,
+      "lon": 11.6302197
+    },
+    {
+      "type": "node",
+      "id": 1843879594,
+      "lat": 50.8797058,
+      "lon": 11.629373
+    },
+    {
+      "type": "node",
+      "id": 1843879617,
+      "lat": 50.8798811,
+      "lon": 11.6326339
+    },
+    {
+      "type": "node",
+      "id": 1843879686,
+      "lat": 50.8803456,
+      "lon": 11.6296386
+    },
+    {
+      "type": "node",
+      "id": 653239540,
+      "lat": 50.8915093,
+      "lon": 11.6141288
+    },
+    {
+      "type": "node",
+      "id": 653239541,
+      "lat": 50.8907818,
+      "lon": 11.6140051
+    },
+    {
+      "type": "node",
+      "id": 653239543,
+      "lat": 50.8902209,
+      "lon": 11.6152346
+    },
+    {
+      "type": "node",
+      "id": 653239545,
+      "lat": 50.8902079,
+      "lon": 11.6136296
+    },
+    {
+      "type": "node",
+      "id": 2141013944,
+      "lat": 50.8901683,
+      "lon": 11.6139708
+    },
+    {
+      "type": "node",
+      "id": 2141013946,
+      "lat": 50.8899785,
+      "lon": 11.6144729
+    },
+    {
+      "type": "node",
+      "id": 2141013947,
+      "lat": 50.8898031,
+      "lon": 11.6148475
+    },
+    {
+      "type": "node",
+      "id": 2141013948,
+      "lat": 50.890251,
+      "lon": 11.6136752
+    },
+    {
+      "type": "node",
+      "id": 2141013951,
+      "lat": 50.8907842,
+      "lon": 11.613863
+    },
+    {
+      "type": "node",
+      "id": 2141040981,
+      "lat": 50.8916291,
+      "lon": 11.6134036
+    },
+    {
+      "type": "node",
+      "id": 2141018845,
+      "lat": 50.8907864,
+      "lon": 11.6139229
+    },
+    {
+      "type": "node",
+      "id": 1777824906,
+      "lat": 50.9167282,
+      "lon": 11.5919033
+    },
+    {
+      "type": "node",
+      "id": 1777824907,
+      "lat": 50.9169619,
+      "lon": 11.5905095
+    },
+    {
+      "type": "node",
+      "id": 635046846,
+      "lat": 50.9145223,
+      "lon": 11.5886485
+    },
+    {
+      "type": "node",
+      "id": 635046847,
+      "lat": 50.9148706,
+      "lon": 11.5875542
+    },
+    {
+      "type": "node",
+      "id": 635046848,
+      "lat": 50.9172272,
+      "lon": 11.5893492
+    },
+    {
+      "type": "node",
+      "id": 635046850,
+      "lat": 50.9166564,
+      "lon": 11.5918833
+    },
+    {
+      "type": "node",
+      "id": 635046852,
+      "lat": 50.9160983,
+      "lon": 11.5914326
+    },
+    {
+      "type": "node",
+      "id": 635046854,
+      "lat": 50.9155084,
+      "lon": 11.5909219
+    },
+    {
+      "type": "node",
+      "id": 635046857,
+      "lat": 50.9152359,
+      "lon": 11.5905153
+    },
+    {
+      "type": "node",
+      "id": 635046859,
+      "lat": 50.9148673,
+      "lon": 11.5897697
+    },
+    {
+      "type": "node",
+      "id": 635046860,
+      "lat": 50.9145894,
+      "lon": 11.5894481
+    },
+    {
+      "type": "node",
+      "id": 635046861,
+      "lat": 50.914518,
+      "lon": 11.5893778
+    },
+    {
+      "type": "node",
+      "id": 635046863,
+      "lat": 50.9147083,
+      "lon": 11.5887933
+    },
+    {
+      "type": "node",
+      "id": 2726049024,
+      "lat": 50.9227492,
+      "lon": 11.5917358
+    },
+    {
+      "type": "node",
+      "id": 2726049025,
+      "lat": 50.9227612,
+      "lon": 11.5923925
+    },
+    {
+      "type": "node",
+      "id": 2726049026,
+      "lat": 50.9229221,
+      "lon": 11.592544
+    },
+    {
+      "type": "node",
+      "id": 2726049027,
+      "lat": 50.9230583,
+      "lon": 11.5917358
+    },
+    {
+      "type": "node",
+      "id": 2726049029,
+      "lat": 50.9231245,
+      "lon": 11.593186
+    },
+    {
+      "type": "node",
+      "id": 2726049035,
+      "lat": 50.9233015,
+      "lon": 11.5917678
+    },
+    {
+      "type": "node",
+      "id": 2726049047,
+      "lat": 50.9234954,
+      "lon": 11.592967
+    },
+    {
+      "type": "node",
+      "id": 2726049048,
+      "lat": 50.9235893,
+      "lon": 11.5917886
+    },
+    {
+      "type": "node",
+      "id": 2726049049,
+      "lat": 50.9237005,
+      "lon": 11.5918467
+    },
+    {
+      "type": "node",
+      "id": 2726049050,
+      "lat": 50.9237633,
+      "lon": 11.5919546
+    },
+    {
+      "type": "node",
+      "id": 2726049039,
+      "lat": 50.9233913,
+      "lon": 11.5933603
+    },
+    {
+      "type": "node",
+      "id": 2726049040,
+      "lat": 50.9233978,
+      "lon": 11.5933355
+    },
+    {
+      "type": "node",
+      "id": 1746462436,
+      "lat": 50.9213519,
+      "lon": 11.6053204
+    },
+    {
+      "type": "node",
+      "id": 1746462437,
+      "lat": 50.9214133,
+      "lon": 11.6044593
+    },
+    {
+      "type": "node",
+      "id": 1746462438,
+      "lat": 50.9214558,
+      "lon": 11.6053389
+    },
+    {
+      "type": "node",
+      "id": 1746462439,
+      "lat": 50.9215171,
+      "lon": 11.6044778
+    },
+    {
+      "type": "node",
+      "id": 1746462432,
+      "lat": 50.9210734,
+      "lon": 11.6046818
+    },
+    {
+      "type": "node",
+      "id": 1746462433,
+      "lat": 50.9210886,
+      "lon": 11.6044232
+    },
+    {
+      "type": "node",
+      "id": 1746462434,
+      "lat": 50.9213256,
+      "lon": 11.6047189
+    },
+    {
+      "type": "node",
+      "id": 1746462435,
+      "lat": 50.9213407,
+      "lon": 11.6044603
+    },
+    {
+      "type": "node",
+      "id": 2289512435,
+      "lat": 50.920806,
+      "lon": 11.6051694
+    },
+    {
+      "type": "node",
+      "id": 2289512436,
+      "lat": 50.92081,
+      "lon": 11.6056139
+    },
+    {
+      "type": "node",
+      "id": 2289512438,
+      "lat": 50.9208159,
+      "lon": 11.6058079
+    },
+    {
+      "type": "node",
+      "id": 2289512439,
+      "lat": 50.9208317,
+      "lon": 11.6049003
+    },
+    {
+      "type": "node",
+      "id": 2289512440,
+      "lat": 50.9209067,
+      "lon": 11.6046405
+    },
+    {
+      "type": "node",
+      "id": 2289512441,
+      "lat": 50.9209678,
+      "lon": 11.6045059
+    },
+    {
+      "type": "node",
+      "id": 2289512443,
+      "lat": 50.9210724,
+      "lon": 11.6043744
+    },
+    {
+      "type": "node",
+      "id": 2289512446,
+      "lat": 50.9212539,
+      "lon": 11.6043244
+    },
+    {
+      "type": "node",
+      "id": 2289512451,
+      "lat": 50.9214709,
+      "lon": 11.6043369
+    },
+    {
+      "type": "node",
+      "id": 2289512452,
+      "lat": 50.9214986,
+      "lon": 11.6058204
+    },
+    {
+      "type": "node",
+      "id": 2289512453,
+      "lat": 50.9215676,
+      "lon": 11.6053854
+    },
+    {
+      "type": "node",
+      "id": 2289512455,
+      "lat": 50.921613,
+      "lon": 11.6050912
+    },
+    {
+      "type": "node",
+      "id": 2289512456,
+      "lat": 50.921686,
+      "lon": 11.6043682
+    },
+    {
+      "type": "node",
+      "id": 691593108,
+      "lat": 50.9306226,
+      "lon": 11.5555562
+    },
+    {
+      "type": "node",
+      "id": 691593120,
+      "lat": 50.9305929,
+      "lon": 11.5560748
+    },
+    {
+      "type": "node",
+      "id": 691593126,
+      "lat": 50.9304939,
+      "lon": 11.5561295
+    },
+    {
+      "type": "node",
+      "id": 691593132,
+      "lat": 50.9305042,
+      "lon": 11.5556926
+    },
+    {
+      "type": "node",
+      "id": 691593139,
+      "lat": 50.9304628,
+      "lon": 11.555681
+    },
+    {
+      "type": "node",
+      "id": 691593146,
+      "lat": 50.9304777,
+      "lon": 11.5555371
+    },
+    {
+      "type": "node",
+      "id": 691593151,
+      "lat": 50.9305624,
+      "lon": 11.5555485
+    },
+    {
+      "type": "node",
+      "id": 694274928,
+      "lat": 50.9304401,
+      "lon": 11.5560363
+    },
+    {
+      "type": "node",
+      "id": 694274929,
+      "lat": 50.9304311,
+      "lon": 11.5561291
+    },
+    {
+      "type": "node",
+      "id": 697179855,
+      "lat": 50.9304786,
+      "lon": 11.5560272
+    },
+    {
+      "type": "node",
+      "id": 829906916,
+      "lat": 50.9305752,
+      "lon": 11.5561243
+    },
+    {
+      "type": "node",
+      "id": 1890033758,
+      "lat": 50.9306095,
+      "lon": 11.5557122
+    },
+    {
+      "type": "node",
+      "id": 340007198,
+      "lat": 50.9315866,
+      "lon": 11.5732527
+    },
+    {
+      "type": "node",
+      "id": 340007202,
+      "lat": 50.9313324,
+      "lon": 11.5730724
+    },
+    {
+      "type": "node",
+      "id": 291555218,
+      "lat": 50.9306441,
+      "lon": 11.5794266
+    },
+    {
+      "type": "node",
+      "id": 291555219,
+      "lat": 50.929947,
+      "lon": 11.5790174
+    },
+    {
+      "type": "node",
+      "id": 340007200,
+      "lat": 50.9312999,
+      "lon": 11.5741968
+    },
+    {
+      "type": "node",
+      "id": 340007201,
+      "lat": 50.9310403,
+      "lon": 11.5740252
+    },
+    {
+      "type": "node",
+      "id": 291555212,
+      "lat": 50.9311723,
+      "lon": 11.5790016
+    },
+    {
+      "type": "node",
+      "id": 291555214,
+      "lat": 50.9310681,
+      "lon": 11.5794306
+    },
+    {
+      "type": "node",
+      "id": 291555216,
+      "lat": 50.9310031,
+      "lon": 11.5796783
+    },
+    {
+      "type": "node",
+      "id": 291555221,
+      "lat": 50.9305029,
+      "lon": 11.5787169
+    },
+    {
+      "type": "node",
+      "id": 291555225,
+      "lat": 50.9305872,
+      "lon": 11.5782926
+    },
+    {
+      "type": "node",
+      "id": 291555227,
+      "lat": 50.9309941,
+      "lon": 11.5785033
+    },
+    {
+      "type": "node",
+      "id": 291555228,
+      "lat": 50.9309355,
+      "lon": 11.5788509
+    },
+    {
+      "type": "node",
+      "id": 626795070,
+      "lat": 50.9300621,
+      "lon": 11.5784763
+    },
+    {
+      "type": "node",
+      "id": 436671787,
+      "lat": 50.9257677,
+      "lon": 11.5858817
+    },
+    {
+      "type": "node",
+      "id": 436671788,
+      "lat": 50.9256526,
+      "lon": 11.5858553
+    },
+    {
+      "type": "node",
+      "id": 436671789,
+      "lat": 50.9256132,
+      "lon": 11.5860734
+    },
+    {
+      "type": "node",
+      "id": 436671790,
+      "lat": 50.9257473,
+      "lon": 11.5861041
+    },
+    {
+      "type": "node",
+      "id": 1662292236,
+      "lat": 50.9256242,
+      "lon": 11.5859527
+    },
+    {
+      "type": "node",
+      "id": 1662292237,
+      "lat": 50.9256433,
+      "lon": 11.5859571
+    },
+    {
+      "type": "node",
+      "id": 1662292242,
+      "lat": 50.9258098,
+      "lon": 11.5896875
+    },
+    {
+      "type": "node",
+      "id": 1662292243,
+      "lat": 50.9258141,
+      "lon": 11.5900114
+    },
+    {
+      "type": "node",
+      "id": 1662292257,
+      "lat": 50.9258868,
+      "lon": 11.5895961
+    },
+    {
+      "type": "node",
+      "id": 1662292258,
+      "lat": 50.925888,
+      "lon": 11.5896848
+    },
+    {
+      "type": "node",
+      "id": 1662292259,
+      "lat": 50.9258913,
+      "lon": 11.5900088
+    },
+    {
+      "type": "node",
+      "id": 1662292261,
+      "lat": 50.9258922,
+      "lon": 11.5900768
+    },
+    {
+      "type": "node",
+      "id": 1662292269,
+      "lat": 50.9259254,
+      "lon": 11.5894315
+    },
+    {
+      "type": "node",
+      "id": 1662292270,
+      "lat": 50.9259276,
+      "lon": 11.5895948
+    },
+    {
+      "type": "node",
+      "id": 1662292271,
+      "lat": 50.925933,
+      "lon": 11.5900754
+    },
+    {
+      "type": "node",
+      "id": 1662292272,
+      "lat": 50.9259342,
+      "lon": 11.5901663
+    },
+    {
+      "type": "node",
+      "id": 1662292282,
+      "lat": 50.9259941,
+      "lon": 11.5894292
+    },
+    {
+      "type": "node",
+      "id": 1662292283,
+      "lat": 50.9259973,
+      "lon": 11.5896688
+    },
+    {
+      "type": "node",
+      "id": 1662292284,
+      "lat": 50.9260023,
+      "lon": 11.5899991
+    },
+    {
+      "type": "node",
+      "id": 1662292285,
+      "lat": 50.9260045,
+      "lon": 11.5901639
+    },
+    {
+      "type": "node",
+      "id": 1662292292,
+      "lat": 50.9260546,
+      "lon": 11.5894415
+    },
+    {
+      "type": "node",
+      "id": 1662292293,
+      "lat": 50.9260563,
+      "lon": 11.5895667
+    },
+    {
+      "type": "node",
+      "id": 1662292294,
+      "lat": 50.92606,
+      "lon": 11.590135
+    },
+    {
+      "type": "node",
+      "id": 1662292295,
+      "lat": 50.9260616,
+      "lon": 11.5902573
+    },
+    {
+      "type": "node",
+      "id": 1662292296,
+      "lat": 50.9260645,
+      "lon": 11.589997
+    },
+    {
+      "type": "node",
+      "id": 1662292297,
+      "lat": 50.9260649,
+      "lon": 11.5900269
+    },
+    {
+      "type": "node",
+      "id": 1662292302,
+      "lat": 50.926078,
+      "lon": 11.5900264
+    },
+    {
+      "type": "node",
+      "id": 1662292303,
+      "lat": 50.9260781,
+      "lon": 11.589566
+    },
+    {
+      "type": "node",
+      "id": 1662292304,
+      "lat": 50.9260794,
+      "lon": 11.589666
+    },
+    {
+      "type": "node",
+      "id": 1662292305,
+      "lat": 50.9260794,
+      "lon": 11.5901343
+    },
+    {
+      "type": "node",
+      "id": 1662292347,
+      "lat": 50.9262583,
+      "lon": 11.5895715
+    },
+    {
+      "type": "node",
+      "id": 1662292349,
+      "lat": 50.9262587,
+      "lon": 11.5900219
+    },
+    {
+      "type": "node",
+      "id": 1662292350,
+      "lat": 50.9262596,
+      "lon": 11.5896683
+    },
+    {
+      "type": "node",
+      "id": 1662292352,
+      "lat": 50.9262599,
+      "lon": 11.5901116
+    },
+    {
+      "type": "node",
+      "id": 1662292354,
+      "lat": 50.9262711,
+      "lon": 11.5896679
+    },
+    {
+      "type": "node",
+      "id": 1662292357,
+      "lat": 50.9262759,
+      "lon": 11.5900213
+    },
+    {
+      "type": "node",
+      "id": 1662292358,
+      "lat": 50.9262776,
+      "lon": 11.589434
+    },
+    {
+      "type": "node",
+      "id": 1662292359,
+      "lat": 50.9262795,
+      "lon": 11.5895708
+    },
+    {
+      "type": "node",
+      "id": 1662292361,
+      "lat": 50.9262841,
+      "lon": 11.5901107
+    },
+    {
+      "type": "node",
+      "id": 1662292363,
+      "lat": 50.926286,
+      "lon": 11.5902498
+    },
+    {
+      "type": "node",
+      "id": 2272784314,
+      "lat": 50.9260317,
+      "lon": 11.5896676
+    },
+    {
+      "type": "node",
+      "id": 2272784315,
+      "lat": 50.9262589,
+      "lon": 11.5896184
+    },
+    {
+      "type": "node",
+      "id": 2272784316,
+      "lat": 50.9262592,
+      "lon": 11.5900627
+    },
+    {
+      "type": "node",
+      "id": 3237534533,
+      "lat": 50.9258215,
+      "lon": 11.5900112
+    },
+    {
+      "type": "node",
+      "id": 3237534538,
+      "lat": 50.9258137,
+      "lon": 11.5899842
+    },
+    {
+      "type": "node",
+      "id": 304620432,
+      "lat": 50.9356121,
+      "lon": 11.5985685
+    },
+    {
+      "type": "node",
+      "id": 1684081124,
+      "lat": 50.933859,
+      "lon": 11.5972022
+    },
+    {
+      "type": "node",
+      "id": 1684081135,
+      "lat": 50.9338654,
+      "lon": 11.597664
+    },
+    {
+      "type": "node",
+      "id": 1684081136,
+      "lat": 50.9338681,
+      "lon": 11.5973301
+    },
+    {
+      "type": "node",
+      "id": 1684081140,
+      "lat": 50.9338738,
+      "lon": 11.5977816
+    },
+    {
+      "type": "node",
+      "id": 1684081156,
+      "lat": 50.9339314,
+      "lon": 11.5973188
+    },
+    {
+      "type": "node",
+      "id": 1684081176,
+      "lat": 50.9339549,
+      "lon": 11.597648
+    },
+    {
+      "type": "node",
+      "id": 1684081282,
+      "lat": 50.9341986,
+      "lon": 11.5977236
+    },
+    {
+      "type": "node",
+      "id": 1684081285,
+      "lat": 50.9342024,
+      "lon": 11.5977756
+    },
+    {
+      "type": "node",
+      "id": 1684081323,
+      "lat": 50.9342555,
+      "lon": 11.5977131
+    },
+    {
+      "type": "node",
+      "id": 1684081327,
+      "lat": 50.9342593,
+      "lon": 11.5977655
+    },
+    {
+      "type": "node",
+      "id": 1684081334,
+      "lat": 50.93429,
+      "lon": 11.597243
+    },
+    {
+      "type": "node",
+      "id": 1684081338,
+      "lat": 50.9343134,
+      "lon": 11.5975721
+    },
+    {
+      "type": "node",
+      "id": 1684081353,
+      "lat": 50.9343461,
+      "lon": 11.5971152
+    },
+    {
+      "type": "node",
+      "id": 1684081357,
+      "lat": 50.9343544,
+      "lon": 11.5972315
+    },
+    {
+      "type": "node",
+      "id": 1684081394,
+      "lat": 50.9344274,
+      "lon": 11.5975304
+    },
+    {
+      "type": "node",
+      "id": 1684081397,
+      "lat": 50.9344289,
+      "lon": 11.5975515
+    },
+    {
+      "type": "node",
+      "id": 1684081402,
+      "lat": 50.9344392,
+      "lon": 11.5976803
+    },
+    {
+      "type": "node",
+      "id": 1684081404,
+      "lat": 50.9344436,
+      "lon": 11.5977418
+    },
+    {
+      "type": "node",
+      "id": 1684081436,
+      "lat": 50.9345267,
+      "lon": 11.5975126
+    },
+    {
+      "type": "node",
+      "id": 1684081440,
+      "lat": 50.9345418,
+      "lon": 11.5977242
+    },
+    {
+      "type": "node",
+      "id": 267246494,
+      "lat": 50.9354439,
+      "lon": 11.5978812
+    },
+    {
+      "type": "node",
+      "id": 282231349,
+      "lat": 50.9357883,
+      "lon": 11.5992364
+    },
+    {
+      "type": "node",
+      "id": 282231371,
+      "lat": 50.935888,
+      "lon": 11.5993589
+    },
+    {
+      "type": "node",
+      "id": 302932858,
+      "lat": 50.9354582,
+      "lon": 11.5982173
+    },
+    {
+      "type": "node",
+      "id": 302932904,
+      "lat": 50.9357155,
+      "lon": 11.5990058
+    },
+    {
+      "type": "node",
+      "id": 1684081804,
+      "lat": 50.9355175,
+      "lon": 11.5978369
+    },
+    {
+      "type": "node",
+      "id": 2458464293,
+      "lat": 50.9354366,
+      "lon": 11.597952
+    },
+    {
+      "type": "node",
+      "id": 2458464294,
+      "lat": 50.9354555,
+      "lon": 11.5980503
+    },
+    {
+      "type": "node",
+      "id": 2458464295,
+      "lat": 50.9354733,
+      "lon": 11.597842
+    },
+    {
+      "type": "node",
+      "id": 2458464296,
+      "lat": 50.9355503,
+      "lon": 11.5984012
+    },
+    {
+      "type": "node",
+      "id": 2458464304,
+      "lat": 50.9357378,
+      "lon": 11.5990356
+    },
+    {
+      "type": "node",
+      "id": 2458464308,
+      "lat": 50.9357816,
+      "lon": 11.5989724
+    },
+    {
+      "type": "node",
+      "id": 2458464310,
+      "lat": 50.9358065,
+      "lon": 11.5991458
+    },
+    {
+      "type": "node",
+      "id": 2458464311,
+      "lat": 50.9358312,
+      "lon": 11.5981141
+    },
+    {
+      "type": "node",
+      "id": 2458464312,
+      "lat": 50.9358488,
+      "lon": 11.5993311
+    },
+    {
+      "type": "node",
+      "id": 2458464313,
+      "lat": 50.9358502,
+      "lon": 11.5990799
+    },
+    {
+      "type": "node",
+      "id": 2458464318,
+      "lat": 50.9358888,
+      "lon": 11.5988179
+    },
+    {
+      "type": "node",
+      "id": 2458464319,
+      "lat": 50.9358895,
+      "lon": 11.5991458
+    },
+    {
+      "type": "node",
+      "id": 2458464321,
+      "lat": 50.935925,
+      "lon": 11.5993444
+    },
+    {
+      "type": "node",
+      "id": 2458464323,
+      "lat": 50.9359734,
+      "lon": 11.5992646
+    },
+    {
+      "type": "node",
+      "id": 2458464324,
+      "lat": 50.9359943,
+      "lon": 11.5986657
+    },
+    {
+      "type": "node",
+      "id": 2458464325,
+      "lat": 50.9360034,
+      "lon": 11.5986801
+    },
+    {
+      "type": "node",
+      "id": 2458464326,
+      "lat": 50.9360034,
+      "lon": 11.598965
+    },
+    {
+      "type": "node",
+      "id": 2458464328,
+      "lat": 50.9360094,
+      "lon": 11.5989746
+    },
+    {
+      "type": "node",
+      "id": 2458464329,
+      "lat": 50.9360116,
+      "lon": 11.5991599
+    },
+    {
+      "type": "node",
+      "id": 2458464330,
+      "lat": 50.9360939,
+      "lon": 11.5985448
+    },
+    {
+      "type": "node",
+      "id": 2458464331,
+      "lat": 50.9360939,
+      "lon": 11.598795
+    },
+    {
+      "type": "node",
+      "id": 2458464332,
+      "lat": 50.9361052,
+      "lon": 11.5988166
+    },
+    {
+      "type": "node",
+      "id": 2458464333,
+      "lat": 50.9361278,
+      "lon": 11.5986095
+    },
+    {
+      "type": "node",
+      "id": 2458464334,
+      "lat": 50.9361399,
+      "lon": 11.5985915
+    },
+    {
+      "type": "node",
+      "id": 2458464335,
+      "lat": 50.9361523,
+      "lon": 11.5985129
+    },
+    {
+      "type": "node",
+      "id": 2458464336,
+      "lat": 50.9361545,
+      "lon": 11.5988815
+    },
+    {
+      "type": "node",
+      "id": 2458464337,
+      "lat": 50.9361829,
+      "lon": 11.5986681
+    },
+    {
+      "type": "node",
+      "id": 2458464339,
+      "lat": 50.9362662,
+      "lon": 11.5987562
+    },
+    {
+      "type": "node",
+      "id": 1830620019,
+      "lat": 50.9332993,
+      "lon": 11.6062431
+    },
+    {
+      "type": "node",
+      "id": 352808817,
+      "lat": 50.9329956,
+      "lon": 11.6051519
+    },
+    {
+      "type": "node",
+      "id": 352808818,
+      "lat": 50.933809,
+      "lon": 11.6057632
+    },
+    {
+      "type": "node",
+      "id": 352808815,
+      "lat": 50.9327809,
+      "lon": 11.6058328
+    },
+    {
+      "type": "node",
+      "id": 2045933581,
+      "lat": 50.9338868,
+      "lon": 11.6061892
+    },
+    {
+      "type": "node",
+      "id": 707736671,
+      "lat": 50.9347431,
+      "lon": 11.6053937
+    },
+    {
+      "type": "node",
+      "id": 707736673,
+      "lat": 50.9349838,
+      "lon": 11.6057376
+    },
+    {
+      "type": "node",
+      "id": 707736674,
+      "lat": 50.9345987,
+      "lon": 11.6058552
+    },
+    {
+      "type": "node",
+      "id": 707736676,
+      "lat": 50.9347163,
+      "lon": 11.6058737
+    },
+    {
+      "type": "node",
+      "id": 2894479850,
+      "lat": 50.9346362,
+      "lon": 11.605316
+    },
+    {
+      "type": "node",
+      "id": 2894479851,
+      "lat": 50.9346935,
+      "lon": 11.6051188
+    },
+    {
+      "type": "node",
+      "id": 2894479852,
+      "lat": 50.9346951,
+      "lon": 11.6059303
+    },
+    {
+      "type": "node",
+      "id": 2894479853,
+      "lat": 50.934774,
+      "lon": 11.6059215
+    },
+    {
+      "type": "node",
+      "id": 2894479854,
+      "lat": 50.9347935,
+      "lon": 11.6057892
+    },
+    {
+      "type": "node",
+      "id": 2894479856,
+      "lat": 50.9348122,
+      "lon": 11.6058001
+    },
+    {
+      "type": "node",
+      "id": 2894479857,
+      "lat": 50.9348859,
+      "lon": 11.6052736
+    },
+    {
+      "type": "node",
+      "id": 2894479858,
+      "lat": 50.9348879,
+      "lon": 11.6052629
+    },
+    {
+      "type": "node",
+      "id": 2894479860,
+      "lat": 50.9349238,
+      "lon": 11.6056179
+    },
+    {
+      "type": "node",
+      "id": 2894479861,
+      "lat": 50.9349453,
+      "lon": 11.6053311
+    },
+    {
+      "type": "node",
+      "id": 2894479862,
+      "lat": 50.9349509,
+      "lon": 11.6053248
+    },
+    {
+      "type": "node",
+      "id": 2894479873,
+      "lat": 50.9350879,
+      "lon": 11.6055966
+    },
+    {
+      "type": "node",
+      "id": 352808816,
+      "lat": 50.9338553,
+      "lon": 11.6067024
+    },
+    {
+      "type": "node",
+      "id": 287519398,
+      "lat": 50.9382826,
+      "lon": 11.5885657
+    },
+    {
+      "type": "node",
+      "id": 287519399,
+      "lat": 50.9383631,
+      "lon": 11.5884205
+    },
+    {
+      "type": "node",
+      "id": 287519400,
+      "lat": 50.9385939,
+      "lon": 11.5881145
+    },
+    {
+      "type": "node",
+      "id": 287519401,
+      "lat": 50.9388491,
+      "lon": 11.5880111
+    },
+    {
+      "type": "node",
+      "id": 287519402,
+      "lat": 50.9391098,
+      "lon": 11.5880499
+    },
+    {
+      "type": "node",
+      "id": 287519406,
+      "lat": 50.9393514,
+      "lon": 11.5882266
+    },
+    {
+      "type": "node",
+      "id": 287519411,
+      "lat": 50.9396311,
+      "lon": 11.5885497
+    },
+    {
+      "type": "node",
+      "id": 287519412,
+      "lat": 50.9392145,
+      "lon": 11.5896286
+    },
+    {
+      "type": "node",
+      "id": 287519413,
+      "lat": 50.9387135,
+      "lon": 11.5891691
+    },
+    {
+      "type": "node",
+      "id": 287519414,
+      "lat": 50.9383409,
+      "lon": 11.5888386
+    },
+    {
+      "type": "node",
+      "id": 287519415,
+      "lat": 50.938213,
+      "lon": 11.5887145
+    },
+    {
+      "type": "node",
+      "id": 655144482,
+      "lat": 50.9443529,
+      "lon": 11.5985392
+    },
+    {
+      "type": "node",
+      "id": 655144484,
+      "lat": 50.9441106,
+      "lon": 11.5988483
+    },
+    {
+      "type": "node",
+      "id": 655144485,
+      "lat": 50.9441866,
+      "lon": 11.5989975
+    },
+    {
+      "type": "node",
+      "id": 655144492,
+      "lat": 50.944319,
+      "lon": 11.5988334
+    },
+    {
+      "type": "node",
+      "id": 655144493,
+      "lat": 50.9444181,
+      "lon": 11.5987069
+    },
+    {
+      "type": "node",
+      "id": 655144510,
+      "lat": 50.9442459,
+      "lon": 11.5997699
+    },
+    {
+      "type": "node",
+      "id": 655144513,
+      "lat": 50.9442532,
+      "lon": 11.5983242
+    },
+    {
+      "type": "node",
+      "id": 655144518,
+      "lat": 50.9441828,
+      "lon": 11.5984136
+    },
+    {
+      "type": "node",
+      "id": 655144519,
+      "lat": 50.9441824,
+      "lon": 11.5995862
+    },
+    {
+      "type": "node",
+      "id": 655144520,
+      "lat": 50.94387,
+      "lon": 11.598811
+    },
+    {
+      "type": "node",
+      "id": 655144496,
+      "lat": 50.9451087,
+      "lon": 11.5981972
+    },
+    {
+      "type": "node",
+      "id": 655144499,
+      "lat": 50.9451932,
+      "lon": 11.5982831
+    },
+    {
+      "type": "node",
+      "id": 655144501,
+      "lat": 50.9453994,
+      "lon": 11.5985057
+    },
+    {
+      "type": "node",
+      "id": 655144511,
+      "lat": 50.9446761,
+      "lon": 11.5992182
+    },
+    {
+      "type": "node",
+      "id": 655144514,
+      "lat": 50.9445494,
+      "lon": 11.5978915
+    },
+    {
+      "type": "node",
+      "id": 655144515,
+      "lat": 50.9446964,
+      "lon": 11.5976983
+    },
+    {
+      "type": "node",
+      "id": 655144503,
+      "lat": 50.9456584,
+      "lon": 11.5991567
+    },
+    {
+      "type": "node",
+      "id": 655144504,
+      "lat": 50.9454006,
+      "lon": 11.5997336
+    },
+    {
+      "type": "node",
+      "id": 536628851,
+      "lat": 50.9491339,
+      "lon": 11.6040108
+    },
+    {
+      "type": "node",
+      "id": 536628854,
+      "lat": 50.9490874,
+      "lon": 11.603957
+    },
+    {
+      "type": "node",
+      "id": 536628857,
+      "lat": 50.9488597,
+      "lon": 11.6035892
+    },
+    {
+      "type": "node",
+      "id": 536628861,
+      "lat": 50.9487012,
+      "lon": 11.6033541
+    },
+    {
+      "type": "node",
+      "id": 536628869,
+      "lat": 50.9495991,
+      "lon": 11.6032681
+    },
+    {
+      "type": "node",
+      "id": 536628872,
+      "lat": 50.949382,
+      "lon": 11.6036021
+    },
+    {
+      "type": "node",
+      "id": 1626459096,
+      "lat": 50.949212,
+      "lon": 11.6025101
+    },
+    {
+      "type": "node",
+      "id": 1626459110,
+      "lat": 50.9493937,
+      "lon": 11.6028414
+    },
+    {
+      "type": "node",
+      "id": 655144505,
+      "lat": 50.9452027,
+      "lon": 11.6001697
+    },
+    {
+      "type": "node",
+      "id": 655144508,
+      "lat": 50.9447325,
+      "lon": 11.6012535
+    },
+    {
+      "type": "node",
+      "id": 2222345617,
+      "lat": 50.9445333,
+      "lon": 11.6006463
+    },
+    {
+      "type": "node",
+      "id": 2464795872,
+      "lat": 50.9486853,
+      "lon": 11.6032976
+    },
+    {
+      "type": "node",
+      "id": 2464795873,
+      "lat": 50.9486853,
+      "lon": 11.6033401
+    },
+    {
+      "type": "node",
+      "id": 2464795874,
+      "lat": 50.9487313,
+      "lon": 11.6031821
+    },
+    {
+      "type": "node",
+      "id": 2464795875,
+      "lat": 50.9490063,
+      "lon": 11.6025654
+    },
+    {
+      "type": "node",
+      "id": 2464795877,
+      "lat": 50.9491176,
+      "lon": 11.602382
+    },
+    {
+      "type": "node",
+      "id": 2464795879,
+      "lat": 50.9491444,
+      "lon": 11.6023633
+    },
+    {
+      "type": "node",
+      "id": 2148997507,
+      "lat": 50.9533944,
+      "lon": 11.6126439
+    },
+    {
+      "type": "node",
+      "id": 2154563428,
+      "lat": 50.9533328,
+      "lon": 11.6127742
+    },
+    {
+      "type": "node",
+      "id": 299474487,
+      "lat": 50.9518618,
+      "lon": 11.6090288
+    },
+    {
+      "type": "node",
+      "id": 299474488,
+      "lat": 50.9524462,
+      "lon": 11.6098103
+    },
+    {
+      "type": "node",
+      "id": 299474489,
+      "lat": 50.9527843,
+      "lon": 11.6091733
+    },
+    {
+      "type": "node",
+      "id": 299474490,
+      "lat": 50.9526996,
+      "lon": 11.6090601
+    },
+    {
+      "type": "node",
+      "id": 299474491,
+      "lat": 50.952453,
+      "lon": 11.6095718
+    },
+    {
+      "type": "node",
+      "id": 299475165,
+      "lat": 50.9520466,
+      "lon": 11.6090422
+    },
+    {
+      "type": "node",
+      "id": 299475166,
+      "lat": 50.9522982,
+      "lon": 11.6085675
+    },
+    {
+      "type": "node",
+      "id": 299475168,
+      "lat": 50.9518769,
+      "lon": 11.6083013
+    },
+    {
+      "type": "node",
+      "id": 299475183,
+      "lat": 50.9520265,
+      "lon": 11.608204
+    },
+    {
+      "type": "node",
+      "id": 299475418,
+      "lat": 50.9520851,
+      "lon": 11.6086243
+    },
+    {
+      "type": "node",
+      "id": 2742192016,
+      "lat": 50.951937,
+      "lon": 11.6088872
+    },
+    {
+      "type": "node",
+      "id": 2742192017,
+      "lat": 50.9519466,
+      "lon": 11.6089001
+    },
+    {
+      "type": "node",
+      "id": 2742192018,
+      "lat": 50.9519535,
+      "lon": 11.6088722
+    },
+    {
+      "type": "node",
+      "id": 2742192019,
+      "lat": 50.9519581,
+      "lon": 11.6088784
+    },
+    {
+      "type": "node",
+      "id": 2742192020,
+      "lat": 50.9519651,
+      "lon": 11.6081352
+    },
+    {
+      "type": "node",
+      "id": 2742192021,
+      "lat": 50.9520223,
+      "lon": 11.6082118
+    },
+    {
+      "type": "node",
+      "id": 2742192023,
+      "lat": 50.9520984,
+      "lon": 11.6086421
+    },
+    {
+      "type": "node",
+      "id": 2742192024,
+      "lat": 50.9521122,
+      "lon": 11.608616
+    },
+    {
+      "type": "node",
+      "id": 2742192028,
+      "lat": 50.9521689,
+      "lon": 11.6092057
+    },
+    {
+      "type": "node",
+      "id": 2742192029,
+      "lat": 50.952169,
+      "lon": 11.6087338
+    },
+    {
+      "type": "node",
+      "id": 2742192030,
+      "lat": 50.9521831,
+      "lon": 11.6087074
+    },
+    {
+      "type": "node",
+      "id": 2742192032,
+      "lat": 50.9521874,
+      "lon": 11.6091707
+    },
+    {
+      "type": "node",
+      "id": 2742192033,
+      "lat": 50.9521932,
+      "lon": 11.6087661
+    },
+    {
+      "type": "node",
+      "id": 2742192036,
+      "lat": 50.952207,
+      "lon": 11.6087394
+    },
+    {
+      "type": "node",
+      "id": 2742192041,
+      "lat": 50.9522956,
+      "lon": 11.6093614
+    },
+    {
+      "type": "node",
+      "id": 2742192043,
+      "lat": 50.9523099,
+      "lon": 11.6093345
+    },
+    {
+      "type": "node",
+      "id": 2742192057,
+      "lat": 50.9525504,
+      "lon": 11.6093412
+    },
+    {
+      "type": "node",
+      "id": 2742192059,
+      "lat": 50.952565,
+      "lon": 11.6093608
+    },
+    {
+      "type": "node",
+      "id": 2148997469,
+      "lat": 50.953768,
+      "lon": 11.6132447
+    },
+    {
+      "type": "node",
+      "id": 2148997580,
+      "lat": 50.9538241,
+      "lon": 11.6131034
+    }
+  ]
+}

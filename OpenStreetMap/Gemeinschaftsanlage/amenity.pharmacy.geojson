@@ -1,0 +1,829 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:07.435Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/272688390",
+      "properties": {
+        "@id": "node/272688390",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "33a",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Hermann-Pistor-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "pharmacy",
+        "contact:phone": "+49 3641 603655",
+        "dispensing": "yes",
+        "name": "Ginkgo-Apotheke",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743344,
+          50.8980498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292167048",
+      "properties": {
+        "@id": "node/292167048",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Columbus-Center",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Friedrich-Zucker-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "pharmacy",
+        "contact:email": "kontakt@columbus-apotheke-jena.de",
+        "contact:phone": "+49 3641 603591",
+        "contact:website": "http://www.columbus-apotheke-jena.de",
+        "dispensing": "yes",
+        "name": "Columbus-Apotheke",
+        "opening_hours": "Mo-Fr 08:00-18:30;Sa 09:00-13:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5723657,
+          50.9023117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292167049",
+      "properties": {
+        "@id": "node/292167049",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Keßlerstraße",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 575655",
+        "contact:phone": "+49 3641 575657",
+        "contact:website": "http://www.burgaupark-apotheke.de",
+        "dispensing": "yes",
+        "name": "Burgaupark-Apotheke‎",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5936661,
+          50.9000421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292167050",
+      "properties": {
+        "@id": "node/292167050",
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07745",
+        "addr:street": "Otto-Schott-Straße",
+        "amenity": "pharmacy",
+        "contact:email": "Forst-Apotheke-Jena@arcor.de",
+        "contact:fax": "+49 3641 215200",
+        "contact:phone": "+49 3641 605528",
+        "contact:website": "http://www.forstapothekejena.de",
+        "dispensing": "yes",
+        "name": "Forst-Apotheke",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 09:00-12:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5771669,
+          50.924273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292167051",
+      "properties": {
+        "@id": "node/292167051",
+        "addr:city": "Jena",
+        "addr:housenumber": "2",
+        "addr:postcode": "07745",
+        "addr:street": "Westbahnhofstraße",
+        "amenity": "pharmacy",
+        "contact:email": "zeissapotheke@t-online.de",
+        "contact:fax": "+49 3641 673372",
+        "contact:phone": "+49 3641 620658",
+        "contact:website": "http://www.zeiss-apotheke.de",
+        "dispensing": "yes",
+        "name": "Zeiss Apotheke",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819238,
+          50.9254659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292167052",
+      "properties": {
+        "@id": "node/292167052",
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Schillerstraße",
+        "amenity": "pharmacy",
+        "contact:email": "info@Semmelweis-Apotheke.de",
+        "contact:fax": "+49 3641 2313-31",
+        "contact:phone": "+49 3641 2313-0",
+        "contact:website": "http://www.semmelweis-apotheke.de",
+        "dispensing": "yes",
+        "name": "Semmelweis Apotheke",
+        "opening_hours": "Mo-Fr 08:00-20:00;Sa 09:00-14:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5836613,
+          50.9275233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170197",
+      "properties": {
+        "@id": "node/292170197",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3-4",
+        "addr:postcode": "07743",
+        "addr:state": "Thüringen",
+        "addr:street": "Ernst-Abbe Platz",
+        "amenity": "pharmacy",
+        "contact:email": "campusapotheke@amz-jena.de",
+        "contact:fax": "+49 3641 574101",
+        "contact:phone": "+49 3641 574100",
+        "contact:website": "http://www.campusapotheke.de",
+        "dispensing": "yes",
+        "name": "Campus-Apotheke",
+        "opening_hours": "Mo-Fr 08:00-20:00;Sa 08:00-17:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5816819,
+          50.9279983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170198",
+      "properties": {
+        "@id": "node/292170198",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Post-Carré",
+        "addr:housenumber": "8",
+        "addr:postcode": "07743",
+        "addr:state": "Thüringen",
+        "addr:street": "Engelplatz",
+        "amenity": "pharmacy",
+        "contact:email": "info@apothekeimpostcarre.de",
+        "contact:fax": "+49 3641 6382-11",
+        "contact:phone": "+49 3641 6382-0",
+        "contact:website": "http://www.apothekeimpostcarre.de",
+        "dispensing": "yes",
+        "name": "Apotheke im Post-Carré‎",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5832269,
+          50.9265725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170199",
+      "properties": {
+        "@id": "node/292170199",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Goethe Galerie",
+        "addr:housenumber": "3b",
+        "addr:postcode": "07743",
+        "addr:state": "Thüringen",
+        "addr:street": "Goethestraße",
+        "amenity": "pharmacy",
+        "contact:email": "service@ca-jena.de",
+        "contact:fax": "+49 3641 420149",
+        "contact:phone": "+49 3641 420150",
+        "contact:website": "http://www.centrum-apotheke-jena.de",
+        "dispensing": "yes",
+        "name": "Centrum-Apotheke",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582132,
+          50.9275719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170200",
+      "properties": {
+        "@id": "node/292170200",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Löbderstraße",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 459521",
+        "contact:phone": "+49 3641 45950",
+        "contact:website": "http://www.apotheke-jena.de/",
+        "dispensing": "yes",
+        "name": "Flora Apotheke Jena‎",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5865365,
+          50.9275376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170201",
+      "properties": {
+        "@id": "node/292170201",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "07743",
+        "addr:street": "Weigelstraße",
+        "amenity": "pharmacy",
+        "contact:email": "hotmail@goethe-apotheke-jena.de",
+        "contact:fax": "+49 3641 454599",
+        "contact:phone": "+49 3641 454545",
+        "contact:website": "http://www.goethe-apotheke-jena.de",
+        "dispensing": "yes",
+        "name": "Goethe-Apotheke‎",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5871858,
+          50.9291761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170203",
+      "properties": {
+        "@id": "node/292170203",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Wilhelm-Külz-Straße",
+        "amenity": "pharmacy",
+        "contact:phone": "+49 3641 820867",
+        "dispensing": "yes",
+        "name": "West Apotheke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5749693,
+          50.930548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170455",
+      "properties": {
+        "@id": "node/292170455",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "07743",
+        "addr:street": "Spitzweidenweg",
+        "amenity": "pharmacy",
+        "contact:email": "saaleapotheke@medipolis.de",
+        "contact:fax": "+49 3641 442886",
+        "contact:phone": "+49 3641 442883",
+        "contact:website": "http://www.saaleapotheke-jena.de/",
+        "dispensing": "yes",
+        "name": "Saale Apotheke‎",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5911126,
+          50.9355523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292170456",
+      "properties": {
+        "@id": "node/292170456",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "amenity": "pharmacy",
+        "contact:email": "info@apo-noho.de",
+        "contact:fax": "+49 3641 8761010",
+        "contact:phone": "+49 3641 876100",
+        "contact:website": "http://www.apo-noho.de",
+        "dispensing": "yes",
+        "name": "Apotheke am Nollendorfer Hof‎",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-12:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5884108,
+          50.9362799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292171326",
+      "properties": {
+        "@id": "node/292171326",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "161",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 826823",
+        "contact:phone": "+49 3641 826824",
+        "contact:website": "http://www.nord-apotheke-jena.de",
+        "dispensing": "yes",
+        "name": "Nord-Apotheke‎",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-12:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988371,
+          50.9470391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297738073",
+      "properties": {
+        "@id": "node/297738073",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "07747",
+        "addr:state": "Thüringen",
+        "addr:street": "Karl-Marx-Straße",
+        "addr:suburb": "Lobeda-West",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 380113",
+        "contact:phone": "+49 3641 380112",
+        "contact:website": "http://www.sonnen-apotheke-jena.de",
+        "name": "Sonnen-Apotheke",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.606712,
+          50.8839901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297738326",
+      "properties": {
+        "@id": "node/297738326",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "43a",
+        "addr:postcode": "07747",
+        "addr:street": "Stauffenbergstraße",
+        "amenity": "pharmacy",
+        "contact:email": "Stauffenberg-Apotheke@web.de",
+        "contact:fax": "+49 3641 380229",
+        "contact:phone": "+49 3641 380230",
+        "contact:website": "http://www.stauffenberg-apotheke.de",
+        "name": "Stauffenberg-Apotheke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6037418,
+          50.8812702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332326723",
+      "properties": {
+        "@id": "node/332326723",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "07747",
+        "addr:state": "Thüringen",
+        "addr:street": "Salvador-Allende-Platz",
+        "addr:suburb": "Lobeda-Ost",
+        "amenity": "pharmacy",
+        "contact:email": "hufeland@pharma-online.de",
+        "contact:fax": "+49 3641 380119",
+        "contact:phone": "+49 3641 380120",
+        "contact:website": "http://www.hufeland-apotheke-jena.de",
+        "name": "Hufeland-Apotheke",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6187635,
+          50.8829066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332326765",
+      "properties": {
+        "@id": "node/332326765",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "103",
+        "addr:postcode": "07747",
+        "addr:street": "Erlanger Allee",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 336832",
+        "contact:phone": "+49 3641 336833",
+        "contact:website": "http://www.baeren-apotheke-jena.de",
+        "name": "Bären-Apotheke",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6201877,
+          50.8844598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339092157",
+      "properties": {
+        "@id": "node/339092157",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "07745",
+        "addr:state": "Thüringen",
+        "addr:street": "Tatzendpromenade",
+        "amenity": "pharmacy",
+        "contact:email": "info@tatzend-apotheke.de",
+        "contact:fax": "+49 3641 202112",
+        "contact:phone": "+49 3641 202110",
+        "contact:website": "http://www.tatzend-apotheke.de",
+        "name": "Tatzend Apotheke",
+        "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57013,
+          50.9212378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418357097",
+      "properties": {
+        "@id": "node/418357097",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Camsdorfer Ufer",
+        "addr:suburb": "Wenigenjena",
+        "amenity": "pharmacy",
+        "building:level": "0",
+        "contact:fax": "+49 3641 420662",
+        "contact:phone": "+49 3641 449770",
+        "contact:website": "http://schillerapotheke-jena.de",
+        "name": "Schiller-Apotheke",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 09:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5970125,
+          50.9283809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/624223401",
+      "properties": {
+        "@id": "node/624223401",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:state": "Thüringen",
+        "addr:street": "Emil-Höllein-Platz",
+        "addr:suburb": "Nord",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 628255",
+        "contact:phone": "+49 3641 628213",
+        "contact:website": "http://www.hoellein-apotheke.de",
+        "name": "Höllein-Apotheke",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59403,
+          50.9431649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1632696601",
+      "properties": {
+        "@id": "node/1632696601",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07743",
+        "addr:state": "Thüringen",
+        "addr:street": "Markt",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 525220",
+        "contact:phone": "+49 3641 52520",
+        "contact:website": "http://www.rats-apotheke-jena-app.de",
+        "name": "Rats-Apotheke",
+        "opening_hours": "Mo-Fr 08:00-19:00;Sa 08:00-14:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875794,
+          50.9281466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1687566870",
+      "properties": {
+        "@id": "node/1687566870",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "07745",
+        "addr:street": "Anna-Siemsen-Straße",
+        "addr:suburb": "Winzerla",
+        "amenity": "pharmacy",
+        "contact:email": "wackenroder-apotheke@t-online.de",
+        "contact:fax": "+49 3641 62105",
+        "contact:phone": "+49 3641 62100",
+        "contact:website": "http://www.wackenroder-apotheke-jena.de",
+        "dispensing": "yes",
+        "name": "Wackenroder-Apotheke‎",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5760205,
+          50.8985732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2621200488",
+      "properties": {
+        "@id": "node/2621200488",
+        "addr:city": "Jena",
+        "addr:housenumber": "25",
+        "addr:postcode": "07747",
+        "addr:street": "Salvador-Allende-Platz",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 387721",
+        "contact:phone": "+49 3641 238964",
+        "contact:website": "http://www.doebereiner-apotheke.de",
+        "dispensing": "yes",
+        "name": "Döbereiner-Apotheke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6187877,
+          50.8833227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2964640232",
+      "properties": {
+        "@id": "node/2964640232",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07747",
+        "addr:street": "Rathausplatz",
+        "addr:suburb": "Lobeda",
+        "amenity": "pharmacy",
+        "contact:email": "burgapothekejena@t-online.de",
+        "contact:fax": "+49 3641 334373",
+        "contact:phone": "+49 3641 332083",
+        "contact:website": "http://www.kernbergapotheke.de",
+        "name": "Burg-Apotheke",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 09:30-11:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6069576,
+          50.8925715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2982883043",
+      "properties": {
+        "@id": "node/2982883043",
+        "amenity": "pharmacy",
+        "contact:fax": "+49 3641 443821",
+        "contact:phone": "+49 3641 443822",
+        "name": "Apotheke am Jenzig",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5990423,
+          50.934405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3218154062",
+      "properties": {
+        "@id": "node/3218154062",
+        "amenity": "pharmacy",
+        "contact:phone": "+49 3641 443767",
+        "name": "Apotheke am Steinborn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6068416,
+          50.9320201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3218154063",
+      "properties": {
+        "@id": "node/3218154063",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "07751",
+        "addr:state": "Thüringen",
+        "addr:street": "Weimarische Straße",
+        "addr:suburb": "Isserstedt",
+        "amenity": "pharmacy",
+        "contact:email": "globusapo@globusapo.de",
+        "contact:fax": "+49 36425 527632",
+        "contact:phone": "+49 36425 527630",
+        "contact:website": "http://www.globusapo.com",
+        "name": "Apotheke im Globus",
+        "opening_hours": "Mo-We,Fr 08:00-20:00;Th,Fr 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5096441,
+          50.9576411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153573106",
+      "properties": {
+        "@id": "way/153573106",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "50",
+        "addr:postcode": "07749",
+        "addr:street": "Friedrich-Engels-Straße",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "contact:email": "info@kernbergapotheke.de",
+        "contact:fax": "+49 3641 353439",
+        "contact:phone": "+49 3641 368604",
+        "contact:website": "http://www.kernbergapotheke.de",
+        "dispensing": "yes",
+        "name": "Kernberg-Apotheke"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5984497,
+              50.9231558
+            ],
+            [
+              11.5988296,
+              50.9231594
+            ],
+            [
+              11.5988325,
+              50.9230341
+            ],
+            [
+              11.5984526,
+              50.9230306
+            ],
+            [
+              11.5984497,
+              50.9231558
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

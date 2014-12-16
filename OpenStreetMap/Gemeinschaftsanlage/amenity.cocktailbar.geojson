@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:22.511Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2313564757",
+      "properties": {
+        "@id": "node/2313564757",
+        "amenity": "Cocktailbar",
+        "contact:phone": "+49 3641 79 58 399",
+        "contact:website": "die-perle.com",
+        "name": "Die Perle",
+        "opening_hours": "Mo-Sa 19:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5873188,
+          50.9290116
+        ]
+      }
+    }
+  ]
+}

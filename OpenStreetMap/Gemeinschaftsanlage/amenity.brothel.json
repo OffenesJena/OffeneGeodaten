@@ -1,0 +1,71 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2683352657,
+      "lat": 50.8930653,
+      "lon": 11.5853048,
+      "tags": {
+        "amenity": "brothel",
+        "contact:email": "hausmona@gmx.de",
+        "contact:facebook": "https://www.facebook.com/psst.jena",
+        "contact:phone": "03641-239869",
+        "contact:website": "http://www.psst-jena.de",
+        "name": "Haus Mona",
+        "operator": "Firma psst-jena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 296115175,
+      "nodes": [
+        2998902947,
+        2998902948,
+        2998902949,
+        2998902950,
+        2998902947
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "07743",
+        "addr:street": "Talstraße",
+        "amenity": "brothel",
+        "building": "house",
+        "name": "Textilpflegeshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2998902948,
+      "lat": 50.931256,
+      "lon": 11.5712679
+    },
+    {
+      "type": "node",
+      "id": 2998902949,
+      "lat": 50.9312111,
+      "lon": 11.5713993
+    },
+    {
+      "type": "node",
+      "id": 2998902950,
+      "lat": 50.9313137,
+      "lon": 11.5714875
+    },
+    {
+      "type": "node",
+      "id": 2998902947,
+      "lat": 50.9313586,
+      "lon": 11.5713561
+    }
+  ]
+}

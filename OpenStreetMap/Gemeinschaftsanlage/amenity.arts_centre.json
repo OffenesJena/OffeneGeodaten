@@ -1,0 +1,327 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 255682102,
+      "lat": 50.927373,
+      "lon": 11.579932,
+      "tags": {
+        "amenity": "arts_centre",
+        "contact:website": "http://www.jenaonline.de/volkshaus/",
+        "name": "Volkshaus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 707801979,
+      "lat": 50.9328244,
+      "lon": 11.5888554,
+      "tags": {
+        "amenity": "arts_centre",
+        "name": "Künstlerische Abendschule Jena e.V."
+      }
+    },
+    {
+      "type": "node",
+      "id": 2461729159,
+      "lat": 50.9294853,
+      "lon": 11.5824921,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "14",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisstraße",
+        "amenity": "arts_centre",
+        "name": "Gewerkschaftshaus",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2930688377,
+      "lat": 50.945632,
+      "lon": 11.5995181,
+      "tags": {
+        "amenity": "arts_centre",
+        "name": "AWO Seniorentreff"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30064685,
+      "nodes": [
+        331144469,
+        2023648718,
+        279337889,
+        331144470,
+        331144471,
+        331144469
+      ],
+      "tags": {
+        "addr:housenumber": "13a",
+        "addr:postcode": "07745",
+        "addr:street": "Felsenkellerstraße",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "contact:website": "http://www.kassablanca.de/",
+        "drink:club-mate": "yes",
+        "name": "Kassablanca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59114551,
+      "nodes": [
+        732696279,
+        2464833261,
+        2464833263,
+        2464833264,
+        2464833255,
+        2464833254,
+        2464833253,
+        732696286,
+        732696290,
+        2464833248,
+        2464833247,
+        2464833250,
+        2464833251,
+        732696295,
+        2464833256,
+        2464833257,
+        2464833260,
+        2464833259,
+        732696279
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "07747",
+        "addr:street": "Theobald-Renner-Straße",
+        "addr:suburb": "Neulobeda",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "contact:email": "kubus@jenalobeda.de",
+        "contact:fax": "+49 3641 531657",
+        "contact:phone": "+49 3641 531655",
+        "contact:website": "http://www.kubus.jena.de/",
+        "name": "KuBuS",
+        "operator": "Multifunktionales Zentrum KuBuS des KOMME e.V."
+      }
+    },
+    {
+      "type": "way",
+      "id": 247013951,
+      "nodes": [
+        2539596378,
+        2539596380,
+        2539596382,
+        2539596370,
+        2539596362,
+        2539596352,
+        2539596345,
+        2539596378
+      ],
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "26",
+        "addr:postcode": "07743",
+        "addr:street": "Johannisplatz",
+        "alt_name": "Internationales Centrum",
+        "amenity": "arts_centre",
+        "building": "university",
+        "historic": "yes",
+        "name": "Haus auf der Mauer",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279337889,
+      "lat": 50.9210285,
+      "lon": 11.5779919
+    },
+    {
+      "type": "node",
+      "id": 331144469,
+      "lat": 50.9210318,
+      "lon": 11.5777825
+    },
+    {
+      "type": "node",
+      "id": 331144470,
+      "lat": 50.9207229,
+      "lon": 11.577984
+    },
+    {
+      "type": "node",
+      "id": 331144471,
+      "lat": 50.9207218,
+      "lon": 11.577778
+    },
+    {
+      "type": "node",
+      "id": 2023648718,
+      "lat": 50.92103,
+      "lon": 11.577895
+    },
+    {
+      "type": "node",
+      "id": 732696279,
+      "lat": 50.8858792,
+      "lon": 11.6071862
+    },
+    {
+      "type": "node",
+      "id": 732696286,
+      "lat": 50.8857425,
+      "lon": 11.6068781
+    },
+    {
+      "type": "node",
+      "id": 732696290,
+      "lat": 50.8856324,
+      "lon": 11.6069995
+    },
+    {
+      "type": "node",
+      "id": 732696295,
+      "lat": 50.8857705,
+      "lon": 11.6073094
+    },
+    {
+      "type": "node",
+      "id": 2464833247,
+      "lat": 50.8857122,
+      "lon": 11.6072335
+    },
+    {
+      "type": "node",
+      "id": 2464833248,
+      "lat": 50.8857276,
+      "lon": 11.6072164
+    },
+    {
+      "type": "node",
+      "id": 2464833250,
+      "lat": 50.8857424,
+      "lon": 11.6073023
+    },
+    {
+      "type": "node",
+      "id": 2464833251,
+      "lat": 50.8857592,
+      "lon": 11.6072837
+    },
+    {
+      "type": "node",
+      "id": 2464833253,
+      "lat": 50.8857699,
+      "lon": 11.6069405
+    },
+    {
+      "type": "node",
+      "id": 2464833254,
+      "lat": 50.8857805,
+      "lon": 11.6069301
+    },
+    {
+      "type": "node",
+      "id": 2464833255,
+      "lat": 50.8858055,
+      "lon": 11.606935
+    },
+    {
+      "type": "node",
+      "id": 2464833256,
+      "lat": 50.8858191,
+      "lon": 11.6072557
+    },
+    {
+      "type": "node",
+      "id": 2464833257,
+      "lat": 50.8858296,
+      "lon": 11.6072796
+    },
+    {
+      "type": "node",
+      "id": 2464833259,
+      "lat": 50.8858357,
+      "lon": 11.6072342
+    },
+    {
+      "type": "node",
+      "id": 2464833260,
+      "lat": 50.8858472,
+      "lon": 11.6072603
+    },
+    {
+      "type": "node",
+      "id": 2464833261,
+      "lat": 50.8858491,
+      "lon": 11.6071176
+    },
+    {
+      "type": "node",
+      "id": 2464833263,
+      "lat": 50.8858594,
+      "lon": 11.6071035
+    },
+    {
+      "type": "node",
+      "id": 2464833264,
+      "lat": 50.8858628,
+      "lon": 11.6070656
+    },
+    {
+      "type": "node",
+      "id": 2539596345,
+      "lat": 50.9296408,
+      "lon": 11.5841047
+    },
+    {
+      "type": "node",
+      "id": 2539596352,
+      "lat": 50.9296606,
+      "lon": 11.5839953
+    },
+    {
+      "type": "node",
+      "id": 2539596362,
+      "lat": 50.9297008,
+      "lon": 11.5840127
+    },
+    {
+      "type": "node",
+      "id": 2539596370,
+      "lat": 50.9297386,
+      "lon": 11.584029
+    },
+    {
+      "type": "node",
+      "id": 2539596378,
+      "lat": 50.9297811,
+      "lon": 11.5841535
+    },
+    {
+      "type": "node",
+      "id": 2539596380,
+      "lat": 50.9297878,
+      "lon": 11.5840914
+    },
+    {
+      "type": "node",
+      "id": 2539596382,
+      "lat": 50.9297921,
+      "lon": 11.5840522
+    }
+  ]
+}

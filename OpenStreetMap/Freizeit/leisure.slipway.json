@@ -1,0 +1,129 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 299802415,
+      "lat": 50.9341314,
+      "lon": 11.5948936,
+      "tags": {
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 327443380,
+      "lat": 50.9180982,
+      "lon": 11.5809859,
+      "tags": {
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 352995661,
+      "lat": 50.9290428,
+      "lon": 11.5964696,
+      "tags": {
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 718600835,
+      "lat": 50.9182659,
+      "lon": 11.581641,
+      "tags": {
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1664518271,
+      "lat": 50.9133186,
+      "lon": 11.5772532,
+      "tags": {
+        "leisure": "slipway",
+        "seamark:small_craft_facility:category": "slipway",
+        "seamark:type": "small_craft_facility"
+      }
+    },
+    {
+      "type": "way",
+      "id": 57904788,
+      "nodes": [
+        718592112,
+        718593550
+      ],
+      "tags": {
+        "highway": "steps",
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 57904834,
+      "nodes": [
+        718595029,
+        718596285
+      ],
+      "tags": {
+        "highway": "steps",
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 57905871,
+      "nodes": [
+        718600835,
+        718601636
+      ],
+      "tags": {
+        "leisure": "slipway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 718601636,
+      "lat": 50.9181701,
+      "lon": 11.5817246
+    },
+    {
+      "type": "node",
+      "id": 718600835,
+      "lat": 50.9182659,
+      "lon": 11.581641
+    },
+    {
+      "type": "node",
+      "id": 718593550,
+      "lat": 50.9241917,
+      "lon": 11.5896576
+    },
+    {
+      "type": "node",
+      "id": 718596285,
+      "lat": 50.92402,
+      "lon": 11.5891062
+    },
+    {
+      "type": "node",
+      "id": 718592112,
+      "lat": 50.9242681,
+      "lon": 11.5895838
+    },
+    {
+      "type": "node",
+      "id": 718595029,
+      "lat": 50.924087,
+      "lon": 11.5890693
+    }
+  ]
+}

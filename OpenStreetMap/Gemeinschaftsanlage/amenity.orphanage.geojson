@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:00.555Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/49345422",
+      "properties": {
+        "@id": "way/49345422",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "07745",
+        "addr:street": "Am Friedensberg",
+        "amenity": "orphanage",
+        "building": "yes",
+        "name": "Kinder- und Jugendheim \"Am Friedensberg\"",
+        "operator": "Trägerwerk Soziale Dienste in Thüringen GmbH",
+        "social_facility": "group_home",
+        "social_facility:for": "child"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5693608,
+              50.9269634
+            ],
+            [
+              11.5691373,
+              50.9268855
+            ],
+            [
+              11.5692413,
+              50.926767
+            ],
+            [
+              11.5693102,
+              50.9267911
+            ],
+            [
+              11.5693552,
+              50.9267398
+            ],
+            [
+              11.5693099,
+              50.926724
+            ],
+            [
+              11.5693527,
+              50.9266753
+            ],
+            [
+              11.5695526,
+              50.926745
+            ],
+            [
+              11.5693608,
+              50.9269634
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

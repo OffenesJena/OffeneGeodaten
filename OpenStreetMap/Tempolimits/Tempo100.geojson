@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:43:26.034Z",
+  "timestamp": "2014-12-16T10:45:55.530Z",
   "features": [
     {
       "type": "Feature",
@@ -840,7 +840,8 @@
         "lanes:backward": "1",
         "lanes:forward": "2",
         "maxspeed": "100",
-        "ref": "L 1060"
+        "ref": "L 1060",
+        "turn:lanes:forward": "left|none"
       },
       "geometry": {
         "type": "LineString",

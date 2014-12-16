@@ -1,0 +1,570 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:41:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 447905822,
+      "lat": 50.9665093,
+      "lon": 11.6132002,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 506308998,
+      "lat": 50.9476847,
+      "lon": 11.6490054,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550280175,
+      "lat": 50.9233495,
+      "lon": 11.5283229,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550280182,
+      "lat": 50.9246394,
+      "lon": 11.5300169,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550280195,
+      "lat": 50.9248806,
+      "lon": 11.530918,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550420975,
+      "lat": 50.9117776,
+      "lon": 11.6229124,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550427432,
+      "lat": 50.9085954,
+      "lon": 11.6296587,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550438871,
+      "lat": 50.8998648,
+      "lon": 11.6249552,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550442148,
+      "lat": 50.9011802,
+      "lon": 11.6201057,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 573453475,
+      "lat": 50.9502843,
+      "lon": 11.5173292,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 573453510,
+      "lat": 50.9487442,
+      "lon": 11.5376171,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 574804783,
+      "lat": 50.955362,
+      "lon": 11.6631928,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 579926455,
+      "lat": 50.9702862,
+      "lon": 11.5960088,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 639048735,
+      "lat": 50.9424003,
+      "lon": 11.56085,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 639048736,
+      "lat": 50.9430266,
+      "lon": 11.5644845,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 766718421,
+      "lat": 50.965019,
+      "lon": 11.615497,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 790321624,
+      "lat": 50.9281138,
+      "lon": 11.5528218,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 973782645,
+      "lat": 50.9122242,
+      "lon": 11.6287412,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1025472446,
+      "lat": 50.8993302,
+      "lon": 11.6390245,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1025472449,
+      "lat": 50.8980937,
+      "lon": 11.6376591,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1107416786,
+      "lat": 50.9031011,
+      "lon": 11.6296741,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1107416937,
+      "lat": 50.9029263,
+      "lon": 11.6287571,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1107416988,
+      "lat": 50.902608,
+      "lon": 11.6288637,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1304993365,
+      "lat": 50.9132206,
+      "lon": 11.6038208,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1409826874,
+      "lat": 50.9131597,
+      "lon": 11.6504381,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1409826875,
+      "lat": 50.910792,
+      "lon": 11.6534421,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1409826902,
+      "lat": 50.9086814,
+      "lon": 11.6360507,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412264470,
+      "lat": 50.9235471,
+      "lon": 11.6583701,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643164597,
+      "lat": 50.9510767,
+      "lon": 11.5238112,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1664484952,
+      "lat": 50.9509815,
+      "lon": 11.5117586,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1736494035,
+      "lat": 50.9047228,
+      "lon": 11.6498499,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1746359936,
+      "lat": 50.914561,
+      "lon": 11.6040088,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1747506782,
+      "lat": 50.9097378,
+      "lon": 11.6518189,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1747508487,
+      "lat": 50.908973,
+      "lon": 11.6473128,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1755156968,
+      "lat": 50.9161793,
+      "lon": 11.6579719,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1755156975,
+      "lat": 50.915976,
+      "lon": 11.6559774,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1755156991,
+      "lat": 50.9160575,
+      "lon": 11.652071,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1755159395,
+      "lat": 50.9182284,
+      "lon": 11.6487891,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1757549380,
+      "lat": 50.9106451,
+      "lon": 11.6299531,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1860605489,
+      "lat": 50.9316391,
+      "lon": 11.5480647,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923796131,
+      "lat": 50.898627,
+      "lon": 11.6256425,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1923796132,
+      "lat": 50.8989112,
+      "lon": 11.6319188,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2098178290,
+      "lat": 50.9240148,
+      "lon": 11.6289864,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2160201996,
+      "lat": 50.9474798,
+      "lon": 11.6480833,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2207294731,
+      "lat": 50.9499819,
+      "lon": 11.5386684,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2276047624,
+      "lat": 50.9480723,
+      "lon": 11.6640385,
+      "tags": {
+        "amenity": "hunting_stand",
+        "height": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2524576392,
+      "lat": 50.8811218,
+      "lon": 11.5859479,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2524576399,
+      "lat": 50.8821135,
+      "lon": 11.5869188,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2529724398,
+      "lat": 50.8857239,
+      "lon": 11.5700089,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2529724405,
+      "lat": 50.8863992,
+      "lon": 11.5724792,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2529724408,
+      "lat": 50.8862723,
+      "lon": 11.5732463,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2554661880,
+      "lat": 50.8851444,
+      "lon": 11.5768804,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2554661885,
+      "lat": 50.8839783,
+      "lon": 11.5758947,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2554661898,
+      "lat": 50.883679,
+      "lon": 11.5759926,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596535393,
+      "lat": 50.9438467,
+      "lon": 11.5798511,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2596577950,
+      "lat": 50.9539636,
+      "lon": 11.5869294,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2597360815,
+      "lat": 50.9531801,
+      "lon": 11.5895213,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598400012,
+      "lat": 50.9140947,
+      "lon": 11.6243151,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598415353,
+      "lat": 50.9145344,
+      "lon": 11.6151474,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598455535,
+      "lat": 50.9127046,
+      "lon": 11.6188547,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598455586,
+      "lat": 50.9127519,
+      "lon": 11.6155069,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2726242150,
+      "lat": 50.9123411,
+      "lon": 11.6016489,
+      "tags": {
+        "amenity": "hunting_stand"
+      }
+    }
+  ]
+}

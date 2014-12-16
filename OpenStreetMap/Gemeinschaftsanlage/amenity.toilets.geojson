@@ -1,0 +1,296 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:51.221Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/292126416",
+      "properties": {
+        "@id": "node/292126416",
+        "amenity": "toilets",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881672,
+          50.9278427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1298725161",
+      "properties": {
+        "@id": "node/1298725161",
+        "access": "permissive",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "note": "Während der Gottesdienste und meist auch tagsüber geöffnet",
+        "operator": "Katholische Gemeinde Jena",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581913,
+          50.9303506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1456056321",
+      "properties": {
+        "@id": "node/1456056321",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5950578,
+          50.8996671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2609572496",
+      "properties": {
+        "@id": "node/2609572496",
+        "amenity": "toilets",
+        "fee": "yes",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875159,
+          50.9255451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610144557",
+      "properties": {
+        "@id": "node/2610144557",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5096605,
+          50.9578329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610151022",
+      "properties": {
+        "@id": "node/2610151022",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581887,
+          50.9285091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610151023",
+      "properties": {
+        "@id": "node/2610151023",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5810974,
+          50.9275917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610151024",
+      "properties": {
+        "@id": "node/2610151024",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5828285,
+          50.9284483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2611644676",
+      "properties": {
+        "@id": "node/2611644676",
+        "amenity": "toilets",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58801,
+          50.9251935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3229860061",
+      "properties": {
+        "@id": "node/3229860061",
+        "addr:city": "Jena",
+        "addr:housenumber": "3",
+        "addr:postcode": "07743",
+        "addr:street": "Carl-Zeiss-Straße",
+        "amenity": "toilets",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behinderten-Toiletten im Erdgeschoss können nur mit einem Schlüssel der Wache geöffnet werden. Die Schließfächer im Untergeschoss sind für Rollstuhlfahrer nicht zugänglich."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5814486,
+          50.9286925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153590813",
+      "properties": {
+        "@id": "way/153590813",
+        "amenity": "toilets",
+        "building": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.621875,
+              50.9237132
+            ],
+            [
+              11.6219187,
+              50.9237099
+            ],
+            [
+              11.6220097,
+              50.9237032
+            ],
+            [
+              11.62202,
+              50.9237589
+            ],
+            [
+              11.621885,
+              50.9237689
+            ],
+            [
+              11.6218765,
+              50.9237227
+            ],
+            [
+              11.6218747,
+              50.9237132
+            ],
+            [
+              11.621875,
+              50.9237132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191964698",
+      "properties": {
+        "@id": "way/191964698",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5835651,
+              50.9218852
+            ],
+            [
+              11.5836933,
+              50.9217953
+            ],
+            [
+              11.5839062,
+              50.921916
+            ],
+            [
+              11.5838567,
+              50.9219507
+            ],
+            [
+              11.5837053,
+              50.9218648
+            ],
+            [
+              11.583687,
+              50.9218545
+            ],
+            [
+              11.5836083,
+              50.9219096
+            ],
+            [
+              11.5835651,
+              50.9218852
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

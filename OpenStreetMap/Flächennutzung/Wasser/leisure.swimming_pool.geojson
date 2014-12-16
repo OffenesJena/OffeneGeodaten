@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:44:39.773Z",
+  "timestamp": "2014-12-16T10:49:01.400Z",
   "features": [
     {
       "type": "Feature",
@@ -353,6 +353,41 @@
             [
               11.5800374,
               50.9130421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317168068",
+      "properties": {
+        "@id": "way/317168068",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6004126,
+              50.9276924
+            ],
+            [
+              11.6005212,
+              50.927638
+            ],
+            [
+              11.6004745,
+              50.9276012
+            ],
+            [
+              11.6003683,
+              50.9276593
+            ],
+            [
+              11.6004126,
+              50.9276924
             ]
           ]
         ]

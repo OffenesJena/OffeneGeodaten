@@ -1,0 +1,263 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 292126416,
+      "lat": 50.9278427,
+      "lon": 11.5881672,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298725161,
+      "lat": 50.9303506,
+      "lon": 11.581913,
+      "tags": {
+        "access": "permissive",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "note": "Während der Gottesdienste und meist auch tagsüber geöffnet",
+        "operator": "Katholische Gemeinde Jena",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1456056321,
+      "lat": 50.8996671,
+      "lon": 11.5950578,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2609572496,
+      "lat": 50.9255451,
+      "lon": 11.5875159,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144557,
+      "lat": 50.9578329,
+      "lon": 11.5096605,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610151022,
+      "lat": 50.9285091,
+      "lon": 11.581887,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610151023,
+      "lat": 50.9275917,
+      "lon": 11.5810974,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610151024,
+      "lat": 50.9284483,
+      "lon": 11.5828285,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611644676,
+      "lat": 50.9251935,
+      "lon": 11.58801,
+      "tags": {
+        "amenity": "toilets",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3229860061,
+      "lat": 50.9286925,
+      "lon": 11.5814486,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "3",
+        "addr:postcode": "07743",
+        "addr:street": "Carl-Zeiss-Straße",
+        "amenity": "toilets",
+        "operator": "Friedrich-Schiller-Universität Jena",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behinderten-Toiletten im Erdgeschoss können nur mit einem Schlüssel der Wache geöffnet werden. Die Schließfächer im Untergeschoss sind für Rollstuhlfahrer nicht zugänglich."
+      }
+    },
+    {
+      "type": "way",
+      "id": 153590813,
+      "nodes": [
+        1662434616,
+        1662434614,
+        1662434600,
+        1662434630,
+        1662434642,
+        1662434617,
+        1662434615,
+        1662434616
+      ],
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191964698,
+      "nodes": [
+        2025233476,
+        2025233472,
+        2025233477,
+        2025233481,
+        2787839588,
+        2787839566,
+        2787839592,
+        2025233476
+      ],
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2025233472,
+      "lat": 50.9217953,
+      "lon": 11.5836933
+    },
+    {
+      "type": "node",
+      "id": 2025233476,
+      "lat": 50.9218852,
+      "lon": 11.5835651
+    },
+    {
+      "type": "node",
+      "id": 2025233477,
+      "lat": 50.921916,
+      "lon": 11.5839062
+    },
+    {
+      "type": "node",
+      "id": 2025233481,
+      "lat": 50.9219507,
+      "lon": 11.5838567
+    },
+    {
+      "type": "node",
+      "id": 2787839566,
+      "lat": 50.9218545,
+      "lon": 11.583687
+    },
+    {
+      "type": "node",
+      "id": 2787839588,
+      "lat": 50.9218648,
+      "lon": 11.5837053
+    },
+    {
+      "type": "node",
+      "id": 2787839592,
+      "lat": 50.9219096,
+      "lon": 11.5836083
+    },
+    {
+      "type": "node",
+      "id": 1662434600,
+      "lat": 50.9237032,
+      "lon": 11.6220097
+    },
+    {
+      "type": "node",
+      "id": 1662434614,
+      "lat": 50.9237099,
+      "lon": 11.6219187
+    },
+    {
+      "type": "node",
+      "id": 1662434615,
+      "lat": 50.9237132,
+      "lon": 11.6218747
+    },
+    {
+      "type": "node",
+      "id": 1662434616,
+      "lat": 50.9237132,
+      "lon": 11.621875
+    },
+    {
+      "type": "node",
+      "id": 1662434617,
+      "lat": 50.9237227,
+      "lon": 11.6218765
+    },
+    {
+      "type": "node",
+      "id": 1662434630,
+      "lat": 50.9237589,
+      "lon": 11.62202
+    },
+    {
+      "type": "node",
+      "id": 1662434642,
+      "lat": 50.9237689,
+      "lon": 11.621885
+    }
+  ]
+}

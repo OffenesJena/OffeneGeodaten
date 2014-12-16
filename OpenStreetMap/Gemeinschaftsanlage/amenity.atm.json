@@ -1,0 +1,279 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 287744867,
+      "lat": 50.8980401,
+      "lon": 11.5738963,
+      "tags": {
+        "amenity": "atm",
+        "name": "Sparkasse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411195866,
+      "lat": 50.9279441,
+      "lon": 11.580995,
+      "tags": {
+        "amenity": "atm",
+        "operator": "HypoVereinsbank",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507115804,
+      "lat": 50.8857406,
+      "lon": 11.6290247,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena-Saale-Holzland",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 627763999,
+      "lat": 50.9294995,
+      "lon": 11.5791779,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703434858,
+      "lat": 50.9098996,
+      "lon": 11.5718944,
+      "tags": {
+        "amenity": "atm",
+        "name": "Sparkasse Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 932741865,
+      "lat": 50.9249636,
+      "lon": 11.5876081,
+      "tags": {
+        "amenity": "atm",
+        "layer": "-1",
+        "level": "0",
+        "operator": "Volksbank Saaletal",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1378630658,
+      "lat": 50.8834556,
+      "lon": 11.6186281,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "25",
+        "addr:postcode": "07747",
+        "addr:street": "Salvador-Allende-Platz",
+        "amenity": "atm",
+        "currency:EUR": "yes",
+        "drive_through": "no",
+        "fee": "varies",
+        "operator": "Volksbank Saaletal",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1712839540,
+      "lat": 50.8850667,
+      "lon": 11.6091716,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena-Saale-Holzland",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1918374696,
+      "lat": 50.9212369,
+      "lon": 11.6063233,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2149001593,
+      "lat": 50.9521721,
+      "lon": 11.6107939,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2289316324,
+      "lat": 50.9517206,
+      "lon": 11.6104513,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Euronet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610144577,
+      "lat": 50.9586741,
+      "lon": 11.5095988,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610151025,
+      "lat": 50.9271127,
+      "lon": 11.5868598,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610151027,
+      "lat": 50.9271583,
+      "lon": 11.5863287,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610151028,
+      "lat": 50.927488,
+      "lon": 11.5864092,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994655,
+      "lat": 50.8839555,
+      "lon": 11.6065789,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Postbank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610994658,
+      "lat": 50.8842193,
+      "lon": 11.6072199,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Deutsche Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612898188,
+      "lat": 50.9339674,
+      "lon": 11.5899553,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Dornburger Straße",
+        "amenity": "atm",
+        "currency:EUR": "yes",
+        "drive_through": "no",
+        "fee": "varies",
+        "network": "Sparkassen-Finanzgruppe",
+        "operator": "Sparkasse Jena-Saale-Holzland",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2779295746,
+      "lat": 50.8842856,
+      "lon": 11.5948337,
+      "tags": {
+        "amenity": "atm",
+        "currency:EUR": "yes",
+        "drive_through": "no",
+        "fee": "varies",
+        "network": "Sparkassen-Finanzgruppe",
+        "operator": "Sparkasse Jena-Saale-Holzland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3159107258,
+      "lat": 50.9243327,
+      "lon": 11.5841765,
+      "tags": {
+        "amenity": "atm",
+        "operator": "Cash Pool"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32501094,
+      "nodes": [
+        365406853,
+        365406851,
+        365406859,
+        365406856,
+        365406853
+      ],
+      "tags": {
+        "amenity": "atm",
+        "building": "container",
+        "name": "Sparkasse Jena-Saale-Holzland",
+        "opening_hours": "24/7",
+        "operator": "Sparkasse",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 365406851,
+      "lat": 50.8842592,
+      "lon": 11.5948132
+    },
+    {
+      "type": "node",
+      "id": 365406853,
+      "lat": 50.884262,
+      "lon": 11.5948579
+    },
+    {
+      "type": "node",
+      "id": 365406856,
+      "lat": 50.8843171,
+      "lon": 11.5948494
+    },
+    {
+      "type": "node",
+      "id": 365406859,
+      "lat": 50.8843143,
+      "lon": 11.5948047
+    }
+  ]
+}

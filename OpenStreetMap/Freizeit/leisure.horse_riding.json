@@ -1,0 +1,71 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 197380070,
+      "nodes": [
+        2076259575,
+        2076259573,
+        371211538,
+        2076259570,
+        331818864,
+        2075284933,
+        2076259577,
+        2076259575
+      ],
+      "tags": {
+        "leisure": "horse_riding",
+        "sport": "equestrian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 371211538,
+      "lat": 50.9443864,
+      "lon": 11.555476
+    },
+    {
+      "type": "node",
+      "id": 331818864,
+      "lat": 50.9442882,
+      "lon": 11.5557407
+    },
+    {
+      "type": "node",
+      "id": 2076259570,
+      "lat": 50.9443262,
+      "lon": 11.5556441
+    },
+    {
+      "type": "node",
+      "id": 2075284933,
+      "lat": 50.9444839,
+      "lon": 11.5564119
+    },
+    {
+      "type": "node",
+      "id": 2076259573,
+      "lat": 50.944518,
+      "lon": 11.5556444
+    },
+    {
+      "type": "node",
+      "id": 2076259575,
+      "lat": 50.9445967,
+      "lon": 11.5556501
+    },
+    {
+      "type": "node",
+      "id": 2076259577,
+      "lat": 50.9446826,
+      "lon": 11.5561755
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:36.490Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/300856254",
+      "properties": {
+        "@id": "node/300856254",
+        "amenity": "bbq",
+        "leisure": "common",
+        "name": "Grillplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958649,
+          50.9612849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932814634",
+      "properties": {
+        "@id": "node/932814634",
+        "amenity": "bbq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5831319,
+          50.9196386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1526500832",
+      "properties": {
+        "@id": "node/1526500832",
+        "amenity": "bbq",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6299117,
+          50.889831
+        ]
+      }
+    }
+  ]
+}

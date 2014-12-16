@@ -1,0 +1,374 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:57.459Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/420150650",
+      "properties": {
+        "@id": "node/420150650",
+        "amenity": "car_wash",
+        "name": "ARAL Waschboxen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6212473,
+          50.8773353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732716029",
+      "properties": {
+        "@id": "node/732716029",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "66c",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "car_wash",
+        "automated": "yes",
+        "fuel:lpg": "yes",
+        "name": "Robby Wash Textilwaschstraße",
+        "self_service": "no",
+        "source": "http://www.gas-tankstellen.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6054096,
+          50.9465121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2159574054",
+      "properties": {
+        "@id": "node/2159574054",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "66c",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "car_wash",
+        "name": "Robby Wash Waschboxen",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059138,
+          50.9467404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2293286347",
+      "properties": {
+        "@id": "node/2293286347",
+        "amenity": "car_wash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5964262,
+          50.9370207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2641538298",
+      "properties": {
+        "@id": "node/2641538298",
+        "amenity": "car_wash",
+        "name": "ARAL Waschstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6210481,
+          50.8774093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148100387",
+      "properties": {
+        "@id": "way/148100387",
+        "amenity": "car_wash",
+        "building": "yes",
+        "operator": "Globus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5091886,
+              50.9598403
+            ],
+            [
+              11.509467,
+              50.9598417
+            ],
+            [
+              11.5097388,
+              50.9598429
+            ],
+            [
+              11.5097375,
+              50.9599514
+            ],
+            [
+              11.5097369,
+              50.9600025
+            ],
+            [
+              11.5091868,
+              50.96
+            ],
+            [
+              11.5091877,
+              50.9599365
+            ],
+            [
+              11.5091886,
+              50.9598403
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255697775",
+      "properties": {
+        "@id": "way/255697775",
+        "amenity": "car_wash",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5934942,
+              50.8982338
+            ],
+            [
+              11.5934937,
+              50.8981889
+            ],
+            [
+              11.5937156,
+              50.8981878
+            ],
+            [
+              11.5937153,
+              50.8981595
+            ],
+            [
+              11.5939833,
+              50.8981582
+            ],
+            [
+              11.5939842,
+              50.8982314
+            ],
+            [
+              11.5934942,
+              50.8982338
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255697933",
+      "properties": {
+        "@id": "way/255697933",
+        "amenity": "car_wash",
+        "building": "yes",
+        "name": "Primo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5937603,
+              50.8981051
+            ],
+            [
+              11.5937573,
+              50.8979165
+            ],
+            [
+              11.5938464,
+              50.897916
+            ],
+            [
+              11.5938494,
+              50.8981045
+            ],
+            [
+              11.5937603,
+              50.8981051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262422293",
+      "properties": {
+        "@id": "way/262422293",
+        "amenity": "car_wash",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5903743,
+              50.9063297
+            ],
+            [
+              11.5903034,
+              50.9062882
+            ],
+            [
+              11.5904173,
+              50.9062108
+            ],
+            [
+              11.5904987,
+              50.9062584
+            ],
+            [
+              11.5904014,
+              50.9063245
+            ],
+            [
+              11.5904673,
+              50.906363
+            ],
+            [
+              11.5903811,
+              50.9064216
+            ],
+            [
+              11.5903048,
+              50.906377
+            ],
+            [
+              11.5903743,
+              50.9063297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266319099",
+      "properties": {
+        "@id": "way/266319099",
+        "amenity": "car_wash",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5978307,
+              50.9428629
+            ],
+            [
+              11.5976709,
+              50.942776
+            ],
+            [
+              11.597835,
+              50.9426561
+            ],
+            [
+              11.5978945,
+              50.9426885
+            ],
+            [
+              11.5978242,
+              50.9427398
+            ],
+            [
+              11.5979246,
+              50.9427944
+            ],
+            [
+              11.5978307,
+              50.9428629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268193420",
+      "properties": {
+        "@id": "way/268193420",
+        "amenity": "car_wash",
+        "building": "yes",
+        "opening_hours": "closed until further notice"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5675507,
+              50.9037506
+            ],
+            [
+              11.5680956,
+              50.9036676
+            ],
+            [
+              11.5681097,
+              50.9037043
+            ],
+            [
+              11.5681814,
+              50.9036934
+            ],
+            [
+              11.5681433,
+              50.9035939
+            ],
+            [
+              11.5675266,
+              50.9036879
+            ],
+            [
+              11.5675507,
+              50.9037506
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

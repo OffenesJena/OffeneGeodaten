@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:41:24.672Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/132357021",
+      "properties": {
+        "@id": "way/132357021",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "100",
+        "addr:postcode": "07745",
+        "addr:street": "Artur-Becker-Straße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "animal_shelter",
+        "contact:email": "kontakt@tierheim-jena.de",
+        "contact:fax": "+49 3641 225977",
+        "contact:google_plus": "https://plus.google.com/110309449155845505142/",
+        "contact:phone": "+49 3641 21092",
+        "contact:website": "http://www.tierheim-jena.de",
+        "landuse": "residential",
+        "name": "Tierheim Jena e. V."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5899341,
+              50.8749648
+            ],
+            [
+              11.5891707,
+              50.8739933
+            ],
+            [
+              11.5898981,
+              50.8729007
+            ],
+            [
+              11.5899182,
+              50.8729
+            ],
+            [
+              11.5899398,
+              50.8729044
+            ],
+            [
+              11.5902769,
+              50.8730039
+            ],
+            [
+              11.590407,
+              50.8730412
+            ],
+            [
+              11.5911353,
+              50.8732615
+            ],
+            [
+              11.5910828,
+              50.8733359
+            ],
+            [
+              11.5909304,
+              50.8735536
+            ],
+            [
+              11.5907986,
+              50.873742
+            ],
+            [
+              11.5902812,
+              50.8744812
+            ],
+            [
+              11.590252,
+              50.8745229
+            ],
+            [
+              11.5901051,
+              50.8747256
+            ],
+            [
+              11.5899341,
+              50.8749648
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

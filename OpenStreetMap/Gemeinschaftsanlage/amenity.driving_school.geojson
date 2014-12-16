@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:22.316Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1690170472",
+      "properties": {
+        "@id": "node/1690170472",
+        "amenity": "driving_school",
+        "name": "CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5741292,
+          50.8980687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2965876579",
+      "properties": {
+        "@id": "node/2965876579",
+        "amenity": "driving_school",
+        "name": "Fahrschule Voigt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5945881,
+          50.8842577
+        ]
+      }
+    }
+  ]
+}

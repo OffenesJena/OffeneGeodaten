@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-04T02:44:51.411Z",
+  "timestamp": "2014-12-16T10:49:33.289Z",
   "features": [
     {
       "type": "Feature",
@@ -139,6 +139,28 @@
         "coordinates": [
           11.5887471,
           50.9320225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3236744085",
+      "properties": {
+        "@id": "node/3236744085",
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07749",
+        "addr:street": "Fuchslöcherstraße",
+        "leisure": "sports_centre",
+        "name": "Kampfsportschule Jena",
+        "sport": "Jiu_Jitsu",
+        "website": "http://www.kampfsportschule-jena.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6261441,
+          50.9313683
         ]
       }
     },

@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:14.488Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/654075320",
+      "properties": {
+        "@id": "node/654075320",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "07747",
+        "addr:street": "Richard-Sorge-Straße",
+        "addr:suburb": "Lobeda-Ost",
+        "amenity": "police",
+        "name": "Polizeiwache Lobeda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6228965,
+          50.8817587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50811809",
+      "properties": {
+        "@id": "way/50811809",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "07743",
+        "addr:street": "Am Anger",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Polizeiinspektion Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5922504,
+              50.9326738
+            ],
+            [
+              11.5914308,
+              50.9326708
+            ],
+            [
+              11.5914289,
+              50.9328826
+            ],
+            [
+              11.5914267,
+              50.9331243
+            ],
+            [
+              11.5923184,
+              50.9331264
+            ],
+            [
+              11.5924179,
+              50.9328695
+            ],
+            [
+              11.5923208,
+              50.9328498
+            ],
+            [
+              11.5922463,
+              50.9330462
+            ],
+            [
+              11.5916318,
+              50.9330449
+            ],
+            [
+              11.5916333,
+              50.9328815
+            ],
+            [
+              11.5916341,
+              50.9327964
+            ],
+            [
+              11.5922493,
+              50.9327987
+            ],
+            [
+              11.5922504,
+              50.9326738
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

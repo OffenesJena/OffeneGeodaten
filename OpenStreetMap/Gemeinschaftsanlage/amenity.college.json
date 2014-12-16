@@ -1,0 +1,29 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2601037424,
+      "lat": 50.8785745,
+      "lon": 11.5899208,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "07745",
+        "addr:street": "Alte Hauptstraße",
+        "addr:suburb": "Göschwitz",
+        "amenity": "college",
+        "contact:website": "http://www.waldorf-fernstudium.de/",
+        "name": "Fernstudium WaldorfPädagogik",
+        "operator": "Fernstudium WaldorfPädagogik & Coaching e.V."
+      }
+    }
+  ]
+}

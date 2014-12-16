@@ -1,0 +1,33 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3199453044,
+      "lat": 50.9293839,
+      "lon": 11.5844896,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "07743",
+        "addr:state": "Thüringen",
+        "addr:street": "Johannisstraße",
+        "amenity": "stripclub",
+        "contact:email": "info@titty-twister-jena.de",
+        "contact:facebook": "https://www.facebook.com/pages/Titty-Twister-Table-Dance-Bar/154030757962706",
+        "contact:phone": "+49 3641 479643",
+        "contact:website": "http://www.titty-twister-jena.com",
+        "internet_access": "no",
+        "name": "Titty Twister",
+        "opening_hours": "20:00+"
+      }
+    }
+  ]
+}

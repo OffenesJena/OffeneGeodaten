@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:38.277Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/221263931",
+      "properties": {
+        "@id": "way/221263931",
+        "amenity": "health_centre",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6192395,
+              50.8839892
+            ],
+            [
+              11.6189988,
+              50.8838777
+            ],
+            [
+              11.6194221,
+              50.8835383
+            ],
+            [
+              11.6196635,
+              50.8836466
+            ],
+            [
+              11.6192395,
+              50.8839892
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

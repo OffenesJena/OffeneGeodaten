@@ -1,0 +1,135 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1943233304,
+      "lat": 50.8925151,
+      "lon": 11.583053,
+      "tags": {
+        "amenity": "grave_yard"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42135576,
+      "nodes": [
+        2613151445,
+        1376707011,
+        524062234,
+        524062243,
+        2613151445
+      ],
+      "tags": {
+        "amenity": "grave_yard"
+      }
+    },
+    {
+      "type": "way",
+      "id": 198810828,
+      "nodes": [
+        2088969919,
+        2088969921,
+        2088969922,
+        2088969898,
+        2088969919
+      ],
+      "tags": {
+        "amenity": "grave_yard"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301502881,
+      "nodes": [
+        3055679694,
+        3055679698,
+        3055679689,
+        3055679688,
+        3055679694
+      ],
+      "tags": {
+        "amenity": "grave_yard",
+        "name": "Friedhof Göschwitz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 524062234,
+      "lat": 50.9285447,
+      "lon": 11.5157664
+    },
+    {
+      "type": "node",
+      "id": 524062243,
+      "lat": 50.92865,
+      "lon": 11.5152271
+    },
+    {
+      "type": "node",
+      "id": 1376707011,
+      "lat": 50.9290506,
+      "lon": 11.5160135
+    },
+    {
+      "type": "node",
+      "id": 2613151445,
+      "lat": 50.9288425,
+      "lon": 11.5153275
+    },
+    {
+      "type": "node",
+      "id": 3055679688,
+      "lat": 50.878626,
+      "lon": 11.5887919
+    },
+    {
+      "type": "node",
+      "id": 3055679689,
+      "lat": 50.8786385,
+      "lon": 11.5890331
+    },
+    {
+      "type": "node",
+      "id": 3055679694,
+      "lat": 50.8795497,
+      "lon": 11.588616
+    },
+    {
+      "type": "node",
+      "id": 3055679698,
+      "lat": 50.8795712,
+      "lon": 11.5888699
+    },
+    {
+      "type": "node",
+      "id": 2088969898,
+      "lat": 50.9196285,
+      "lon": 11.6292314
+    },
+    {
+      "type": "node",
+      "id": 2088969919,
+      "lat": 50.9195017,
+      "lon": 11.6286735
+    },
+    {
+      "type": "node",
+      "id": 2088969921,
+      "lat": 50.9194104,
+      "lon": 11.6287004
+    },
+    {
+      "type": "node",
+      "id": 2088969922,
+      "lat": 50.9195017,
+      "lon": 11.6291
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:43:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 670759025,
+      "lat": 50.9642318,
+      "lon": 11.5637186,
+      "tags": {
+        "amenity": "waste_basket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 932814640,
+      "lat": 50.9198322,
+      "lon": 11.5829973,
+      "tags": {
+        "amenity": "waste_basket",
+        "date_off": "October",
+        "date_on": "March"
+      }
+    },
+    {
+      "type": "node",
+      "id": 932814645,
+      "lat": 50.9201905,
+      "lon": 11.581742,
+      "tags": {
+        "amenity": "waste_basket",
+        "date_off": "October",
+        "date_on": "March"
+      }
+    },
+    {
+      "type": "node",
+      "id": 932814649,
+      "lat": 50.9208162,
+      "lon": 11.5836035,
+      "tags": {
+        "amenity": "waste_basket",
+        "date_off": "October",
+        "date_on": "March"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611752573,
+      "lat": 50.9300832,
+      "lon": 11.5843776,
+      "tags": {
+        "amenity": "waste_basket"
+      }
+    }
+  ]
+}

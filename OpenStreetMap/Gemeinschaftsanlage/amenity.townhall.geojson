@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:53.096Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27532878",
+      "properties": {
+        "@id": "way/27532878",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07743",
+        "addr:street": "Unterm Markt",
+        "amenity": "townhall",
+        "building": "yes",
+        "historic": "yes",
+        "name": "Rathaus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.587598,
+              50.928052
+            ],
+            [
+              11.5870995,
+              50.9281164
+            ],
+            [
+              11.5870598,
+              50.9279966
+            ],
+            [
+              11.5870285,
+              50.9279023
+            ],
+            [
+              11.5870225,
+              50.9278844
+            ],
+            [
+              11.5875167,
+              50.9278104
+            ],
+            [
+              11.5875224,
+              50.9278317
+            ],
+            [
+              11.5875538,
+              50.9279282
+            ],
+            [
+              11.587598,
+              50.928052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258779049",
+      "properties": {
+        "@id": "way/258779049",
+        "addr:city": "Jena",
+        "addr:housenumber": "1",
+        "addr:postcode": "07747",
+        "addr:street": "Rathausplatz",
+        "addr:suburb": "Lobeda",
+        "amenity": "townhall",
+        "building": "yes",
+        "image": "http://commons.wikimedia.org/wiki/File:Rathaus_Lobeda.JPG",
+        "name": "Rathaus Lobeda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6074099,
+              50.8926685
+            ],
+            [
+              11.6072322,
+              50.8926511
+            ],
+            [
+              11.6071047,
+              50.8926386
+            ],
+            [
+              11.6071237,
+              50.8925615
+            ],
+            [
+              11.6074289,
+              50.8925914
+            ],
+            [
+              11.6074099,
+              50.8926685
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:42:09.822Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2457956533",
+      "properties": {
+        "@id": "node/2457956533",
+        "addr:city": "Jena",
+        "addr:housenumber": "16",
+        "addr:postcode": "07743",
+        "addr:street": "Mathilde-Vaerting-Straße",
+        "amenity": "courthouse",
+        "name": "Rechtsanwalt Herbert Beck",
+        "wheelchair": "no",
+        "wheelchair:description": "zu viele Stufen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5860268,
+          50.9251453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35842352",
+      "properties": {
+        "@id": "way/35842352",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Justizzentrum",
+        "addr:housenumber": "13",
+        "addr:postcode": "07745",
+        "addr:street": "Rathenaustraße",
+        "amenity": "courthouse",
+        "building": "yes",
+        "contact:phone": "+45 3641 307 0",
+        "name": "Justizzentrum",
+        "source": "knowledge",
+        "wikidata": "Q1270681",
+        "wikipedia": "de:Thüringer Oberlandesgericht",
+        "wikipedia:de": "Thüringer Oberlandesgericht"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5792465,
+              50.9221621
+            ],
+            [
+              11.5795993,
+              50.9221547
+            ],
+            [
+              11.5796208,
+              50.9225646
+            ],
+            [
+              11.5789796,
+              50.922578
+            ],
+            [
+              11.5789582,
+              50.9221693
+            ],
+            [
+              11.5790769,
+              50.9221668
+            ],
+            [
+              11.5790706,
+              50.9220456
+            ],
+            [
+              11.5787277,
+              50.9220528
+            ],
+            [
+              11.5787066,
+              50.9216505
+            ],
+            [
+              11.5793365,
+              50.9216373
+            ],
+            [
+              11.5793574,
+              50.9220366
+            ],
+            [
+              11.5792401,
+              50.922039
+            ],
+            [
+              11.5792465,
+              50.9221621
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

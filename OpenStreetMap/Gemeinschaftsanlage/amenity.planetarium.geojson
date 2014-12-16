@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:11.986Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/197459833",
+      "properties": {
+        "@id": "way/197459833",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07743",
+        "addr:street": "Am Planetarium",
+        "amenity": "planetarium",
+        "building": "yes",
+        "contact:email": "order@planetarium-jena.de",
+        "contact:facebook": "https://www.facebook.com/planetariumjena",
+        "contact:fax": "+49 3641 885420",
+        "contact:phone": "+49 3641 885488",
+        "contact:website": "http://www.planetarium-jena.de/",
+        "name": "Zeiss-Planetarium",
+        "wikidata": "Q320440",
+        "wikipedia": "de:Planetarium Jena",
+        "wikipedia:de": "Planetarium Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5869799,
+              50.9319458
+            ],
+            [
+              11.5871024,
+              50.9318802
+            ],
+            [
+              11.5871155,
+              50.9317793
+            ],
+            [
+              11.5870114,
+              50.9317021
+            ],
+            [
+              11.5868513,
+              50.9316938
+            ],
+            [
+              11.5867288,
+              50.9317594
+            ],
+            [
+              11.5867157,
+              50.9318603
+            ],
+            [
+              11.5866227,
+              50.9318618
+            ],
+            [
+              11.5866153,
+              50.9316863
+            ],
+            [
+              11.5864374,
+              50.9316892
+            ],
+            [
+              11.5864494,
+              50.9319724
+            ],
+            [
+              11.5863572,
+              50.9319739
+            ],
+            [
+              11.5863594,
+              50.9320276
+            ],
+            [
+              11.5865568,
+              50.9320243
+            ],
+            [
+              11.5865545,
+              50.9319683
+            ],
+            [
+              11.5866272,
+              50.9319671
+            ],
+            [
+              11.5866263,
+              50.9319459
+            ],
+            [
+              11.5867561,
+              50.9318903
+            ],
+            [
+              11.5868198,
+              50.9319375
+            ],
+            [
+              11.5869799,
+              50.9319458
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

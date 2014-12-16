@@ -1,0 +1,41 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 300856254,
+      "lat": 50.9612849,
+      "lon": 11.5958649,
+      "tags": {
+        "amenity": "bbq",
+        "leisure": "common",
+        "name": "Grillplatz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 932814634,
+      "lat": 50.9196386,
+      "lon": 11.5831319,
+      "tags": {
+        "amenity": "bbq"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1526500832,
+      "lat": 50.889831,
+      "lon": 11.6299117,
+      "tags": {
+        "amenity": "bbq",
+        "tourism": "picnic_site"
+      }
+    }
+  ]
+}

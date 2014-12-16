@@ -1,0 +1,404 @@
+{
+  "version": "0.6",
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2014-12-16T09:40:02.000Z",
+    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 420150650,
+      "lat": 50.8773353,
+      "lon": 11.6212473,
+      "tags": {
+        "amenity": "car_wash",
+        "name": "ARAL Waschboxen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732716029,
+      "lat": 50.9465121,
+      "lon": 11.6054096,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "66c",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "car_wash",
+        "automated": "yes",
+        "fuel:lpg": "yes",
+        "name": "Robby Wash Textilwaschstraße",
+        "self_service": "no",
+        "source": "http://www.gas-tankstellen.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2159574054,
+      "lat": 50.9467404,
+      "lon": 11.6059138,
+      "tags": {
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "66c",
+        "addr:postcode": "07743",
+        "addr:street": "Camburger Straße",
+        "amenity": "car_wash",
+        "name": "Robby Wash Waschboxen",
+        "self_service": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2293286347,
+      "lat": 50.9370207,
+      "lon": 11.5964262,
+      "tags": {
+        "amenity": "car_wash"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2641538298,
+      "lat": 50.8774093,
+      "lon": 11.6210481,
+      "tags": {
+        "amenity": "car_wash",
+        "name": "ARAL Waschstraße"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148100387,
+      "nodes": [
+        1612040787,
+        304780315,
+        304780268,
+        1612040789,
+        1612040796,
+        1612040794,
+        541983908,
+        1612040787
+      ],
+      "tags": {
+        "amenity": "car_wash",
+        "building": "yes",
+        "operator": "Globus"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255697775,
+      "nodes": [
+        2613660630,
+        2613660625,
+        2613660624,
+        2613660620,
+        2613660619,
+        2613660629,
+        2613660630
+      ],
+      "tags": {
+        "amenity": "car_wash",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255697933,
+      "nodes": [
+        2613660608,
+        2613660562,
+        2613660561,
+        2613660607,
+        2613660608
+      ],
+      "tags": {
+        "amenity": "car_wash",
+        "building": "yes",
+        "name": "Primo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262422293,
+      "nodes": [
+        2680841893,
+        2680841886,
+        2680841864,
+        2680841879,
+        2680841892,
+        2680841896,
+        2680841900,
+        2680841898,
+        2680841893
+      ],
+      "tags": {
+        "amenity": "car_wash",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266319099,
+      "nodes": [
+        2718933029,
+        2718933025,
+        2718933020,
+        2718933022,
+        2718933024,
+        2718933028,
+        2718933029
+      ],
+      "tags": {
+        "amenity": "car_wash",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 268193420,
+      "nodes": [
+        2735577930,
+        2735577917,
+        2735577924,
+        2735577920,
+        2735577912,
+        2735577919,
+        2735577930
+      ],
+      "tags": {
+        "amenity": "car_wash",
+        "building": "yes",
+        "opening_hours": "closed until further notice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304780268,
+      "lat": 50.9598429,
+      "lon": 11.5097388
+    },
+    {
+      "type": "node",
+      "id": 304780315,
+      "lat": 50.9598417,
+      "lon": 11.509467
+    },
+    {
+      "type": "node",
+      "id": 541983908,
+      "lat": 50.9599365,
+      "lon": 11.5091877
+    },
+    {
+      "type": "node",
+      "id": 1612040787,
+      "lat": 50.9598403,
+      "lon": 11.5091886
+    },
+    {
+      "type": "node",
+      "id": 1612040789,
+      "lat": 50.9599514,
+      "lon": 11.5097375
+    },
+    {
+      "type": "node",
+      "id": 1612040794,
+      "lat": 50.96,
+      "lon": 11.5091868
+    },
+    {
+      "type": "node",
+      "id": 1612040796,
+      "lat": 50.9600025,
+      "lon": 11.5097369
+    },
+    {
+      "type": "node",
+      "id": 2735577912,
+      "lat": 50.9035939,
+      "lon": 11.5681433
+    },
+    {
+      "type": "node",
+      "id": 2735577917,
+      "lat": 50.9036676,
+      "lon": 11.5680956
+    },
+    {
+      "type": "node",
+      "id": 2735577919,
+      "lat": 50.9036879,
+      "lon": 11.5675266
+    },
+    {
+      "type": "node",
+      "id": 2735577920,
+      "lat": 50.9036934,
+      "lon": 11.5681814
+    },
+    {
+      "type": "node",
+      "id": 2735577924,
+      "lat": 50.9037043,
+      "lon": 11.5681097
+    },
+    {
+      "type": "node",
+      "id": 2735577930,
+      "lat": 50.9037506,
+      "lon": 11.5675507
+    },
+    {
+      "type": "node",
+      "id": 2613660561,
+      "lat": 50.897916,
+      "lon": 11.5938464
+    },
+    {
+      "type": "node",
+      "id": 2613660562,
+      "lat": 50.8979165,
+      "lon": 11.5937573
+    },
+    {
+      "type": "node",
+      "id": 2613660607,
+      "lat": 50.8981045,
+      "lon": 11.5938494
+    },
+    {
+      "type": "node",
+      "id": 2613660608,
+      "lat": 50.8981051,
+      "lon": 11.5937603
+    },
+    {
+      "type": "node",
+      "id": 2613660619,
+      "lat": 50.8981582,
+      "lon": 11.5939833
+    },
+    {
+      "type": "node",
+      "id": 2613660620,
+      "lat": 50.8981595,
+      "lon": 11.5937153
+    },
+    {
+      "type": "node",
+      "id": 2613660624,
+      "lat": 50.8981878,
+      "lon": 11.5937156
+    },
+    {
+      "type": "node",
+      "id": 2613660625,
+      "lat": 50.8981889,
+      "lon": 11.5934937
+    },
+    {
+      "type": "node",
+      "id": 2613660629,
+      "lat": 50.8982314,
+      "lon": 11.5939842
+    },
+    {
+      "type": "node",
+      "id": 2613660630,
+      "lat": 50.8982338,
+      "lon": 11.5934942
+    },
+    {
+      "type": "node",
+      "id": 2680841864,
+      "lat": 50.9062108,
+      "lon": 11.5904173
+    },
+    {
+      "type": "node",
+      "id": 2680841879,
+      "lat": 50.9062584,
+      "lon": 11.5904987
+    },
+    {
+      "type": "node",
+      "id": 2680841886,
+      "lat": 50.9062882,
+      "lon": 11.5903034
+    },
+    {
+      "type": "node",
+      "id": 2680841892,
+      "lat": 50.9063245,
+      "lon": 11.5904014
+    },
+    {
+      "type": "node",
+      "id": 2680841893,
+      "lat": 50.9063297,
+      "lon": 11.5903743
+    },
+    {
+      "type": "node",
+      "id": 2680841896,
+      "lat": 50.906363,
+      "lon": 11.5904673
+    },
+    {
+      "type": "node",
+      "id": 2680841898,
+      "lat": 50.906377,
+      "lon": 11.5903048
+    },
+    {
+      "type": "node",
+      "id": 2680841900,
+      "lat": 50.9064216,
+      "lon": 11.5903811
+    },
+    {
+      "type": "node",
+      "id": 2718933020,
+      "lat": 50.9426561,
+      "lon": 11.597835
+    },
+    {
+      "type": "node",
+      "id": 2718933022,
+      "lat": 50.9426885,
+      "lon": 11.5978945
+    },
+    {
+      "type": "node",
+      "id": 2718933024,
+      "lat": 50.9427398,
+      "lon": 11.5978242
+    },
+    {
+      "type": "node",
+      "id": 2718933025,
+      "lat": 50.942776,
+      "lon": 11.5976709
+    },
+    {
+      "type": "node",
+      "id": 2718933028,
+      "lat": 50.9427944,
+      "lon": 11.5979246
+    },
+    {
+      "type": "node",
+      "id": 2718933029,
+      "lat": 50.9428629,
+      "lon": 11.5978307
+    }
+  ]
+}

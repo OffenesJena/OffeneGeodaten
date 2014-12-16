@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:49.300Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2258454515",
+      "properties": {
+        "@id": "node/2258454515",
+        "amenity": "theatre",
+        "contact:website": "http://www.kurz-und-kleinkunst.de/",
+        "name": "Kurz & Klein Kunstbühne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5888736,
+          50.9265602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49991735",
+      "properties": {
+        "@id": "way/49991735",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housename": "Volkshaus",
+        "addr:housenumber": "15",
+        "addr:postcode": "07743",
+        "addr:street": "Carl-Zeiß-Platz",
+        "amenity": "theatre",
+        "building": "yes",
+        "contact:website": "http://www.volkshaus-jena.de",
+        "name": "Volkshaus",
+        "theatre:genre": "philharmonic",
+        "wheelchair": "yes",
+        "wikidata": "Q1240164",
+        "wikipedia": "de:Volkshaus Jena",
+        "wikipedia:de": "Volkshaus Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5799035,
+              50.9271447
+            ],
+            [
+              11.5799319,
+              50.9271748
+            ],
+            [
+              11.5801794,
+              50.9274366
+            ],
+            [
+              11.5798774,
+              50.92755
+            ],
+            [
+              11.57982,
+              50.9274892
+            ],
+            [
+              11.5797376,
+              50.9274021
+            ],
+            [
+              11.5795573,
+              50.9272114
+            ],
+            [
+              11.5794828,
+              50.9271326
+            ],
+            [
+              11.5803295,
+              50.9268146
+            ],
+            [
+              11.5803799,
+              50.926868
+            ],
+            [
+              11.5804179,
+              50.9268537
+            ],
+            [
+              11.5804866,
+              50.9269264
+            ],
+            [
+              11.5804497,
+              50.9269402
+            ],
+            [
+              11.5804854,
+              50.926978
+            ],
+            [
+              11.5803857,
+              50.9270155
+            ],
+            [
+              11.5801267,
+              50.9271127
+            ],
+            [
+              11.5800694,
+              50.9271343
+            ],
+            [
+              11.5800332,
+              50.927096
+            ],
+            [
+              11.5799035,
+              50.9271447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178634545",
+      "properties": {
+        "@id": "way/178634545",
+        "amenity": "theatre",
+        "name": "Freilichtbühne"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5544438,
+              50.9303821
+            ],
+            [
+              11.5546155,
+              50.9303237
+            ],
+            [
+              11.5545574,
+              50.9302559
+            ],
+            [
+              11.5543858,
+              50.9303143
+            ],
+            [
+              11.5544438,
+              50.9303821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192073173",
+      "properties": {
+        "@id": "way/192073173",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "theatre",
+        "contact:website": "http://theaterhaus-jena.de",
+        "name": "Kulturarena",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikipedia": "de:Theaterhaus_Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5834644,
+              50.9259729
+            ],
+            [
+              11.5840132,
+              50.92594
+            ],
+            [
+              11.5839304,
+              50.9255169
+            ],
+            [
+              11.5834785,
+              50.9255497
+            ],
+            [
+              11.5833732,
+              50.9255541
+            ],
+            [
+              11.5833983,
+              50.9257333
+            ],
+            [
+              11.5834644,
+              50.9259729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192073175",
+      "properties": {
+        "@id": "way/192073175",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "07745",
+        "addr:street": "Schillergäßchen",
+        "amenity": "theatre",
+        "building": "yes",
+        "contact:website": "http://theaterhaus-jena.de",
+        "name": "Theaterhaus - Kulturarena",
+        "tourism": "attraction",
+        "wikidata": "Q1676926",
+        "wikipedia": "de:Theaterhaus Jena"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5833479,
+              50.925536
+            ],
+            [
+              11.5832877,
+              50.9253584
+            ],
+            [
+              11.5836744,
+              50.9253063
+            ],
+            [
+              11.5838026,
+              50.925289
+            ],
+            [
+              11.5838629,
+              50.925467
+            ],
+            [
+              11.5836881,
+              50.9254905
+            ],
+            [
+              11.5836981,
+              50.9255202
+            ],
+            [
+              11.5834785,
+              50.9255497
+            ],
+            [
+              11.5834684,
+              50.9255198
+            ],
+            [
+              11.5833479,
+              50.925536
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "generator": "GraphDefined OSM Importer",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-16T10:43:30.446Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1048567596",
+      "properties": {
+        "@id": "node/1048567596",
+        "amenity": "sauna",
+        "operator": "USV Jena e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5837551,
+          50.9181436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25620186",
+      "properties": {
+        "@id": "way/25620186",
+        "addr:city": "Jena",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "07743",
+        "addr:street": "Closewitzer Straße",
+        "amenity": "sauna",
+        "building": "yes",
+        "name": "Finnlandsauna Jena",
+        "url": "http://www.sauna-jena.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6020885,
+              50.9534474
+            ],
+            [
+              11.6023839,
+              50.9535209
+            ],
+            [
+              11.6022176,
+              50.9537861
+            ],
+            [
+              11.6019222,
+              50.9537127
+            ],
+            [
+              11.6020885,
+              50.9534474
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
