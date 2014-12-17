@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "GraphDefined OSM Importer",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-12-16T10:45:11.102Z",
+  "timestamp": "2014-12-17T21:22:13.978Z",
   "features": [
     {
       "type": "Feature",
@@ -3147,15 +3147,14 @@
       "properties": {
         "@id": "node/411935211",
         "highway": "bus_stop",
-        "name": "Maua, B88",
-        "operator": "JES",
+        "name": "Maua, Ort",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5976327,
-          50.8670591
+          11.5977244,
+          50.8673203
         ]
       }
     },
@@ -9114,12 +9113,31 @@
     },
     {
       "type": "Feature",
+      "id": "node/2625121106",
+      "properties": {
+        "@id": "node/2625121106",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Leutra, Untermühle",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5834712,
+          50.8687101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2625121107",
       "properties": {
         "@id": "node/2625121107",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Leutra, Wendeschleife",
+        "operator": "JenNah",
         "public_transport": "platform"
       },
       "geometry": {
@@ -9145,24 +9163,6 @@
         "coordinates": [
           11.5967405,
           50.8673523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2625121109",
-      "properties": {
-        "@id": "node/2625121109",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Maua, Siedlung",
-        "public_transport": "stop_position"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5893651,
-          50.8673549
         ]
       }
     },
@@ -9622,7 +9622,9 @@
       "id": "node/2758962146",
       "properties": {
         "@id": "node/2758962146",
-        "highway": "bus_stop"
+        "highway": "bus_stop",
+        "name": "Maua, Im Steinfeld",
+        "operator": "JenNah"
       },
       "geometry": {
         "type": "Point",
@@ -14293,6 +14295,125 @@
         "coordinates": [
           11.5231108,
           50.9706029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239496606",
+      "properties": {
+        "@id": "node/3239496606",
+        "highway": "bus_stop",
+        "name": "Maua, Im Semicht",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5971928,
+          50.8623764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239496607",
+      "properties": {
+        "@id": "node/3239496607",
+        "highway": "bus_stop",
+        "name": "Maua, An der Lehmgrube",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5939039,
+          50.8637492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239498540",
+      "properties": {
+        "@id": "node/3239498540",
+        "highway": "bus_stop",
+        "name": "Maua, Siedlung",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5894189,
+          50.8673224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239538242",
+      "properties": {
+        "@id": "node/3239538242",
+        "highway": "bus_stop",
+        "name": "Amsterdamer Straße",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6190378,
+          50.8775071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239538243",
+      "properties": {
+        "@id": "node/3239538243",
+        "highway": "bus_stop",
+        "name": "Brüsseler Straße",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6143395,
+          50.876999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239538249",
+      "properties": {
+        "@id": "node/3239538249",
+        "highway": "bus_stop",
+        "name": "Emil-Wölk-Strasse",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6059689,
+          50.8839679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3239538251",
+      "properties": {
+        "@id": "node/3239538251",
+        "highway": "bus_stop",
+        "name": "Lobeda-West",
+        "operator": "JenNah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6034685,
+          50.8827933
         ]
       }
     }

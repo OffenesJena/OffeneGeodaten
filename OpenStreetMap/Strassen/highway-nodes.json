@@ -2,8 +2,8 @@
   "version": "0.6",
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2014-12-16T09:44:02.000Z",
-    "timestamp_areas_base": "2014-12-15T21:10:01.000Z",
+    "timestamp_osm_base": "2014-12-17T20:21:02.000Z",
+    "timestamp_areas_base": "2014-12-17T05:12:02.000Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2007,12 +2007,11 @@
     {
       "type": "node",
       "id": 411935211,
-      "lat": 50.8670591,
-      "lon": 11.5976327,
+      "lat": 50.8673203,
+      "lon": 11.5977244,
       "tags": {
         "highway": "bus_stop",
-        "name": "Maua, B88",
-        "operator": "JES",
+        "name": "Maua, Ort",
         "shelter": "yes"
       }
     },
@@ -5865,6 +5864,18 @@
     },
     {
       "type": "node",
+      "id": 2625121106,
+      "lat": 50.8687101,
+      "lon": 11.5834712,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Leutra, Untermühle",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
       "id": 2625121107,
       "lat": 50.86939,
       "lon": 11.5673034,
@@ -5872,6 +5883,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Leutra, Wendeschleife",
+        "operator": "JenNah",
         "public_transport": "platform"
       }
     },
@@ -5884,18 +5896,6 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Maua, Ort",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2625121109,
-      "lat": 50.8673549,
-      "lon": 11.5893651,
-      "tags": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Maua, Siedlung",
         "public_transport": "stop_position"
       }
     },
@@ -6194,7 +6194,9 @@
       "lat": 50.8631807,
       "lon": 11.5995779,
       "tags": {
-        "highway": "bus_stop"
+        "highway": "bus_stop",
+        "name": "Maua, Im Steinfeld",
+        "operator": "JenNah"
       }
     },
     {
@@ -9113,6 +9115,83 @@
       "tags": {
         "crossing": "island",
         "highway": "crossing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239496606,
+      "lat": 50.8623764,
+      "lon": 11.5971928,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maua, Im Semicht",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239496607,
+      "lat": 50.8637492,
+      "lon": 11.5939039,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maua, An der Lehmgrube",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239498540,
+      "lat": 50.8673224,
+      "lon": 11.5894189,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maua, Siedlung",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239538242,
+      "lat": 50.8775071,
+      "lon": 11.6190378,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Amsterdamer Straße",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239538243,
+      "lat": 50.876999,
+      "lon": 11.6143395,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Brüsseler Straße",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239538249,
+      "lat": 50.8839679,
+      "lon": 11.6059689,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Emil-Wölk-Strasse",
+        "operator": "JenNah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3239538251,
+      "lat": 50.8827933,
+      "lon": 11.6034685,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Lobeda-West",
+        "operator": "JenNah"
       }
     }
   ]
