@@ -20,7 +20,7 @@ New data sets, extentions and correction of defects are wellcome. Just fork this
 ---
 
 Links...
-- https://twitter.com/jenaopendata
+- https://twitter.com/OffenesJena
 - https://pad.okfn.org/p/OffenesJena
 - http://offenes-jena.de
 
