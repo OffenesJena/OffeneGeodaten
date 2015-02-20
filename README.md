@@ -4,7 +4,7 @@ Jena Geodaten
 Hier findest Du alle Rohdaten des bürgerbetriebenen [Open Data Portals in Jena](http://www.offenes-jena.de).
 Die meisten Daten sind oder werden aber nicht nur als Rohdaten angeboten,
 sondern sind auch Teil des Wissensgraphs. Die Daten stammen vor allem aus der
-[Open Street Map](http://www.openstreetmap.org) und dem [offiziellen Kartenportal](http://www.jena.de/kartenportal) der Stadt Jena.
+[Open Street Map](http://www.openstreetmap.org), dem [offiziellen Kartenportal](http://www.jena.de/kartenportal) der Stadt Jena und zunehmend auch aus [Mapillary](http://mapillary.com).
 
 Neue Datensätze, Ergänzungen bestehender und Fehlerbeseitigungen sind gern gesehen. Einfach dies Repository forken und einen pull-request stellen.
 
