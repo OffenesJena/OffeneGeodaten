@@ -21,5 +21,8 @@ New data sets, extentions and correction of defects are wellcome. Just fork this
 
 Links...
 - https://twitter.com/jenaopendata
-- https://etherpad.wikimedia.org/p/JenaOpenData
-- http://www.offenes-jena.de oder http://www.jenaopendata.org
+- https://pad.okfn.org/p/OffenesJena
+- http://offenes-jena.de
+
+Logo: Adaption von http://jena.esngermany.org/system/html/jena%20logo-22a45302.jpg (CC BY 3.0) durch ahzf.
+
