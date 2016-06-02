@@ -1,4 +1,17 @@
 
+
+[out:json][timeout:25];
+(
+  relation["name"="Jena"];
+);
+out body;
+>;
+out skel qt;
+
+
+-----------------------------------------------------------------------------------------------------
+
+
 <osm-script output="json" timeout="25">
   <!-- gather results -->
   <union>
